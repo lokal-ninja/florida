@@ -1,0 +1,4 @@
+---
+title: "Endless Tan"
+url: /jacksonville/endless-tan/
+---

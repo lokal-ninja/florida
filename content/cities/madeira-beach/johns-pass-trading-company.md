@@ -1,0 +1,4 @@
+---
+title: "John's Pass Trading Company"
+url: /madeira-beach/johns-pass-trading-company/
+---
