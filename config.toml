@@ -1,0 +1,15 @@
+baseURL = "https://shoogle.us/florida"
+languageCode = "en-US"
+title = "Florida"
+theme = "ln-base-en"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "florida"
