@@ -1,6 +1,6 @@
 ---
 title: Winter Garden
 url: /winter-garden/
-latitude: 28.565683800000002
-longitude: -81.58564030000001
+latitude: 28.5656649
+longitude: -81.5856742
 ---

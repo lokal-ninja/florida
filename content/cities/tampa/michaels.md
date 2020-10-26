@@ -1,4 +1,4 @@
 ---
-title: "Michael's"
+title: "Michaels"
 url: /tampa/michaels/
 ---

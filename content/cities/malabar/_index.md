@@ -1,6 +1,6 @@
 ---
 title: Malabar
 url: /malabar/
-latitude: 28.003337900000002
-longitude: -80.5656089
+latitude: 27.9869722
+longitude: -80.58701640000001
 ---

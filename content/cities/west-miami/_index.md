@@ -1,6 +1,6 @@
 ---
 title: West Miami
 url: /west-miami/
-latitude: 25.7634331
-longitude: -80.2961621
+latitude: 25.763218100000003
+longitude: -80.29589390000001
 ---

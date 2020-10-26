@@ -1,12 +1,12 @@
-id: 169001177
-type: way
+id: 8010397626
+type: node
 shop: supermarket
-latitude: 29.664002300000003
-longitude: -82.30211720000001
-postcode: "32641"
+latitude: 29.627367200000002
+longitude: -82.3883093
+postcode: "32608"
 city: Gainesville
-street: "Northeast 12th Avenue"
-housenumber: 1800
-phone: "+1-352-372-3191"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3877/gainesville-fl/whats-new"
+street: "Southwest 42nd Street"
+housenumber: 2900
+phone: ""
+opening_hours: "Mo-Su 07:00-22:00"
+website: ""

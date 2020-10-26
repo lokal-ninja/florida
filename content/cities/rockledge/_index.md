@@ -1,6 +1,6 @@
 ---
 title: Rockledge
 url: /rockledge/
-latitude: 28.3348145
-longitude: -80.72501000000001
+latitude: 28.320155300000003
+longitude: -80.736647
 ---

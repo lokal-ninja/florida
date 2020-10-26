@@ -1,4 +1,4 @@
 ---
-title: "Save a Lot"
+title: "Save-A-Lot"
 url: /largo/save-a-lot/
 ---

@@ -1,6 +1,6 @@
 ---
 title: Miami
 url: /miami/
-latitude: 25.774265800000002
-longitude: -80.1936589
+latitude: 25.774172800000002
+longitude: -80.19362000000001
 ---

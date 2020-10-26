@@ -1,12 +1,12 @@
-id: 742252982
-type: way
+id: 7443839012
+type: node
 shop: supermarket
-latitude: 30.428333100000003
-longitude: -81.66414130000001
+latitude: 30.485573100000003
+longitude: -81.6049406
 postcode: "32218"
 city: Jacksonville
-street: "Dunn Avenue"
-housenumber: 1100
+street: "Duval Station Road"
+housenumber: 731
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: ""
 website: ""
