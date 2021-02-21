@@ -1,4 +1,5 @@
 ---
 title: "Tires Plus"
 url: /vero-beach/tires-plus/
+shop: car repair
 ---

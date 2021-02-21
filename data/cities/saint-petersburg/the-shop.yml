@@ -1,6 +1,5 @@
 id: 2350001694
 type: node
-shop: boutique
 latitude: 27.803835000000003
 longitude: -82.63883100000001
 postcode: "33704"
@@ -9,4 +8,4 @@ street: "4th Street North"
 housenumber: 3440
 phone: "727.527.1400"
 opening_hours: ""
-website: "www.theshopstpete.com"
+website: "http://www.theshopstpete.com/"

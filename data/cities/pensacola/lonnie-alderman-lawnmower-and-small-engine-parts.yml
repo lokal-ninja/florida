@@ -1,6 +1,5 @@
 id: 7700055121
 type: node
-shop: car parts
 latitude: 30.4279489
 longitude: -87.2689453
 postcode: "32506"
@@ -8,5 +7,5 @@ city: Pensacola
 street: "Mobile Highway"
 housenumber: 4112
 phone: ""
-opening_hours: "Mon-Wed & Fri-8AM-4:30PM Thu-8AM-1PM"
+opening_hours: "Mo-We,Fr 08:00-16:30; Th 08:00-13:00"
 website: ""

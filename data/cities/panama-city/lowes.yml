@@ -1,6 +1,5 @@
 id: 637974280
 type: way
-shop: doityourself
 latitude: 30.188188500000003
 longitude: -85.6558409
 postcode: "32405"
@@ -9,4 +8,4 @@ street: "East 23rd Street"
 housenumber: 300
 phone: "+1(850) 913-1600"
 opening_hours: ""
-website: "https://www.lowes.com/store/FL-Panama-City/0448?cm_mmc=lod-_-c-_-lcl-_-awr-_-yxt-_-go-_-448-_-na-_-0-_-0"
+website: "https://www.lowes.com/store/FL-Panama-City/0448"
