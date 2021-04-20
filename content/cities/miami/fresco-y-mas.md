@@ -1,5 +1,5 @@
 ---
-title: "Fresco y Más"
+title: "Fresco y Mas"
 url: /miami/fresco-y-mas/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dick's Sporting Goods"
 url: /west-palm-beach/dicks-sporting-goods/
-shop: outdoor
+shop: sports
 ---
