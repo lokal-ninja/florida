@@ -1,6 +1,6 @@
 ---
 title: Royal Palm Beach
 url: /royal-palm-beach/
-latitude: 26.7083984
-longitude: -80.23060190000001
+latitude: 26.705082200000003
+longitude: -80.22795190000001
 ---

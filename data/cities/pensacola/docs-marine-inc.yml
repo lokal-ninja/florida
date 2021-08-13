@@ -7,5 +7,5 @@ city: Pensacola
 street: "Pine Forest Road"
 housenumber: 6741
 phone: ""
-opening_hours: "Mon-Tue-8AM-4:30PM Wed-Fri-8AM-5PM"
+opening_hours: "Mo,Tu 08:00-16:30; We-Fr 08:00-17:00"
 website: ""
