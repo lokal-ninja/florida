@@ -1,5 +1,5 @@
 ---
-title: "LIGNE ROSET"
+title: "Ligne Roset"
 url: /miami/ligne-roset/
-shop: shop
+shop: furniture
 ---

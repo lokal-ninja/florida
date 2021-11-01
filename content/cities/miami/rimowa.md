@@ -1,5 +1,5 @@
 ---
-title: "RIMOWA"
+title: "Rimowa"
 url: /miami/rimowa/
-shop: shop
+shop: bag
 ---

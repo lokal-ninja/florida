@@ -1,5 +1,5 @@
 ---
 title: "ODDS"
 url: /miami/odds/
-shop: shop
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /kissimmee/aldi-2/
 shop: supermarket
 ---

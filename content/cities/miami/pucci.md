@@ -1,5 +1,5 @@
 ---
-title: "Pucci"
+title: "PUCCI"
 url: /miami/pucci/
 shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
-title: "MAISON MARGIELA"
+title: "Maison Margiela"
 url: /miami/maison-margiela/
-shop: shop
+shop: clothes
 ---

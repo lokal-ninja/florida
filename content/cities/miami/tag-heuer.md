@@ -1,5 +1,5 @@
 ---
-title: "Tag Heuer"
+title: "TAG Heuer"
 url: /miami/tag-heuer/
-shop: shop
+shop: watches
 ---
