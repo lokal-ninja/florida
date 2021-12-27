@@ -1,6 +1,6 @@
 ---
 title: Port Orange
 url: /port-orange/
-latitude: 
-longitude: 
+latitude: 29.142
+longitude: -81.035
 ---

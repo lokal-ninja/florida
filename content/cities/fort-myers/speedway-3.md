@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fort-myers/speedway-3/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Loewe"
 url: /miami/loewe/
-shop: shop
+shop: Allgemein
 ---

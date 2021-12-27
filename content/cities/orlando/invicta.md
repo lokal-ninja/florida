@@ -1,5 +1,5 @@
 ---
 title: "Invicta"
 url: /orlando/invicta/
-shop: watches
+shop: Uhren
 ---

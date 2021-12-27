@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /largo/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

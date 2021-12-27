@@ -1,6 +1,6 @@
 ---
 title: Palmetto
 url: /palmetto/
-latitude: 27.5214269
-longitude: -82.5723193
+latitude: 27.533
+longitude: -82.507
 ---

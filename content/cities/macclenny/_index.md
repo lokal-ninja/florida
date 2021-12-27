@@ -1,6 +1,6 @@
 ---
 title: Macclenny
 url: /macclenny/
-latitude: 30.2821807
-longitude: -82.1220569
+latitude: 30.282
+longitude: -82.122
 ---

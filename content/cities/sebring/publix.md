@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /sebring/publix/
-shop: supermarket
+shop: Supermarkt
 ---

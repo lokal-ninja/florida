@@ -1,5 +1,5 @@
 ---
 title: "Navarro"
 url: /north-miami/navarro/
-shop: chemist
+shop: Drogerie
 ---

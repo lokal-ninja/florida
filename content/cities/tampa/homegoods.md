@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /tampa/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

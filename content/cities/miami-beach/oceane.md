@@ -1,5 +1,5 @@
 ---
 title: "Oceane"
 url: /miami-beach/oceane/
-shop: beauty
+shop: Kosmetik
 ---

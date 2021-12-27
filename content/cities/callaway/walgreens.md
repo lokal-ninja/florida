@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /callaway/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hitchcock's"
 url: /trenton/hitchcocks/
-shop: supermarket
+shop: Supermarkt
 ---

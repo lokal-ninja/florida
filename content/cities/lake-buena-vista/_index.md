@@ -1,6 +1,6 @@
 ---
 title: Lake Buena Vista
 url: /lake-buena-vista/
-latitude: 
-longitude: 
+latitude: 28.37
+longitude: -81.52
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Run Shoppe"
 url: /fort-myers/the-run-shoppe/
-shop: shoes
+shop: Schuhe
 ---

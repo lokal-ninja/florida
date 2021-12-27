@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /lithia/publix/
-shop: supermarket
+shop: Supermarkt
 ---

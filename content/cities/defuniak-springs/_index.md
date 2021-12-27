@@ -1,6 +1,6 @@
 ---
 title: Defuniak Springs
 url: /defuniak-springs/
-latitude: 
-longitude: 
+latitude: 30.728
+longitude: -86.082
 ---

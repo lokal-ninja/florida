@@ -1,5 +1,5 @@
 ---
 title: "US Polo Association"
 url: /ellenton/us-polo-association/
-shop: clothes
+shop: Kleidung
 ---

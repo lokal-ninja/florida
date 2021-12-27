@@ -1,6 +1,6 @@
 ---
 title: Bradenton Beach
 url: /bradenton-beach/
-latitude: 27.4682554
-longitude: -82.69958220000001
+latitude: 27.466
+longitude: -82.687
 ---

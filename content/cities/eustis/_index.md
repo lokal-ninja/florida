@@ -1,6 +1,6 @@
 ---
 title: Eustis
 url: /eustis/
-latitude: 28.852767500000002
-longitude: -81.68535340000001
+latitude: 28.877
+longitude: -81.542
 ---

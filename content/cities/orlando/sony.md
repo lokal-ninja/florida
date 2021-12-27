@@ -1,5 +1,5 @@
 ---
 title: "Sony"
 url: /orlando/sony/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /saint-johns/publix/
-shop: supermarket
+shop: Supermarkt
 ---

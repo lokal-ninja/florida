@@ -1,5 +1,5 @@
 ---
 title: "Alvin's Island"
 url: /panama-city-beach/alvins-island/
-shop: shop
+shop: Allgemein
 ---

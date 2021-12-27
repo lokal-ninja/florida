@@ -1,5 +1,5 @@
 ---
-title: "HANESbrands"
+title: "Hanesbrands"
 url: /daytona-beach/hanesbrands/
-shop: shop
+shop: Kleidung
 ---

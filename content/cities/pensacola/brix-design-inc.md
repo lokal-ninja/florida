@@ -1,5 +1,5 @@
 ---
 title: "Brix Design Inc"
 url: /pensacola/brix-design-inc/
-shop: lettering
+shop: Beschriftungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metronet"
 url: /tallahassee/metronet/
-shop: shop
+shop: Allgemein
 ---

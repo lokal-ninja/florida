@@ -1,5 +1,5 @@
 ---
 title: "Asia Oriental Market"
 url: /pensacola/asia-oriental-market/
-shop: supermarket
+shop: Supermarkt
 ---

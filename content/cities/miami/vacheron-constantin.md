@@ -1,5 +1,5 @@
 ---
 title: "VACHERON CONSTANTIN"
 url: /miami/vacheron-constantin/
-shop: watches
+shop: Uhren
 ---

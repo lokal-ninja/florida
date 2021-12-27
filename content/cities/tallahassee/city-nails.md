@@ -1,5 +1,5 @@
 ---
 title: "City Nails"
 url: /tallahassee/city-nails/
-shop: beauty
+shop: Kosmetik
 ---

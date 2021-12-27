@@ -1,5 +1,5 @@
 ---
 title: "Miraculous Medical Supplies Inc"
 url: /miami/miraculous-medical-supplies-inc/
-shop: medical supply
+shop: Sanitätshaus
 ---

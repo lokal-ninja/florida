@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /daytona-beach/lids-2/
-shop: clothes
+shop: Kleidung
 ---

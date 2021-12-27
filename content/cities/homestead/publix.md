@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /homestead/publix/
-shop: supermarket
+shop: Supermarkt
 ---

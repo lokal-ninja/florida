@@ -1,5 +1,5 @@
 ---
 title: "ITALKRAFT"
 url: /aventura/italkraft/
-shop: kitchen
+shop: Küchen
 ---

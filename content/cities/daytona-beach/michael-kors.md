@@ -1,5 +1,5 @@
 ---
 title: "Michael Kors"
 url: /daytona-beach/michael-kors/
-shop: clothes
+shop: Kleidung
 ---

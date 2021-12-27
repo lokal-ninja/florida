@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /miami/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /plantation/publix/
-shop: supermarket
+shop: Supermarkt
 ---

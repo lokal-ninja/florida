@@ -1,5 +1,5 @@
 ---
 title: "Aventura Aesthetics"
 url: /north-miami-beach/aventura-aesthetics/
-shop: beauty
+shop: Kosmetik
 ---

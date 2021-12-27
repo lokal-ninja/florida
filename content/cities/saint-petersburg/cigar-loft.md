@@ -1,5 +1,5 @@
 ---
 title: "Cigar Loft"
 url: /saint-petersburg/cigar-loft/
-shop: tobacco
+shop: Tabak
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /leesburg/hyundai/
-shop: car
+shop: Autohaus
 ---

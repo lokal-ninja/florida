@@ -1,6 +1,6 @@
 ---
 title: Sweetwater
 url: /sweetwater/
-latitude: 30.2696837
-longitude: -81.7642658
+latitude: 25.768
+longitude: -80.368
 ---

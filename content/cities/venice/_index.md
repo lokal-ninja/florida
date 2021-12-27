@@ -1,6 +1,6 @@
 ---
 title: Venice
 url: /venice/
-latitude: 27.0999188
-longitude: -82.45435970000001
+latitude: 27.098
+longitude: -82.415
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ds Nails"
 url: /pensacola/ds-nails/
-shop: beauty
+shop: Kosmetik
 ---

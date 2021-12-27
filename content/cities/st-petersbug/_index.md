@@ -1,6 +1,6 @@
 ---
 title: St Petersbug
 url: /st-petersbug/
-latitude: 
-longitude: 
+latitude: 27.783
+longitude: -82.647
 ---

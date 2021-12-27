@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /pensacola/audi/
-shop: car
+shop: Autohaus
 ---

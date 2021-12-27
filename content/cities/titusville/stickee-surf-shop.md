@@ -1,5 +1,5 @@
 ---
 title: "Stickee Surf Shop"
 url: /titusville/stickee-surf-shop/
-shop: sports
+shop: Sport
 ---

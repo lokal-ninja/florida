@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /big-pine-key/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

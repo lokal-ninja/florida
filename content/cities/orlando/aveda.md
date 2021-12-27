@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /orlando/aveda/
-shop: shop
+shop: Allgemein
 ---

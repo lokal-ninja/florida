@@ -1,6 +1,6 @@
 ---
 title: Fort Lauderdale
 url: /fort-lauderdale/
-latitude: 26.1223084
-longitude: -80.1433786
+latitude: 26.181
+longitude: -80.144
 ---

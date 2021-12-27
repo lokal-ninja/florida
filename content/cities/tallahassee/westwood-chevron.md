@@ -1,5 +1,5 @@
 ---
 title: "Westwood Chevron"
 url: /tallahassee/westwood-chevron/
-shop: convenience
+shop: Lebensmittel
 ---

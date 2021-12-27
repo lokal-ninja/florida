@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /clearwater-beach/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

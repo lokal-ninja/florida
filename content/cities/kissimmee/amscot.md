@@ -1,5 +1,5 @@
 ---
 title: "Amscot"
 url: /kissimmee/amscot/
-shop: pawnbroker
+shop: Leiher
 ---

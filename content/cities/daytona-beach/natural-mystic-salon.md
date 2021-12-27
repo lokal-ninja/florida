@@ -1,5 +1,5 @@
 ---
 title: "Natural Mystic Salon"
 url: /daytona-beach/natural-mystic-salon/
-shop: beauty
+shop: Kosmetik
 ---

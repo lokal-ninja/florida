@@ -1,5 +1,5 @@
 ---
 title: "Movado"
 url: /orlando/movado/
-shop: watches
+shop: Uhren
 ---

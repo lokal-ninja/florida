@@ -1,5 +1,5 @@
 ---
 title: "Perfumeland"
 url: /orlando/perfumeland/
-shop: perfumery
+shop: Parfümerie
 ---

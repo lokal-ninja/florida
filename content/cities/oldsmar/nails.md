@@ -1,5 +1,5 @@
 ---
 title: "Nails"
 url: /oldsmar/nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Ticket Seller"
 url: /daytona-beach/the-ticket-seller/
-shop: ticket
+shop: Tickets
 ---

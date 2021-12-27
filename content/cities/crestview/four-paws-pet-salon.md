@@ -1,5 +1,5 @@
 ---
 title: "Four Paws Pet Salon"
 url: /crestview/four-paws-pet-salon/
-shop: pet grooming
+shop: Tiersalon
 ---

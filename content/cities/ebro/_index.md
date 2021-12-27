@@ -1,6 +1,6 @@
 ---
 title: Ebro
 url: /ebro/
-latitude: 30.447974100000003
-longitude: -85.87410100000001
+latitude: 30.443
+longitude: -85.874
 ---

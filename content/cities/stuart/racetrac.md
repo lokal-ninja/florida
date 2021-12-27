@@ -1,5 +1,5 @@
 ---
 title: "Racetrac"
 url: /stuart/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pet Supermarket"
 url: /kissimmee/pet-supermarket/
-shop: pet
+shop: Tiere
 ---

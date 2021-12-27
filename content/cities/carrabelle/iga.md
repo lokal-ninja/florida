@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /carrabelle/iga/
-shop: supermarket
+shop: Supermarkt
 ---

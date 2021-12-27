@@ -1,5 +1,5 @@
 ---
 title: "UCF Bookstore"
 url: /orlando/ucf-bookstore/
-shop: books
+shop: Bücher
 ---

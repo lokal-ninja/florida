@@ -1,5 +1,5 @@
 ---
 title: "DXL Men's Apparel"
 url: /orlando/dxl-mens-apparel/
-shop: clothes
+shop: Kleidung
 ---

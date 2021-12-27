@@ -1,5 +1,5 @@
 ---
 title: "Callaway"
 url: /ellenton/callaway/
-shop: golf
+shop: Golf
 ---

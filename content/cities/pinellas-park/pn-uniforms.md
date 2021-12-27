@@ -1,5 +1,5 @@
 ---
 title: "PN Uniforms"
 url: /pinellas-park/pn-uniforms/
-shop: clothes
+shop: Kleidung
 ---

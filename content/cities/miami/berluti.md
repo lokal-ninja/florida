@@ -1,5 +1,5 @@
 ---
 title: "BERLUTI"
 url: /miami/berluti/
-shop: clothes
+shop: Kleidung
 ---

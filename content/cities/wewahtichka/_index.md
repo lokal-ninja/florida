@@ -1,6 +1,6 @@
 ---
 title: Wewahtichka
 url: /wewahtichka/
-latitude: 
-longitude: 
+latitude: 30.122
+longitude: -85.199
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /delray-beach/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

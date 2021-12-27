@@ -1,6 +1,6 @@
 ---
 title: Perdido Key
 url: /perdido-key/
-latitude: 
-longitude: 
+latitude: 30.282
+longitude: -87.518
 ---

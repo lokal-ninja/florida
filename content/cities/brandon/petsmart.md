@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /brandon/petsmart/
-shop: pet
+shop: Tiere
 ---

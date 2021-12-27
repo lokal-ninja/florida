@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /kissimmee/hibbett-sports/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /venice/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

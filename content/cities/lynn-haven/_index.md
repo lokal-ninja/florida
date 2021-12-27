@@ -1,6 +1,6 @@
 ---
 title: Lynn Haven
 url: /lynn-haven/
-latitude: 30.2454776
-longitude: -85.648261
+latitude: 30.248
+longitude: -85.649
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /punta-gorda/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

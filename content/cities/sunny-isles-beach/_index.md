@@ -1,6 +1,6 @@
 ---
 title: Sunny Isles Beach
 url: /sunny-isles-beach/
-latitude: 25.942691500000002
-longitude: -80.1218486
+latitude: 25.934
+longitude: -80.123
 ---

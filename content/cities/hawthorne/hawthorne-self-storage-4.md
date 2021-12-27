@@ -1,5 +1,5 @@
 ---
 title: "Hawthorne Self Storage"
 url: /hawthorne/hawthorne-self-storage-4/
-shop: storage rental
+shop: Mieten
 ---

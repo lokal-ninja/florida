@@ -1,5 +1,5 @@
 ---
 title: "Old Glory Tattoo"
 url: /tallahassee/old-glory-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

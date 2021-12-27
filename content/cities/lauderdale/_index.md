@@ -1,6 +1,6 @@
 ---
 title: Lauderdale
 url: /lauderdale/
-latitude: 
-longitude: 
+latitude: 26.193
+longitude: -80.253
 ---

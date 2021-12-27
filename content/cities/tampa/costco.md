@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /tampa/costco/
-shop: wholesale
+shop: Großhandel
 ---

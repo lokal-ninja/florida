@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /vero-beach/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

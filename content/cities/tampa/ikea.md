@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /tampa/ikea/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /venice/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint Pete Beach
 url: /saint-pete-beach/
-latitude: 
-longitude: 
+latitude: 27.739
+longitude: -82.749
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /saint-petersburg/trek/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mac Dollar"
 url: /miami/mac-dollar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lithia
 url: /lithia/
-latitude: 
-longitude: 
+latitude: 27.861
+longitude: -82.201
 ---

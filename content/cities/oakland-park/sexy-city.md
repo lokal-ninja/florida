@@ -1,5 +1,5 @@
 ---
 title: "Sexy City"
 url: /oakland-park/sexy-city/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS"
 url: /jasper/cvs/
-shop: convenience
+shop: Lebensmittel
 ---

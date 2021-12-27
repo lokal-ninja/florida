@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /sarasota/costco/
-shop: wholesale
+shop: Großhandel
 ---

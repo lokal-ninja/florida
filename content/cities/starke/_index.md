@@ -1,6 +1,6 @@
 ---
 title: Starke
 url: /starke/
-latitude: 29.9443549
-longitude: -82.11011140000001
+latitude: 29.934
+longitude: -82.118
 ---

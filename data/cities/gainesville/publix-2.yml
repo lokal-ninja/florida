@@ -1,11 +1,11 @@
-id: 260712961
-type: way
-latitude: 29.664235400000003
-longitude: -82.32604020000001
-postcode: "32601"
+id: 4636110787
+type: node
+latitude: 29.67218
+longitude: -82.38733
+postcode: "32605"
 city: Gainesville
-street: "North Main Street"
-housenumber: 1302
+street: "Northwest 16th Boulevard"
+housenumber: 4115
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00;Su 07:00-21:00"
+opening_hours: "07:00-22:00"
 website: ""

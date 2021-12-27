@@ -1,5 +1,5 @@
 ---
 title: "Black Lotus Tattoo and Art Gallery, Inc."
 url: /ocala/black-lotus-tattoo-and-art-gallery-inc/
-shop: supermarket
+shop: Supermarkt
 ---

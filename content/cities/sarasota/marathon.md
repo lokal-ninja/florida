@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /sarasota/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

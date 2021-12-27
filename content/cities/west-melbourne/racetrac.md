@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /west-melbourne/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

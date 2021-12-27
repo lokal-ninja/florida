@@ -1,6 +1,6 @@
 ---
 title: Tarpon Springs
 url: /tarpon-springs/
-latitude: 
-longitude: 
+latitude: 28.173
+longitude: -82.749
 ---

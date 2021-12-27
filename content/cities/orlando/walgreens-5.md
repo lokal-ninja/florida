@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /orlando/walgreens-5/
-shop: chemist
+shop: Drogerie
 ---

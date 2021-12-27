@@ -1,5 +1,5 @@
 ---
 title: "Penguin"
 url: /aventura/penguin/
-shop: clothes
+shop: Kleidung
 ---

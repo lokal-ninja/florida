@@ -1,5 +1,5 @@
 ---
 title: "Office Furniture Depot"
 url: /lakeland/office-furniture-depot/
-shop: furniture
+shop: Möbel
 ---

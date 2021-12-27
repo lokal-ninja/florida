@@ -1,5 +1,5 @@
 ---
 title: "Going Wild"
 url: /fort-myers-beach/going-wild/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marianna
 url: /marianna/
-latitude: 30.7743596
-longitude: -85.22687350000001
+latitude: 30.867
+longitude: -85.358
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trulieve Vero Beach"
 url: /vero-beach/trulieve-vero-beach/
-shop: cannabis
+shop: Hanf
 ---

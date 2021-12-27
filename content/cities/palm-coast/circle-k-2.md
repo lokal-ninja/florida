@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /palm-coast/circle-k-2/
-shop: convenience
+shop: Lebensmittel
 ---

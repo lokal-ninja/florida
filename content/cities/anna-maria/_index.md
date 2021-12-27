@@ -1,6 +1,6 @@
 ---
 title: Anna Maria
 url: /anna-maria/
-latitude: 
-longitude: 
+latitude: 27.528
+longitude: -82.736
 ---

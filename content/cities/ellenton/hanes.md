@@ -1,5 +1,5 @@
 ---
 title: "Hanes"
 url: /ellenton/hanes/
-shop: clothes
+shop: Kleidung
 ---

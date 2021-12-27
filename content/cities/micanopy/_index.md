@@ -1,6 +1,6 @@
 ---
 title: Micanopy
 url: /micanopy/
-latitude: 29.5045307
-longitude: -82.27959
+latitude: 29.512
+longitude: -82.28
 ---

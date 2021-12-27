@@ -1,5 +1,5 @@
 ---
 title: "Vatland Honda"
 url: /vero-beach/vatland-honda/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tam-Hoa Chinese Herbs"
 url: /pinellas-park/tam-hoa-chinese-herbs/
-shop: herbalist
+shop: Kräuter
 ---

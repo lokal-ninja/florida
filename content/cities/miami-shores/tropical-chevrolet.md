@@ -1,5 +1,5 @@
 ---
 title: "Tropical Chevrolet"
 url: /miami-shores/tropical-chevrolet/
-shop: car
+shop: Autohaus
 ---

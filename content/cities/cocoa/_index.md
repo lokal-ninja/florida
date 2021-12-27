@@ -1,6 +1,6 @@
 ---
 title: Cocoa
 url: /cocoa/
-latitude: 28.3553873
-longitude: -80.7318827
+latitude: 28.486
+longitude: -80.774
 ---

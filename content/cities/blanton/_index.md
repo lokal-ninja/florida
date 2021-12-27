@@ -1,6 +1,6 @@
 ---
 title: Blanton
 url: /blanton/
-latitude: 28.4116667
-longitude: -82.2464752
+latitude: 28.417
+longitude: -82.248
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chop"
 url: /tallahassee/chop/
-shop: hairdresser
+shop: Friseur
 ---

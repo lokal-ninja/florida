@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /starke/autozone/
-shop: car parts
+shop: Autoteile
 ---

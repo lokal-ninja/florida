@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /aventura/petsmart/
-shop: pet
+shop: Tiere
 ---

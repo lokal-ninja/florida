@@ -1,5 +1,5 @@
 ---
 title: "Bozard Ford Lincoln"
 url: /saint-augustine/bozard-ford-lincoln/
-shop: car
+shop: Autohaus
 ---

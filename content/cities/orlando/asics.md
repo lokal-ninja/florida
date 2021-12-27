@@ -1,5 +1,5 @@
 ---
 title: "Asics"
 url: /orlando/asics/
-shop: outdoor
+shop: Outdoor
 ---

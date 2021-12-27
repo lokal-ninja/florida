@@ -1,6 +1,6 @@
 ---
 title: Tallahasser
 url: /tallahasser/
-latitude: 
-longitude: 
+latitude: 30.321
+longitude: -84.248
 ---

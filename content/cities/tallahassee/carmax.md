@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /tallahassee/carmax/
-shop: car
+shop: Autohaus
 ---

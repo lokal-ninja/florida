@@ -1,6 +1,6 @@
 ---
 title: Lakewood Ranch
 url: /lakewood-ranch/
-latitude: 
-longitude: 
+latitude: 27.392
+longitude: -82.441
 ---

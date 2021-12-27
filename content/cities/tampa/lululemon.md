@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /tampa/lululemon/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Arcadia
 url: /arcadia/
-latitude: 27.2158826
-longitude: -81.85841640000001
+latitude: 27.212
+longitude: -81.86
 ---

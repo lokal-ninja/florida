@@ -1,5 +1,5 @@
 ---
 title: "Impact Printing"
 url: /port-richey/impact-printing/
-shop: copyshop
+shop: Kopieren
 ---

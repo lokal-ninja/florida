@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /orlando/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---

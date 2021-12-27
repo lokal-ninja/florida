@@ -1,5 +1,5 @@
 ---
 title: "GANNI"
 url: /miami/ganni/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /casselberry/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

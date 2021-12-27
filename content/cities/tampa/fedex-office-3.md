@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /tampa/fedex-office-3/
-shop: copyshop
+shop: Kopieren
 ---

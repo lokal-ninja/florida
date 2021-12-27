@@ -1,5 +1,5 @@
 ---
 title: "European Nails"
 url: /naples/european-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /valrico/publix-2/
-shop: supermarket
+shop: Supermarkt
 ---

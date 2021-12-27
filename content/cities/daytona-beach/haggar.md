@@ -1,5 +1,5 @@
 ---
 title: "Haggar"
 url: /daytona-beach/haggar/
-shop: clothes
+shop: Kleidung
 ---

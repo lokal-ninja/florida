@@ -1,6 +1,6 @@
 ---
 title: Gulf Breeze
 url: /gulf-breeze/
-latitude: 
-longitude: 
+latitude: 30.366
+longitude: -87.171
 ---

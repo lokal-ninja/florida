@@ -1,5 +1,5 @@
 ---
 title: "Finish Line"
 url: /daytona-beach/finish-line/
-shop: sports
+shop: Sport
 ---

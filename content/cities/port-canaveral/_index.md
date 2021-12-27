@@ -1,6 +1,6 @@
 ---
 title: Port Canaveral
 url: /port-canaveral/
-latitude: 
-longitude: 
+latitude: 28.417
+longitude: -80.629
 ---

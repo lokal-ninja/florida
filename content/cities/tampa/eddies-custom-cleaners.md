@@ -1,5 +1,5 @@
 ---
 title: "Eddie's Custom Cleaners"
 url: /tampa/eddies-custom-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

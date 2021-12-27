@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /largo/carmax/
-shop: car
+shop: Autohaus
 ---

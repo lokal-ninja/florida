@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /tamarac/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

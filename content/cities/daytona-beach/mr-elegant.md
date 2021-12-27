@@ -1,5 +1,5 @@
 ---
 title: "Mr. Elegant"
 url: /daytona-beach/mr-elegant/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mary Esther
 url: /mary-esther/
-latitude: 30.409921500000003
-longitude: -86.66300980000001
+latitude: 30.416
+longitude: -86.657
 ---

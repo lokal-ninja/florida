@@ -1,5 +1,5 @@
 ---
 title: "Victoria's Secret"
 url: /daytona-beach/victorias-secret/
-shop: clothes
+shop: Kleidung
 ---

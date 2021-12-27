@@ -1,6 +1,6 @@
 ---
 title: Tallahasee
 url: /tallahasee/
-latitude: 
-longitude: 
+latitude: 30.465
+longitude: -84.271
 ---

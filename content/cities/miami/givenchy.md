@@ -1,5 +1,5 @@
 ---
 title: "Givenchy"
 url: /miami/givenchy/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kellum's Furniture"
 url: /havana/kellums-furniture/
-shop: furniture
+shop: Möbel
 ---

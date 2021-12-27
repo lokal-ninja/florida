@@ -1,6 +1,6 @@
 ---
 title: Cantonment
 url: /cantonment/
-latitude: 30.605427000000002
-longitude: -87.344442
+latitude: 30.578
+longitude: -87.328
 ---

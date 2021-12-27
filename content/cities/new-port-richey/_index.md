@@ -1,6 +1,6 @@
 ---
 title: New Port Richey
 url: /new-port-richey/
-latitude: 28.2441768
-longitude: -82.71926710000001
+latitude: 28.218
+longitude: -82.665
 ---

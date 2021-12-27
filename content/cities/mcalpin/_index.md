@@ -1,6 +1,6 @@
 ---
 title: Mcalpin
 url: /mcalpin/
-latitude: 
-longitude: 
+latitude: 30.121
+longitude: -82.886
 ---

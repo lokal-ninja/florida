@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
 url: /stuart/cumberland-farms-2/
-shop: convenience
+shop: Lebensmittel
 ---

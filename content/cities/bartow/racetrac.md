@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /bartow/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

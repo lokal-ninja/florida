@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /davie/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

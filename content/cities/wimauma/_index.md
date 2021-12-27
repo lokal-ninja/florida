@@ -1,6 +1,6 @@
 ---
 title: Wimauma
 url: /wimauma/
-latitude: 27.712530800000003
-longitude: -82.29898030000001
+latitude: 27.715
+longitude: -82.333
 ---

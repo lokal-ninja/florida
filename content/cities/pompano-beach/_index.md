@@ -1,6 +1,6 @@
 ---
 title: Pompano Beach
 url: /pompano-beach/
-latitude: 26.2378597
-longitude: -80.12476670000001
+latitude: 26.213
+longitude: -80.108
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perfumes 4U"
 url: /orlando/perfumes-4u/
-shop: perfumery
+shop: Parfümerie
 ---

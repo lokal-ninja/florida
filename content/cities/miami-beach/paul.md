@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /miami-beach/paul/
-shop: bakery
+shop: Bäckerei
 ---

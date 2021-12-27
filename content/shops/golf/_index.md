@@ -1,5 +1,5 @@
 ---
-title: golf
+title: Golf
 url: /golf/
 icon: other
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /plantation/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

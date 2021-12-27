@@ -1,5 +1,5 @@
 ---
 title: "Southern Nights Video"
 url: /pinellas-park/southern-nights-video/
-shop: video
+shop: Videothek
 ---

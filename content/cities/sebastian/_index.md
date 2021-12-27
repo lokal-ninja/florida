@@ -1,6 +1,6 @@
 ---
 title: Sebastian
 url: /sebastian/
-latitude: 27.816415000000003
-longitude: -80.47060780000001
+latitude: 27.826
+longitude: -80.477
 ---

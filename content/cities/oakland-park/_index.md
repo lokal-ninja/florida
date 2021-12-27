@@ -1,6 +1,6 @@
 ---
 title: Oakland Park
 url: /oakland-park/
-latitude: 28.8038804
-longitude: -81.67729750000001
+latitude: 26.166
+longitude: -80.145
 ---

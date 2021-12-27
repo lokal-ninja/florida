@@ -1,6 +1,6 @@
 ---
 title: Zephyrhills
 url: /zephyrhills/
-latitude: 28.2336196
-longitude: -82.1811947
+latitude: 28.27
+longitude: -82.191
 ---

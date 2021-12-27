@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /sweetwater/ikea/
-shop: furniture
+shop: Möbel
 ---

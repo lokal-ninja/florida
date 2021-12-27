@@ -1,5 +1,5 @@
 ---
 title: "Alivape"
 url: /fort-myers/alivape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

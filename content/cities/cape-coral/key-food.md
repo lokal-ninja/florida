@@ -1,5 +1,5 @@
 ---
 title: "Key Food"
 url: /cape-coral/key-food/
-shop: supermarket
+shop: Supermarkt
 ---

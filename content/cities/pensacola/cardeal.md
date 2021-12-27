@@ -1,5 +1,5 @@
 ---
 title: "CARDEAL"
 url: /pensacola/cardeal/
-shop: car
+shop: Autohaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: South Daytona
 url: /south-daytona/
-latitude: 29.1658158
-longitude: -81.00449950000001
+latitude: 29.165
+longitude: -81.001
 ---

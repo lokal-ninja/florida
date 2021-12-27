@@ -1,6 +1,6 @@
 ---
 title: Tierra Verde
 url: /tierra-verde/
-latitude: 27.6919746
-longitude: -82.7234337
+latitude: 27.692
+longitude: -82.72
 ---

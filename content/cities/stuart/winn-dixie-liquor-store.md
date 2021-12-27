@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie Liquor Store"
 url: /stuart/winn-dixie-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

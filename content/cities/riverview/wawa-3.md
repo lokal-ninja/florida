@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /riverview/wawa-3/
-shop: convenience
+shop: Lebensmittel
 ---

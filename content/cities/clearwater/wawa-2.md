@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /clearwater/wawa-2/
-shop: convenience
+shop: Lebensmittel
 ---

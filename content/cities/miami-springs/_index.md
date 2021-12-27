@@ -1,6 +1,6 @@
 ---
 title: Miami Springs
 url: /miami-springs/
-latitude: 25.822319800000002
-longitude: -80.289495
+latitude: 25.821
+longitude: -80.286
 ---

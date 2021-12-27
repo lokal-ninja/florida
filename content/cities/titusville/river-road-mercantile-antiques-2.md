@@ -1,5 +1,5 @@
 ---
 title: "River Road Mercantile Antiques"
 url: /titusville/river-road-mercantile-antiques-2/
-shop: clothes
+shop: Kleidung
 ---

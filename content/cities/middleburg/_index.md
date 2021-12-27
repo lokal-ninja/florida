@@ -1,6 +1,6 @@
 ---
 title: Middleburg
 url: /middleburg/
-latitude: 30.0688512
-longitude: -81.86037780000001
+latitude: 30.096
+longitude: -81.81
 ---

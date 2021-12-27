@@ -1,6 +1,6 @@
 ---
 title: Indian Rocks Beach
 url: /indian-rocks-beach/
-latitude: 27.8753005
-longitude: -82.8512152
+latitude: 27.897
+longitude: -82.848
 ---

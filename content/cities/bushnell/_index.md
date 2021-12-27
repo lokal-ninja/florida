@@ -1,6 +1,6 @@
 ---
 title: Bushnell
 url: /bushnell/
-latitude: 28.6644827
-longitude: -82.1117399
+latitude: 28.667
+longitude: -82.141
 ---

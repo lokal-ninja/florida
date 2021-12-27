@@ -1,5 +1,5 @@
 ---
-title: hifi
+title: Hifi
 url: /hifi/
 icon: hifi
 ---

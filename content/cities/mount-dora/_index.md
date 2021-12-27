@@ -1,6 +1,6 @@
 ---
 title: Mount Dora
 url: /mount-dora/
-latitude: 
-longitude: 
+latitude: 28.78
+longitude: -81.623
 ---

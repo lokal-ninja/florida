@@ -1,6 +1,6 @@
 ---
 title: Bell
 url: /bell/
-latitude: 29.755512500000002
-longitude: -82.8626239
+latitude: 29.75
+longitude: -82.86
 ---

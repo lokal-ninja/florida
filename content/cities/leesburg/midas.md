@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /leesburg/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Munchees Express"
 url: /clearwater/munchees-express/
-shop: convenience
+shop: Lebensmittel
 ---

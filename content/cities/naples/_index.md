@@ -1,6 +1,6 @@
 ---
 title: Naples
 url: /naples/
-latitude: 26.142197600000003
-longitude: -81.7942944
+latitude: 26.252
+longitude: -81.805
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mitchell Marine"
 url: /largo/mitchell-marine/
-shop: boat
+shop: Boot
 ---

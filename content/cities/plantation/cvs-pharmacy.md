@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /plantation/cvs-pharmacy/
-shop: chemist
+shop: Drogerie
 ---

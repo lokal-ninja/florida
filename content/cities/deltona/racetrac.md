@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /deltona/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

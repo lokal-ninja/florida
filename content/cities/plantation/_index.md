@@ -1,6 +1,6 @@
 ---
 title: Plantation
 url: /plantation/
-latitude: 27.0681121
-longitude: -82.37287280000001
+latitude: 26.148
+longitude: -80.257
 ---

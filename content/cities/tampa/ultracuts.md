@@ -1,5 +1,5 @@
 ---
 title: "Ultracuts"
 url: /tampa/ultracuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hosford
 url: /hosford/
-latitude: 30.386585
-longitude: -84.7979694
+latitude: 30.389
+longitude: -84.684
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /crestview/exxon/
-shop: convenience
+shop: Lebensmittel
 ---

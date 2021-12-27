@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /jacksonville/speedway-16/
-shop: convenience
+shop: Lebensmittel
 ---

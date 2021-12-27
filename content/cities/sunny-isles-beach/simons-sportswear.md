@@ -1,5 +1,5 @@
 ---
 title: "Simon's Sportswear"
 url: /sunny-isles-beach/simons-sportswear/
-shop: shoes
+shop: Schuhe
 ---

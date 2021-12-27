@@ -1,5 +1,5 @@
 ---
 title: "Sunrise Food Mart"
 url: /trenton/sunrise-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

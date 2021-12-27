@@ -1,6 +1,6 @@
 ---
 title: Okeechobee
 url: /okeechobee/
-latitude: 27.392340800000003
-longitude: -80.8873655
+latitude: 27.245
+longitude: -80.796
 ---

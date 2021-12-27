@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /lakeland/one-stop/
-shop: convenience
+shop: Lebensmittel
 ---

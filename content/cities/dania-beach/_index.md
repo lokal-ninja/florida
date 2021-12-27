@@ -1,6 +1,6 @@
 ---
 title: Dania Beach
 url: /dania-beach/
-latitude: 26.0524224
-longitude: -80.143929
+latitude: 26.049
+longitude: -80.165
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /miami-beach/gap/
-shop: clothes
+shop: Kleidung
 ---

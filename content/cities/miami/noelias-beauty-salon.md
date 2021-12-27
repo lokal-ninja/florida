@@ -1,5 +1,5 @@
 ---
 title: "Noelia's Beauty Salon"
 url: /miami/noelias-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

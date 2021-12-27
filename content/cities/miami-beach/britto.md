@@ -1,5 +1,5 @@
 ---
 title: "Britto"
 url: /miami-beach/britto/
-shop: art
+shop: Kunst
 ---

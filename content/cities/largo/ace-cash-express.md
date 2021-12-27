@@ -1,5 +1,5 @@
 ---
 title: "ACE Cash Express"
 url: /largo/ace-cash-express/
-shop: pawnbroker
+shop: Leiher
 ---

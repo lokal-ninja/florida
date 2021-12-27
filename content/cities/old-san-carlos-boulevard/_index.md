@@ -1,6 +1,6 @@
 ---
 title: Old San Carlos Boulevard
 url: /old-san-carlos-boulevard/
-latitude: 
-longitude: 
+latitude: 26.455
+longitude: -81.955
 ---

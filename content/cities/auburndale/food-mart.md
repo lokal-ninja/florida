@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /auburndale/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

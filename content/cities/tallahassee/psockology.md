@@ -1,5 +1,5 @@
 ---
 title: "Psockology"
 url: /tallahassee/psockology/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /saint-augustine/speedway-2/
-shop: convenience
+shop: Lebensmittel
 ---

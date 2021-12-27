@@ -1,5 +1,5 @@
 ---
 title: "All About Hearing Aids, Inc."
 url: /keystone-heights/all-about-hearing-aids-inc/
-shop: hearing aids
+shop: Hörgeräte
 ---

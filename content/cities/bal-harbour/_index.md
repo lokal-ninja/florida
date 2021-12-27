@@ -1,6 +1,6 @@
 ---
 title: Bal Harbour
 url: /bal-harbour/
-latitude: 
-longitude: 
+latitude: 25.893
+longitude: -80.125
 ---

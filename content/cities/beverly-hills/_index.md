@@ -1,6 +1,6 @@
 ---
 title: Beverly Hills
 url: /beverly-hills/
-latitude: 30.4110717
-longitude: -81.7078769
+latitude: 28.944
+longitude: -82.447
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MyEyeLab"
 url: /miami/myeyelab/
-shop: optician
+shop: Optiker
 ---

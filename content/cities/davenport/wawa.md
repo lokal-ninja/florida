@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /davenport/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

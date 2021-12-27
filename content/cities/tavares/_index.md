@@ -1,6 +1,6 @@
 ---
 title: Tavares
 url: /tavares/
-latitude: 28.804157900000003
-longitude: -81.725632
+latitude: 28.784
+longitude: -81.751
 ---

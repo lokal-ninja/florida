@@ -1,5 +1,5 @@
 ---
 title: "Oakley"
 url: /miami-beach/oakley/
-shop: optician
+shop: Optiker
 ---

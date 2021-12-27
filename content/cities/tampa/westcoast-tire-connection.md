@@ -1,5 +1,5 @@
 ---
 title: "Westcoast Tire Connection"
 url: /tampa/westcoast-tire-connection/
-shop: tyres
+shop: Reifen
 ---

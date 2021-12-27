@@ -1,5 +1,5 @@
 ---
 title: "QuickBox Cargo"
 url: /miami/quickbox-cargo/
-shop: shop
+shop: Allgemein
 ---

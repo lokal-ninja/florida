@@ -1,6 +1,6 @@
 ---
 title: Key West
 url: /key-west/
-latitude: 24.5625566
-longitude: -81.77243680000001
+latitude: 24.569
+longitude: -81.764
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hitchcock's"
 url: /alachua/hitchcocks/
-shop: supermarket
+shop: Supermarkt
 ---

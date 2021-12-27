@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /clearwater/metropcs/
-shop: mobile phone
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Downtown Tampa Florist"
 url: /tampa/downtown-tampa-florist/
-shop: florist
+shop: Blumen
 ---

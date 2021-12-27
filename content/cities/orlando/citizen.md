@@ -1,5 +1,5 @@
 ---
 title: "Citizen"
 url: /orlando/citizen/
-shop: watches
+shop: Uhren
 ---

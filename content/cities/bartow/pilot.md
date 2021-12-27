@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /bartow/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

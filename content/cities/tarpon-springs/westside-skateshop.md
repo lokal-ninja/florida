@@ -1,5 +1,5 @@
 ---
 title: "Westside Skateshop"
 url: /tarpon-springs/westside-skateshop/
-shop: sports
+shop: Sport
 ---

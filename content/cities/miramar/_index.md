@@ -1,6 +1,6 @@
 ---
 title: Miramar
 url: /miramar/
-latitude: 25.9873137
-longitude: -80.2322706
+latitude: 25.981
+longitude: -80.357
 ---

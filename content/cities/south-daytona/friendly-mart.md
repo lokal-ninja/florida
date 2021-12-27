@@ -1,5 +1,5 @@
 ---
 title: "Friendly Mart"
 url: /south-daytona/friendly-mart/
-shop: convenience
+shop: Lebensmittel
 ---

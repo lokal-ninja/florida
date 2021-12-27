@@ -1,6 +1,6 @@
 ---
 title: Saint Cloud
 url: /saint-cloud/
-latitude: 
-longitude: 
+latitude: 28.248
+longitude: -81.245
 ---

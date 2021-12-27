@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /lantana/publix/
-shop: supermarket
+shop: Supermarkt
 ---

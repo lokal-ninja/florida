@@ -1,5 +1,5 @@
 ---
 title: "Surf Style"
 url: /panama-city-beach/surf-style/
-shop: general
+shop: Dorfladen
 ---

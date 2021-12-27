@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /orlando/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

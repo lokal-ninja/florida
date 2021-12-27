@@ -1,6 +1,6 @@
 ---
 title: Bartow
 url: /bartow/
-latitude: 27.8963791
-longitude: -81.84315670000001
+latitude: 27.907
+longitude: -81.834
 ---

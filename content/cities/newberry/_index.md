@@ -1,6 +1,6 @@
 ---
 title: Newberry
 url: /newberry/
-latitude: 29.646353500000004
-longitude: -82.6065023
+latitude: 29.653
+longitude: -82.598
 ---

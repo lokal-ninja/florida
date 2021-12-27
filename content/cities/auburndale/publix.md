@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /auburndale/publix/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pretty Nails"
 url: /south-daytons/pretty-nails/
-shop: beauty
+shop: Kosmetik
 ---

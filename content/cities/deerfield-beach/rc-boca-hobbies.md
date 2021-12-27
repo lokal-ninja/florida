@@ -1,5 +1,5 @@
 ---
 title: "RC Boca Hobbies"
 url: /deerfield-beach/rc-boca-hobbies/
-shop: sports
+shop: Sport
 ---

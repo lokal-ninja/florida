@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /daytona-beach/old-navy/
-shop: clothes
+shop: Kleidung
 ---

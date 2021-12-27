@@ -1,6 +1,6 @@
 ---
 title: Port Saint Joe
 url: /port-saint-joe/
-latitude: 
-longitude: 
+latitude: 29.813
+longitude: -85.3
 ---

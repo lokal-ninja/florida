@@ -1,6 +1,6 @@
 ---
 title: Orlando
 url: /orlando/
-latitude: 28.5421109
-longitude: -81.3790304
+latitude: 28.551
+longitude: -81.208
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Coin Laundry"
 url: /tampa/discount-coin-laundry/
-shop: laundry
+shop: Wäscherei
 ---

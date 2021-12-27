@@ -1,0 +1,5 @@
+---
+title: "Above And Beyond Hair & Body"
+url: /lake-placid/above-and-beyond-hair-und-body/
+shop: Kosmetik
+---

@@ -1,5 +1,5 @@
 ---
 title: "FAST LANE"
 url: /pensacola/fast-lane/
-shop: convenience
+shop: Lebensmittel
 ---

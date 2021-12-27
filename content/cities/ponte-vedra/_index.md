@@ -1,6 +1,6 @@
 ---
 title: PONTE VEDRA
 url: /ponte-vedra/
-latitude: 
-longitude: 
+latitude: 30.11
+longitude: -81.415
 ---

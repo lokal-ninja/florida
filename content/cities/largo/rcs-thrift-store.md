@@ -1,5 +1,5 @@
 ---
 title: "RCS Thrift Store"
 url: /largo/rcs-thrift-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

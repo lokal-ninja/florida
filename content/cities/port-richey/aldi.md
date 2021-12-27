@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /port-richey/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

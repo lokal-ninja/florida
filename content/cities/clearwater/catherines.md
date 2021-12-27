@@ -1,5 +1,5 @@
 ---
 title: "Catherines"
 url: /clearwater/catherines/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /daytona-beach/nike/
-shop: clothes
+shop: Kleidung
 ---

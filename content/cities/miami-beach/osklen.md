@@ -1,5 +1,5 @@
 ---
 title: "Osklen"
 url: /miami-beach/osklen/
-shop: clothes
+shop: Kleidung
 ---

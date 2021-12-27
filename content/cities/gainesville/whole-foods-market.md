@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /gainesville/whole-foods-market/
-shop: supermarket
+shop: Supermarkt
 ---

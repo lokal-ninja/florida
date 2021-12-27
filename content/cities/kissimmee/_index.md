@@ -1,6 +1,6 @@
 ---
 title: Kissimmee
 url: /kissimmee/
-latitude: 
-longitude: 
+latitude: 28.344
+longitude: -81.386
 ---

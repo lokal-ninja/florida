@@ -1,5 +1,5 @@
 ---
 title: "Plant the Future"
 url: /miami/plant-the-future/
-shop: florist
+shop: Blumen
 ---

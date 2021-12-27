@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /pompano-beach/speedway-2/
-shop: convenience
+shop: Lebensmittel
 ---

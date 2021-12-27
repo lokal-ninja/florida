@@ -1,6 +1,6 @@
 ---
 title: Key Largo
 url: /key-largo/
-latitude: 25.180697000000002
-longitude: -80.36624160000001
+latitude: 25.166
+longitude: -80.379
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tire Kingdom"
 url: /new-smyrna-beach/tire-kingdom/
-shop: tyres
+shop: Reifen
 ---

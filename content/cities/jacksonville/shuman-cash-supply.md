@@ -1,5 +1,5 @@
 ---
 title: "Shuman Cash Supply"
 url: /jacksonville/shuman-cash-supply/
-shop: hardware
+shop: Eisenwaren
 ---

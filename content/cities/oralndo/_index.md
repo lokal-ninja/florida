@@ -1,6 +1,6 @@
 ---
 title: ORALNDO
 url: /oralndo/
-latitude: 
-longitude: 
+latitude: 28.445
+longitude: -81.392
 ---

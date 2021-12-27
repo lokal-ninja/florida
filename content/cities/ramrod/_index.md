@@ -1,6 +1,6 @@
 ---
 title: Ramrod
 url: /ramrod/
-latitude: 
-longitude: 
+latitude: 24.662
+longitude: -81.407
 ---
