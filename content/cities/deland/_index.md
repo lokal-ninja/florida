@@ -1,6 +1,6 @@
 ---
-title: Deland
+title: DeLand
 url: /deland/
-latitude: 29.012
-longitude: -81.301
+latitude: 29.014
+longitude: -81.304
 ---

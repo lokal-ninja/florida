@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /north-port/walgreens/
-shop: Lebensmittel
+shop: Drogerie
 ---
