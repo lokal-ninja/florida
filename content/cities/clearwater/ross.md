@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /clearwater/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JJ's Pharmacy"
 url: /deltona/jjs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

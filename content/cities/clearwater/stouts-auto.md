@@ -1,5 +1,5 @@
 ---
 title: "Stouts Auto"
 url: /clearwater/stouts-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

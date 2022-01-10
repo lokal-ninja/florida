@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /orlando/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

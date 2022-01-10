@@ -1,5 +1,5 @@
 ---
 title: "DaVi Nails"
 url: /orange-city/davi-nails/
-shop: Kosmetik
+shop: beauty
 ---

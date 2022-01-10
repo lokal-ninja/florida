@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /palm-bay/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

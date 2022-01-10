@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /north-miami/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

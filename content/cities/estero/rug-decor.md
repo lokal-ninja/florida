@@ -1,5 +1,5 @@
 ---
 title: "Rug Decor"
 url: /estero/rug-decor/
-shop: Raumausstattung
+shop: interior decoration
 ---

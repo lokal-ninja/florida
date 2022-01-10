@@ -1,5 +1,5 @@
 ---
 title: "Southern Golf"
 url: /saint-petersburg/southern-golf/
-shop: Sport
+shop: sports
 ---

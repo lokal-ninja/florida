@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /fort-pierce/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Transmission"
 url: /largo/american-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

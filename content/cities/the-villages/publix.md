@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /the-villages/publix/
-shop: Supermarkt
+shop: supermarket
 ---

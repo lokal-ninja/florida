@@ -1,5 +1,5 @@
 ---
 title: "The Blind Spot"
 url: /melbourne/the-blind-spot/
-shop: Jalousien
+shop: window blind
 ---

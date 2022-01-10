@@ -1,5 +1,5 @@
 ---
 title: "Riverlily"
 url: /apalachicola/riverlily/
-shop: Modehaus
+shop: boutique
 ---

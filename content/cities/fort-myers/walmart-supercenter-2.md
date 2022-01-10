@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /fort-myers/walmart-supercenter-2/
-shop: Supermarkt
+shop: supermarket
 ---

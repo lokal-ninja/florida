@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /oviedo/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

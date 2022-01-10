@@ -1,5 +1,5 @@
 ---
 title: "Just Right Marine"
 url: /carrabelle/just-right-marine/
-shop: Boot
+shop: boat
 ---

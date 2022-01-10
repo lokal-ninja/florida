@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /pensacola/big-lots/
-shop: Warenhaus
+shop: department store
 ---

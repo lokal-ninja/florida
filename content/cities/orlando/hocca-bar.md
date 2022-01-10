@@ -1,5 +1,5 @@
 ---
 title: "HOCCA BAR"
 url: /orlando/hocca-bar/
-shop: Warenhaus
+shop: department store
 ---

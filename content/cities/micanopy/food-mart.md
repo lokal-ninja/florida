@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /micanopy/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

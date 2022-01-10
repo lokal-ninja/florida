@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /pensacola/fedex/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Smyrna Beach Florist"
 url: /new-smyrna-beach/new-smyrna-beach-florist/
-shop: Blumen
+shop: florist
 ---

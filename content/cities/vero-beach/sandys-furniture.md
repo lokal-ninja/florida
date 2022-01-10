@@ -1,5 +1,5 @@
 ---
 title: "Sandy's Furniture"
 url: /vero-beach/sandys-furniture/
-shop: Möbel
+shop: furniture
 ---

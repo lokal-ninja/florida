@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /indian-harbour-beach/walmart/
-shop: Warenhaus
+shop: department store
 ---

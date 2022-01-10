@@ -1,5 +1,5 @@
 ---
 title: "SuperCorsa Cycles"
 url: /amelia-island/supercorsa-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

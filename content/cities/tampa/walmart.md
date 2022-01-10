@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /tampa/walmart/
-shop: Warenhaus
+shop: department store
 ---

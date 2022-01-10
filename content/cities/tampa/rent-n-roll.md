@@ -1,5 +1,5 @@
 ---
 title: "Rent-n-Roll"
 url: /tampa/rent-n-roll/
-shop: Eisenwaren
+shop: hardware
 ---

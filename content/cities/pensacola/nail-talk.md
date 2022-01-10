@@ -1,5 +1,5 @@
 ---
 title: "Nail Talk"
 url: /pensacola/nail-talk/
-shop: Kosmetik
+shop: beauty
 ---

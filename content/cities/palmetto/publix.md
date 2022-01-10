@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /palmetto/publix/
-shop: Supermarkt
+shop: supermarket
 ---

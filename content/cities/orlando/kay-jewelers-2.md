@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /orlando/kay-jewelers-2/
-shop: Schmuck
+shop: jewelry
 ---

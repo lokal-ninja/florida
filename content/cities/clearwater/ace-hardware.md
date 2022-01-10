@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /clearwater/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

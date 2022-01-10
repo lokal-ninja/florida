@@ -1,5 +1,5 @@
 ---
 title: "Fixed"
 url: /weston/fixed/
-shop: Handy
+shop: mobile phone
 ---

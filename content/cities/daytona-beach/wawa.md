@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /daytona-beach/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

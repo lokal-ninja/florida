@@ -1,5 +1,5 @@
 ---
 title: "Venetian Nail Salon"
 url: /windermere/venetian-nail-salon/
-shop: Kosmetik
+shop: beauty
 ---

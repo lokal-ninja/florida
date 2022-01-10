@@ -1,5 +1,5 @@
 ---
 title: "Phantom Fireworks"
 url: /tampa/phantom-fireworks/
-shop: Allgemein
+shop: shop
 ---

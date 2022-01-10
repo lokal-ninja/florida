@@ -1,5 +1,5 @@
 ---
 title: "Hiers Bakley Funeral Home"
 url: /chiefland/hiers-bakley-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

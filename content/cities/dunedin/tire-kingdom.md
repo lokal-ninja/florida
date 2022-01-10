@@ -1,5 +1,5 @@
 ---
 title: "Tire Kingdom"
 url: /dunedin/tire-kingdom/
-shop: Autowerkstatt
+shop: car repair
 ---

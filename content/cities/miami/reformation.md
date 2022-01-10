@@ -1,5 +1,5 @@
 ---
 title: "REFORMATION"
 url: /miami/reformation/
-shop: Kleidung
+shop: clothes
 ---

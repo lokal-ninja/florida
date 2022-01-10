@@ -1,5 +1,5 @@
 ---
 title: "Care Rx Pharmacy"
 url: /tallahassee/care-rx-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

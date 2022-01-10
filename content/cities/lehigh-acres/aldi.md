@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /lehigh-acres/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /altamonte-springs/tj-maxx/
-shop: Kleidung
+shop: clothes
 ---

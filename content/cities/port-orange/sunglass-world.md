@@ -1,5 +1,5 @@
 ---
 title: "Sunglass World"
 url: /port-orange/sunglass-world/
-shop: Allgemein
+shop: shop
 ---

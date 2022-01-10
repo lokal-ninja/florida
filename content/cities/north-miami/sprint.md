@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /north-miami/sprint/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Robinson's Motorcycles"
 url: /daytona-beach/robinsons-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
-title: Computer
+title: computer
 url: /computer/
 icon: computer
 ---

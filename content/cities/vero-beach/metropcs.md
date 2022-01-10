@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /vero-beach/metropcs/
-shop: Handy
+shop: mobile phone
 ---

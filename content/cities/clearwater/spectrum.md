@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /clearwater/spectrum/
-shop: Handy
+shop: mobile phone
 ---

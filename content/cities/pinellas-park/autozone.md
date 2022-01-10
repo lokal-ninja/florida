@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /pinellas-park/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Cleaners and Laundry"
 url: /melbourne/evergreen-cleaners-and-laundry/
-shop: Wäscherei
+shop: laundry
 ---

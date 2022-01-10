@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /vero-beach/walgreens/
-shop: Drogerie
+shop: chemist
 ---

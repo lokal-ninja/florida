@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /jacksonville/sprint/
-shop: Handy
+shop: mobile phone
 ---

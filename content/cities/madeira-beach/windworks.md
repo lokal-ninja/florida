@@ -1,5 +1,5 @@
 ---
 title: "Windworks"
 url: /madeira-beach/windworks/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /ocala/best-buy/
-shop: Elektronik
+shop: electronics
 ---

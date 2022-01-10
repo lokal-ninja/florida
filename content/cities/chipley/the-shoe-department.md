@@ -1,5 +1,5 @@
 ---
 title: "The Shoe Department"
 url: /chipley/the-shoe-department/
-shop: Schuhe
+shop: shoes
 ---

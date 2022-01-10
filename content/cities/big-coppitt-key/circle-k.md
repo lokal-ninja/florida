@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /big-coppitt-key/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /casselberry/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

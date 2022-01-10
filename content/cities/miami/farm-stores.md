@@ -1,5 +1,5 @@
 ---
 title: "Farm Stores"
 url: /miami/farm-stores/
-shop: Lebensmittel
+shop: convenience
 ---

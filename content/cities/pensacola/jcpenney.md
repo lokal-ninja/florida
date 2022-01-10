@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /pensacola/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

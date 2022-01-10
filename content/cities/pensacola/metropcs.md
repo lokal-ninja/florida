@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /pensacola/metropcs/
-shop: Handy
+shop: mobile phone
 ---

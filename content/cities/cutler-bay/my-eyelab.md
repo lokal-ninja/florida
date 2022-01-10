@@ -1,5 +1,5 @@
 ---
 title: "My EyeLab"
 url: /cutler-bay/my-eyelab/
-shop: Optiker
+shop: optician
 ---

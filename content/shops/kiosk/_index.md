@@ -1,5 +1,5 @@
 ---
-title: Kiosk
+title: kiosk
 url: /kiosk/
 icon: kiosk
 ---

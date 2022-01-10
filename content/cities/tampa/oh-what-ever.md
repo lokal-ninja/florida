@@ -1,5 +1,5 @@
 ---
 title: "Oh, What-Ever!"
 url: /tampa/oh-what-ever/
-shop: Antiquitäten
+shop: antiques
 ---

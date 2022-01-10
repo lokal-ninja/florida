@@ -1,5 +1,5 @@
 ---
 title: "Tin City"
 url: /naples/tin-city/
-shop: Einkaufszentrum
+shop: mall
 ---

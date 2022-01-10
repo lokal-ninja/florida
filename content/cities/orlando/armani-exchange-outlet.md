@@ -1,5 +1,5 @@
 ---
 title: "Armani Exchange Outlet"
 url: /orlando/armani-exchange-outlet/
-shop: Kleidung
+shop: clothes
 ---

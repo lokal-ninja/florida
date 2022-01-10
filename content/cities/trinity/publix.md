@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /trinity/publix/
-shop: Supermarkt
+shop: supermarket
 ---

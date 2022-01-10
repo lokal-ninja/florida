@@ -1,5 +1,5 @@
 ---
 title: "KMart"
 url: /marathon/kmart/
-shop: Warenhaus
+shop: department store
 ---

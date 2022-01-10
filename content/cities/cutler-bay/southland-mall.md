@@ -1,5 +1,5 @@
 ---
 title: "Southland Mall"
 url: /cutler-bay/southland-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

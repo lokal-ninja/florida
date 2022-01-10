@@ -1,5 +1,5 @@
 ---
 title: "Plus Skateshop"
 url: /fort-walton-beach/plus-skateshop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Russell's Western Wear"
 url: /bradenton/russells-western-wear/
-shop: Schuhe
+shop: shoes
 ---

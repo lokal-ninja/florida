@@ -1,5 +1,5 @@
 ---
 title: "Star Auto Brokers"
 url: /saint-petersburg/star-auto-brokers/
-shop: Autohaus
+shop: car
 ---

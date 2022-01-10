@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /jacksonville/ikea/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "David's Bridal"
 url: /tallahassee/davids-bridal/
-shop: Kleidung
+shop: clothes
 ---

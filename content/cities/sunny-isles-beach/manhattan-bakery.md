@@ -1,5 +1,5 @@
 ---
 title: "Manhattan Bakery"
 url: /sunny-isles-beach/manhattan-bakery/
-shop: Bäckerei
+shop: bakery
 ---

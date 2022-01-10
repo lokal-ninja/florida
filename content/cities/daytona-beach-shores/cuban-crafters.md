@@ -1,5 +1,5 @@
 ---
 title: "Cuban Crafters"
 url: /daytona-beach-shores/cuban-crafters/
-shop: Tabak
+shop: tobacco
 ---

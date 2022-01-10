@@ -1,5 +1,5 @@
 ---
 title: "Citgo Express"
 url: /daytona-beach/citgo-express/
-shop: Lebensmittel
+shop: convenience
 ---

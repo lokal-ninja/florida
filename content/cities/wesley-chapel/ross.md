@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /wesley-chapel/ross/
-shop: Warenhaus
+shop: department store
 ---

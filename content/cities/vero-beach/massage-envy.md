@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /vero-beach/massage-envy/
-shop: Massage
+shop: massage
 ---

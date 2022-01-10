@@ -1,5 +1,5 @@
 ---
 title: "DKNY"
 url: /orlando/dkny/
-shop: Kleidung
+shop: clothes
 ---

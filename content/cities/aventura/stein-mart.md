@@ -1,5 +1,5 @@
 ---
 title: "Stein Mart"
 url: /aventura/stein-mart/
-shop: Warenhaus
+shop: department store
 ---

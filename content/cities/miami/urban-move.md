@@ -1,5 +1,5 @@
 ---
 title: "Urban Move"
 url: /miami/urban-move/
-shop: Kleidung
+shop: clothes
 ---

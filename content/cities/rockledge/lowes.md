@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /rockledge/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

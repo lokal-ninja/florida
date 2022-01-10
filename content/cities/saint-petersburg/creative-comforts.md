@@ -1,5 +1,5 @@
 ---
 title: "Creative Comforts"
 url: /saint-petersburg/creative-comforts/
-shop: Gebrauchtwaren
+shop: charity
 ---

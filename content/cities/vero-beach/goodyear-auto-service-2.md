@@ -1,5 +1,5 @@
 ---
 title: "Goodyear Auto Service"
 url: /vero-beach/goodyear-auto-service-2/
-shop: Autowerkstatt
+shop: car repair
 ---

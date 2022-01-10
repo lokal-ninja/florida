@@ -1,5 +1,5 @@
 ---
 title: "Athleta"
 url: /pelican-bay/athleta/
-shop: Kleidung
+shop: clothes
 ---

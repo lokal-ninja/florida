@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /brandon/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

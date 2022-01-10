@@ -1,5 +1,5 @@
 ---
 title: "Carnegie's Funeral Home"
 url: /chiefland/carnegies-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

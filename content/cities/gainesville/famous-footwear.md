@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /gainesville/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

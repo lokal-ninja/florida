@@ -1,5 +1,5 @@
 ---
 title: "Busy Bee"
 url: /jennings/busy-bee/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LIK MIAMI"
 url: /miami-beach/lik-miami/
-shop: Kunst
+shop: art
 ---

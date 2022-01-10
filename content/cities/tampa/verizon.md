@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /tampa/verizon/
-shop: Handy
+shop: mobile phone
 ---

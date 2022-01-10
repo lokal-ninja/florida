@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /pensacola/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magic Touch Auto Body Shop Wizard"
 url: /miami/magic-touch-auto-body-shop-wizard/
-shop: Autowerkstatt
+shop: car repair
 ---

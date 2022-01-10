@@ -1,5 +1,5 @@
 ---
 title: "Harvest Time"
 url: /south-daytona/harvest-time/
-shop: Allgemein
+shop: shop
 ---

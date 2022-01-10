@@ -1,5 +1,5 @@
 ---
 title: "Perry Ellis"
 url: /orlando/perry-ellis/
-shop: Kleidung
+shop: clothes
 ---

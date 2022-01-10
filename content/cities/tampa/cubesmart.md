@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /tampa/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

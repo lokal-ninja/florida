@@ -1,5 +1,5 @@
 ---
 title: "Mr. Mochas Marketplace"
 url: /belleview/mr-mochas-marketplace/
-shop: Tiere
+shop: pet
 ---

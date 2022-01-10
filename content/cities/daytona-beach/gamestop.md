@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /daytona-beach/gamestop/
-shop: Videospiele
+shop: video games
 ---

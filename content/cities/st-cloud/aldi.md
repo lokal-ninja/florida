@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /st-cloud/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /daytona-beach/nissan/
-shop: Autohaus
+shop: car
 ---

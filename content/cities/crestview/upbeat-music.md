@@ -1,5 +1,5 @@
 ---
 title: "UpBeat Music"
 url: /crestview/upbeat-music/
-shop: Musik
+shop: music
 ---

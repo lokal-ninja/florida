@@ -1,5 +1,5 @@
 ---
 title: "Venus Body"
 url: /south-daytona/venus-body/
-shop: Massage
+shop: massage
 ---

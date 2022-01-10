@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /vero-beach/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

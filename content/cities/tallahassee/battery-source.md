@@ -1,5 +1,5 @@
 ---
 title: "Battery Source"
 url: /tallahassee/battery-source/
-shop: Energie
+shop: energy
 ---

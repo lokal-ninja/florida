@@ -1,5 +1,5 @@
 ---
 title: "Magnolia Eyecare"
 url: /jacksonville/magnolia-eyecare/
-shop: Optiker
+shop: optician
 ---

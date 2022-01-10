@@ -1,5 +1,5 @@
 ---
 title: "Platinum Pawn"
 url: /tampa/platinum-pawn-2/
-shop: Leiher
+shop: pawnbroker
 ---

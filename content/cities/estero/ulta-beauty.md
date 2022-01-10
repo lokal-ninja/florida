@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /estero/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

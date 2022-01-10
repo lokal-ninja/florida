@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /stuart/best-buy/
-shop: Elektronik
+shop: electronics
 ---

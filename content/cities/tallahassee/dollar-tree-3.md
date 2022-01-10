@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /tallahassee/dollar-tree-3/
-shop: Kramladen
+shop: variety store
 ---

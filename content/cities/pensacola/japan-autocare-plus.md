@@ -1,5 +1,5 @@
 ---
 title: "Japan Autocare Plus"
 url: /pensacola/japan-autocare-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

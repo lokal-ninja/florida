@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /saint-petersburg/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

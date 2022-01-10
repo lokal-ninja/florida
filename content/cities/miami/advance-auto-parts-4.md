@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /miami/advance-auto-parts-4/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /sunny-isles-beach/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

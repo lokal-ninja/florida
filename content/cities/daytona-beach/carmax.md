@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /daytona-beach/carmax/
-shop: Autohaus
+shop: car
 ---

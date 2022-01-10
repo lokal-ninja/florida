@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /sarasota/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

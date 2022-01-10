@@ -1,5 +1,5 @@
 ---
 title: "EliteTech Repairs"
 url: /miami/elitetech-repairs/
-shop: Computer
+shop: computer
 ---

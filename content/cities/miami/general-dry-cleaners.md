@@ -1,5 +1,5 @@
 ---
 title: "General Dry Cleaners"
 url: /miami/general-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

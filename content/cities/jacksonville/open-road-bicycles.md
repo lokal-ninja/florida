@@ -1,5 +1,5 @@
 ---
 title: "Open Road Bicycles"
 url: /jacksonville/open-road-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

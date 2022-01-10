@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /deerfield-beach/target/
-shop: Warenhaus
+shop: department store
 ---

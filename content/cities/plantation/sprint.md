@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /plantation/sprint/
-shop: Handy
+shop: mobile phone
 ---

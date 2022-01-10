@@ -1,5 +1,5 @@
 ---
 title: "TAILOR HOUSE"
 url: /miami/tailor-house/
-shop: Schneiderei
+shop: tailor
 ---

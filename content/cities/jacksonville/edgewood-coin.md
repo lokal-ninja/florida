@@ -1,5 +1,5 @@
 ---
 title: "Edgewood Coin"
 url: /jacksonville/edgewood-coin/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /fort-pierce/autozone/
-shop: Autoteile
+shop: car parts
 ---

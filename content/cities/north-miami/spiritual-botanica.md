@@ -1,5 +1,5 @@
 ---
 title: "spiritual botanica"
 url: /north-miami/spiritual-botanica/
-shop: Allgemein
+shop: shop
 ---

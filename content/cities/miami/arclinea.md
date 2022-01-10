@@ -1,5 +1,5 @@
 ---
 title: "ARCLINEA"
 url: /miami/arclinea/
-shop: Küchen
+shop: kitchen
 ---

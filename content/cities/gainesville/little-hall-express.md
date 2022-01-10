@@ -1,5 +1,5 @@
 ---
 title: "Little Hall Express"
 url: /gainesville/little-hall-express/
-shop: Lebensmittel
+shop: convenience
 ---

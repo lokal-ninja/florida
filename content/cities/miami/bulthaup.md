@@ -1,5 +1,5 @@
 ---
 title: "BULTHAUP"
 url: /miami/bulthaup/
-shop: Küchen
+shop: kitchen
 ---

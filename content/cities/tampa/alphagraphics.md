@@ -1,5 +1,5 @@
 ---
 title: "Alphagraphics"
 url: /tampa/alphagraphics/
-shop: Kopieren
+shop: copyshop
 ---

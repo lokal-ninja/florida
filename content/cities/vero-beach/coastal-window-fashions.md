@@ -1,5 +1,5 @@
 ---
 title: "Coastal Window Fashions"
 url: /vero-beach/coastal-window-fashions/
-shop: Jalousien
+shop: window blind
 ---

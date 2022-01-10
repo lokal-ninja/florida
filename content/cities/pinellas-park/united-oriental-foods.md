@@ -1,5 +1,5 @@
 ---
 title: "United Oriental Foods"
 url: /pinellas-park/united-oriental-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tallahassee/autozone/
-shop: Autoteile
+shop: car parts
 ---

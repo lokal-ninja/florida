@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /orlando/gnc-2/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

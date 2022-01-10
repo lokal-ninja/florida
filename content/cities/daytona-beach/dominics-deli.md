@@ -1,5 +1,5 @@
 ---
 title: "Dominic's Deli"
 url: /daytona-beach/dominics-deli/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bradenton/autozone/
-shop: Autoteile
+shop: car parts
 ---

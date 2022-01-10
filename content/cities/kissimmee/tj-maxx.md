@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /kissimmee/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

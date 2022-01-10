@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /tavares/sprint/
-shop: Handy
+shop: mobile phone
 ---

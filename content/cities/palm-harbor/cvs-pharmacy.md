@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /palm-harbor/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

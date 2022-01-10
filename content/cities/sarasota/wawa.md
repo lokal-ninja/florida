@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /sarasota/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

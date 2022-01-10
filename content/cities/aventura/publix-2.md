@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /aventura/publix-2/
-shop: Supermarkt
+shop: supermarket
 ---

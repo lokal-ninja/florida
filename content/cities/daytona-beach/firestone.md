@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /daytona-beach/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Articulture StudioZ"
 url: /fort-myers/articulture-studioz/
-shop: Tattoo
+shop: tattoo
 ---

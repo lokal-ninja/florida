@@ -1,5 +1,5 @@
 ---
 title: "Designs By Carmen"
 url: /orlando/designs-by-carmen/
-shop: Blumen
+shop: florist
 ---

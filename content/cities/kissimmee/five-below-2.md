@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /kissimmee/five-below-2/
-shop: Kramladen
+shop: variety store
 ---

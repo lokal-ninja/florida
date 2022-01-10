@@ -1,5 +1,5 @@
 ---
 title: "Florida Leather Gallery"
 url: /tampa/florida-leather-gallery/
-shop: Möbel
+shop: furniture
 ---

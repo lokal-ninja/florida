@@ -1,5 +1,5 @@
 ---
 title: "Jai Smoke Shop"
 url: /tallahassee/jai-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Eagle Outfitters"
 url: /miami-beach/american-eagle-outfitters/
-shop: Kleidung
+shop: clothes
 ---

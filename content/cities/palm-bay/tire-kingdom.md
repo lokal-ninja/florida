@@ -1,5 +1,5 @@
 ---
 title: "Tire Kingdom"
 url: /palm-bay/tire-kingdom/
-shop: Reifen
+shop: tyres
 ---

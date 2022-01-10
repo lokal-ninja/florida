@@ -1,5 +1,5 @@
 ---
 title: "Ted Baker"
 url: /miami-beach/ted-baker/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lincoln;Mercury"
 url: /leesburg/lincoln-mercury/
-shop: Autohaus
+shop: car
 ---

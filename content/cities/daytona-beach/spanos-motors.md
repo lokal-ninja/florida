@@ -1,5 +1,5 @@
 ---
 title: "Spanos Motors"
 url: /daytona-beach/spanos-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Vitamin Shoppe"
 url: /sarasota/the-vitamin-shoppe/
-shop: Bioladen
+shop: health food
 ---

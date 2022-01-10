@@ -1,5 +1,5 @@
 ---
 title: "Stereo Sales"
 url: /tallahassee/stereo-sales/
-shop: Allgemein
+shop: shop
 ---

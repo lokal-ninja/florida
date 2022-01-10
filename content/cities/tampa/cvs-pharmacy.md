@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /tampa/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

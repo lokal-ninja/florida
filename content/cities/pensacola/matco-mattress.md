@@ -1,5 +1,5 @@
 ---
 title: "MATCO Mattress"
 url: /pensacola/matco-mattress/
-shop: Betten
+shop: bed
 ---

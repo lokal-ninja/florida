@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /fleming-island/petco/
-shop: Tiere
+shop: pet
 ---

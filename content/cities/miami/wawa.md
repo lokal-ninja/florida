@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /miami/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

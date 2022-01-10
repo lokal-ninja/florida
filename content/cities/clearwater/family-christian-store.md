@@ -1,5 +1,5 @@
 ---
 title: "Family Christian Store"
 url: /clearwater/family-christian-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr. Lobster"
 url: /islamorada/mr-lobster/
-shop: Fisch
+shop: seafood
 ---

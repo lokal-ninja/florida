@@ -1,5 +1,5 @@
 ---
 title: "Boca Bike Shop"
 url: /boca-raton/boca-bike-shop/
-shop: Sport
+shop: sports
 ---

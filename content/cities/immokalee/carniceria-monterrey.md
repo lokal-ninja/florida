@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Monterrey"
 url: /immokalee/carniceria-monterrey/
-shop: Metzgerei
+shop: butcher
 ---

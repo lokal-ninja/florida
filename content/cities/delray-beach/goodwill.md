@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /delray-beach/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

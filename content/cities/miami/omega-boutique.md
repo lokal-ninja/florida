@@ -1,5 +1,5 @@
 ---
 title: "OMEGA BOUTIQUE"
 url: /miami/omega-boutique/
-shop: Uhren
+shop: watches
 ---

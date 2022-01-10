@@ -1,5 +1,5 @@
 ---
 title: "Intrigue Barbershop"
 url: /tallahassee/intrigue-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

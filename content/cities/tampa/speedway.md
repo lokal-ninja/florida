@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /tampa/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

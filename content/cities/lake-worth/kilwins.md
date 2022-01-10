@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /lake-worth/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

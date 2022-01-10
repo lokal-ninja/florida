@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /tallahassee/francescas/
-shop: Kleidung
+shop: clothes
 ---

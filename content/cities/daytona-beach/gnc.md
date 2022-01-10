@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /daytona-beach/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

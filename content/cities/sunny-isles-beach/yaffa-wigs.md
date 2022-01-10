@@ -1,5 +1,5 @@
 ---
 title: "Yaffa Wigs"
 url: /sunny-isles-beach/yaffa-wigs/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

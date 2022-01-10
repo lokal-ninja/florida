@@ -1,5 +1,5 @@
 ---
 title: "SōDOUGH Baking Co."
 url: /tallahassee/sodough-baking-co/
-shop: Bäckerei
+shop: bakery
 ---

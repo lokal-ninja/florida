@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /davenport/walgreens/
-shop: Drogerie
+shop: chemist
 ---

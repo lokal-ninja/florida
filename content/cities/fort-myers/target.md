@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fort-myers/target/
-shop: Warenhaus
+shop: department store
 ---

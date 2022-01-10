@@ -1,5 +1,5 @@
 ---
 title: "Century Storage"
 url: /riverview/century-storage/
-shop: Mieten
+shop: storage rental
 ---

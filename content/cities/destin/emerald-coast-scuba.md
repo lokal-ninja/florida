@@ -1,5 +1,5 @@
 ---
 title: "Emerald Coast Scuba"
 url: /destin/emerald-coast-scuba/
-shop: Tauchen
+shop: diving
 ---

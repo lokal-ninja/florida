@@ -1,5 +1,5 @@
 ---
 title: "Tuffy"
 url: /tallahassee/tuffy/
-shop: Autowerkstatt
+shop: car repair
 ---

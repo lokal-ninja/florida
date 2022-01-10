@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /tampa/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral Reef Medical Supply"
 url: /miami/coral-reef-medical-supply/
-shop: Sanitätshaus
+shop: medical supply
 ---

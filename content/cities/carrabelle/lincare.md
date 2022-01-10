@@ -1,5 +1,5 @@
 ---
 title: "Lincare"
 url: /carrabelle/lincare/
-shop: Sanitätshaus
+shop: medical supply
 ---

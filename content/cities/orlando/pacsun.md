@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /orlando/pacsun/
-shop: Kleidung
+shop: clothes
 ---

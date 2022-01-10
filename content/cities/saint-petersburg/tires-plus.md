@@ -1,5 +1,5 @@
 ---
 title: "Tires Plus"
 url: /saint-petersburg/tires-plus/
-shop: Reifen
+shop: tyres
 ---

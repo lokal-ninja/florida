@@ -1,5 +1,5 @@
 ---
 title: "Dolphin Mall"
 url: /miami/dolphin-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

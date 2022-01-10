@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /sunny-isles-beach/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

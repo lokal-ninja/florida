@@ -1,5 +1,5 @@
 ---
 title: "Garmin"
 url: /miami-beach/garmin/
-shop: Elektronik
+shop: electronics
 ---

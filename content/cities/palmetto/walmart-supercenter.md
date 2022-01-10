@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /palmetto/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

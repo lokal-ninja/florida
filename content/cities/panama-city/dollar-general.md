@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /panama-city/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

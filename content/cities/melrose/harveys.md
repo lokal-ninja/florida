@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /melrose/harveys/
-shop: Supermarkt
+shop: supermarket
 ---

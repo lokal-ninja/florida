@@ -1,5 +1,5 @@
 ---
 title: "Billabong"
 url: /orlando/billabong/
-shop: Kleidung
+shop: clothes
 ---

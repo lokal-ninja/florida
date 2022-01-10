@@ -1,5 +1,5 @@
 ---
 title: "Jaws Souvenirs"
 url: /panama-city-beach/jaws-souvenirs/
-shop: Andenken
+shop: gift
 ---

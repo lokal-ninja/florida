@@ -1,5 +1,5 @@
 ---
 title: "Swatch"
 url: /miami-beach/swatch/
-shop: Uhren
+shop: watches
 ---

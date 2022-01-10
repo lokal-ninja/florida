@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /port-st-lucie/autozone/
-shop: Autoteile
+shop: car parts
 ---

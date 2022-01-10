@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /bunnell/michaels/
-shop: Basteln
+shop: craft
 ---

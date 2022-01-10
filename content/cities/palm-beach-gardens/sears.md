@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /palm-beach-gardens/sears/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quarter Moon"
 url: /tallahassee/quarter-moon/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rockys Auto Service"
 url: /cantonment/rockys-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

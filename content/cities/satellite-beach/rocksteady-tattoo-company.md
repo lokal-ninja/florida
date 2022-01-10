@@ -1,5 +1,5 @@
 ---
 title: "Rocksteady Tattoo Company"
 url: /satellite-beach/rocksteady-tattoo-company/
-shop: Tattoo
+shop: tattoo
 ---

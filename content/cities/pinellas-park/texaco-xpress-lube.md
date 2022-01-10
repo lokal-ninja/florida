@@ -1,5 +1,5 @@
 ---
 title: "Texaco Xpress Lube"
 url: /pinellas-park/texaco-xpress-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

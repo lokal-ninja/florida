@@ -1,5 +1,5 @@
 ---
 title: "Amscot"
 url: /seminole/amscot/
-shop: Leiher
+shop: pawnbroker
 ---

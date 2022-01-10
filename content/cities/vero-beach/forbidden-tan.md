@@ -1,5 +1,5 @@
 ---
 title: "Forbidden Tan"
 url: /vero-beach/forbidden-tan/
-shop: Kosmetik
+shop: beauty
 ---

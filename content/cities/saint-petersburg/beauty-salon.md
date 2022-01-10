@@ -1,5 +1,5 @@
 ---
 title: "Beauty Salon"
 url: /saint-petersburg/beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bloomingdale's"
 url: /aventura/bloomingdales/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cycle Guroo"
 url: /naples/cycle-guroo/
-shop: Fahrrad
+shop: bicycle
 ---

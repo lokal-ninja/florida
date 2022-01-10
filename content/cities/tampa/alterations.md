@@ -1,5 +1,5 @@
 ---
 title: "Alterations"
 url: /tampa/alterations/
-shop: Nähzubehör
+shop: sewing
 ---

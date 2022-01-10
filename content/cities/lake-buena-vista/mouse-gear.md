@@ -1,5 +1,5 @@
 ---
 title: "Mouse Gear"
 url: /lake-buena-vista/mouse-gear/
-shop: Allgemein
+shop: shop
 ---

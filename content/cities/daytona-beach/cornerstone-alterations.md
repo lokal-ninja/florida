@@ -1,5 +1,5 @@
 ---
 title: "Cornerstone Alterations"
 url: /daytona-beach/cornerstone-alterations/
-shop: Schneiderei
+shop: tailor
 ---

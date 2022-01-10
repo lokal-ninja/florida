@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /saint-petersburg/visionworks/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quick King"
 url: /morriston/quick-king/
-shop: Lebensmittel
+shop: convenience
 ---

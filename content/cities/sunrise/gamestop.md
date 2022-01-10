@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /sunrise/gamestop/
-shop: Videospiele
+shop: video games
 ---

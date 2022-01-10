@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /hialeah/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

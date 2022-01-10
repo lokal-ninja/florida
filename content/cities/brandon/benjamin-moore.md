@@ -1,5 +1,5 @@
 ---
 title: "Benjamin Moore"
 url: /brandon/benjamin-moore/
-shop: Farben
+shop: paint
 ---

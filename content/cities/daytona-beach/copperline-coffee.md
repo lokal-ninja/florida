@@ -1,5 +1,5 @@
 ---
 title: "Copperline Coffee"
 url: /daytona-beach/copperline-coffee/
-shop: Kaffee
+shop: coffee
 ---

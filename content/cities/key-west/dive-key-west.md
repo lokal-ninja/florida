@@ -1,5 +1,5 @@
 ---
 title: "Dive Key West"
 url: /key-west/dive-key-west/
-shop: Tauchen
+shop: diving
 ---

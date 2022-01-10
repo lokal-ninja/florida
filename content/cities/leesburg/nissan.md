@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /leesburg/nissan/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon RX"
 url: /middleburg/salon-rx/
-shop: Friseur
+shop: hairdresser
 ---

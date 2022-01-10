@@ -1,5 +1,5 @@
 ---
 title: "ScubaTech"
 url: /destin/scubatech/
-shop: Tauchen
+shop: diving
 ---

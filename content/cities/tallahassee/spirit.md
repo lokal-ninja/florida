@@ -1,5 +1,5 @@
 ---
 title: "Spirit"
 url: /tallahassee/spirit/
-shop: Allgemein
+shop: shop
 ---

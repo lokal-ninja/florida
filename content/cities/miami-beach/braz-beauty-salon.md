@@ -1,5 +1,5 @@
 ---
 title: "Braz Beauty Salon"
 url: /miami-beach/braz-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

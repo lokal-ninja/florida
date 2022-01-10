@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /largo/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

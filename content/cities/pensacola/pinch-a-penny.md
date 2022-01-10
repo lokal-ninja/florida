@@ -1,5 +1,5 @@
 ---
 title: "Pinch A Penny"
 url: /pensacola/pinch-a-penny/
-shop: Kramladen
+shop: variety store
 ---

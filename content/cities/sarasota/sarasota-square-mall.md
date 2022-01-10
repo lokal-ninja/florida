@@ -1,5 +1,5 @@
 ---
 title: "Sarasota Square Mall"
 url: /sarasota/sarasota-square-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

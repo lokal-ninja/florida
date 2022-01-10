@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /orlando/walmart-neighborhood-market-11/
-shop: Supermarkt
+shop: supermarket
 ---

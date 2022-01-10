@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /aventura/perfumania/
-shop: Parfümerie
+shop: perfumery
 ---

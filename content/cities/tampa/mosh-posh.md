@@ -1,5 +1,5 @@
 ---
 title: "Mosh Posh"
 url: /tampa/mosh-posh/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Insight"
 url: /deltona/insight/
-shop: Elektronik
+shop: electronics
 ---

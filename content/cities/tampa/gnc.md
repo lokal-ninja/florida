@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /tampa/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

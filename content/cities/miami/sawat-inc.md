@@ -1,5 +1,5 @@
 ---
 title: "SAWAT inc"
 url: /miami/sawat-inc/
-shop: Schuhe
+shop: shoes
 ---

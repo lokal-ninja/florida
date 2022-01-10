@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cutler-bay/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

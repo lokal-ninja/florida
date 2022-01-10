@@ -1,5 +1,5 @@
 ---
 title: "Express Lane"
 url: /tallahassee/express-lane/
-shop: Lebensmittel
+shop: convenience
 ---

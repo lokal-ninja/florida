@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /miami-beach/zara/
-shop: Kleidung
+shop: clothes
 ---

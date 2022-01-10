@@ -1,5 +1,5 @@
 ---
 title: "The Fresh Market"
 url: /saint-petersburg/the-fresh-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /aventura/sephora/
-shop: Kosmetik
+shop: beauty
 ---

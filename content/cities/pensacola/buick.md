@@ -1,5 +1,5 @@
 ---
 title: "Buick"
 url: /pensacola/buick/
-shop: Autohaus
+shop: car
 ---

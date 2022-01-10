@@ -1,5 +1,5 @@
 ---
 title: "Boger's Shoes"
 url: /jacksonville/bogers-shoes/
-shop: Schuhe
+shop: shoes
 ---

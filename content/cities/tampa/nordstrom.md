@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /tampa/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

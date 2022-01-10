@@ -1,5 +1,5 @@
 ---
 title: "Hurricane Computers LLC"
 url: /bradenton/hurricane-computers-llc/
-shop: Computer
+shop: computer
 ---

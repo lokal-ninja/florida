@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /marathon/west-marine/
-shop: Boot
+shop: boat
 ---

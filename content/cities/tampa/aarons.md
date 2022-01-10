@@ -1,5 +1,5 @@
 ---
 title: "Aarons"
 url: /tampa/aarons/
-shop: Möbel
+shop: furniture
 ---

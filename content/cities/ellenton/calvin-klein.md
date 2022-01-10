@@ -1,5 +1,5 @@
 ---
 title: "Calvin Klein"
 url: /ellenton/calvin-klein/
-shop: Kleidung
+shop: clothes
 ---

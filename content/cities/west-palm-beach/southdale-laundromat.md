@@ -1,5 +1,5 @@
 ---
 title: "Southdale Laundromat"
 url: /west-palm-beach/southdale-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

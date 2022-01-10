@@ -1,5 +1,5 @@
 ---
 title: "Hitchcock's Foodway"
 url: /old-town/hitchcocks-foodway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /naples/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

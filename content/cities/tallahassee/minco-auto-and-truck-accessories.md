@@ -1,5 +1,5 @@
 ---
 title: "Minco Auto and Truck Accessories"
 url: /tallahassee/minco-auto-and-truck-accessories/
-shop: Autoteile
+shop: car parts
 ---

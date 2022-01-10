@@ -1,5 +1,5 @@
 ---
 title: "Capital Jewelers"
 url: /tallahassee/capital-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

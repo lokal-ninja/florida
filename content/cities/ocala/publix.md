@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /ocala/publix/
-shop: Supermarkt
+shop: supermarket
 ---

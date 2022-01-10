@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /daytona-beach/walmart/
-shop: Warenhaus
+shop: department store
 ---

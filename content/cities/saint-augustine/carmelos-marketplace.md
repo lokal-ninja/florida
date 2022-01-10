@@ -1,5 +1,5 @@
 ---
 title: "Carmelo's Marketplace"
 url: /saint-augustine/carmelos-marketplace/
-shop: Lebensmittel
+shop: convenience
 ---

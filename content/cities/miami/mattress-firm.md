@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /miami/mattress-firm/
-shop: Betten
+shop: bed
 ---

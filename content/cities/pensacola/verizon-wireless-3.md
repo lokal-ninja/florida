@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /pensacola/verizon-wireless-3/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheffield's Body Shop"
 url: /tallahassee/sheffields-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

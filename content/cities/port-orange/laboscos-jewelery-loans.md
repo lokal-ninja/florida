@@ -1,5 +1,5 @@
 ---
 title: "Labosco's • Jewelery • Loans"
 url: /port-orange/laboscos-jewelery-loans/
-shop: Leiher
+shop: pawnbroker
 ---

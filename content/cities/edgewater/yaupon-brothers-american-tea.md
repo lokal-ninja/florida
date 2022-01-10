@@ -1,5 +1,5 @@
 ---
 title: "Yaupon Brothers American Tea"
 url: /edgewater/yaupon-brothers-american-tea/
-shop: Tee
+shop: tea
 ---

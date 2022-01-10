@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /cutler-bay/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop"
 url: /south-daytona/barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

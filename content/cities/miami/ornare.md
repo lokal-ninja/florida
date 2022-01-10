@@ -1,5 +1,5 @@
 ---
 title: "ORNARE"
 url: /miami/ornare/
-shop: Allgemein
+shop: shop
 ---

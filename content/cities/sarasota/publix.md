@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /sarasota/publix/
-shop: Supermarkt
+shop: supermarket
 ---

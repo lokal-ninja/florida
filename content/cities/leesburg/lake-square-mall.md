@@ -1,5 +1,5 @@
 ---
 title: "Lake Square Mall"
 url: /leesburg/lake-square-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fourroux Prosthetics"
 url: /tampa/fourroux-prosthetics/
-shop: Sanitätshaus
+shop: medical supply
 ---

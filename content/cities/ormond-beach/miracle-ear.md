@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /ormond-beach/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

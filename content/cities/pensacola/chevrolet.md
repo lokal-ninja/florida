@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /pensacola/chevrolet/
-shop: Autohaus
+shop: car
 ---

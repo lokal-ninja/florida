@@ -1,5 +1,5 @@
 ---
 title: "Elegant Nails"
 url: /gainesville/elegant-nails/
-shop: Kosmetik
+shop: beauty
 ---

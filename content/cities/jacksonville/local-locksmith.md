@@ -1,5 +1,5 @@
 ---
 title: "Local Locksmith"
 url: /jacksonville/local-locksmith/
-shop: Schlüsseldienst
+shop: locksmith
 ---

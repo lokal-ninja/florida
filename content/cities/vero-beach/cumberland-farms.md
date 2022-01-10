@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
 url: /vero-beach/cumberland-farms/
-shop: Lebensmittel
+shop: convenience
 ---

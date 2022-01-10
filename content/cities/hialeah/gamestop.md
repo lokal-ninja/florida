@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /hialeah/gamestop/
-shop: Videospiele
+shop: video games
 ---

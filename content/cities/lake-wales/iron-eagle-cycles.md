@@ -1,5 +1,5 @@
 ---
 title: "Iron Eagle Cycles"
 url: /lake-wales/iron-eagle-cycles/
-shop: Motorrad
+shop: motorcycle
 ---

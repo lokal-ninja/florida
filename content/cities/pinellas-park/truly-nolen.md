@@ -1,5 +1,5 @@
 ---
 title: "Truly Nolen"
 url: /pinellas-park/truly-nolen/
-shop: Allgemein
+shop: shop
 ---

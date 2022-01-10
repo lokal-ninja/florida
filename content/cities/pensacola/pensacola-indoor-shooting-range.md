@@ -1,5 +1,5 @@
 ---
 title: "Pensacola Indoor Shooting Range"
 url: /pensacola/pensacola-indoor-shooting-range/
-shop: Waffen
+shop: weapons
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luisa's Cellar"
 url: /sanford/luisas-cellar/
-shop: Wein
+shop: wine
 ---

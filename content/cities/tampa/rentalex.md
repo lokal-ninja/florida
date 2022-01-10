@@ -1,5 +1,5 @@
 ---
 title: "Rentalex"
 url: /tampa/rentalex/
-shop: Mieten
+shop: storage rental
 ---

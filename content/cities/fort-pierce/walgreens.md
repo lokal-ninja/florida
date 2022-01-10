@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /fort-pierce/walgreens/
-shop: Drogerie
+shop: chemist
 ---

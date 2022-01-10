@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /crestview/sears/
-shop: Warenhaus
+shop: department store
 ---

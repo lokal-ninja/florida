@@ -1,5 +1,5 @@
 ---
 title: "Lane Bryant"
 url: /estero/lane-bryant/
-shop: Kleidung
+shop: clothes
 ---

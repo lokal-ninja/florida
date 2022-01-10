@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /saint-petersburg/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

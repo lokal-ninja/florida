@@ -1,5 +1,5 @@
 ---
 title: "Academy Sports + Outdoors"
 url: /pensacola/academy-sports-outdoors/
-shop: Sport
+shop: sports
 ---

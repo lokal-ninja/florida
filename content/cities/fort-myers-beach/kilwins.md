@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /fort-myers-beach/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

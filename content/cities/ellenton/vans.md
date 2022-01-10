@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /ellenton/vans/
-shop: Schuhe
+shop: shoes
 ---

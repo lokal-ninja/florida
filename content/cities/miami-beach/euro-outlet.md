@@ -1,5 +1,5 @@
 ---
 title: "Euro Outlet"
 url: /miami-beach/euro-outlet/
-shop: Kleidung
+shop: clothes
 ---

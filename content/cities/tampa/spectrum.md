@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /tampa/spectrum/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /pinellas-park/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

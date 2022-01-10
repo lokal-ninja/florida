@@ -1,5 +1,5 @@
 ---
 title: "Eclectic Gifts"
 url: /tampa/eclectic-gifts/
-shop: Andenken
+shop: gift
 ---

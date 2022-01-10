@@ -1,5 +1,5 @@
 ---
 title: "Soleciety"
 url: /tampa/soleciety/
-shop: Schuhe
+shop: shoes
 ---

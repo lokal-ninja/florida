@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /orange-city/big-lots/
-shop: Warenhaus
+shop: department store
 ---

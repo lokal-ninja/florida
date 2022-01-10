@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /land-o-lakes/publix-2/
-shop: Supermarkt
+shop: supermarket
 ---

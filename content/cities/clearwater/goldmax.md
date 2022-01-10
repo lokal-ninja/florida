@@ -1,5 +1,5 @@
 ---
 title: "Goldmax"
 url: /clearwater/goldmax/
-shop: Leiher
+shop: pawnbroker
 ---

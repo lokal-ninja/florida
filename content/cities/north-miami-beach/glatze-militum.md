@@ -1,5 +1,5 @@
 ---
 title: "Glatze Militum"
 url: /north-miami-beach/glatze-militum/
-shop: Waffen
+shop: weapons
 ---

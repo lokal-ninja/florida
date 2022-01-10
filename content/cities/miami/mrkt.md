@@ -1,5 +1,5 @@
 ---
 title: "MRKT"
 url: /miami/mrkt/
-shop: Kleidung
+shop: clothes
 ---

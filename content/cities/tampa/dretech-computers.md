@@ -1,5 +1,5 @@
 ---
 title: "DreTech Computers"
 url: /tampa/dretech-computers/
-shop: Computer
+shop: computer
 ---

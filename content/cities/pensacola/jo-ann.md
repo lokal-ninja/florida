@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /pensacola/jo-ann/
-shop: Basteln
+shop: craft
 ---

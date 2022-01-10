@@ -1,5 +1,5 @@
 ---
 title: "Illimit"
 url: /miami/illimit/
-shop: Raumausstattung
+shop: interior decoration
 ---

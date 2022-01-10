@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /crestview/advance-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

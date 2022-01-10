@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /pensacola/belk/
-shop: Warenhaus
+shop: department store
 ---

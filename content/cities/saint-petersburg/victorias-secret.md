@@ -1,5 +1,5 @@
 ---
 title: "Victoria's Secret"
 url: /saint-petersburg/victorias-secret/
-shop: Kleidung
+shop: clothes
 ---

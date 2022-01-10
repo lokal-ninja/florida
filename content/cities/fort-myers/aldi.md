@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /fort-myers/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

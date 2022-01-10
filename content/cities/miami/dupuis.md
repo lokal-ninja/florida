@@ -1,5 +1,5 @@
 ---
 title: "DUPUIS"
 url: /miami/dupuis/
-shop: Allgemein
+shop: shop
 ---

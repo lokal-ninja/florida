@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /gainesville/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

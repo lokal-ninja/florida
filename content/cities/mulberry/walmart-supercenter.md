@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /mulberry/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

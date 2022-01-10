@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /south-daytona/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

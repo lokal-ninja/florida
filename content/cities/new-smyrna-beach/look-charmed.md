@@ -1,5 +1,5 @@
 ---
 title: "Look Charmed"
 url: /new-smyrna-beach/look-charmed/
-shop: Kleidung
+shop: clothes
 ---

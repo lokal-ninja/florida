@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /zephyrhills/publix-2/
-shop: Supermarkt
+shop: supermarket
 ---

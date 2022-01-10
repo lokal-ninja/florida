@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /bradenton/costco/
-shop: Großhandel
+shop: wholesale
 ---

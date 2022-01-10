@@ -1,5 +1,5 @@
 ---
 title: "iLash and Skincare"
 url: /miami/ilash-and-skincare/
-shop: Kosmetik
+shop: beauty
 ---

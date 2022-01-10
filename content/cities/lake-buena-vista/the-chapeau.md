@@ -1,5 +1,5 @@
 ---
 title: "The Chapeau"
 url: /lake-buena-vista/the-chapeau/
-shop: Kleidung
+shop: clothes
 ---

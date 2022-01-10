@@ -1,5 +1,5 @@
 ---
 title: "RazzleDazzle"
 url: /miami/razzledazzle/
-shop: Friseur
+shop: hairdresser
 ---

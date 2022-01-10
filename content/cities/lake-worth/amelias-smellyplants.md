@@ -1,5 +1,5 @@
 ---
 title: "Amelia's SmellyPlants"
 url: /lake-worth/amelias-smellyplants/
-shop: Garten-Center
+shop: garden centre
 ---

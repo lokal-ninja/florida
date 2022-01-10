@@ -1,5 +1,5 @@
 ---
 title: "Commune + Co."
 url: /tampa/commune-co/
-shop: Kaffee
+shop: coffee
 ---

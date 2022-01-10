@@ -1,5 +1,5 @@
 ---
 title: "BALENCIAGA"
 url: /miami/balenciaga/
-shop: Allgemein
+shop: shop
 ---

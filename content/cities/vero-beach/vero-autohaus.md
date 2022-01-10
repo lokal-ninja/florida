@@ -1,5 +1,5 @@
 ---
 title: "Vero AutoHaus"
 url: /vero-beach/vero-autohaus/
-shop: Mieten
+shop: storage rental
 ---

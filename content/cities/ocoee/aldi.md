@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /ocoee/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

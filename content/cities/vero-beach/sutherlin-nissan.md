@@ -1,5 +1,5 @@
 ---
 title: "Sutherlin Nissan"
 url: /vero-beach/sutherlin-nissan/
-shop: Autohaus
+shop: car
 ---

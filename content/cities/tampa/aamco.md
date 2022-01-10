@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /tampa/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

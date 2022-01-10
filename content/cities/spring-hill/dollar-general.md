@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /spring-hill/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

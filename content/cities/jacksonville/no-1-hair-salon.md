@@ -1,5 +1,5 @@
 ---
 title: "No.1 Hair Salon"
 url: /jacksonville/no-1-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

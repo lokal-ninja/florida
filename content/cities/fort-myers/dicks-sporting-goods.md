@@ -1,5 +1,5 @@
 ---
 title: "Dick's Sporting Goods"
 url: /fort-myers/dicks-sporting-goods/
-shop: Sport
+shop: sports
 ---

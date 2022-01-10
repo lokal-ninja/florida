@@ -1,5 +1,5 @@
 ---
 title: "Busy Bee"
 url: /live-oak/busy-bee/
-shop: Lebensmittel
+shop: convenience
 ---

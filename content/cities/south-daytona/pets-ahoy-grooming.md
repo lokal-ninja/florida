@@ -1,5 +1,5 @@
 ---
 title: "Pets Ahoy Grooming"
 url: /south-daytona/pets-ahoy-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colonial Room Country Store"
 url: /sanford/colonial-room-country-store/
-shop: Kramladen
+shop: variety store
 ---

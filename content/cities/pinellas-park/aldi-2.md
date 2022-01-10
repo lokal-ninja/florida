@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pinellas-park/aldi-2/
-shop: Supermarkt
+shop: supermarket
 ---

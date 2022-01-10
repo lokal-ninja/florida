@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /crawfordville/winn-dixie/
-shop: Supermarkt
+shop: supermarket
 ---

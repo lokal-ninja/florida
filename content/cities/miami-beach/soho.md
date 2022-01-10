@@ -1,5 +1,5 @@
 ---
 title: "Soho"
 url: /miami-beach/soho/
-shop: Modehaus
+shop: boutique
 ---

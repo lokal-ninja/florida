@@ -1,5 +1,5 @@
 ---
 title: "Tropical Auto Air Repair Center"
 url: /edgewater/tropical-auto-air-repair-center/
-shop: Autowerkstatt
+shop: car repair
 ---

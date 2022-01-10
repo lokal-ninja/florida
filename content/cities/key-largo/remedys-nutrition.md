@@ -1,5 +1,5 @@
 ---
 title: "Remedy's Nutrition"
 url: /key-largo/remedys-nutrition/
-shop: Bioladen
+shop: health food
 ---

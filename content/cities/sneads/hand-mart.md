@@ -1,5 +1,5 @@
 ---
 title: "Hand Mart"
 url: /sneads/hand-mart/
-shop: Lebensmittel
+shop: convenience
 ---

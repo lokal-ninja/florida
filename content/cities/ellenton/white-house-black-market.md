@@ -1,5 +1,5 @@
 ---
 title: "White House Black Market"
 url: /ellenton/white-house-black-market/
-shop: Kleidung
+shop: clothes
 ---

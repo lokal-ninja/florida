@@ -1,5 +1,5 @@
 ---
 title: "The Beauty"
 url: /jacksonville/the-beauty/
-shop: Kosmetik
+shop: beauty
 ---

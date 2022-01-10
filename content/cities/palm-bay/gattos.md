@@ -1,5 +1,5 @@
 ---
 title: "Gatto's"
 url: /palm-bay/gattos/
-shop: Autowerkstatt
+shop: car repair
 ---

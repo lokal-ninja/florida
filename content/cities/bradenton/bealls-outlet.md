@@ -1,5 +1,5 @@
 ---
 title: "Bealls Outlet"
 url: /bradenton/bealls-outlet/
-shop: Kleidung
+shop: clothes
 ---

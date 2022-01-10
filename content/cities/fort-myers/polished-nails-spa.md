@@ -1,5 +1,5 @@
 ---
 title: "Polished Nails Spa"
 url: /fort-myers/polished-nails-spa/
-shop: Kosmetik
+shop: beauty
 ---

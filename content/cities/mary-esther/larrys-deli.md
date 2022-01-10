@@ -1,5 +1,5 @@
 ---
 title: "Larry's Deli"
 url: /mary-esther/larrys-deli/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /saint-cloud/pep-boys/
-shop: Autowerkstatt
+shop: car repair
 ---

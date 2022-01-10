@@ -1,5 +1,5 @@
 ---
 title: "Tire Kingdom Express"
 url: /tallahassee/tire-kingdom-express/
-shop: Autowerkstatt
+shop: car repair
 ---

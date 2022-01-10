@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /saint-petersburg/old-navy/
-shop: Kleidung
+shop: clothes
 ---

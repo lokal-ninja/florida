@@ -1,5 +1,5 @@
 ---
 title: "Locust Projects"
 url: /miami/locust-projects/
-shop: Kunst
+shop: art
 ---

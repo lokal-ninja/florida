@@ -1,5 +1,5 @@
 ---
 title: "Peggy's Discount Health Food"
 url: /port-orange/peggys-discount-health-food/
-shop: Bioladen
+shop: health food
 ---

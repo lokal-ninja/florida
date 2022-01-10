@@ -1,5 +1,5 @@
 ---
 title: "Able Auto Repair LLC"
 url: /pensacola/able-auto-repair-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

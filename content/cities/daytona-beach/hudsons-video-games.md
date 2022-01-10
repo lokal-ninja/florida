@@ -1,5 +1,5 @@
 ---
 title: "Hudson's Video Games"
 url: /daytona-beach/hudsons-video-games/
-shop: Videospiele
+shop: video games
 ---

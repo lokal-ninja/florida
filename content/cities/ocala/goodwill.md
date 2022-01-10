@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /ocala/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

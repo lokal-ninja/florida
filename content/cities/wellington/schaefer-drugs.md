@@ -1,5 +1,5 @@
 ---
 title: "Schaefer Drugs"
 url: /wellington/schaefer-drugs/
-shop: Drogerie
+shop: chemist
 ---

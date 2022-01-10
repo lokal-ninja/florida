@@ -1,5 +1,5 @@
 ---
 title: "VShop"
 url: /orlando/vshop/
-shop: Lebensmittel
+shop: convenience
 ---

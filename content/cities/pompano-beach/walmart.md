@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /pompano-beach/walmart/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fleetco"
 url: /pensacola/fleetco/
-shop: Autoteile
+shop: car parts
 ---

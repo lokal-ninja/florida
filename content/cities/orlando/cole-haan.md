@@ -1,5 +1,5 @@
 ---
 title: "Cole Haan"
 url: /orlando/cole-haan/
-shop: Schuhe
+shop: shoes
 ---

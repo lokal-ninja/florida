@@ -1,5 +1,5 @@
 ---
 title: "Mid-County Collision"
 url: /largo/mid-county-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LA Nails"
 url: /palm-city/la-nails/
-shop: Kosmetik
+shop: beauty
 ---

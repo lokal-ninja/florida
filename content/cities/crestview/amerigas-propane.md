@@ -1,5 +1,5 @@
 ---
 title: "AmeriGas Propane"
 url: /crestview/amerigas-propane/
-shop: Gasflaschen
+shop: gas
 ---

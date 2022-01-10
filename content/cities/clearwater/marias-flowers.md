@@ -1,5 +1,5 @@
 ---
 title: "Maria's Flowers"
 url: /clearwater/marias-flowers/
-shop: Blumen
+shop: florist
 ---

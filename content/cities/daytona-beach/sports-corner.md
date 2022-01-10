@@ -1,5 +1,5 @@
 ---
 title: "Sports Corner"
 url: /daytona-beach/sports-corner/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amscot"
 url: /pinellas-park/amscot-3/
-shop: Leiher
+shop: pawnbroker
 ---

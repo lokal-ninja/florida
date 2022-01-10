@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /daytona-beach/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

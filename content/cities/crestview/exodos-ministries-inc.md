@@ -1,5 +1,5 @@
 ---
 title: "Exodos Ministries Inc"
 url: /crestview/exodos-ministries-inc/
-shop: Gebrauchtwaren
+shop: charity
 ---

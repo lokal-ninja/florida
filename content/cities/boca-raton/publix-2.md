@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /boca-raton/publix-2/
-shop: Supermarkt
+shop: supermarket
 ---

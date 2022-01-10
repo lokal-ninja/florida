@@ -1,5 +1,5 @@
 ---
 title: "Blaze Barbershop"
 url: /pensacola/blaze-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

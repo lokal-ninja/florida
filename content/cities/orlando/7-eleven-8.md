@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /orlando/7-eleven-8/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /tampa/petsmart-3/
-shop: Tiere
+shop: pet
 ---

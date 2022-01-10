@@ -1,5 +1,5 @@
 ---
 title: "Leader's Casual Furniture"
 url: /saint-petersburg/leaders-casual-furniture/
-shop: Möbel
+shop: furniture
 ---

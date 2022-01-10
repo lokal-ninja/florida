@@ -1,5 +1,5 @@
 ---
 title: "Florida State Hearing Aids, Inc."
 url: /daytona-beach/florida-state-hearing-aids-inc/
-shop: Hörgeräte
+shop: hearing aids
 ---

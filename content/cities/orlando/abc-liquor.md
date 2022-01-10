@@ -1,5 +1,5 @@
 ---
 title: "ABC Liquor"
 url: /orlando/abc-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

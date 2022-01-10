@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /jensen-beach/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paper Fox Coffee"
 url: /tallahassee/paper-fox-coffee/
-shop: Kaffee
+shop: coffee
 ---

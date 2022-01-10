@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /orlando/autozone/
-shop: Autoteile
+shop: car parts
 ---

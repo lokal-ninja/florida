@@ -1,5 +1,5 @@
 ---
 title: "Creed"
 url: /miami/creed/
-shop: Allgemein
+shop: shop
 ---

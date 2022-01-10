@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /fort-pierce/west-marine/
-shop: Baumarkt
+shop: doityourself
 ---

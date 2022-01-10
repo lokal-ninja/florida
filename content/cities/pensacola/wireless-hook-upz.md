@@ -1,5 +1,5 @@
 ---
 title: "Wireless Hook UPZ"
 url: /pensacola/wireless-hook-upz/
-shop: Handy
+shop: mobile phone
 ---

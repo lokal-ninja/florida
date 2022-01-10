@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /winter-park/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

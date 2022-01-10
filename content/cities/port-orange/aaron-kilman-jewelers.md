@@ -1,5 +1,5 @@
 ---
 title: "Aaron Kilman Jewelers"
 url: /port-orange/aaron-kilman-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

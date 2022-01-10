@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /daytona-beach-shores/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

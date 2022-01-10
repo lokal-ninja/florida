@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /fort-myers/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

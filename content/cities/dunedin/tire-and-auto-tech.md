@@ -1,5 +1,5 @@
 ---
 title: "Tire and Auto Tech"
 url: /dunedin/tire-and-auto-tech/
-shop: Autowerkstatt
+shop: car repair
 ---

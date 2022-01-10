@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /panama-city/jo-ann/
-shop: Basteln
+shop: craft
 ---

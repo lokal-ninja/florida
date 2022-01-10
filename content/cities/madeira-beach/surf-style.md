@@ -1,5 +1,5 @@
 ---
 title: "Surf Style"
 url: /madeira-beach/surf-style/
-shop: Kleidung
+shop: clothes
 ---
