@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /ocala/burlington/
+url: /pensacola/burlington/
 shop: department store
 ---

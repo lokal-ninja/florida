@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /ocala/burlington/
+url: /daytona-beach/burlington/
 shop: department store
 ---
