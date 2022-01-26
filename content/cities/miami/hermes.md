@@ -1,5 +1,5 @@
 ---
-title: "HERMÈS"
+title: "Hermès"
 url: /miami/hermes/
-shop: shop
+shop: clothes
 ---

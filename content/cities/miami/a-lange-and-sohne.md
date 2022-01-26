@@ -1,5 +1,5 @@
 ---
-title: "A. LANGE & SÖHNE"
+title: "A. Lange & Söhne"
 url: /miami/a-lange-and-sohne/
 shop: watches
 ---

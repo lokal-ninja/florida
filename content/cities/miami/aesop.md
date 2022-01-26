@@ -1,5 +1,5 @@
 ---
-title: "AESOP"
+title: "Aesop"
 url: /miami/aesop/
-shop: shop
+shop: beauty
 ---

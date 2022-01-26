@@ -1,5 +1,5 @@
 ---
-title: "POLTRONA FRAU"
+title: "Poltrona Frau"
 url: /miami/poltrona-frau/
-shop: shop
+shop: furniture
 ---

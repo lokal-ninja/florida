@@ -1,5 +1,5 @@
 ---
-title: "FENDI"
+title: "Fendi"
 url: /miami/fendi/
-shop: shop
+shop: clothes
 ---

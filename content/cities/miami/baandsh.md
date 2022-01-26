@@ -1,5 +1,5 @@
 ---
-title: "BA&SH"
+title: "Ba&sh"
 url: /miami/baandsh/
-shop: shop
+shop: clothes
 ---

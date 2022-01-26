@@ -1,5 +1,5 @@
 ---
-title: "ALEXANDER MCQUEEN"
+title: "Alexander McQueen"
 url: /miami/alexander-mcqueen/
-shop: shop
+shop: clothes
 ---

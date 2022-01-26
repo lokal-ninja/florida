@@ -1,5 +1,5 @@
 ---
-title: "LORO PIANA"
+title: "Loro Piana"
 url: /miami/loro-piana/
-shop: shop
+shop: clothes
 ---

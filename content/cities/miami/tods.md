@@ -1,5 +1,5 @@
 ---
-title: "TOD'S"
+title: "Tod's"
 url: /miami/tods/
-shop: shop
+shop: shoes
 ---

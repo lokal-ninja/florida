@@ -1,5 +1,5 @@
 ---
-title: "PANERAI"
+title: "Panerai"
 url: /miami/panerai/
 shop: watches
 ---

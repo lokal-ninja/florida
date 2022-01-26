@@ -1,5 +1,5 @@
 ---
-title: "VALENTINO"
+title: "Valentino"
 url: /miami/valentino/
 shop: clothes
 ---
