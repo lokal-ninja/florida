@@ -1,5 +1,5 @@
 ---
 title: "Rouge"
 url: /orlando/rouge/
-shop: shop
+shop: boutique
 ---

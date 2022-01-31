@@ -1,5 +1,5 @@
 ---
 title: "Camille La Vie"
 url: /orlando/camille-la-vie/
-shop: shop
+shop: boutique
 ---
