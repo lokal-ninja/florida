@@ -7,5 +7,5 @@ city: Pensacola
 street: "West Cervantes Street"
 housenumber: 2727
 phone: ""
-opening_hours: "Mon-Tues and Thu-Sun-10AM-6PM Wed-11AM-6PM"
+opening_hours: "Mo,Tu,Th-Su 10:00-18:00; We 11:00-18:00"
 website: ""
