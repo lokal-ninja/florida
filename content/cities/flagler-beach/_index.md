@@ -1,6 +1,6 @@
 ---
 title: Flagler Beach
 url: /flagler-beach/
-latitude: 29.478
-longitude: -81.15
+latitude: 29.479
+longitude: -81.148
 ---

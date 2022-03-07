@@ -1,6 +1,6 @@
 ---
 title: Homestead
 url: /homestead/
-latitude: 25.54
-longitude: -80.371
+latitude: 25.469
+longitude: -80.477
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fleming Island
 url: /fleming-island/
-latitude: 30.07
-longitude: -81.706
+latitude: 30.1
+longitude: -81.721
 ---
