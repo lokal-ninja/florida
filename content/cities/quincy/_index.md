@@ -1,6 +1,6 @@
 ---
 title: Quincy
 url: /quincy/
-latitude: 30.558
-longitude: -84.596
+latitude: 30.588
+longitude: -84.575
 ---
