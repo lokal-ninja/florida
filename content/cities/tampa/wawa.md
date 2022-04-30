@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /tampa/wawa/
-shop: shop
+shop: convenience
 ---
