@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /sunny-isles-beach/t-mobile/
+url: /boca-raton/t-mobile/
 shop: mobile phone
 ---
