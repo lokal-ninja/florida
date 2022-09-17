@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /wesley-chapel/nothing-bundt-cakes/
-shop: bakery
+shop: pastry
 ---
