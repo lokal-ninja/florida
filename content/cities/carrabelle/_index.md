@@ -1,6 +1,6 @@
 ---
 title: Carrabelle
 url: /carrabelle/
-latitude: 29.851
-longitude: -84.664
+latitude: 29.844
+longitude: -84.68
 ---
