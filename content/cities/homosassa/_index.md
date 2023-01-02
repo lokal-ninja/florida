@@ -1,6 +1,6 @@
 ---
 title: Homosassa
 url: /homosassa/
-latitude: 28.78
-longitude: -82.62
+latitude: 28.734
+longitude: -82.552
 ---
