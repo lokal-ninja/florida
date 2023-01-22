@@ -1,6 +1,6 @@
 ---
 title: West Melbourne
 url: /west-melbourne/
-latitude: 28.079
-longitude: -80.642
+latitude: 28.077
+longitude: -80.646
 ---

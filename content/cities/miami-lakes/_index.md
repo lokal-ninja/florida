@@ -1,6 +1,6 @@
 ---
 title: Miami Lakes
 url: /miami-lakes/
-latitude: 25.858
-longitude: -80.325
+latitude: 25.913
+longitude: -80.312
 ---
