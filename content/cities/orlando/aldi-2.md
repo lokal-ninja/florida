@@ -1,5 +1,0 @@
----
-title: "ALDI"
-url: /orlando/aldi-2/
-shop: supermarket
----

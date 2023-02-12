@@ -1,6 +1,6 @@
 ---
 title: Daytona Beach Shores
 url: /daytona-beach-shores/
-latitude: 29.153
-longitude: -80.97
+latitude: 29.196
+longitude: -80.994
 ---
