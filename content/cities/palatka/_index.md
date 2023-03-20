@@ -1,6 +1,6 @@
 ---
 title: Palatka
 url: /palatka/
-latitude: 29.646
-longitude: -81.597
+latitude: 29.648
+longitude: -81.631
 ---
