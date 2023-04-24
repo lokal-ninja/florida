@@ -1,6 +1,6 @@
 ---
 title: Sebring
 url: /sebring/
-latitude: 27.479
-longitude: -81.477
+latitude: 27.486
+longitude: -81.482
 ---

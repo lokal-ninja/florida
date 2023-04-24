@@ -1,6 +1,6 @@
 ---
 title: Winter Haven
 url: /winter-haven/
-latitude: 27.987
-longitude: -81.686
+latitude: 27.983
+longitude: -81.676
 ---
