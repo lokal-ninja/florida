@@ -1,6 +1,6 @@
 ---
 title: Pensacola
 url: /pensacola/
-latitude: 30.482
-longitude: -87.212
+latitude: 30.415
+longitude: -87.216
 ---
