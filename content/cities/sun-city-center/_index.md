@@ -1,6 +1,6 @@
 ---
 title: Sun City Center
 url: /sun-city-center/
-latitude: 27.713
-longitude: -82.357
+latitude: 27.714
+longitude: -82.356
 ---
