@@ -1,6 +1,6 @@
 ---
 title: Live Oak
 url: /live-oak/
-latitude: 30.332
-longitude: -82.96
+latitude: 30.298
+longitude: -82.989
 ---
