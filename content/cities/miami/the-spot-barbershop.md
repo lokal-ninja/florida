@@ -1,5 +1,5 @@
 ---
-title: "THE SPOT BARBERSHOP"
+title: "The Spot Barbershop"
 url: /miami/the-spot-barbershop/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
-title: "OFF-WHITE"
+title: "Off-White"
 url: /miami/off-white/
 shop: clothes
 ---

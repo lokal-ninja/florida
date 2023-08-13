@@ -1,5 +1,5 @@
 ---
-title: "JONATHAN ADLER"
+title: "Jonathan Adler"
 url: /miami/jonathan-adler/
 shop: shop
 ---

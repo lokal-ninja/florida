@@ -1,5 +1,5 @@
 ---
-title: "KREWE"
+title: "Krewe"
 url: /miami/krewe/
 shop: optician
 ---

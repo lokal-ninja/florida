@@ -1,5 +1,5 @@
 ---
-title: "I ON THE DISTRICT"
+title: "I On The District"
 url: /miami/i-on-the-district/
 shop: optician
 ---

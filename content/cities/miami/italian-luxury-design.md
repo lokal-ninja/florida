@@ -1,5 +1,5 @@
 ---
-title: "ITALIAN LUXURY DESIGN"
+title: "Italian Luxury Design"
 url: /miami/italian-luxury-design/
 shop: kitchen
 ---

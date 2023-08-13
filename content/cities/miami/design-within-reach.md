@@ -1,5 +1,5 @@
 ---
-title: "DESIGN WITHIN REACH"
+title: "Design Within Reach"
 url: /miami/design-within-reach/
 shop: furniture
 ---

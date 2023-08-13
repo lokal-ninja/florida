@@ -1,5 +1,5 @@
 ---
-title: "NIGHT OWL COOKIES"
+title: "Night Owl Cookies"
 url: /miami/night-owl-cookies/
 shop: bakery
 ---
