@@ -1,6 +1,6 @@
 ---
 title: Floral City
 url: /floral-city/
-latitude: 28.742
-longitude: -82.3
+latitude: 28.75
+longitude: -82.296
 ---
