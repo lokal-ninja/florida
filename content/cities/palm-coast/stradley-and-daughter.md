@@ -1,5 +1,5 @@
 ---
 title: "Stradley & Daughter"
-url: /daytona-beach/stradley-and-daughter/
+url: /palm-coast/stradley-and-daughter/
 shop: jewelry
 ---
