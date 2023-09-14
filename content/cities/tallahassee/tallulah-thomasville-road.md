@@ -1,5 +1,5 @@
 ---
 title: "Tallulah"
-url: /tallahassee/tallulah/
+url: /tallahassee/tallulah-thomasville-road/
 shop: cannabis
 ---

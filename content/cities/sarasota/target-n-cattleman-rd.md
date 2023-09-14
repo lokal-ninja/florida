@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /sarasota/target/
+url: /sarasota/target-n-cattleman-rd/
 shop: department store
 ---

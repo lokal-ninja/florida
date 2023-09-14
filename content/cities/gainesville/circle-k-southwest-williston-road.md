@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /gainesville/circle-k/
+url: /gainesville/circle-k-southwest-williston-road/
 shop: convenience
 ---

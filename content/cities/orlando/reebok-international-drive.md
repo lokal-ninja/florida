@@ -1,5 +1,5 @@
 ---
 title: "Reebok"
-url: /orlando/reebok/
+url: /orlando/reebok-international-drive/
 shop: clothes
 ---

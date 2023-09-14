@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /largo/publix/
+url: /largo/publix-east-bay-drive/
 shop: supermarket
 ---

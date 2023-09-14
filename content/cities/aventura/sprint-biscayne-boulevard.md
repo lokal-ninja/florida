@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
-url: /aventura/sprint/
+url: /aventura/sprint-biscayne-boulevard/
 shop: mobile phone
 ---

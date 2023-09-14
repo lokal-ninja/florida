@@ -1,5 +1,5 @@
 ---
 title: "Amscot"
-url: /tampa/amscot/
+url: /tampa/amscot-e-rampart-st/
 shop: pawnbroker
 ---

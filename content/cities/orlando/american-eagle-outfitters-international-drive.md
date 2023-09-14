@@ -1,5 +1,5 @@
 ---
 title: "American Eagle Outfitters"
-url: /orlando/american-eagle-outfitters/
+url: /orlando/american-eagle-outfitters-international-drive/
 shop: clothes
 ---

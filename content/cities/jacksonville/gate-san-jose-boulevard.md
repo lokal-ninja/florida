@@ -1,5 +1,5 @@
 ---
 title: "Gate"
-url: /jacksonville/gate/
+url: /jacksonville/gate-san-jose-boulevard/
 shop: convenience
 ---

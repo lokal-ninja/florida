@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /tampa/gnc/
+url: /tampa/gnc-international-plaza/
 shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /largo/verizon/
+url: /largo/verizon-missouri-avenue-north/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /stuart/mobil-mart/
+url: /stuart/mobil-mart-southeast-dixie-highway/
 shop: convenience
 ---

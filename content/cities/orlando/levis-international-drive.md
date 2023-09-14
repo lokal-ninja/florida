@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
-url: /orlando/levis/
+url: /orlando/levis-international-drive/
 shop: clothes
 ---

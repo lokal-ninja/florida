@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /tallahassee/verizon/
+url: /tallahassee/verizon-apalachee-parkway/
 shop: mobile phone
 ---

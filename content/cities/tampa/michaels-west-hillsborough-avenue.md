@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
-url: /tampa/michaels/
+url: /tampa/michaels-west-hillsborough-avenue/
 shop: craft
 ---

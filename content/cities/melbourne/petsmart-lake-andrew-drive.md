@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
-url: /melbourne/petsmart/
+url: /melbourne/petsmart-lake-andrew-drive/
 shop: pet
 ---

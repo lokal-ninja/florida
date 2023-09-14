@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /orlando/nothing-bundt-cakes/
+url: /orlando/nothing-bundt-cakes-alafaya-trail/
 shop: pastry
 ---

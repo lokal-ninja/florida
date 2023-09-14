@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /tampa/verizon/
+url: /tampa/verizon-kennedy-boulevard/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sports Authority"
-url: /tampa/sports-authority/
+url: /tampa/sports-authority-s-occident-st/
 shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /jacksonville/speedway/
+url: /jacksonville/speedway-university-boulevard-west/
 shop: convenience
 ---

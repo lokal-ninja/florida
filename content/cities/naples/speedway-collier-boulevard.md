@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /naples/speedway/
+url: /naples/speedway-collier-boulevard/
 shop: convenience
 ---

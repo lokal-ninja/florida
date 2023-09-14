@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /plantation/publix/
+url: /plantation/publix-north-pine-island-road/
 shop: supermarket
 ---

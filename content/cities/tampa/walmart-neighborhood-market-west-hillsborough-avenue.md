@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /tampa/walmart-neighborhood-market/
+url: /tampa/walmart-neighborhood-market-west-hillsborough-avenue/
 shop: supermarket
 ---

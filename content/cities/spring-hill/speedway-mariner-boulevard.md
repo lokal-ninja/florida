@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /spring-hill/speedway/
+url: /spring-hill/speedway-mariner-boulevard/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
-url: /daytona-beach/lenscrafters/
+url: /daytona-beach/lenscrafters-international-speedway-boulevard/
 shop: optician
 ---

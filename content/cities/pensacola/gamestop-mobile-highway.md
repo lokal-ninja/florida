@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
-url: /pensacola/gamestop/
+url: /pensacola/gamestop-mobile-highway/
 shop: video games
 ---

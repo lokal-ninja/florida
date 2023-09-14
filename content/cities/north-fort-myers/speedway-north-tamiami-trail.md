@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /north-fort-myers/speedway/
+url: /north-fort-myers/speedway-north-tamiami-trail/
 shop: convenience
 ---

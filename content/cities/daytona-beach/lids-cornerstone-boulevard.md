@@ -1,5 +1,5 @@
 ---
 title: "Lids"
-url: /daytona-beach/lids/
+url: /daytona-beach/lids-cornerstone-boulevard/
 shop: clothes
 ---

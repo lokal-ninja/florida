@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /tallahassee/aldi/
+url: /tallahassee/aldi-apalachee-parkway/
 shop: supermarket
 ---

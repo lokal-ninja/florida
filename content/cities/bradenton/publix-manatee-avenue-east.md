@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /bradenton/publix/
+url: /bradenton/publix-manatee-avenue-east/
 shop: supermarket
 ---

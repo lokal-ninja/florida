@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /pinellas-park/mattress-firm/
+url: /pinellas-park/mattress-firm-us-19/
 shop: bed
 ---

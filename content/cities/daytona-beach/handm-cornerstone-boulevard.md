@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /daytona-beach/handm/
+url: /daytona-beach/handm-cornerstone-boulevard/
 shop: clothes
 ---

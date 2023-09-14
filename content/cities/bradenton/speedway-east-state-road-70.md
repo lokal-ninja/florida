@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /bradenton/speedway/
+url: /bradenton/speedway-east-state-road-70/
 shop: convenience
 ---

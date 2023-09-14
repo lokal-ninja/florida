@@ -1,5 +1,5 @@
 ---
 title: "Gate"
-url: /jacksonville/gate/
+url: /jacksonville/gate-old-saint-augustine-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /largo/speedway/
+url: /largo/speedway-walsingham-road/
 shop: convenience
 ---

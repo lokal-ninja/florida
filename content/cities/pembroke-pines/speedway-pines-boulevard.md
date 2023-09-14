@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /pembroke-pines/speedway/
+url: /pembroke-pines/speedway-pines-boulevard/
 shop: convenience
 ---

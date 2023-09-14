@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /sarasota/speedway/
+url: /sarasota/speedway-north-washington-boulevard/
 shop: convenience
 ---

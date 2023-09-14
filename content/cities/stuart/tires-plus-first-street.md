@@ -1,5 +1,5 @@
 ---
 title: "Tires Plus"
-url: /stuart/tires-plus/
+url: /stuart/tires-plus-first-street/
 shop: tyres
 ---

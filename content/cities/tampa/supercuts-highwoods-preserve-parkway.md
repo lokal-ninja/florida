@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /tampa/supercuts/
+url: /tampa/supercuts-highwoods-preserve-parkway/
 shop: hairdresser
 ---

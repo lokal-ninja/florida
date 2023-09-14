@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hialeah/speedway/
+url: /hialeah/speedway-east-49th-street/
 shop: convenience
 ---

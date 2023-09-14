@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /sarasota/goodwill/
+url: /sarasota/goodwill-derek-avenue/
 shop: charity
 ---

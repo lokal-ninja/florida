@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /saint-petersburg/speedway/
+url: /saint-petersburg/speedway-34th-street-north/
 shop: convenience
 ---

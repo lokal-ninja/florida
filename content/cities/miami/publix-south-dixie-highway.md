@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /miami/publix/
+url: /miami/publix-south-dixie-highway/
 shop: supermarket
 ---

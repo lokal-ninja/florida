@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /monticello/dollar-general/
+url: /monticello/dollar-general-waukeenah-highway/
 shop: variety store
 ---

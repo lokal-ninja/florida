@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /daytona-beach/sunoco/
+url: /daytona-beach/sunoco-south-atlantic-avenue/
 shop: convenience
 ---

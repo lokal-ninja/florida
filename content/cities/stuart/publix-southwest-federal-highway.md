@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /stuart/publix/
+url: /stuart/publix-southwest-federal-highway/
 shop: supermarket
 ---

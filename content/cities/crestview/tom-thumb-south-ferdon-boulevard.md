@@ -1,5 +1,5 @@
 ---
 title: "Tom Thumb"
-url: /crestview/tom-thumb/
+url: /crestview/tom-thumb-south-ferdon-boulevard/
 shop: convenience
 ---

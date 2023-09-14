@@ -1,5 +1,5 @@
 ---
 title: "Zoom Tan"
-url: /tallahassee/zoom-tan/
+url: /tallahassee/zoom-tan-capital-circle-northeast/
 shop: beauty
 ---

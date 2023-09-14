@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
-url: /tampa/thorntons/
+url: /tampa/thorntons-west-hillsborough-avenue/
 shop: convenience
 ---

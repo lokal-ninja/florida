@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /eustis/publix/
+url: /eustis/publix-state-road-44/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /boca-raton/publix/
+url: /boca-raton/publix-palmetto-park-road/
 shop: supermarket
 ---

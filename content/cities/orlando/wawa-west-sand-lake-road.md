@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /orlando/wawa/
+url: /orlando/wawa-west-sand-lake-road/
 shop: convenience
 ---

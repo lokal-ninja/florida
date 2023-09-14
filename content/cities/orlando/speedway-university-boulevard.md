@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /orlando/speedway/
+url: /orlando/speedway-university-boulevard/
 shop: convenience
 ---

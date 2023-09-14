@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /clearwater/walmart-supercenter/
+url: /clearwater/walmart-supercenter-roosevelt-boulevard/
 shop: supermarket
 ---

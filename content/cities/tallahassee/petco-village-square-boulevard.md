@@ -1,5 +1,5 @@
 ---
 title: "Petco"
-url: /tallahassee/petco/
+url: /tallahassee/petco-village-square-boulevard/
 shop: pet
 ---

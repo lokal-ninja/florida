@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /tallahassee/gnc/
+url: /tallahassee/gnc-village-square-boulevard/
 shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hollywood/speedway/
+url: /hollywood/speedway-taft-street/
 shop: convenience
 ---

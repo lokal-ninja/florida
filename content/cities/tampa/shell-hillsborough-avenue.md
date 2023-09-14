@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /tampa/shell/
+url: /tampa/shell-hillsborough-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tommy Hilfiger"
-url: /orlando/tommy-hilfiger/
+url: /orlando/tommy-hilfiger-international-drive/
 shop: clothes
 ---

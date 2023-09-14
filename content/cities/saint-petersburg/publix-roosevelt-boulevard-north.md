@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /saint-petersburg/publix/
+url: /saint-petersburg/publix-roosevelt-boulevard-north/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
-url: /tampa/aarons/
+url: /tampa/aarons-north-florida-avenue/
 shop: furniture
 ---

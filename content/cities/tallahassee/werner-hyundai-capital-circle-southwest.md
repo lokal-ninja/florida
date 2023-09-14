@@ -1,5 +1,5 @@
 ---
 title: "Werner Hyundai"
-url: /tallahassee/werner-hyundai/
+url: /tallahassee/werner-hyundai-capital-circle-southwest/
 shop: car
 ---

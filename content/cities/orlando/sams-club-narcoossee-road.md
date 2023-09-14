@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
-url: /orlando/sams-club/
+url: /orlando/sams-club-narcoossee-road/
 shop: wholesale
 ---

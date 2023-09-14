@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /riverview/racetrac/
+url: /riverview/racetrac-gibsonton-drive/
 shop: convenience
 ---

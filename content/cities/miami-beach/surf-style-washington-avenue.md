@@ -1,5 +1,5 @@
 ---
 title: "Surf Style"
-url: /miami-beach/surf-style/
+url: /miami-beach/surf-style-washington-avenue/
 shop: clothes
 ---

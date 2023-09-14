@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /cutler-bay/cvs-pharmacy/
+url: /cutler-bay/cvs-pharmacy-south-dixie-highway/
 shop: chemist
 ---

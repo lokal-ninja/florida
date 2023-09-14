@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /tallahassee/circle-k/
+url: /tallahassee/circle-k-mahan-drive/
 shop: convenience
 ---

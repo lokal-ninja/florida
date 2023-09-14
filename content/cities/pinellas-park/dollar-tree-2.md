@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /pinellas-park/dollar-tree/
+url: /pinellas-park/dollar-tree-2/
 shop: variety store
 ---

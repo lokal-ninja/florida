@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /miami/target/
+url: /miami/target-southwest-104th-street/
 shop: department store
 ---

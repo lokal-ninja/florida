@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /zephyrhills/speedway/
+url: /zephyrhills/speedway-gall-boulevard/
 shop: convenience
 ---

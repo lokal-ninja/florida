@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /tampa/marathon/
+url: /tampa/marathon-memorial-highway/
 shop: convenience
 ---

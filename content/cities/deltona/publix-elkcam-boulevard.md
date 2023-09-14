@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /deltona/publix/
+url: /deltona/publix-elkcam-boulevard/
 shop: supermarket
 ---

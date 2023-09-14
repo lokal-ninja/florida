@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
-url: /miami/michaels/
+url: /miami/michaels-southwest-88th-street/
 shop: craft
 ---

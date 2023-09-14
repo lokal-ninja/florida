@@ -1,5 +1,5 @@
 ---
 title: "My EyeLab"
-url: /miami/my-eyelab/
+url: /miami/my-eyelab-southwest-88th-street/
 shop: optician
 ---

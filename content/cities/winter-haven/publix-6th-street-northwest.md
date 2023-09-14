@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /winter-haven/publix/
+url: /winter-haven/publix-6th-street-northwest/
 shop: supermarket
 ---

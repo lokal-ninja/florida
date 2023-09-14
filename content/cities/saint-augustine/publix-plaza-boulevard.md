@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /saint-augustine/publix/
+url: /saint-augustine/publix-plaza-boulevard/
 shop: supermarket
 ---

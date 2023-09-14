@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
-url: /orlando/adidas/
+url: /orlando/adidas-international-drive/
 shop: sports
 ---

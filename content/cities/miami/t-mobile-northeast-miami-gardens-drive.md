@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /miami/t-mobile/
+url: /miami/t-mobile-northeast-miami-gardens-drive/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /fort-lauderdale/speedway/
+url: /fort-lauderdale/speedway-north-ocean-boulevard/
 shop: convenience
 ---

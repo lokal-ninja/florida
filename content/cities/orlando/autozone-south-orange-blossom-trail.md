@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /orlando/autozone/
+url: /orlando/autozone-south-orange-blossom-trail/
 shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garnet and Gold"
-url: /tallahassee/garnet-and-gold/
+url: /tallahassee/garnet-and-gold-governors-square-boulevard/
 shop: shop
 ---

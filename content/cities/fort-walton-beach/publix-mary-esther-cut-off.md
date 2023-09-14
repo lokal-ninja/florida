@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /fort-walton-beach/publix/
+url: /fort-walton-beach/publix-mary-esther-cut-off/
 shop: supermarket
 ---

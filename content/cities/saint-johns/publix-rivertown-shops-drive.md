@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /saint-johns/publix/
+url: /saint-johns/publix-rivertown-shops-drive/
 shop: supermarket
 ---

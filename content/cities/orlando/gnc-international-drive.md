@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /orlando/gnc/
+url: /orlando/gnc-international-drive/
 shop: nutrition supplements
 ---

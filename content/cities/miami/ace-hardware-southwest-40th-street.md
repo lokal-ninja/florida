@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
-url: /miami/ace-hardware/
+url: /miami/ace-hardware-southwest-40th-street/
 shop: doityourself
 ---

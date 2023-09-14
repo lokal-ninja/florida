@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /orlando/target/
+url: /orlando/target-town-center-boulevard/
 shop: supermarket
 ---

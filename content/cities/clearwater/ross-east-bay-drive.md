@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /clearwater/ross/
+url: /clearwater/ross-east-bay-drive/
 shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /fort-myers/publix/
+url: /fort-myers/publix-mcgregor-boulevard/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /tampa/speedway/
+url: /tampa/speedway-north-florida-avenue/
 shop: convenience
 ---

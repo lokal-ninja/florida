@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /tampa/walmart-supercenter/
+url: /tampa/walmart-supercenter-east-hillsborough-avenue/
 shop: supermarket
 ---

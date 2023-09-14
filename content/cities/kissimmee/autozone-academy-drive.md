@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /kissimmee/autozone/
+url: /kissimmee/autozone-academy-drive/
 shop: car parts
 ---

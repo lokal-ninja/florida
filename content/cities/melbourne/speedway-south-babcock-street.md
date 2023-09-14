@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /melbourne/speedway/
+url: /melbourne/speedway-south-babcock-street/
 shop: convenience
 ---

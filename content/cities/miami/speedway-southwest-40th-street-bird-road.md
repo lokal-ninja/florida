@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /miami/speedway/
+url: /miami/speedway-southwest-40th-street-bird-road/
 shop: convenience
 ---

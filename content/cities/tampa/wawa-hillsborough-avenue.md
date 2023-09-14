@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /tampa/wawa/
+url: /tampa/wawa-hillsborough-avenue/
 shop: convenience
 ---

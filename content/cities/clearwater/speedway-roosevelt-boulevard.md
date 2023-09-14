@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /clearwater/speedway/
+url: /clearwater/speedway-roosevelt-boulevard/
 shop: convenience
 ---

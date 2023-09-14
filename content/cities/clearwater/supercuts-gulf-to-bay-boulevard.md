@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /clearwater/supercuts/
+url: /clearwater/supercuts-gulf-to-bay-boulevard/
 shop: hairdresser
 ---

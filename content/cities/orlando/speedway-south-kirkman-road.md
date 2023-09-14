@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /orlando/speedway/
+url: /orlando/speedway-south-kirkman-road/
 shop: convenience
 ---

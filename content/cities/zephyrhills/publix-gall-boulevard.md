@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /zephyrhills/publix/
+url: /zephyrhills/publix-gall-boulevard/
 shop: supermarket
 ---

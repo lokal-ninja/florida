@@ -1,5 +1,5 @@
 ---
 title: "Party City"
-url: /miami/party-city/
+url: /miami/party-city-southwest-88th-street/
 shop: party
 ---

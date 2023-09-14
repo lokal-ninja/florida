@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /orlando/circle-k/
+url: /orlando/circle-k-south-orange-blossom-trail/
 shop: convenience
 ---

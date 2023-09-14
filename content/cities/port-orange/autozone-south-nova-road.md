@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /port-orange/autozone/
+url: /port-orange/autozone-south-nova-road/
 shop: car parts
 ---

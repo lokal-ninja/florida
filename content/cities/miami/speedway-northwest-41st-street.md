@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /miami/speedway/
+url: /miami/speedway-northwest-41st-street/
 shop: convenience
 ---

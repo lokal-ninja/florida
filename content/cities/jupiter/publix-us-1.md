@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /jupiter/publix/
+url: /jupiter/publix-us-1/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /leesburg/publix/
+url: /leesburg/publix-us-highway-27/
 shop: supermarket
 ---

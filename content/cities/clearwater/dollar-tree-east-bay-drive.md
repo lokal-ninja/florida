@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /clearwater/dollar-tree/
+url: /clearwater/dollar-tree-east-bay-drive/
 shop: variety store
 ---

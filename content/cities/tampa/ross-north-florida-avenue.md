@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /tampa/ross/
+url: /tampa/ross-north-florida-avenue/
 shop: department store
 ---

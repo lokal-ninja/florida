@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /apopka/publix/
+url: /apopka/publix-s-hunt-club-boulevard/
 shop: supermarket
 ---

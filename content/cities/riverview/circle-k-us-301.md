@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /riverview/circle-k/
+url: /riverview/circle-k-us-301/
 shop: convenience
 ---

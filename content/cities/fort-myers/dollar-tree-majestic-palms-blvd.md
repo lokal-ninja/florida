@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /fort-myers/dollar-tree/
+url: /fort-myers/dollar-tree-majestic-palms-blvd/
 shop: variety store
 ---

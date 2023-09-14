@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
-url: /orlando/food-mart/
+url: /orlando/food-mart-central-florida-parkway/
 shop: convenience
 ---

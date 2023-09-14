@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /ormond-beach/walgreens/
+url: /ormond-beach/walgreens-west-granada-boulevard/
 shop: chemist
 ---

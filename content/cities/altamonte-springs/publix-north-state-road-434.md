@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /altamonte-springs/publix/
+url: /altamonte-springs/publix-north-state-road-434/
 shop: supermarket
 ---

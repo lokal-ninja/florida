@@ -1,5 +1,5 @@
 ---
 title: "Sunglass Hut"
-url: /miami-beach/sunglass-hut/
+url: /miami-beach/sunglass-hut-collins-avenue/
 shop: optician
 ---

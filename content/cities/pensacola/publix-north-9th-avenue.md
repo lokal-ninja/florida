@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /pensacola/publix/
+url: /pensacola/publix-north-9th-avenue/
 shop: supermarket
 ---

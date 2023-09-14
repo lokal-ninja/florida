@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /clearwater/mattress-firm/
+url: /clearwater/mattress-firm-gulf-to-bay-boulevard/
 shop: bed
 ---

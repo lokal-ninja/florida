@@ -1,5 +1,5 @@
 ---
 title: "Amscot"
-url: /clearwater/amscot/
+url: /clearwater/amscot-n-highland-ave/
 shop: pawnbroker
 ---

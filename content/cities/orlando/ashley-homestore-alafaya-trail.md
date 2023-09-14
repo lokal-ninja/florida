@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
-url: /orlando/ashley-homestore/
+url: /orlando/ashley-homestore-alafaya-trail/
 shop: furniture
 ---

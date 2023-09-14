@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /tampa/racetrac/
+url: /tampa/racetrac-west-linebaugh-avenue/
 shop: convenience
 ---

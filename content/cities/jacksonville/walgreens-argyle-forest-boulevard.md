@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /jacksonville/walgreens/
+url: /jacksonville/walgreens-argyle-forest-boulevard/
 shop: chemist
 ---

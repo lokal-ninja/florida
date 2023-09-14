@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
-url: /tampa/visionworks/
+url: /tampa/visionworks-dale-mabry-highway/
 shop: optician
 ---

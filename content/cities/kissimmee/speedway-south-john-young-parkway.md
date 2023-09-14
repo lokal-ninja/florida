@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /kissimmee/speedway/
+url: /kissimmee/speedway-south-john-young-parkway/
 shop: convenience
 ---

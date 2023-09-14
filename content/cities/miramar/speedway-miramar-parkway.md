@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /miramar/speedway/
+url: /miramar/speedway-miramar-parkway/
 shop: convenience
 ---

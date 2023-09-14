@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /tallahassee/supercuts/
+url: /tallahassee/supercuts-village-square-boulevard/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stadium Toyota"
-url: /tampa/stadium-toyota/
+url: /tampa/stadium-toyota-north-dale-mabry-highway/
 shop: car
 ---

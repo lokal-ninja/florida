@@ -1,5 +1,5 @@
 ---
 title: "Loewe"
-url: /miami/loewe/
+url: /miami/loewe-northeast-41st-street/
 shop: clothes
 ---

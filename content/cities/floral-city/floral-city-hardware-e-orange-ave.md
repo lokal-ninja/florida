@@ -1,5 +1,5 @@
 ---
 title: "Floral City Hardware"
-url: /floral-city/floral-city-hardware/
+url: /floral-city/floral-city-hardware-e-orange-ave/
 shop: hardware
 ---

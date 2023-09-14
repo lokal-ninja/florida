@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /oldsmar/speedway/
+url: /oldsmar/speedway-tampa-road/
 shop: convenience
 ---

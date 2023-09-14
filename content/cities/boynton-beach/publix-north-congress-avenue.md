@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /boynton-beach/publix/
+url: /boynton-beach/publix-north-congress-avenue/
 shop: supermarket
 ---

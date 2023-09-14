@@ -1,5 +1,5 @@
 ---
 title: "Pet Supermarket"
-url: /miami/pet-supermarket/
+url: /miami/pet-supermarket-southwest-107th-avenue/
 shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "S&S"
-url: /jasper/sands/
+url: /jasper/sands-hatley-street/
 shop: convenience
 ---

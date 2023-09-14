@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /palm-coast/publix/
+url: /palm-coast/publix-palm-coast-parkway-northeast/
 shop: supermarket
 ---

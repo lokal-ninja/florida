@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /kissimmee/publix/
+url: /kissimmee/publix-dyer-boulevard/
 shop: supermarket
 ---

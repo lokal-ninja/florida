@@ -1,5 +1,5 @@
 ---
 title: "Nike"
-url: /orlando/nike/
+url: /orlando/nike-international-drive/
 shop: clothes
 ---

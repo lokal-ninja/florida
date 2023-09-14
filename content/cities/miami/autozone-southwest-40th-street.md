@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /miami/autozone/
+url: /miami/autozone-southwest-40th-street/
 shop: car parts
 ---

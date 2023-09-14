@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /spring-hill/dollar-general/
+url: /spring-hill/dollar-general-shady-hills-road/
 shop: variety store
 ---

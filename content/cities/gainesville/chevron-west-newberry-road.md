@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /gainesville/chevron/
+url: /gainesville/chevron-west-newberry-road/
 shop: convenience
 ---

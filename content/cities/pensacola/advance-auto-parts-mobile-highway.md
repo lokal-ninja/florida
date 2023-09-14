@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /pensacola/advance-auto-parts/
+url: /pensacola/advance-auto-parts-mobile-highway/
 shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /riverview/wawa/
+url: /riverview/wawa-boyette-road/
 shop: convenience
 ---

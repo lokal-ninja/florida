@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /stuart/speedway/
+url: /stuart/speedway-southeast-federal-highway/
 shop: convenience
 ---

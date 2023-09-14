@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /tampa/mobil-mart/
+url: /tampa/mobil-mart-north-50th-street/
 shop: convenience
 ---

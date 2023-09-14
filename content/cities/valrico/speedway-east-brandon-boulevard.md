@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /valrico/speedway/
+url: /valrico/speedway-east-brandon-boulevard/
 shop: convenience
 ---

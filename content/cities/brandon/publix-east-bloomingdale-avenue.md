@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /brandon/publix/
+url: /brandon/publix-east-bloomingdale-avenue/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
-url: /panama-city/u-haul/
+url: /panama-city/u-haul-west-15th-street/
 shop: storage rental
 ---

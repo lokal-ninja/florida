@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
-url: /pensacola/pep-boys/
+url: /pensacola/pep-boys-east-nine-mile-road/
 shop: car repair
 ---

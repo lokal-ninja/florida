@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /hollywood/burlington/
+url: /hollywood/burlington-oakwood-boulevard/
 shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
-url: /tampa/journeys/
+url: /tampa/journeys-international-plaza/
 shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
-url: /tampa/skechers/
+url: /tampa/skechers-international-plaza/
 shop: shoes
 ---

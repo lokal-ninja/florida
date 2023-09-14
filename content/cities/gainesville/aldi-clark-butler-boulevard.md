@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /gainesville/aldi/
+url: /gainesville/aldi-clark-butler-boulevard/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
-url: /tallahassee/sport-clips/
+url: /tallahassee/sport-clips-ocala-road/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /palm-harbor/speedway/
+url: /palm-harbor/speedway-us-highway-19-north/
 shop: convenience
 ---

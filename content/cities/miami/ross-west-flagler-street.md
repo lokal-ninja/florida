@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /miami/ross/
+url: /miami/ross-west-flagler-street/
 shop: department store
 ---

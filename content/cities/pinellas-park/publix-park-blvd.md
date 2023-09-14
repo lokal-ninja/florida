@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /pinellas-park/publix/
+url: /pinellas-park/publix-park-blvd/
 shop: supermarket
 ---

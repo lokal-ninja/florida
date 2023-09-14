@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /tallahassee/walmart-supercenter/
+url: /tallahassee/walmart-supercenter-west-tennessee-street/
 shop: supermarket
 ---

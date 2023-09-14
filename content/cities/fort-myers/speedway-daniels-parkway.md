@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /fort-myers/speedway/
+url: /fort-myers/speedway-daniels-parkway/
 shop: convenience
 ---

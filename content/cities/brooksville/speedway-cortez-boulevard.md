@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /brooksville/speedway/
+url: /brooksville/speedway-cortez-boulevard/
 shop: convenience
 ---

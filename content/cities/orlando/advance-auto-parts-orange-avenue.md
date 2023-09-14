@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /orlando/advance-auto-parts/
+url: /orlando/advance-auto-parts-orange-avenue/
 shop: car parts
 ---

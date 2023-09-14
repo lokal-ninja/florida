@@ -1,5 +1,5 @@
 ---
 title: "Keystone Eye Center"
-url: /north-miami/keystone-eye-center/
+url: /north-miami/keystone-eye-center-biscayne-boulevard/
 shop: massage
 ---
