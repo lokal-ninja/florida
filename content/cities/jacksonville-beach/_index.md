@@ -1,6 +1,6 @@
 ---
 title: Jacksonville Beach
 url: /jacksonville-beach/
-latitude: 30.27
-longitude: -81.39
+latitude: 30.257
+longitude: -81.394
 ---
