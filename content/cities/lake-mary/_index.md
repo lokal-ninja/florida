@@ -1,6 +1,6 @@
 ---
 title: Lake Mary
 url: /lake-mary/
-latitude: 28.758
-longitude: -81.321
+latitude: 28.757
+longitude: -81.348
 ---
