@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /jacksonville/lowes-philips-highway/
+url: /pensacola/lowes-airport-boulevard/
 shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /panama-city/dollar-tree-west-23rd-street/
+url: /panama-city/dollar-tree-e-hwy-98/
 shop: variety store
 ---
