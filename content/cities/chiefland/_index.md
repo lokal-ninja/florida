@@ -1,6 +1,6 @@
 ---
-title: Chiefland
+title: chiefland
 url: /chiefland/
-latitude: 29.475
-longitude: -82.858
+latitude: 29.481
+longitude: -82.861
 ---
