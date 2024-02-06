@@ -1,6 +1,6 @@
 ---
 title: Osprey
 url: /osprey/
-latitude: 27.192
-longitude: -82.485
+latitude: 27.177
+longitude: -82.482
 ---

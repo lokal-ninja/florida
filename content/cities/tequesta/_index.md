@@ -1,6 +1,6 @@
 ---
 title: Tequesta
 url: /tequesta/
-latitude: 26.97
-longitude: -80.088
+latitude: 26.967
+longitude: -80.089
 ---
