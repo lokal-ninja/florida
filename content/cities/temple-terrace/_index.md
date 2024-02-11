@@ -1,6 +1,6 @@
 ---
 title: Temple Terrace
 url: /temple-terrace/
-latitude: 27.995
-longitude: -82.414
+latitude: 28.053
+longitude: -82.397
 ---

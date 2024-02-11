@@ -1,6 +1,6 @@
 ---
 title: Coconut Creek
 url: /coconut-creek/
-latitude: 26.275
-longitude: -80.199
+latitude: 26.311
+longitude: -80.2
 ---

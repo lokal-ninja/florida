@@ -1,6 +1,6 @@
 ---
 title: The Villages
 url: /the-villages/
-latitude: 28.844
-longitude: -82.027
+latitude: 28.952
+longitude: -81.961
 ---

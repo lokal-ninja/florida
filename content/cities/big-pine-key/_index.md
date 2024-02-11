@@ -1,6 +1,6 @@
 ---
 title: Big Pine Key
 url: /big-pine-key/
-latitude: 24.669
-longitude: -81.353
+latitude: 24.673
+longitude: -81.357
 ---

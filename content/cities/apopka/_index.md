@@ -1,6 +1,6 @@
 ---
 title: Apopka
 url: /apopka/
-latitude: 28.672
-longitude: -81.48
+latitude: 28.707
+longitude: -81.508
 ---

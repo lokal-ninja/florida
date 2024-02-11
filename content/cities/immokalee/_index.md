@@ -1,6 +1,6 @@
 ---
 title: Immokalee
 url: /immokalee/
-latitude: 26.417
-longitude: -81.419
+latitude: 26.434
+longitude: -81.436
 ---

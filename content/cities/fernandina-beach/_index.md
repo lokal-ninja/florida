@@ -1,6 +1,6 @@
 ---
 title: Fernandina Beach
 url: /fernandina-beach/
-latitude: 30.647
-longitude: -81.456
+latitude: 30.641
+longitude: -81.454
 ---

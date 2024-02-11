@@ -1,6 +1,6 @@
 ---
 title: Nokomis
 url: /nokomis/
-latitude: 27.141
-longitude: -82.46
+latitude: 27.137
+longitude: -82.459
 ---

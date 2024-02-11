@@ -1,6 +1,6 @@
 ---
 title: Palm Bay
 url: /palm-bay/
-latitude: 27.999
-longitude: -80.624
+latitude: 27.952
+longitude: -80.658
 ---

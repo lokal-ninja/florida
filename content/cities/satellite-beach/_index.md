@@ -1,6 +1,6 @@
 ---
 title: Satellite Beach
 url: /satellite-beach/
-latitude: 28.207
-longitude: -80.598
+latitude: 28.186
+longitude: -80.594
 ---

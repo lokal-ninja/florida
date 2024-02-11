@@ -1,6 +1,6 @@
 ---
 title: Coral Springs
 url: /coral-springs/
-latitude: 26.273
-longitude: -80.205
+latitude: 26.246
+longitude: -80.252
 ---

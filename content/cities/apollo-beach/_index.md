@@ -1,6 +1,6 @@
 ---
 title: Apollo Beach
 url: /apollo-beach/
-latitude: 27.747
-longitude: -82.415
+latitude: 27.771
+longitude: -82.392
 ---

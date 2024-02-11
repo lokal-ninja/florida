@@ -1,6 +1,6 @@
 ---
 title: Davenport
 url: /davenport/
-latitude: 28.179
-longitude: -81.638
+latitude: 28.311
+longitude: -81.67
 ---

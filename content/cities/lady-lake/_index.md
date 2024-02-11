@@ -1,6 +1,6 @@
 ---
 title: Lady Lake
 url: /lady-lake/
-latitude: 28.901
-longitude: -81.914
+latitude: 28.959
+longitude: -81.963
 ---

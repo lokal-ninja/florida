@@ -1,6 +1,6 @@
 ---
 title: Jupiter
 url: /jupiter/
-latitude: 26.933
-longitude: -80.128
+latitude: 26.932
+longitude: -80.131
 ---
