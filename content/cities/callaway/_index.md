@@ -1,6 +1,6 @@
 ---
 title: Callaway
 url: /callaway/
-latitude: 30.132
-longitude: -85.59
+latitude: 30.16
+longitude: -85.593
 ---

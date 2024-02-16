@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /miami/saloncentric/
-shop: beauty
+shop: hairdresser supply
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bonifay
 url: /bonifay/
-latitude: 30.768
-longitude: -85.684
+latitude: 30.801
+longitude: -85.68
 ---
