@@ -1,6 +1,6 @@
 ---
 title: Palm Harbor
 url: /palm-harbor/
-latitude: 28.05
-longitude: -82.736
+latitude: 28.078
+longitude: -82.737
 ---
