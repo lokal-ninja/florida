@@ -1,5 +1,0 @@
----
-title: "7-Eleven"
-url: /port-orange/7-eleven-dunlawton-avenue/
-shop: convenience
----

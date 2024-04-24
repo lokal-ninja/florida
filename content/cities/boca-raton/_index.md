@@ -1,6 +1,6 @@
 ---
 title: Boca Raton
 url: /boca-raton/
-latitude: 26.365
+latitude: 26.371
 longitude: -80.201
 ---
