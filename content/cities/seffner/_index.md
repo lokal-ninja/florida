@@ -1,6 +1,6 @@
 ---
 title: Seffner
 url: /seffner/
-latitude: 27.982
-longitude: -82.282
+latitude: 28.01
+longitude: -82.306
 ---

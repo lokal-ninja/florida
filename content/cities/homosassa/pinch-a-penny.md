@@ -1,5 +1,5 @@
 ---
-title: "Pinch-A-Penny"
+title: "Pinch A Penny"
 url: /homosassa/pinch-a-penny/
-shop: shop
+shop: swimming pool
 ---
