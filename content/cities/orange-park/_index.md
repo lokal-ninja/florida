@@ -1,6 +1,6 @@
 ---
 title: Orange Park
 url: /orange-park/
-latitude: 30.142
-longitude: -81.766
+latitude: 30.166
+longitude: -81.745
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hialeah
 url: /hialeah/
-latitude: 25.896
-longitude: -80.35
+latitude: 25.854
+longitude: -80.316
 ---

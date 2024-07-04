@@ -1,6 +1,6 @@
 ---
 title: Lauderhill
 url: /lauderhill/
-latitude: 26.186
-longitude: -80.252
+latitude: 26.193
+longitude: -80.256
 ---

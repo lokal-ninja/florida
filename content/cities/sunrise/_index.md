@@ -1,6 +1,6 @@
 ---
 title: Sunrise
 url: /sunrise/
-latitude: 26.192
-longitude: -80.274
+latitude: 26.166
+longitude: -80.258
 ---

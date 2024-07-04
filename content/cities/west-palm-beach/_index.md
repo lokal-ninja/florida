@@ -1,6 +1,6 @@
 ---
 title: West Palm Beach
 url: /west-palm-beach/
-latitude: 26.708
-longitude: -80.089
+latitude: 26.707
+longitude: -80.115
 ---
