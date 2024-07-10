@@ -1,6 +1,6 @@
 ---
 title: Titusville
 url: /titusville/
-latitude: 28.557
-longitude: -80.848
+latitude: 28.552
+longitude: -80.841
 ---
