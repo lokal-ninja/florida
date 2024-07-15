@@ -1,6 +1,6 @@
 ---
 title: Indialantic
 url: /indialantic/
-latitude: 28.097
-longitude: -80.569
+latitude: 28.09
+longitude: -80.575
 ---

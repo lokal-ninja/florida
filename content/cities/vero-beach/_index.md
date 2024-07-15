@@ -1,6 +1,6 @@
 ---
 title: Vero Beach
 url: /vero-beach/
-latitude: 27.631
-longitude: -80.391
+latitude: 27.627
+longitude: -80.354
 ---

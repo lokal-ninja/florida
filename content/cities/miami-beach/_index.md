@@ -1,6 +1,6 @@
 ---
 title: Miami Beach
 url: /miami-beach/
-latitude: 25.776
-longitude: -80.14
+latitude: 25.779
+longitude: -80.133
 ---

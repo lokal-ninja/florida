@@ -1,6 +1,6 @@
 ---
 title: Umatilla
 url: /umatilla/
-latitude: 28.918
-longitude: -81.673
+latitude: 28.937
+longitude: -81.666
 ---

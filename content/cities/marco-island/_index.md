@@ -1,6 +1,6 @@
 ---
 title: Marco Island
 url: /marco-island/
-latitude: 25.952
-longitude: -81.723
+latitude: 25.935
+longitude: -81.701
 ---
