@@ -1,5 +1,5 @@
 ---
 title: houseware
 url: /houseware/
-icon: houseware
+icon: other
 ---
