@@ -1,6 +1,6 @@
 ---
 title: Haines City
 url: /haines-city/
-latitude: 28.105
-longitude: -81.639
+latitude: 28.124
+longitude: -81.637
 ---
