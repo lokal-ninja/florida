@@ -1,6 +1,6 @@
 ---
 title: Ruskin
 url: /ruskin/
-latitude: 27.714
-longitude: -82.337
+latitude: 27.716
+longitude: -82.375
 ---

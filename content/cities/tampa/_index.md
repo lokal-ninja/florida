@@ -1,6 +1,6 @@
 ---
 title: Tampa
 url: /tampa/
-latitude: 28.1
-longitude: -82.399
+latitude: 27.981
+longitude: -82.453
 ---
