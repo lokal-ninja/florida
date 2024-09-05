@@ -1,5 +1,5 @@
 ---
 title: "The Vitamin Shoppe"
 url: /miami/the-vitamin-shoppe-south-dixie-highway/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

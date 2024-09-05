@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /clearwater/target/
-shop: department store
+shop: Warenhaus
 ---

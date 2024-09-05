@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /naples/michaels/
-shop: craft
+shop: Basteln
 ---

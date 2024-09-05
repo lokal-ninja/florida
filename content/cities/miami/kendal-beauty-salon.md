@@ -1,5 +1,5 @@
 ---
 title: "Kendal Beauty Salon"
 url: /miami/kendal-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

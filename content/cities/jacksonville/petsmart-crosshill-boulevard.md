@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /jacksonville/petsmart-crosshill-boulevard/
-shop: pet
+shop: Tiere
 ---

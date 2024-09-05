@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /tampa/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

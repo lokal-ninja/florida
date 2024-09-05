@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /new-smyrna-beach/circle-k-state-road-44/
-shop: convenience
+shop: Lebensmittel
 ---

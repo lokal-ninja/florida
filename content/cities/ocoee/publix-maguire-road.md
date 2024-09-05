@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /ocoee/publix-maguire-road/
-shop: supermarket
+shop: Supermarkt
 ---

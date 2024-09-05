@@ -1,5 +1,5 @@
 ---
 title: "Russell's Western Wear"
 url: /lake-city/russells-western-wear/
-shop: shoes
+shop: Schuhe
 ---

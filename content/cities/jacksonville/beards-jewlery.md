@@ -1,5 +1,5 @@
 ---
 title: "Beard's Jewlery"
 url: /jacksonville/beards-jewlery/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /west-palm-beach/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

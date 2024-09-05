@@ -1,5 +1,5 @@
 ---
 title: "Furst"
 url: /delray-beach/furst/
-shop: leather
+shop: Leder
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /deltona/publix-elkcam-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

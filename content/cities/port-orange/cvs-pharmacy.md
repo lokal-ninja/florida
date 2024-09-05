@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /port-orange/cvs-pharmacy/
-shop: chemist
+shop: Drogerie
 ---

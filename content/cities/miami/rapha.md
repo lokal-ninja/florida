@@ -1,5 +1,5 @@
 ---
 title: "Rapha"
 url: /miami/rapha/
-shop: sports
+shop: Sport
 ---

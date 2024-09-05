@@ -1,5 +1,5 @@
 ---
 title: "Tackle Shack"
 url: /pinellas-park/tackle-shack/
-shop: sports
+shop: Sport
 ---

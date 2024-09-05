@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bartow/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

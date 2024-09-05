@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /fort-walton-beach/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

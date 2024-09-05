@@ -1,5 +1,5 @@
 ---
 title: "Coltorti"
 url: /miami-beach/coltorti/
-shop: clothes
+shop: Kleidung
 ---

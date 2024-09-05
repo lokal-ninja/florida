@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /wellington/total-wine/
-shop: alcohol
+shop: Spirituosen
 ---

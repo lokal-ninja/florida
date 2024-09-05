@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /orlando/fossil/
-shop: watches
+shop: Uhren
 ---

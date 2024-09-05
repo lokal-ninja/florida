@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /saint-petersburg/fantastic-sams/
-shop: hairdresser
+shop: Friseur
 ---

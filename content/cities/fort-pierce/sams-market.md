@@ -1,5 +1,5 @@
 ---
 title: "Sam's Market"
 url: /fort-pierce/sams-market/
-shop: convenience
+shop: Lebensmittel
 ---

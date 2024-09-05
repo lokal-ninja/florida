@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /hollywood/publix-sheridan-street-2/
-shop: supermarket
+shop: Supermarkt
 ---

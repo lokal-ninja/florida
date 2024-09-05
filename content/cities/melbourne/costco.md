@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /melbourne/costco/
-shop: wholesale
+shop: Großhandel
 ---

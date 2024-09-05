@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /daytona-beach/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

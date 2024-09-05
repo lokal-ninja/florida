@@ -1,5 +1,5 @@
 ---
 title: "Antiques and Dustibles"
 url: /sanford/antiques-and-dustibles/
-shop: antiques
+shop: Antiquitäten
 ---

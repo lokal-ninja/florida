@@ -1,5 +1,5 @@
 ---
 title: "Bell Storage"
 url: /bell/bell-storage/
-shop: storage rental
+shop: Mieten
 ---

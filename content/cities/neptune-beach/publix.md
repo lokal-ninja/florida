@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /neptune-beach/publix/
-shop: supermarket
+shop: Supermarkt
 ---

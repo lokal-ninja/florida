@@ -1,5 +1,5 @@
 ---
 title: "GoToMyBrand.com"
 url: /keystone-heights/gotomybrand-com/
-shop: copyshop
+shop: Kopieren
 ---

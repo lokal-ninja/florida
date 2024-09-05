@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bradenton/aldi-heritage-green-way/
-shop: supermarket
+shop: Supermarkt
 ---

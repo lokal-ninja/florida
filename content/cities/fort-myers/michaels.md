@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /fort-myers/michaels/
-shop: craft
+shop: Basteln
 ---

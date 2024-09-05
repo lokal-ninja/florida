@@ -1,5 +1,5 @@
 ---
 title: "Lego"
 url: /aventura/lego/
-shop: toys
+shop: Spielzeug
 ---

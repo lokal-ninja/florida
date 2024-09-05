@@ -1,5 +1,5 @@
 ---
 title: "SmartStyle"
 url: /orange-city/smartstyle/
-shop: hairdresser
+shop: Friseur
 ---

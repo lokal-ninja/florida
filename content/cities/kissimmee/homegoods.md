@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /kissimmee/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

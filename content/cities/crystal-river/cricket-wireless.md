@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /crystal-river/cricket-wireless/
-shop: mobile phone
+shop: Handy
 ---

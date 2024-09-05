@@ -1,5 +1,5 @@
 ---
 title: "Kipling"
 url: /orlando/kipling/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phoenix"
 url: /gainesville/phoenix/
-shop: beauty
+shop: Kosmetik
 ---

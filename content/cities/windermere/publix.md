@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /windermere/publix/
-shop: supermarket
+shop: Supermarkt
 ---

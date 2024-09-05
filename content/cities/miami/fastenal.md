@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /miami/fastenal/
-shop: trade
+shop: Baustoffe
 ---

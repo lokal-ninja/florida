@@ -1,5 +1,5 @@
 ---
 title: "Hanesbrands"
 url: /orlando/hanesbrands/
-shop: clothes
+shop: Kleidung
 ---

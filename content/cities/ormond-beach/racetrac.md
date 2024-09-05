@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /ormond-beach/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

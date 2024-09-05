@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /chiefland/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

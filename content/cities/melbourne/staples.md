@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /melbourne/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

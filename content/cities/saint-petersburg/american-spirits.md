@@ -1,5 +1,5 @@
 ---
 title: "American Spirits"
 url: /saint-petersburg/american-spirits/
-shop: alcohol
+shop: Spirituosen
 ---

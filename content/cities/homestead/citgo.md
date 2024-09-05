@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /homestead/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /sarasota/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

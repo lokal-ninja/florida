@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /gainesville/petco/
-shop: pet
+shop: Tiere
 ---

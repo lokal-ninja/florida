@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /seminole/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

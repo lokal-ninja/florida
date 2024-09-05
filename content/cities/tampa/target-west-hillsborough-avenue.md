@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tampa/target-west-hillsborough-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

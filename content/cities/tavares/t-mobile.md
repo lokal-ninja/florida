@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /tavares/t-mobile/
-shop: mobile phone
+shop: Handy
 ---

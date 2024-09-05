@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /treasure-island/publix/
-shop: supermarket
+shop: Supermarkt
 ---

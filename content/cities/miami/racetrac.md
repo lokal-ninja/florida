@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /miami/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

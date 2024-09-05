@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /chipley/verizon/
-shop: mobile phone
+shop: Handy
 ---

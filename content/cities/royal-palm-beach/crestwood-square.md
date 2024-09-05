@@ -1,5 +1,5 @@
 ---
 title: "Crestwood Square"
 url: /royal-palm-beach/crestwood-square/
-shop: mall
+shop: Einkaufszentrum
 ---

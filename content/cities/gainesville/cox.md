@@ -1,5 +1,5 @@
 ---
 title: "Cox"
 url: /gainesville/cox/
-shop: shop
+shop: Allgemein
 ---

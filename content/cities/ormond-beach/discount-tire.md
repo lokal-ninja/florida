@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /ormond-beach/discount-tire/
-shop: tyres
+shop: Reifen
 ---

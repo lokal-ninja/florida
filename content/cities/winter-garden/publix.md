@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /winter-garden/publix/
-shop: supermarket
+shop: Supermarkt
 ---

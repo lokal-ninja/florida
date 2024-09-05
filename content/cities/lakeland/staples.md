@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /lakeland/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

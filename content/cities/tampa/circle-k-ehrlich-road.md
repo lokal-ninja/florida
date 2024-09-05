@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /tampa/circle-k-ehrlich-road/
-shop: convenience
+shop: Lebensmittel
 ---

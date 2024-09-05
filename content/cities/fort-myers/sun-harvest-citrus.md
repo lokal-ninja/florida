@@ -1,5 +1,5 @@
 ---
 title: "Sun Harvest Citrus"
 url: /fort-myers/sun-harvest-citrus/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brooklynn's"
 url: /panama-city-beach/brooklynns/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /north-miami-beach/mattress-firm/
-shop: bed
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sanford/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

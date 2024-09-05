@@ -1,5 +1,5 @@
 ---
 title: "Designers Consigner"
 url: /saint-petersburg/designers-consigner/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American K Nails"
 url: /sebastian/american-k-nails/
-shop: beauty
+shop: Kosmetik
 ---

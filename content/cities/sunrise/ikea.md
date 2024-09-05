@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /sunrise/ikea/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uptown Jewelers"
 url: /lake-buena-vista/uptown-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /jacksonville/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

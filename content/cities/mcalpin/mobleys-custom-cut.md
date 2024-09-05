@@ -1,5 +1,5 @@
 ---
 title: "Mobley's Custom Cut"
 url: /mcalpin/mobleys-custom-cut/
-shop: butcher
+shop: Metzgerei
 ---

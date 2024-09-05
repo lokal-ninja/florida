@@ -1,5 +1,5 @@
 ---
 title: "BlueLucy"
 url: /saint-petersburg/bluelucy/
-shop: art
+shop: Kunst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /holly-hill/publix/
-shop: supermarket
+shop: Supermarkt
 ---

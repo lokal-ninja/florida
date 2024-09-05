@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /hialeah/publix/
-shop: supermarket
+shop: Supermarkt
 ---

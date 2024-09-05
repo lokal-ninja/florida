@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /palm-harbor/michaels/
-shop: craft
+shop: Basteln
 ---

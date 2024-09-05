@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /carrabelle/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

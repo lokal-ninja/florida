@@ -1,5 +1,5 @@
 ---
 title: "Eleganza"
 url: /tampa/eleganza/
-shop: clothes
+shop: Kleidung
 ---

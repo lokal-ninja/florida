@@ -1,5 +1,5 @@
 ---
 title: "Scan Design"
 url: /naples/scan-design/
-shop: furniture
+shop: Möbel
 ---

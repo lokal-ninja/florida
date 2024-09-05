@@ -1,5 +1,5 @@
 ---
 title: "Perguntando-Innovation Gift Shop"
 url: /orlando/perguntando-innovation-gift-shop/
-shop: gift
+shop: Andenken
 ---

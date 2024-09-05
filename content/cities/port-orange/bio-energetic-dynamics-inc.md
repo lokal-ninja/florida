@@ -1,5 +1,5 @@
 ---
 title: "Bio Energetic Dynamics, Inc."
 url: /port-orange/bio-energetic-dynamics-inc/
-shop: massage
+shop: Massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /daytona-beach/kia/
-shop: car
+shop: Autohaus
 ---

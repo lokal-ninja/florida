@@ -1,5 +1,5 @@
 ---
 title: "SoMi Bike"
 url: /miami/somi-bike/
-shop: bicycle
+shop: Fahrrad
 ---

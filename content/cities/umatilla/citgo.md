@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /umatilla/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

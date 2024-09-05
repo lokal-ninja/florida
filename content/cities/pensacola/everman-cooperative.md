@@ -1,5 +1,5 @@
 ---
 title: "Ever'man Cooperative"
 url: /pensacola/everman-cooperative/
-shop: supermarket
+shop: Supermarkt
 ---

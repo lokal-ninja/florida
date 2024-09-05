@@ -1,5 +1,5 @@
 ---
 title: "AmeriGas"
 url: /crestview/amerigas/
-shop: gas
+shop: Gasflaschen
 ---

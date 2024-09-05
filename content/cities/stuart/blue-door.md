@@ -1,5 +1,5 @@
 ---
 title: "Blue Door"
 url: /stuart/blue-door/
-shop: coffee
+shop: Kaffee
 ---

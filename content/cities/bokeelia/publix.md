@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /bokeelia/publix/
-shop: supermarket
+shop: Supermarkt
 ---

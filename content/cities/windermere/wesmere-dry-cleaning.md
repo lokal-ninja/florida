@@ -1,5 +1,5 @@
 ---
 title: "Wesmere Dry Cleaning"
 url: /windermere/wesmere-dry-cleaning/
-shop: laundry
+shop: Wäscherei
 ---

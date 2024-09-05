@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /miami/winn-dixie-ives-dairy-road/
-shop: supermarket
+shop: Supermarkt
 ---

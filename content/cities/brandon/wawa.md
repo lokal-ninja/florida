@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /brandon/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

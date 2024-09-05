@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /davie/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /seminole/petco/
-shop: pet
+shop: Tiere
 ---

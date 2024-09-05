@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /brandon/lowes-east-brandon-boulevard/
-shop: doityourself
+shop: Baumarkt
 ---

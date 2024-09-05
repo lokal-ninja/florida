@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /vero-beach/advance-auto-parts-20th-street/
-shop: car parts
+shop: Autoteile
 ---

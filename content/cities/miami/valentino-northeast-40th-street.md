@@ -1,5 +1,5 @@
 ---
 title: "Valentino"
 url: /miami/valentino-northeast-40th-street/
-shop: clothes
+shop: Kleidung
 ---

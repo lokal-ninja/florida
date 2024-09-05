@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /altamonte-springs/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

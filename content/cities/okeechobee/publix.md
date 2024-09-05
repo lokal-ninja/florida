@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /okeechobee/publix/
-shop: supermarket
+shop: Supermarkt
 ---

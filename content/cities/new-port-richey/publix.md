@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /new-port-richey/publix/
-shop: supermarket
+shop: Supermarkt
 ---

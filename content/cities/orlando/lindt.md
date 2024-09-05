@@ -1,5 +1,5 @@
 ---
 title: "Lindt"
 url: /orlando/lindt/
-shop: chocolate
+shop: Schokolade
 ---

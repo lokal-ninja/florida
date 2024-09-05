@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /orlando/publix-east-colonial-drive/
-shop: supermarket
+shop: Supermarkt
 ---

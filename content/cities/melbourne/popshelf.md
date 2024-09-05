@@ -1,5 +1,5 @@
 ---
 title: "pOpshelf"
 url: /melbourne/popshelf/
-shop: variety store
+shop: Kramladen
 ---

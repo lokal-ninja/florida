@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /daytona-beach/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

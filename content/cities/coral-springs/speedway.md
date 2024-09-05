@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /coral-springs/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

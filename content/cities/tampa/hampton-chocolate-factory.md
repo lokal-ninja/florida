@@ -1,5 +1,5 @@
 ---
 title: "Hampton Chocolate Factory"
 url: /tampa/hampton-chocolate-factory/
-shop: pastry
+shop: Konditorei
 ---

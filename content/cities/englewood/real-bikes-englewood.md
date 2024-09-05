@@ -1,5 +1,5 @@
 ---
 title: "Real Bikes Englewood"
 url: /englewood/real-bikes-englewood/
-shop: bicycle
+shop: Fahrrad
 ---

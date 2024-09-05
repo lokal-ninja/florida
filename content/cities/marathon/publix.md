@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /marathon/publix/
-shop: supermarket
+shop: Supermarkt
 ---

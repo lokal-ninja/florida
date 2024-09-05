@@ -1,5 +1,5 @@
 ---
 title: "Pet Supermarket"
 url: /apopka/pet-supermarket/
-shop: pet
+shop: Tiere
 ---

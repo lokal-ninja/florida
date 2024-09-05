@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /saint-augustine/petco/
-shop: pet
+shop: Tiere
 ---

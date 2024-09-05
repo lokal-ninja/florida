@@ -1,5 +1,5 @@
 ---
 title: "Slipz and Glitz Boutique"
 url: /daytona-beach/slipz-and-glitz-boutique/
-shop: clothes
+shop: Kleidung
 ---

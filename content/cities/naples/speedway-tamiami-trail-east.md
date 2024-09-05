@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /naples/speedway-tamiami-trail-east/
-shop: convenience
+shop: Lebensmittel
 ---

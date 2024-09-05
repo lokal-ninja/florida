@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ocoee/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

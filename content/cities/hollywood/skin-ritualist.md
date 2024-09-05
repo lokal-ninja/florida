@@ -1,5 +1,5 @@
 ---
 title: "Skin Ritualist"
 url: /hollywood/skin-ritualist/
-shop: beauty
+shop: Kosmetik
 ---

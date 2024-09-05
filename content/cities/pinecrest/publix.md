@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /pinecrest/publix/
-shop: supermarket
+shop: Supermarkt
 ---

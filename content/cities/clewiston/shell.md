@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /clewiston/shell/
-shop: convenience
+shop: Lebensmittel
 ---

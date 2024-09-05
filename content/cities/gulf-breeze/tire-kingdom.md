@@ -1,5 +1,5 @@
 ---
 title: "Tire Kingdom"
 url: /gulf-breeze/tire-kingdom/
-shop: tyres
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "US Auto Sales"
 url: /tallahassee/us-auto-sales/
-shop: car
+shop: Autohaus
 ---

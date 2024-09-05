@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /orlando/wawa-curry-ford-road/
-shop: convenience
+shop: Lebensmittel
 ---

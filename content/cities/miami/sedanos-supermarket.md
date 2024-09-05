@@ -1,5 +1,5 @@
 ---
 title: "Sedano's Supermarket"
 url: /miami/sedanos-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

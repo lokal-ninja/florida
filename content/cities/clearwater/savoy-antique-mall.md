@@ -1,5 +1,5 @@
 ---
 title: "Savoy Antique Mall"
 url: /clearwater/savoy-antique-mall/
-shop: antiques
+shop: Antiquitäten
 ---

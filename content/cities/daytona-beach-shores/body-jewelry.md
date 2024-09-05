@@ -1,5 +1,5 @@
 ---
 title: "Body Jewelry"
 url: /daytona-beach-shores/body-jewelry/
-shop: jewelry
+shop: Schmuck
 ---

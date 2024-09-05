@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /west-brandon/petsmart/
-shop: pet
+shop: Tiere
 ---

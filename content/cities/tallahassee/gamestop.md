@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /tallahassee/gamestop/
-shop: video games
+shop: Videospiele
 ---

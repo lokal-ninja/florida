@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /nokomis/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

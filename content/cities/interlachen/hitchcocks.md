@@ -1,5 +1,5 @@
 ---
 title: "Hitchcock's"
 url: /interlachen/hitchcocks/
-shop: supermarket
+shop: Supermarkt
 ---

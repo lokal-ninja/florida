@@ -1,5 +1,5 @@
 ---
 title: "Dresses Four Me"
 url: /miami/dresses-four-me/
-shop: clothes
+shop: Kleidung
 ---

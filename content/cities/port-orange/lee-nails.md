@@ -1,5 +1,5 @@
 ---
 title: "Lee Nails"
 url: /port-orange/lee-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /kissimmee/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

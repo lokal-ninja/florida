@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /orlando/aeropostale/
-shop: clothes
+shop: Kleidung
 ---

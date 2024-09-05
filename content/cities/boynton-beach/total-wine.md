@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /boynton-beach/total-wine/
-shop: alcohol
+shop: Spirituosen
 ---

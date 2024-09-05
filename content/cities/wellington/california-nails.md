@@ -1,5 +1,5 @@
 ---
 title: "California Nails"
 url: /wellington/california-nails/
-shop: beauty
+shop: Kosmetik
 ---

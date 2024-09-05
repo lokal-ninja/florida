@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /southwest-ranches/publix/
-shop: supermarket
+shop: Supermarkt
 ---

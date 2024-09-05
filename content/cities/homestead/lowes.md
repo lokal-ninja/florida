@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /homestead/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

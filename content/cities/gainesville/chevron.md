@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /gainesville/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

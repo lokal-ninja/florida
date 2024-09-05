@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /pace/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

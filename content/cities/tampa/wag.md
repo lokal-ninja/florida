@@ -1,5 +1,5 @@
 ---
 title: "Wag"
 url: /tampa/wag/
-shop: pet
+shop: Tiere
 ---

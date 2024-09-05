@@ -1,5 +1,5 @@
 ---
 title: "Kangaroo Express"
 url: /orlando/kangaroo-express/
-shop: convenience
+shop: Lebensmittel
 ---

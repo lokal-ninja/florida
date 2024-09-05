@@ -1,5 +1,5 @@
 ---
 title: "PartsVu"
 url: /venice/partsvu/
-shop: boat
+shop: Boot
 ---

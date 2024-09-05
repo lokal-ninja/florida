@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /orlando/advance-auto-parts-south-orange-blossom-trail/
-shop: car parts
+shop: Autoteile
 ---

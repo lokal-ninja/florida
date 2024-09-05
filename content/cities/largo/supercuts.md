@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /largo/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

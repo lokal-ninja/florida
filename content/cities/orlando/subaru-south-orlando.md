@@ -1,5 +1,5 @@
 ---
 title: "Subaru South Orlando"
 url: /orlando/subaru-south-orlando/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /homosassa/publix/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /clearwater/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

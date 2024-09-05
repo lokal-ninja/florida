@@ -1,5 +1,5 @@
 ---
 title: "Flamingo Laundry"
 url: /vero-beach/flamingo-laundry/
-shop: laundry
+shop: Wäscherei
 ---

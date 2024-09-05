@@ -1,5 +1,5 @@
 ---
 title: "Sprouts Farmers Market"
 url: /delray-beach/sprouts-farmers-market/
-shop: supermarket
+shop: Supermarkt
 ---

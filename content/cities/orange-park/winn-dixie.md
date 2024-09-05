@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /orange-park/winn-dixie/
-shop: supermarket
+shop: Supermarkt
 ---

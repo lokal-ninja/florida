@@ -1,5 +1,5 @@
 ---
 title: "Plantz"
 url: /tampa/plantz/
-shop: garden centre
+shop: Garten-Center
 ---

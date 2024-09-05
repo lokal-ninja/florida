@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /kissimmee/dollar-tree-west-irlo-bronson-memorial-highway/
-shop: variety store
+shop: Kramladen
 ---

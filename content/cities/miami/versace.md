@@ -1,5 +1,5 @@
 ---
 title: "Versace"
 url: /miami/versace/
-shop: clothes
+shop: Kleidung
 ---

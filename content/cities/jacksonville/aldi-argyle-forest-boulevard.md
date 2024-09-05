@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /jacksonville/aldi-argyle-forest-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

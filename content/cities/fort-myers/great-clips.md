@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /fort-myers/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

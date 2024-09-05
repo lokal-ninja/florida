@@ -1,5 +1,5 @@
 ---
 title: "home of himshould"
 url: /clermont/home-of-himshould/
-shop: supermarket
+shop: Supermarkt
 ---

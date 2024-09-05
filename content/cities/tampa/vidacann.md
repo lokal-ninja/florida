@@ -1,5 +1,5 @@
 ---
 title: "VidaCann"
 url: /tampa/vidacann/
-shop: cannabis
+shop: Hanf
 ---

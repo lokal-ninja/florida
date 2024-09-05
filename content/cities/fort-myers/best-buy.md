@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /fort-myers/best-buy/
-shop: electronics
+shop: Elektronik
 ---

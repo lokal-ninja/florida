@@ -1,5 +1,5 @@
 ---
 title: "Tallula"
 url: /tallahassee/tallula/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /oakland-park/publix-east-commercial-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

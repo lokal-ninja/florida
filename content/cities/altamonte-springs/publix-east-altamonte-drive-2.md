@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /altamonte-springs/publix-east-altamonte-drive-2/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sarasota/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

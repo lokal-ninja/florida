@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /belleair-bluffs/publix/
-shop: supermarket
+shop: Supermarkt
 ---

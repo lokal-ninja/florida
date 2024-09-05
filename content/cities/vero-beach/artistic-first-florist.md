@@ -1,5 +1,5 @@
 ---
 title: "Artistic First Florist"
 url: /vero-beach/artistic-first-florist/
-shop: florist
+shop: Blumen
 ---

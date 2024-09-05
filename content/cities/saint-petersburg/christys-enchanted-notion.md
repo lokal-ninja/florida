@@ -1,5 +1,5 @@
 ---
 title: "Christy's Enchanted Notion"
 url: /saint-petersburg/christys-enchanted-notion/
-shop: shop
+shop: Allgemein
 ---

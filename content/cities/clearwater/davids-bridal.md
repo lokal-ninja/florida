@@ -1,5 +1,5 @@
 ---
 title: "David's Bridal"
 url: /clearwater/davids-bridal/
-shop: clothes
+shop: Kleidung
 ---

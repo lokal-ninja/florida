@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /panama-city-beach/dollar-general-thomas-drive/
-shop: variety store
+shop: Kramladen
 ---

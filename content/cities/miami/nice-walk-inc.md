@@ -1,5 +1,5 @@
 ---
 title: "Nice Walk Inc"
 url: /miami/nice-walk-inc/
-shop: shoes
+shop: Schuhe
 ---

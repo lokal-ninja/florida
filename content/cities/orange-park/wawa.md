@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /orange-park/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

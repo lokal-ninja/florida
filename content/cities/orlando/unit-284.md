@@ -1,5 +1,5 @@
 ---
 title: "UNIT 284"
 url: /orlando/unit-284/
-shop: shop
+shop: Allgemein
 ---

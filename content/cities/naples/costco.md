@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /naples/costco/
-shop: wholesale
+shop: Großhandel
 ---

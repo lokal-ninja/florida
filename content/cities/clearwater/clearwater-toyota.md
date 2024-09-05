@@ -1,5 +1,5 @@
 ---
 title: "Clearwater Toyota"
 url: /clearwater/clearwater-toyota/
-shop: car
+shop: Autohaus
 ---

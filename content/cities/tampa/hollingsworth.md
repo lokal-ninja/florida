@@ -1,5 +1,5 @@
 ---
 title: "Hollingsworth"
 url: /tampa/hollingsworth/
-shop: bathroom
+shop: Badezimmer
 ---

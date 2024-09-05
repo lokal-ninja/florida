@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /tampa/gamestop/
-shop: video games
+shop: Videospiele
 ---

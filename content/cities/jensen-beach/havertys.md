@@ -1,5 +1,5 @@
 ---
 title: "Havertys"
 url: /jensen-beach/havertys/
-shop: furniture
+shop: Möbel
 ---

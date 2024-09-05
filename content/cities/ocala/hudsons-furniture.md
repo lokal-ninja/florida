@@ -1,5 +1,5 @@
 ---
 title: "Hudson's Furniture"
 url: /ocala/hudsons-furniture/
-shop: furniture
+shop: Möbel
 ---

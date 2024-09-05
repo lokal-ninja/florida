@@ -1,5 +1,5 @@
 ---
 title: "COS"
 url: /miami/cos/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /panama-city-beach/the-home-depot/
-shop: doityourself
+shop: Baumarkt
 ---

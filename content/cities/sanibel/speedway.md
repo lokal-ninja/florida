@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /sanibel/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

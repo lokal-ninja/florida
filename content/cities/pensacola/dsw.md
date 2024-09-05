@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /pensacola/dsw/
-shop: shoes
+shop: Schuhe
 ---

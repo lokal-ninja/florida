@@ -1,5 +1,5 @@
 ---
 title: "Danah's Hair Studio"
 url: /gulf-breeze/danahs-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

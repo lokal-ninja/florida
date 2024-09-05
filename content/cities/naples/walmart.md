@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /naples/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

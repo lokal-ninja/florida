@@ -1,5 +1,5 @@
 ---
 title: "Upcycle It!"
 url: /vero-beach/upcycle-it/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JN Equipment Superstore"
 url: /palm-springs/jn-equipment-superstore/
-shop: hardware
+shop: Eisenwaren
 ---

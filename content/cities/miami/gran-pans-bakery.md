@@ -1,5 +1,5 @@
 ---
 title: "Gran Pans Bakery"
 url: /miami/gran-pans-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CITY Furniture"
 url: /cutler-bay/city-furniture/
-shop: furniture
+shop: Möbel
 ---

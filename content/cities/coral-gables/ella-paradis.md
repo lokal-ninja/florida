@@ -1,5 +1,5 @@
 ---
 title: "Ella Paradis"
 url: /coral-gables/ella-paradis/
-shop: erotic
+shop: Erotik
 ---

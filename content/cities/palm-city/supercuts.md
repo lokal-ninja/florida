@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /palm-city/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

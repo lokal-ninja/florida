@@ -1,5 +1,5 @@
 ---
 title: "Harry Smith Outdoors"
 url: /tallahassee/harry-smith-outdoors/
-shop: sports
+shop: Sport
 ---

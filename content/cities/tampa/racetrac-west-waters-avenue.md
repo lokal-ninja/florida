@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /tampa/racetrac-west-waters-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

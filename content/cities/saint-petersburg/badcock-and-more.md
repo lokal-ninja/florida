@@ -1,5 +1,5 @@
 ---
 title: "Badcock and More"
 url: /saint-petersburg/badcock-and-more/
-shop: furniture
+shop: Möbel
 ---

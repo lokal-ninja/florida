@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /doral/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

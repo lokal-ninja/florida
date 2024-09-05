@@ -1,5 +1,5 @@
 ---
 title: "Daylerh Barbershop"
 url: /deerfield-beach/daylerh-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

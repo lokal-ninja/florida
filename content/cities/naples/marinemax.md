@@ -1,5 +1,5 @@
 ---
 title: "MarineMax"
 url: /naples/marinemax/
-shop: boat
+shop: Boot
 ---

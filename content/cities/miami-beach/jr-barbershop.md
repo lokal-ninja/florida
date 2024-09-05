@@ -1,5 +1,5 @@
 ---
 title: "JR Barbershop"
 url: /miami-beach/jr-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

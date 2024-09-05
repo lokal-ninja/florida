@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /naples/petco/
-shop: pet
+shop: Tiere
 ---

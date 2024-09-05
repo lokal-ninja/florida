@@ -1,5 +1,5 @@
 ---
 title: "The Missing Piece"
 url: /clearwater/the-missing-piece/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /tampa/petsmart-commerce-palms-drive/
-shop: pet
+shop: Tiere
 ---

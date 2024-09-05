@@ -1,5 +1,5 @@
 ---
 title: "South Tampa Bicycles"
 url: /tampa/south-tampa-bicycles/
-shop: bicycle
+shop: Fahrrad
 ---

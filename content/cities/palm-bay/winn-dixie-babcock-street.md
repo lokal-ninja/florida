@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /palm-bay/winn-dixie-babcock-street/
-shop: supermarket
+shop: Supermarkt
 ---

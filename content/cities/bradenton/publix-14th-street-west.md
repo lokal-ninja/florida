@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /bradenton/publix-14th-street-west/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /tallahassee/costco/
-shop: wholesale
+shop: Großhandel
 ---

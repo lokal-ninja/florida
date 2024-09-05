@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /loxahatchee/walgreens/
-shop: chemist
+shop: Drogerie
 ---

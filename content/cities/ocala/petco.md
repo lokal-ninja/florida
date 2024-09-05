@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /ocala/petco/
-shop: pet
+shop: Tiere
 ---

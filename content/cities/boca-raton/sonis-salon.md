@@ -1,5 +1,5 @@
 ---
 title: "Sonis Salon"
 url: /boca-raton/sonis-salon/
-shop: beauty
+shop: Kosmetik
 ---

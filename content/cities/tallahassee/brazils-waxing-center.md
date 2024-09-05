@@ -1,5 +1,5 @@
 ---
 title: "Brazils Waxing Center"
 url: /tallahassee/brazils-waxing-center/
-shop: beauty
+shop: Kosmetik
 ---

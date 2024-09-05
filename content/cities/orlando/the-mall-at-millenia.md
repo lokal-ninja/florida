@@ -1,5 +1,5 @@
 ---
 title: "The Mall at Millenia"
 url: /orlando/the-mall-at-millenia/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burberry"
 url: /aventura/burberry/
-shop: clothes
+shop: Kleidung
 ---

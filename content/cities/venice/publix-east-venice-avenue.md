@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /venice/publix-east-venice-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /orlando/costco/
-shop: wholesale
+shop: Großhandel
 ---

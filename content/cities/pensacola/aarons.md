@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /pensacola/aarons/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /clearwater/metro-by-t-mobile/
-shop: mobile phone
+shop: Handy
 ---

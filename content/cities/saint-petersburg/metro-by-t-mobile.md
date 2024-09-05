@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /saint-petersburg/metro-by-t-mobile/
-shop: mobile phone
+shop: Handy
 ---

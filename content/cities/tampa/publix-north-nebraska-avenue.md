@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tampa/publix-north-nebraska-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quiksilver"
 url: /orlando/quiksilver/
-shop: clothes
+shop: Kleidung
 ---

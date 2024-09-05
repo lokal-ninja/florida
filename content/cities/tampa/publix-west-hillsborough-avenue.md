@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tampa/publix-west-hillsborough-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

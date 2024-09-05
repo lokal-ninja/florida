@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /tallahassee/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

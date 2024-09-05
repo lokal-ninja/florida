@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /pembroke-pines/dsw/
-shop: shoes
+shop: Schuhe
 ---

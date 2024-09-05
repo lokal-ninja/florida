@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /florida-city/nike/
-shop: clothes
+shop: Kleidung
 ---

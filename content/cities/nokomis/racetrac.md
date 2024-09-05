@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /nokomis/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

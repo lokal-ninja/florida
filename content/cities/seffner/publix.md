@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /seffner/publix/
-shop: supermarket
+shop: Supermarkt
 ---

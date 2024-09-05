@@ -1,5 +1,5 @@
 ---
 title: "Renegade Barber Shop"
 url: /tallahassee/renegade-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

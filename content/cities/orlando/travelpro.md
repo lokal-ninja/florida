@@ -1,5 +1,5 @@
 ---
 title: "Travelpro"
 url: /orlando/travelpro/
-shop: bag
+shop: Taschen & Koffer
 ---

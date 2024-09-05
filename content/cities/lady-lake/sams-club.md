@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /lady-lake/sams-club/
-shop: wholesale
+shop: Großhandel
 ---

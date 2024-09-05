@@ -1,5 +1,5 @@
 ---
 title: "Lydababy"
 url: /miami/lydababy/
-shop: clothes
+shop: Kleidung
 ---

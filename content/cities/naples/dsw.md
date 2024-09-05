@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /naples/dsw/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /panama-city/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

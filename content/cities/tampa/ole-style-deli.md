@@ -1,5 +1,5 @@
 ---
 title: "Ole Style Deli"
 url: /tampa/ole-style-deli/
-shop: deli
+shop: Feinkost
 ---

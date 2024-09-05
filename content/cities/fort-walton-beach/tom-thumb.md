@@ -1,5 +1,5 @@
 ---
 title: "Tom Thumb"
 url: /fort-walton-beach/tom-thumb/
-shop: convenience
+shop: Lebensmittel
 ---

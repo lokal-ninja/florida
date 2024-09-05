@@ -1,5 +1,5 @@
 ---
 title: "Feet First"
 url: /saint-petersburg/feet-first/
-shop: shoes
+shop: Schuhe
 ---

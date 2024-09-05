@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /clearwater/jared/
-shop: jewelry
+shop: Schmuck
 ---

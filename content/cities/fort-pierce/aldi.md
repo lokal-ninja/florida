@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /fort-pierce/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /oviedo/michaels/
-shop: craft
+shop: Basteln
 ---

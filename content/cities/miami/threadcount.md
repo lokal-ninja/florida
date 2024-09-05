@@ -1,5 +1,5 @@
 ---
 title: "THREADCOUNT"
 url: /miami/threadcount/
-shop: shop
+shop: Allgemein
 ---

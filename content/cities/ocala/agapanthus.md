@@ -1,5 +1,5 @@
 ---
 title: "Agapanthus"
 url: /ocala/agapanthus/
-shop: general
+shop: Dorfladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /lake-buena-vista/uniqlo/
-shop: clothes
+shop: Kleidung
 ---

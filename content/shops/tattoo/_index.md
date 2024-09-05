@@ -1,5 +1,5 @@
 ---
-title: tattoo
+title: Tattoo
 url: /tattoo/
 icon: other
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Warren Henry"
 url: /north-miami/warren-henry/
-shop: car
+shop: Autohaus
 ---

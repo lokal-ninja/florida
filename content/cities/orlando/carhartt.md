@@ -1,5 +1,5 @@
 ---
 title: "Carhartt"
 url: /orlando/carhartt/
-shop: clothes
+shop: Kleidung
 ---

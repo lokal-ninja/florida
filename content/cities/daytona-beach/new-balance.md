@@ -1,5 +1,5 @@
 ---
 title: "New Balance"
 url: /daytona-beach/new-balance/
-shop: shoes
+shop: Schuhe
 ---

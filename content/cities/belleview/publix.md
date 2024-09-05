@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /belleview/publix/
-shop: supermarket
+shop: Supermarkt
 ---

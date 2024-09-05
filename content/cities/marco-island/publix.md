@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /marco-island/publix/
-shop: supermarket
+shop: Supermarkt
 ---

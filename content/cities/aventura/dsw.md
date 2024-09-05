@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /aventura/dsw/
-shop: shoes
+shop: Schuhe
 ---

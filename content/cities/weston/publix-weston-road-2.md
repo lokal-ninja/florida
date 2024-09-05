@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /weston/publix-weston-road-2/
-shop: supermarket
+shop: Supermarkt
 ---

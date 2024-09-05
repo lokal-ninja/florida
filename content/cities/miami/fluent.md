@@ -1,5 +1,5 @@
 ---
 title: "Fluent"
 url: /miami/fluent/
-shop: cannabis
+shop: Hanf
 ---

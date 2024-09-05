@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /miami/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

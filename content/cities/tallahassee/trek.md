@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /tallahassee/trek/
-shop: bicycle
+shop: Fahrrad
 ---

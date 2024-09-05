@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /cottondale/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

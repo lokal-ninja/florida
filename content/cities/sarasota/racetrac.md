@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /sarasota/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

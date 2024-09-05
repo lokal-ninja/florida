@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /port-orange/hallmark/
-shop: gift
+shop: Andenken
 ---

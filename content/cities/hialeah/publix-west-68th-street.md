@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /hialeah/publix-west-68th-street/
-shop: supermarket
+shop: Supermarkt
 ---

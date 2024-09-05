@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /orlando/lowes-andric-lane/
-shop: doityourself
+shop: Baumarkt
 ---

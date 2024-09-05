@@ -1,5 +1,5 @@
 ---
 title: "Serenity"
 url: /tallahassee/serenity/
-shop: books
+shop: Bücher
 ---

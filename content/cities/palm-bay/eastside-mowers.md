@@ -1,5 +1,5 @@
 ---
 title: "Eastside Mowers"
 url: /palm-bay/eastside-mowers/
-shop: garden centre
+shop: Garten-Center
 ---

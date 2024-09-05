@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /clermont/tesla/
-shop: car
+shop: Autohaus
 ---

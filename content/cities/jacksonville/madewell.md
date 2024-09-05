@@ -1,5 +1,5 @@
 ---
 title: "Madewell"
 url: /jacksonville/madewell/
-shop: clothes
+shop: Kleidung
 ---

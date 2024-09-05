@@ -1,5 +1,5 @@
 ---
 title: "Jessica McClintock"
 url: /tampa/jessica-mcclintock/
-shop: clothes
+shop: Kleidung
 ---

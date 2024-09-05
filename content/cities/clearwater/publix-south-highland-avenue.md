@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /clearwater/publix-south-highland-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amscot"
 url: /miami/amscot/
-shop: pawnbroker
+shop: Leiher
 ---

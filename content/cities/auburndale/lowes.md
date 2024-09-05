@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /auburndale/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /panama-city/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

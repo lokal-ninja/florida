@@ -1,5 +1,5 @@
 ---
 title: "Athleta"
 url: /miami-beach/athleta/
-shop: clothes
+shop: Kleidung
 ---

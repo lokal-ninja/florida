@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /hollywood/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

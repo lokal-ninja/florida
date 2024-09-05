@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /coral-gables/whole-foods-market/
-shop: supermarket
+shop: Supermarkt
 ---

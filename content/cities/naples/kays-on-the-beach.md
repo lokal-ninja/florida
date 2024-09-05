@@ -1,5 +1,5 @@
 ---
 title: "Kay's On The Beach"
 url: /naples/kays-on-the-beach/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon (Closed)"
 url: /wildwood/marathon-closed/
-shop: convenience
+shop: Lebensmittel
 ---

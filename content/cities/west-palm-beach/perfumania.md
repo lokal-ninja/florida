@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /west-palm-beach/perfumania/
-shop: perfumery
+shop: Parfümerie
 ---

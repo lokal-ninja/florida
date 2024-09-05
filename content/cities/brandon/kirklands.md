@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /brandon/kirklands/
-shop: interior decoration
+shop: Raumausstattung
 ---

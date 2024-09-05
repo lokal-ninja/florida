@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /daytona-beach/pink/
-shop: clothes
+shop: Kleidung
 ---

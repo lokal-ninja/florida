@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /destin/publix/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /miami/visionworks/
-shop: optician
+shop: Optiker
 ---

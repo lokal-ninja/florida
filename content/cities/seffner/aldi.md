@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /seffner/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

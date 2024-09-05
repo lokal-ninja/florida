@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /orlando/circle-k-east-colonial-drive/
-shop: convenience
+shop: Lebensmittel
 ---

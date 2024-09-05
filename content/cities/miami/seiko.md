@@ -1,5 +1,5 @@
 ---
 title: "Seiko"
 url: /miami/seiko/
-shop: watches
+shop: Uhren
 ---

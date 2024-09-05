@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /winter-garden/verizon/
-shop: mobile phone
+shop: Handy
 ---

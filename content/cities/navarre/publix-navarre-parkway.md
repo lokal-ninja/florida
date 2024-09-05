@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /navarre/publix-navarre-parkway/
-shop: supermarket
+shop: Supermarkt
 ---

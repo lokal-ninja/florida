@@ -1,5 +1,5 @@
 ---
 title: "Cosmo"
 url: /gainesville/cosmo/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Palace"
 url: /orlando/shoe-palace/
-shop: shoes
+shop: Schuhe
 ---

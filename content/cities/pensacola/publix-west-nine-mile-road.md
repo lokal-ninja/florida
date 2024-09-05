@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /pensacola/publix-west-nine-mile-road/
-shop: supermarket
+shop: Supermarkt
 ---

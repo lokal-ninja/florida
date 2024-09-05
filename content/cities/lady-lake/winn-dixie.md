@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /lady-lake/winn-dixie/
-shop: supermarket
+shop: Supermarkt
 ---

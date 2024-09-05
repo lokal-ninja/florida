@@ -1,5 +1,5 @@
 ---
 title: "Crystal Harley-Davidson"
 url: /homosassa/crystal-harley-davidson/
-shop: motorcycle
+shop: Motorrad
 ---

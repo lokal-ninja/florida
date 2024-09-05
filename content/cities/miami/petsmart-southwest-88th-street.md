@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /miami/petsmart-southwest-88th-street/
-shop: pet
+shop: Tiere
 ---

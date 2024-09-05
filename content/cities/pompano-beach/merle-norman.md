@@ -1,5 +1,5 @@
 ---
 title: "Merle Norman"
 url: /pompano-beach/merle-norman/
-shop: beauty
+shop: Kosmetik
 ---

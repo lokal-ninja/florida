@@ -1,5 +1,5 @@
 ---
 title: "Lilly Pullitzer"
 url: /jacksonville/lilly-pullitzer/
-shop: clothes
+shop: Kleidung
 ---

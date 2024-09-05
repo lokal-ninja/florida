@@ -1,5 +1,5 @@
 ---
 title: "THIS-N-THAT"
 url: /panama-city/this-n-that/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /cape-coral/hair-cuttery/
-shop: hairdresser
+shop: Friseur
 ---

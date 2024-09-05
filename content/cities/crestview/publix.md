@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /crestview/publix/
-shop: supermarket
+shop: Supermarkt
 ---

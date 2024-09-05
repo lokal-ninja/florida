@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /yulee/publix/
-shop: supermarket
+shop: Supermarkt
 ---

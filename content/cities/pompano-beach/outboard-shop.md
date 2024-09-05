@@ -1,5 +1,5 @@
 ---
 title: "Outboard Shop"
 url: /pompano-beach/outboard-shop/
-shop: boat
+shop: Boot
 ---

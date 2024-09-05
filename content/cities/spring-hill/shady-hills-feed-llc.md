@@ -1,5 +1,5 @@
 ---
 title: "Shady hills Feed, LLC"
 url: /spring-hill/shady-hills-feed-llc/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

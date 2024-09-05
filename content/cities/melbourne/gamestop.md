@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /melbourne/gamestop/
-shop: video games
+shop: Videospiele
 ---

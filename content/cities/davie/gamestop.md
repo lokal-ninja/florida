@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /davie/gamestop/
-shop: video games
+shop: Videospiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /tampa/visionworks/
-shop: optician
+shop: Optiker
 ---

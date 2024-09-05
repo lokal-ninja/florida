@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /mount-dora/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

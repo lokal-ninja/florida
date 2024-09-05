@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /springfield/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

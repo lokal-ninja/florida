@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /ruskin/harbor-freight-tools/
-shop: hardware
+shop: Eisenwaren
 ---

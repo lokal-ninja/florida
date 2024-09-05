@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /seminole/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /jacksonville/sams-club/
-shop: wholesale
+shop: Großhandel
 ---

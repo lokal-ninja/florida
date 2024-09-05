@@ -1,5 +1,5 @@
 ---
 title: "CGX"
 url: /clearwater/cgx/
-shop: department store
+shop: Warenhaus
 ---

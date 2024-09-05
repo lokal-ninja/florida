@@ -1,5 +1,5 @@
 ---
 title: "The Seaside Cottage"
 url: /new-smyrna-beach/the-seaside-cottage/
-shop: furniture
+shop: Möbel
 ---

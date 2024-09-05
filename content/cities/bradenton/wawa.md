@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /bradenton/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

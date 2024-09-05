@@ -1,5 +1,5 @@
 ---
 title: "Val's Complete Auto Repair"
 url: /chiefland/vals-complete-auto-repair/
-shop: car repair
+shop: Autowerkstatt
 ---

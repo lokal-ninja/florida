@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /pensacola/circle-k-pensacola-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jay's Grill Sergeant Sauce"
 url: /ocoee/jays-grill-sergeant-sauce/
-shop: grill
+shop: Grillen
 ---

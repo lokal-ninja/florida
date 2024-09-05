@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /brandon/dollar-tree/
-shop: variety store
+shop: Kramladen
 ---

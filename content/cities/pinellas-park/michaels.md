@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /pinellas-park/michaels/
-shop: craft
+shop: Basteln
 ---

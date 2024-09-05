@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /jacksonville/publix-yellow-bluff-rs/
-shop: supermarket
+shop: Supermarkt
 ---

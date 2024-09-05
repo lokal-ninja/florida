@@ -1,5 +1,5 @@
 ---
 title: "Grainger"
 url: /doral/grainger/
-shop: trade
+shop: Baustoffe
 ---

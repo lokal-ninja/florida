@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /temple-terrace/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

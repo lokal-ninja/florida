@@ -1,5 +1,5 @@
 ---
 title: "BJ's Wholesale Club"
 url: /port-orange/bjs-wholesale-club/
-shop: wholesale
+shop: Großhandel
 ---

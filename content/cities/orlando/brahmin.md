@@ -1,5 +1,5 @@
 ---
 title: "Brahmin"
 url: /orlando/brahmin/
-shop: boutique
+shop: Modehaus
 ---

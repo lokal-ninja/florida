@@ -1,5 +1,5 @@
 ---
 title: "Avon"
 url: /dunedin/avon/
-shop: gift
+shop: Andenken
 ---

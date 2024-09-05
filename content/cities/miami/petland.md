@@ -1,5 +1,5 @@
 ---
 title: "Petland"
 url: /miami/petland/
-shop: pet
+shop: Tiere
 ---

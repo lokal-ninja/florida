@@ -1,5 +1,5 @@
 ---
 title: "Secluded Garden"
 url: /havana/secluded-garden/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pompano Citi Centre"
 url: /pompano-beach/pompano-citi-centre/
-shop: mall
+shop: Einkaufszentrum
 ---

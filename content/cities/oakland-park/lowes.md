@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /oakland-park/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

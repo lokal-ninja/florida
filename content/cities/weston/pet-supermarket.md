@@ -1,5 +1,5 @@
 ---
 title: "Pet Supermarket"
 url: /weston/pet-supermarket/
-shop: pet
+shop: Tiere
 ---

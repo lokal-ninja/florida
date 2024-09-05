@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /panama-city/tractor-supply-company/
-shop: general
+shop: Dorfladen
 ---

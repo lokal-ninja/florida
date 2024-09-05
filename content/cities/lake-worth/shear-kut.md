@@ -1,5 +1,5 @@
 ---
 title: "Shear Kut"
 url: /lake-worth/shear-kut/
-shop: hairdresser
+shop: Friseur
 ---

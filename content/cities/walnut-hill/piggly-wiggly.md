@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /walnut-hill/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

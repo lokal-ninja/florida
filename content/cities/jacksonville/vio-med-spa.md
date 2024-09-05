@@ -1,5 +1,5 @@
 ---
 title: "Vio med spa"
 url: /jacksonville/vio-med-spa/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /palm-coast/winn-dixie-flagler-plaza-drive/
-shop: supermarket
+shop: Supermarkt
 ---

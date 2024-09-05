@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /stuart/walgreens-southeast-federal-highway/
-shop: chemist
+shop: Drogerie
 ---

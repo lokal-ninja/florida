@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /daytona-beach/fedex/
-shop: copyshop
+shop: Kopieren
 ---

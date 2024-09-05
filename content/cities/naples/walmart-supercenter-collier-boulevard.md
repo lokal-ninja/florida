@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /naples/walmart-supercenter-collier-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

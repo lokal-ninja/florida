@@ -1,5 +1,5 @@
 ---
 title: "Genesis"
 url: /leesburg/genesis/
-shop: car
+shop: Autohaus
 ---

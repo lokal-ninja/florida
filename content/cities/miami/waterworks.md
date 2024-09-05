@@ -1,5 +1,5 @@
 ---
 title: "WATERWORKS"
 url: /miami/waterworks/
-shop: bathroom
+shop: Badezimmer
 ---

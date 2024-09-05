@@ -1,5 +1,5 @@
 ---
 title: "Juicy Couture"
 url: /palmetto/juicy-couture/
-shop: clothes
+shop: Kleidung
 ---

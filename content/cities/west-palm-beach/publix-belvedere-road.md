@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /west-palm-beach/publix-belvedere-road/
-shop: supermarket
+shop: Supermarkt
 ---

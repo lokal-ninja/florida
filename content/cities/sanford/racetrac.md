@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /sanford/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

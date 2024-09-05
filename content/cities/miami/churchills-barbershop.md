@@ -1,5 +1,5 @@
 ---
 title: "Churchills BarberShop"
 url: /miami/churchills-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

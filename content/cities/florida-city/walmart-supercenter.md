@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /florida-city/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

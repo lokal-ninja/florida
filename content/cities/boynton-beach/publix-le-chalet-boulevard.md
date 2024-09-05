@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /boynton-beach/publix-le-chalet-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

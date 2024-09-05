@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /groveland/walgreens/
-shop: chemist
+shop: Drogerie
 ---

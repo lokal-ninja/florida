@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /jacksonville/walmart-supercenter-phillips-highway/
-shop: supermarket
+shop: Supermarkt
 ---

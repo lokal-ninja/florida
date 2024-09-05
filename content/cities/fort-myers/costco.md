@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /fort-myers/costco/
-shop: wholesale
+shop: Großhandel
 ---

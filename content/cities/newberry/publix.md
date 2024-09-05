@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /newberry/publix/
-shop: supermarket
+shop: Supermarkt
 ---

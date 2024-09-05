@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /gulf-breeze/publix-tiger-park-lane/
-shop: supermarket
+shop: Supermarkt
 ---

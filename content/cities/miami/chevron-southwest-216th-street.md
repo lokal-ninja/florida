@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /miami/chevron-southwest-216th-street/
-shop: convenience
+shop: Lebensmittel
 ---

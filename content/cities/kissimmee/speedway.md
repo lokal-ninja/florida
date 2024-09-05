@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /kissimmee/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /loxahatchee/publix/
-shop: supermarket
+shop: Supermarkt
 ---

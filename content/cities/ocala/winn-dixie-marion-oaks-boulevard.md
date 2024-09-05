@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /ocala/winn-dixie-marion-oaks-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

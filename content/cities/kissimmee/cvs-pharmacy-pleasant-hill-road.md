@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /kissimmee/cvs-pharmacy-pleasant-hill-road/
-shop: chemist
+shop: Drogerie
 ---

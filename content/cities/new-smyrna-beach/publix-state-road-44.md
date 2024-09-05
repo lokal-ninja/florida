@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /new-smyrna-beach/publix-state-road-44/
-shop: supermarket
+shop: Supermarkt
 ---

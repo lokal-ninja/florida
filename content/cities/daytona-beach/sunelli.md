@@ -1,5 +1,5 @@
 ---
 title: "Sunelli"
 url: /daytona-beach/sunelli/
-shop: clothes
+shop: Kleidung
 ---

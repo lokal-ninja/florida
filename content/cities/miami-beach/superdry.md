@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /miami-beach/superdry/
-shop: clothes
+shop: Kleidung
 ---

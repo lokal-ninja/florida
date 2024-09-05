@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /brandon/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

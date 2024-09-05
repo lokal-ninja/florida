@@ -1,5 +1,5 @@
 ---
 title: "Luxury Nails"
 url: /windermere/luxury-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Karisma"
 url: /palm-bay/karisma/
-shop: hairdresser
+shop: Friseur
 ---

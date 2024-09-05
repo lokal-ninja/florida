@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /fort-myers/goodwill-mcgregor-boulevard/
-shop: charity
+shop: Gebrauchtwaren
 ---

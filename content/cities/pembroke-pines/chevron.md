@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /pembroke-pines/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

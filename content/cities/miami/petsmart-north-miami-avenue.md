@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /miami/petsmart-north-miami-avenue/
-shop: pet
+shop: Tiere
 ---

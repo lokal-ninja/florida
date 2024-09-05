@@ -1,5 +1,5 @@
 ---
 title: "Shooz"
 url: /saint-petersburg/shooz/
-shop: shoes
+shop: Schuhe
 ---

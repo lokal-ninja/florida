@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /fort-myers/petco/
-shop: pet
+shop: Tiere
 ---

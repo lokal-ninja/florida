@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /saint-petersburg/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

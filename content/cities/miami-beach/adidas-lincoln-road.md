@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /miami-beach/adidas-lincoln-road/
-shop: sports
+shop: Sport
 ---

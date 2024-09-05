@@ -1,5 +1,5 @@
 ---
 title: "Unilock"
 url: /wellington/unilock/
-shop: jewelry
+shop: Schmuck
 ---

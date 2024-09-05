@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /osprey/publix/
-shop: supermarket
+shop: Supermarkt
 ---

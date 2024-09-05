@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /tampa/rei/
-shop: outdoor
+shop: Outdoor
 ---

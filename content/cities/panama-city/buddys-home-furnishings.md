@@ -1,5 +1,5 @@
 ---
 title: "Buddy's Home Furnishings"
 url: /panama-city/buddys-home-furnishings/
-shop: furniture
+shop: Möbel
 ---

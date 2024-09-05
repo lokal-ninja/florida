@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /jacksonville/publix-duval-station-road/
-shop: supermarket
+shop: Supermarkt
 ---

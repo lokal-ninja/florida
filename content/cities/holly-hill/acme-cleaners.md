@@ -1,5 +1,5 @@
 ---
 title: "ACME Cleaners"
 url: /holly-hill/acme-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /tampa/michaels/
-shop: craft
+shop: Basteln
 ---

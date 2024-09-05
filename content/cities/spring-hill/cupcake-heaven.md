@@ -1,5 +1,5 @@
 ---
 title: "Cupcake Heaven"
 url: /spring-hill/cupcake-heaven/
-shop: confectionery
+shop: Süßwaren
 ---

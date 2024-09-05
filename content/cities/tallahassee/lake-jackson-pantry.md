@@ -1,5 +1,5 @@
 ---
 title: "Lake Jackson Pantry"
 url: /tallahassee/lake-jackson-pantry/
-shop: convenience
+shop: Lebensmittel
 ---
