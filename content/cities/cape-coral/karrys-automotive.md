@@ -1,5 +1,5 @@
 ---
 title: "Karry's Automotive"
 url: /cape-coral/karrys-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scenthound Oviedo"
 url: /oviedo/scenthound-oviedo/
-shop: Tiersalon
+shop: pet grooming
 ---

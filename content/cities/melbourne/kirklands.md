@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /melbourne/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luekens Liquors"
 url: /tampa/luekens-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

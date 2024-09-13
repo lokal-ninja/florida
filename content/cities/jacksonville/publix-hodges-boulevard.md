@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /jacksonville/publix-hodges-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

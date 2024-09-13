@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /saint-petersburg/kohls/
-shop: Warenhaus
+shop: department store
 ---

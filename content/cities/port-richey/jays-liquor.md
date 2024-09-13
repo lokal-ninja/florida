@@ -1,5 +1,5 @@
 ---
 title: "Jay's Liquor"
 url: /port-richey/jays-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /coral-springs/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rolex"
 url: /ponte-vedra-beach/rolex/
-shop: Uhren
+shop: watches
 ---

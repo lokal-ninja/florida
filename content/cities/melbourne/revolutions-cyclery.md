@@ -1,5 +1,5 @@
 ---
 title: "Revolutions Cyclery"
 url: /melbourne/revolutions-cyclery/
-shop: Fahrrad
+shop: bicycle
 ---

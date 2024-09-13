@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /kissimmee/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

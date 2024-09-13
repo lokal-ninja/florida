@@ -1,5 +1,5 @@
 ---
 title: "Palm Coast Flooring Outlet"
 url: /palm-coast/palm-coast-flooring-outlet/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /holiday/walgreens/
-shop: Drogerie
+shop: chemist
 ---

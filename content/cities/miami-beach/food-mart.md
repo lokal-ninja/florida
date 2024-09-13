@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /miami-beach/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

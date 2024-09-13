@@ -1,5 +1,5 @@
 ---
 title: "Desireé Nercessian"
 url: /miami-beach/desiree-nercessian/
-shop: Kleidung
+shop: clothes
 ---

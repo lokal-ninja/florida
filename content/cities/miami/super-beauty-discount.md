@@ -1,5 +1,5 @@
 ---
 title: "Super Beauty Discount"
 url: /miami/super-beauty-discount/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

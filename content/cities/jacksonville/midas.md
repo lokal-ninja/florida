@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /jacksonville/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

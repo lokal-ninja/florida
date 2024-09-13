@@ -1,5 +1,5 @@
 ---
 title: "Converse"
 url: /daytona-beach/converse/
-shop: Schuhe
+shop: shoes
 ---

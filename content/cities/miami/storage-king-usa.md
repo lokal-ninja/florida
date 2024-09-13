@@ -1,5 +1,5 @@
 ---
 title: "Storage King USA"
 url: /miami/storage-king-usa/
-shop: Mieten
+shop: storage rental
 ---

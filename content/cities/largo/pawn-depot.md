@@ -1,5 +1,5 @@
 ---
 title: "Pawn Depot"
 url: /largo/pawn-depot/
-shop: Leiher
+shop: pawnbroker
 ---

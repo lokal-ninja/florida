@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /miami/office-depot-bird-road/
-shop: Schreibwaren
+shop: office supplies
 ---

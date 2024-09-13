@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /palm-bay/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

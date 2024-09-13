@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /davenport/target/
-shop: Warenhaus
+shop: department store
 ---

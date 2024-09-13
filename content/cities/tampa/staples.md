@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /tampa/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

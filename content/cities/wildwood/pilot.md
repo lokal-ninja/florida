@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /wildwood/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

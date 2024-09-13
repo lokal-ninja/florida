@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /kissimmee/aldi-west-vine-street/
-shop: Supermarkt
+shop: supermarket
 ---

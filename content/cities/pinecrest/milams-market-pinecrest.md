@@ -1,5 +1,5 @@
 ---
 title: "Milam's market pinecrest"
 url: /pinecrest/milams-market-pinecrest/
-shop: Supermarkt
+shop: supermarket
 ---

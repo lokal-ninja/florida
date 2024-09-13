@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /north-miami/massage-envy/
-shop: Massage
+shop: massage
 ---

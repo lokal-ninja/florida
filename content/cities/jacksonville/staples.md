@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /jacksonville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

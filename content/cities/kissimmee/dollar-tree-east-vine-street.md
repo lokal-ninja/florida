@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /kissimmee/dollar-tree-east-vine-street/
-shop: Kramladen
+shop: variety store
 ---

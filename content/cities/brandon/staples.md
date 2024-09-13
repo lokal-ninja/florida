@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /brandon/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

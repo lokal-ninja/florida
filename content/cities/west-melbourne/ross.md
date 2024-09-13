@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /west-melbourne/ross/
-shop: Warenhaus
+shop: department store
 ---

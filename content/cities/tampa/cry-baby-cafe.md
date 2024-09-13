@@ -1,5 +1,5 @@
 ---
 title: "Cry Baby Cafe"
 url: /tampa/cry-baby-cafe/
-shop: Konditorei
+shop: pastry
 ---

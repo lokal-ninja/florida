@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /saint-pete-beach/publix/
-shop: Supermarkt
+shop: supermarket
 ---

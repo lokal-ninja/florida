@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /panama-city/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

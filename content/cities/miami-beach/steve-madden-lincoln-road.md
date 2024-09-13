@@ -1,5 +1,5 @@
 ---
 title: "Steve Madden"
 url: /miami-beach/steve-madden-lincoln-road/
-shop: Schuhe
+shop: shoes
 ---

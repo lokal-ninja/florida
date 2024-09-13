@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /panama-city/target/
-shop: Warenhaus
+shop: department store
 ---

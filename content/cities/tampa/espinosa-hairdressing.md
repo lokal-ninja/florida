@@ -1,5 +1,5 @@
 ---
 title: "Espinosa Hairdressing"
 url: /tampa/espinosa-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

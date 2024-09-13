@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /port-saint-lucie/walmart/
-shop: Warenhaus
+shop: department store
 ---

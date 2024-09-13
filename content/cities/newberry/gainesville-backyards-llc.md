@@ -1,5 +1,5 @@
 ---
 title: "Gainesville Backyards LLC"
 url: /newberry/gainesville-backyards-llc/
-shop: Baustoffe
+shop: trade
 ---

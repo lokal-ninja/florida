@@ -1,5 +1,5 @@
 ---
 title: "Graybar"
 url: /pensacola/graybar/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Things Remembered"
 url: /daytona-beach/things-remembered/
-shop: Andenken
+shop: gift
 ---

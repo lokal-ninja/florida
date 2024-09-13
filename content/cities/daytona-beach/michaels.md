@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /daytona-beach/michaels/
-shop: Basteln
+shop: craft
 ---

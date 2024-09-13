@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /homestead/ross/
-shop: Warenhaus
+shop: department store
 ---

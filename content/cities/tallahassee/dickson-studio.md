@@ -1,5 +1,5 @@
 ---
 title: "Dickson Studio"
 url: /tallahassee/dickson-studio/
-shop: Kunst
+shop: art
 ---

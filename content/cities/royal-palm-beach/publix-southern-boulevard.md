@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /royal-palm-beach/publix-southern-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

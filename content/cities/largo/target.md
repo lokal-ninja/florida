@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /largo/target/
-shop: Warenhaus
+shop: department store
 ---

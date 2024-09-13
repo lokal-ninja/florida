@@ -1,5 +1,5 @@
 ---
 title: "AV Electronics"
 url: /tallahassee/av-electronics/
-shop: Elektronik
+shop: electronics
 ---

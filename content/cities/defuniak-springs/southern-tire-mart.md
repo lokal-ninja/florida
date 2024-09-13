@@ -1,5 +1,5 @@
 ---
 title: "Southern Tire Mart"
 url: /defuniak-springs/southern-tire-mart/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /miami/sephora/
-shop: Kosmetik
+shop: beauty
 ---

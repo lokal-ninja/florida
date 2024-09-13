@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /boca-raton/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

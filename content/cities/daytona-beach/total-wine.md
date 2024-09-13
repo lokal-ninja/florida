@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /daytona-beach/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

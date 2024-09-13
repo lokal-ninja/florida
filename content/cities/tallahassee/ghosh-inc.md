@@ -1,5 +1,5 @@
 ---
 title: "Ghosh, Inc"
 url: /tallahassee/ghosh-inc/
-shop: Lebensmittel
+shop: convenience
 ---

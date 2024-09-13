@@ -1,5 +1,5 @@
 ---
 title: "Pappy's Liquors"
 url: /fort-pierce/pappys-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

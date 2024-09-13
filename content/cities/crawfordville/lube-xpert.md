@@ -1,5 +1,5 @@
 ---
 title: "Lube-Xpert"
 url: /crawfordville/lube-xpert/
-shop: Autowerkstatt
+shop: car repair
 ---

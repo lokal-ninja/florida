@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /jacksonville/kohls-old-saint-augustine-road/
-shop: Warenhaus
+shop: department store
 ---

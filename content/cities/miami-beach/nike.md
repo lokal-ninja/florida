@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /miami-beach/nike/
-shop: Kleidung
+shop: clothes
 ---

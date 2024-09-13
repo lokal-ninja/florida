@@ -1,5 +1,5 @@
 ---
 title: "Farmer's Furniture"
 url: /chiefland/farmers-furniture/
-shop: Möbel
+shop: furniture
 ---

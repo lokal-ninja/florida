@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /bunnell/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central Pawn"
 url: /tallahassee/central-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

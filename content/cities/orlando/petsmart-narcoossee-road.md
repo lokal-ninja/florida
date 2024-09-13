@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /orlando/petsmart-narcoossee-road/
-shop: Tiere
+shop: pet
 ---

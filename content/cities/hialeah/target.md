@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hialeah/target/
-shop: Warenhaus
+shop: department store
 ---

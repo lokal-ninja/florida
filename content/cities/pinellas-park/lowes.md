@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /pinellas-park/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

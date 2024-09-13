@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /sebring/petco/
-shop: Tiere
+shop: pet
 ---

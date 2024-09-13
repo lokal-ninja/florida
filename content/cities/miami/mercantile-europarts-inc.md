@@ -1,5 +1,5 @@
 ---
 title: "Mercantile Europarts, Inc."
 url: /miami/mercantile-europarts-inc/
-shop: Autoteile
+shop: car parts
 ---

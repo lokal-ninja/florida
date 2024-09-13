@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /west-palm-beach/speedway-okeechobee-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

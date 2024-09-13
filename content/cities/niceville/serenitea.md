@@ -1,5 +1,5 @@
 ---
 title: "SereniTea"
 url: /niceville/serenitea/
-shop: Tee
+shop: tea
 ---

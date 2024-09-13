@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /bradenton/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /tallahassee/burlington/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /boca-raton/burlington/
-shop: Warenhaus
+shop: department store
 ---

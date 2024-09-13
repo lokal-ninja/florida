@@ -1,5 +1,5 @@
 ---
 title: "Gabrielle's Contemporary"
 url: /saint-augustine/gabrielles-contemporary/
-shop: Kleidung
+shop: clothes
 ---

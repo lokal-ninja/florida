@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /brandon/publix-kingsway-road/
-shop: Supermarkt
+shop: supermarket
 ---

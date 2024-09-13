@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /fleming-island/kohls/
-shop: Warenhaus
+shop: department store
 ---

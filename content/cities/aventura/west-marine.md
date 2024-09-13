@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /aventura/west-marine/
-shop: Boot
+shop: boat
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ben's Accurate Automotive"
 url: /spring-hill/bens-accurate-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pace/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

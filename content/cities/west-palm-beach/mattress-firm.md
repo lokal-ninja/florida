@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /west-palm-beach/mattress-firm/
-shop: Betten
+shop: bed
 ---

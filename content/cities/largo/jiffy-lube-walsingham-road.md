@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /largo/jiffy-lube-walsingham-road/
-shop: Autowerkstatt
+shop: car repair
 ---

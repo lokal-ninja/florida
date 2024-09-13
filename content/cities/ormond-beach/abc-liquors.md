@@ -1,5 +1,5 @@
 ---
 title: "ABC Liquors"
 url: /ormond-beach/abc-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

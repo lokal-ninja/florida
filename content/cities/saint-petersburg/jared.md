@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /saint-petersburg/jared/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /miami/petsmart-south-dixie-highway/
-shop: Tiere
+shop: pet
 ---

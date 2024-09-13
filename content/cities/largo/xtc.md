@@ -1,5 +1,5 @@
 ---
 title: "XTC"
 url: /largo/xtc/
-shop: Videothek
+shop: video
 ---

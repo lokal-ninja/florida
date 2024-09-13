@@ -1,5 +1,5 @@
 ---
 title: "Murphy Express"
 url: /ocala/murphy-express/
-shop: Lebensmittel
+shop: convenience
 ---

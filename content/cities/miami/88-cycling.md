@@ -1,5 +1,5 @@
 ---
 title: "88 Cycling"
 url: /miami/88-cycling/
-shop: Fahrrad
+shop: bicycle
 ---

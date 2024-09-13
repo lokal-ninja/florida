@@ -1,5 +1,5 @@
 ---
 title: "Reynoso Auto Repair"
 url: /kissimmee/reynoso-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

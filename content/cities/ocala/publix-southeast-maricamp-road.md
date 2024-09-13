@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /ocala/publix-southeast-maricamp-road/
-shop: Supermarkt
+shop: supermarket
 ---

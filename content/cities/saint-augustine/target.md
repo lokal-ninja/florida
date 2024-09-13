@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /saint-augustine/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alleima"
 url: /palm-coast/alleima/
-shop: Allgemein
+shop: shop
 ---

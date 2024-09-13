@@ -1,5 +1,5 @@
 ---
 title: "Alan Jay Nissan"
 url: /sebring/alan-jay-nissan/
-shop: Autohaus
+shop: car
 ---

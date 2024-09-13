@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /jacksonville/walmart-supercenter-lem-turner-road/
-shop: Supermarkt
+shop: supermarket
 ---

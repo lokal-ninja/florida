@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /north-miami-beach/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

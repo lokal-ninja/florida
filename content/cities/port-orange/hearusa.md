@@ -1,5 +1,5 @@
 ---
 title: "HearUSA"
 url: /port-orange/hearusa/
-shop: Hörgeräte
+shop: hearing aids
 ---

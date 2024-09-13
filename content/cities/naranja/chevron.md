@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /naranja/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

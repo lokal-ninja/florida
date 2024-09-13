@@ -1,5 +1,5 @@
 ---
 title: "Zen Hair Studio"
 url: /pinecrest/zen-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

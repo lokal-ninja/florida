@@ -1,5 +1,5 @@
 ---
 title: "Davis Islands Pharmacy"
 url: /tampa/davis-islands-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /daytona-beach/ifixscreens/
-shop: Handy
+shop: mobile phone
 ---

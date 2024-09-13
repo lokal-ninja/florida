@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mary-esther/target/
-shop: Warenhaus
+shop: department store
 ---

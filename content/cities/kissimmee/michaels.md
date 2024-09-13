@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /kissimmee/michaels/
-shop: Basteln
+shop: craft
 ---

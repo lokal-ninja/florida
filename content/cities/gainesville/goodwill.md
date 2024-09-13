@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /gainesville/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

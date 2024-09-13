@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /panama-city-beach/zales/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /cutler-ridge/sherwin-williams/
-shop: Farben
+shop: paint
 ---

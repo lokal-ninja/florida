@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /titusville/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

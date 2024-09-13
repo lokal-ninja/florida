@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /kendall/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

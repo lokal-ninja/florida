@@ -1,5 +1,5 @@
 ---
 title: "Autobahn Car Services"
 url: /miami/autobahn-car-services/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /coral-springs/target/
-shop: Warenhaus
+shop: department store
 ---

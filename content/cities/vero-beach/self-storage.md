@@ -1,5 +1,5 @@
 ---
 title: "Self Storage"
 url: /vero-beach/self-storage/
-shop: Mieten
+shop: storage rental
 ---

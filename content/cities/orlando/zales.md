@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /orlando/zales/
-shop: Schmuck
+shop: jewelry
 ---

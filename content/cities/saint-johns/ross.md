@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /saint-johns/ross/
-shop: Warenhaus
+shop: department store
 ---

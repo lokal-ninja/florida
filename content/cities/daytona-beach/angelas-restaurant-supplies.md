@@ -1,5 +1,5 @@
 ---
 title: "Angela's Restaurant Supplies"
 url: /daytona-beach/angelas-restaurant-supplies/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /tallahassee/t-mobile-west-tennessee-street/
-shop: Handy
+shop: mobile phone
 ---

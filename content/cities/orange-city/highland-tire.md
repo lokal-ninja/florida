@@ -1,5 +1,5 @@
 ---
 title: "Highland Tire"
 url: /orange-city/highland-tire/
-shop: Reifen
+shop: tyres
 ---

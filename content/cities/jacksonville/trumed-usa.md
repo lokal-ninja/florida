@@ -1,5 +1,5 @@
 ---
 title: "Trumed USA"
 url: /jacksonville/trumed-usa/
-shop: Sanitätshaus
+shop: medical supply
 ---

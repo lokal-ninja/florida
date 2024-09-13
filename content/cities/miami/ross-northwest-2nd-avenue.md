@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /miami/ross-northwest-2nd-avenue/
-shop: Warenhaus
+shop: department store
 ---

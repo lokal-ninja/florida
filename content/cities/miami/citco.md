@@ -1,5 +1,5 @@
 ---
 title: "CITCO"
 url: /miami/citco/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /riverview/aldi-big-bend-road/
-shop: Supermarkt
+shop: supermarket
 ---

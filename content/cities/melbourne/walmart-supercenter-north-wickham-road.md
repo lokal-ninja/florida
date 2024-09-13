@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /melbourne/walmart-supercenter-north-wickham-road/
-shop: Supermarkt
+shop: supermarket
 ---

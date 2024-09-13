@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /cape-coral/xfinity/
-shop: Handy
+shop: mobile phone
 ---

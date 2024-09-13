@@ -1,5 +1,5 @@
 ---
 title: "Capital Food Mart"
 url: /tallahassee/capital-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

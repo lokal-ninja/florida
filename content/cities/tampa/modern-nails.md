@@ -1,5 +1,5 @@
 ---
 title: "Modern Nails"
 url: /tampa/modern-nails/
-shop: Kosmetik
+shop: beauty
 ---

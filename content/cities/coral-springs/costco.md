@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /coral-springs/costco/
-shop: Großhandel
+shop: wholesale
 ---

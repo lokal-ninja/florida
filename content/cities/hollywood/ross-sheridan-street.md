@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /hollywood/ross-sheridan-street/
-shop: Warenhaus
+shop: department store
 ---

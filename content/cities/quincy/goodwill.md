@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /quincy/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

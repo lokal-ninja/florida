@@ -1,5 +1,5 @@
 ---
 title: "Ocean Mazda"
 url: /doral/ocean-mazda/
-shop: Autohaus
+shop: car
 ---

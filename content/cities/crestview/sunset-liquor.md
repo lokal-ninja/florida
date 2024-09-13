@@ -1,5 +1,5 @@
 ---
 title: "Sunset Liquor"
 url: /crestview/sunset-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

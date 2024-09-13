@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /tampa/mobil-mart-west-bearss-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

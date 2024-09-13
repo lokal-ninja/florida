@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /palatka/publix/
-shop: Supermarkt
+shop: supermarket
 ---

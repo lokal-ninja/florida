@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /miami/jiffy-lube-south-dixie-highway/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /minneola/publix/
-shop: Supermarkt
+shop: supermarket
 ---

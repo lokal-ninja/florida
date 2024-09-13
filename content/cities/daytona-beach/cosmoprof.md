@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /daytona-beach/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

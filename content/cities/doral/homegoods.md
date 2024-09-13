@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /doral/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

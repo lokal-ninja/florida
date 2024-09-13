@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /winter-garden/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

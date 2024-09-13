@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /deland/walmart-neighborhood-market/
-shop: Supermarkt
+shop: supermarket
 ---

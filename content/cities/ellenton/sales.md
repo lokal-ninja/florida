@@ -1,5 +1,5 @@
 ---
 title: "Sales"
 url: /ellenton/sales/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "John's Automotive Complete Auto Repairs"
 url: /jacksonville/johns-automotive-complete-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

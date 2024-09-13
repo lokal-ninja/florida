@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /lake-buena-vista/lululemon/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palmetto Moon"
 url: /gainesville/palmetto-moon/
-shop: Kleidung
+shop: clothes
 ---

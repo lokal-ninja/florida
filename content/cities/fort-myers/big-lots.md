@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /fort-myers/big-lots/
-shop: Warenhaus
+shop: department store
 ---

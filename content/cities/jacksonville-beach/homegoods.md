@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /jacksonville-beach/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lutz/aldi-skybrooke-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

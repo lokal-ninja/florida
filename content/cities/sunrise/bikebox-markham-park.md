@@ -1,5 +1,5 @@
 ---
 title: "BIKEBOX Markham Park"
 url: /sunrise/bikebox-markham-park/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /panama-city/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Va Cuba"
 url: /miami/va-cuba/
-shop: Reisebüro
+shop: travel agency
 ---

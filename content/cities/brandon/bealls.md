@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /brandon/bealls/
-shop: Warenhaus
+shop: department store
 ---

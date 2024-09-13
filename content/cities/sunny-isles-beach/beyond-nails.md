@@ -1,5 +1,5 @@
 ---
 title: "Beyond Nails"
 url: /sunny-isles-beach/beyond-nails/
-shop: Kosmetik
+shop: beauty
 ---

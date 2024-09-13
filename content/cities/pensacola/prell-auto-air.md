@@ -1,5 +1,5 @@
 ---
 title: "Prell Auto Air"
 url: /pensacola/prell-auto-air/
-shop: Autowerkstatt
+shop: car repair
 ---

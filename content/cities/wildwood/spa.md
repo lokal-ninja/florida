@@ -1,5 +1,5 @@
 ---
 title: "SPA"
 url: /wildwood/spa/
-shop: Massage
+shop: massage
 ---

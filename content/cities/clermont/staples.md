@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /clermont/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

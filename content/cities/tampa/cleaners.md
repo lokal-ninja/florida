@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /tampa/cleaners/
-shop: Wäscherei
+shop: laundry
 ---

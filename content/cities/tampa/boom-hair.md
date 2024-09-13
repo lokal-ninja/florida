@@ -1,5 +1,5 @@
 ---
 title: "Boom Hair"
 url: /tampa/boom-hair/
-shop: Kosmetik
+shop: beauty
 ---

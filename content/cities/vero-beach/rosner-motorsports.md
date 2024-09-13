@@ -1,5 +1,5 @@
 ---
 title: "Rosner Motorsports"
 url: /vero-beach/rosner-motorsports/
-shop: Autohaus
+shop: car
 ---

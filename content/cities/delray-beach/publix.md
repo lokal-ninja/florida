@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /delray-beach/publix/
-shop: Supermarkt
+shop: supermarket
 ---

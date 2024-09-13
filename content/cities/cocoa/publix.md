@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /cocoa/publix/
-shop: Supermarkt
+shop: supermarket
 ---

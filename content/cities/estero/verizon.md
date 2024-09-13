@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /estero/verizon/
-shop: Handy
+shop: mobile phone
 ---

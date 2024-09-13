@@ -1,5 +1,5 @@
 ---
 title: "Beds Best Bargain"
 url: /pompano-beach/beds-best-bargain/
-shop: Möbel
+shop: furniture
 ---

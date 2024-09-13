@@ -1,5 +1,5 @@
 ---
 title: "MONTCE"
 url: /miami/montce/
-shop: Kleidung
+shop: clothes
 ---

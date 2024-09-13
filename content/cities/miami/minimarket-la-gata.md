@@ -1,5 +1,5 @@
 ---
 title: "Minimarket La Gata"
 url: /miami/minimarket-la-gata/
-shop: Lebensmittel
+shop: convenience
 ---

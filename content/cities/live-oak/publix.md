@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /live-oak/publix/
-shop: Supermarkt
+shop: supermarket
 ---

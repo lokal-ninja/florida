@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /delray-beach/xfinity/
-shop: Handy
+shop: mobile phone
 ---

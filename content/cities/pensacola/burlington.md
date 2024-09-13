@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /pensacola/burlington/
-shop: Warenhaus
+shop: department store
 ---

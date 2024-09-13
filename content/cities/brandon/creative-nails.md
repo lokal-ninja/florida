@@ -1,5 +1,5 @@
 ---
 title: "Creative Nails"
 url: /brandon/creative-nails/
-shop: Kosmetik
+shop: beauty
 ---

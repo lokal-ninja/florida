@@ -1,5 +1,5 @@
 ---
 title: "GMC Dealership"
 url: /crestview/gmc-dealership/
-shop: Autohaus
+shop: car
 ---

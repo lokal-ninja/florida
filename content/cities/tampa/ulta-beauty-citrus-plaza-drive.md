@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /tampa/ulta-beauty-citrus-plaza-drive/
-shop: Kosmetik
+shop: beauty
 ---

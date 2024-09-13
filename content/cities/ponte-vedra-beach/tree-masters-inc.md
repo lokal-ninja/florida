@@ -1,5 +1,5 @@
 ---
 title: "Tree Masters Inc"
 url: /ponte-vedra-beach/tree-masters-inc/
-shop: Garten-Center
+shop: garden centre
 ---

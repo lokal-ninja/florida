@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /jacksonville/goodyear-san-jose-boulevard/
-shop: Autowerkstatt
+shop: car repair
 ---

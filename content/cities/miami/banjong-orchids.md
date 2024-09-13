@@ -1,5 +1,5 @@
 ---
 title: "Banjong Orchids"
 url: /miami/banjong-orchids/
-shop: Blumen
+shop: florist
 ---

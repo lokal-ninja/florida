@@ -1,5 +1,5 @@
 ---
 title: "Quick Stop"
 url: /crawfordville/quick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

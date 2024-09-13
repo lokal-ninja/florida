@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /palm-beach-gardens/publix-hood-road/
-shop: Supermarkt
+shop: supermarket
 ---

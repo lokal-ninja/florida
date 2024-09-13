@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /orlando/publix-central-florida-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Backdoor Cottage"
 url: /clearwater/backdoor-cottage/
-shop: Modehaus
+shop: boutique
 ---

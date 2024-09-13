@@ -1,5 +1,5 @@
 ---
 title: "Hansard's Service Center"
 url: /holly-hill/hansards-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

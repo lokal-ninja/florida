@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /margate/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

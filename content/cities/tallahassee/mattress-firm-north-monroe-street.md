@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /tallahassee/mattress-firm-north-monroe-street/
-shop: Betten
+shop: bed
 ---

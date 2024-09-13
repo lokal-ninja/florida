@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lake-mary/target/
-shop: Warenhaus
+shop: department store
 ---

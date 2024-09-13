@@ -1,5 +1,5 @@
 ---
 title: "Ali Market"
 url: /deerfield-beach/ali-market/
-shop: Supermarkt
+shop: supermarket
 ---

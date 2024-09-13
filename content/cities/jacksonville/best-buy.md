@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /jacksonville/best-buy/
-shop: Elektronik
+shop: electronics
 ---

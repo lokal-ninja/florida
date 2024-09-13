@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /saint-augustine/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

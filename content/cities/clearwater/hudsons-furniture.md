@@ -1,5 +1,5 @@
 ---
 title: "Hudson's Furniture"
 url: /clearwater/hudsons-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /tarpon-springs/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

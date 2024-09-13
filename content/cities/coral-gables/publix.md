@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /coral-gables/publix/
-shop: Supermarkt
+shop: supermarket
 ---

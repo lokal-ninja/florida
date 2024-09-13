@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /sarasota/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

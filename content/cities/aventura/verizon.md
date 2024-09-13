@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /aventura/verizon/
-shop: Handy
+shop: mobile phone
 ---

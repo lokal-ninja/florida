@@ -1,5 +1,5 @@
 ---
 title: "Tommy T's Mighty Lube"
 url: /tallahassee/tommy-ts-mighty-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

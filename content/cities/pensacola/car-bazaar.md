@@ -1,5 +1,5 @@
 ---
 title: "car bazaar"
 url: /pensacola/car-bazaar/
-shop: Autohaus
+shop: car
 ---

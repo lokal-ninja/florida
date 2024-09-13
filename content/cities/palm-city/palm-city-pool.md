@@ -1,5 +1,5 @@
 ---
 title: "Palm City Pool"
 url: /palm-city/palm-city-pool/
-shop: Allgemein
+shop: shop
 ---

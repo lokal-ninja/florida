@@ -1,5 +1,5 @@
 ---
 title: "Crabby Joe's"
 url: /daytona-beach/crabby-joes/
-shop: Fisch
+shop: seafood
 ---

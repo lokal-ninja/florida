@@ -1,5 +1,5 @@
 ---
 title: "Beth El Mausoleum"
 url: /boca-raton/beth-el-mausoleum/
-shop: Bestattungen
+shop: funeral directors
 ---

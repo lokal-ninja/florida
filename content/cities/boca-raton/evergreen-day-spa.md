@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Day Spa"
 url: /boca-raton/evergreen-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

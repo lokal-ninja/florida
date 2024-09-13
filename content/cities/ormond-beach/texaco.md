@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /ormond-beach/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /pinellas-park/gamestop/
-shop: Videospiele
+shop: video games
 ---

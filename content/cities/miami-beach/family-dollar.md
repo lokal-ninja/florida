@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /miami-beach/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

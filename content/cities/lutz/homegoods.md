@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /lutz/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

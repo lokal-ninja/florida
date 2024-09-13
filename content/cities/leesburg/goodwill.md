@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /leesburg/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

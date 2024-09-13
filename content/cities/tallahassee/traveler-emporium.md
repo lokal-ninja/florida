@@ -1,5 +1,5 @@
 ---
 title: "Traveler Emporium"
 url: /tallahassee/traveler-emporium/
-shop: Schmuck
+shop: jewelry
 ---

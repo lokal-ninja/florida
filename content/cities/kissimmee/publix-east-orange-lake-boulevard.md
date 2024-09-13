@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /kissimmee/publix-east-orange-lake-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

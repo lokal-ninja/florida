@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sunrise/target/
-shop: Supermarkt
+shop: supermarket
 ---

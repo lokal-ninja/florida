@@ -1,5 +1,5 @@
 ---
 title: "Better Built Barns"
 url: /hosford/better-built-barns/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mount-dora/target/
-shop: Warenhaus
+shop: department store
 ---

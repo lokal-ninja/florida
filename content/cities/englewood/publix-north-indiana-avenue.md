@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /englewood/publix-north-indiana-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

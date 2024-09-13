@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /wesley-chapel/michaels/
-shop: Basteln
+shop: craft
 ---

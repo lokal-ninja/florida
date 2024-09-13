@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /miami/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

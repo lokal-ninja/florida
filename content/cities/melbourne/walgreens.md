@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /melbourne/walgreens/
-shop: Drogerie
+shop: chemist
 ---

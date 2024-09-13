@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /miami/best-buy/
-shop: Elektronik
+shop: electronics
 ---

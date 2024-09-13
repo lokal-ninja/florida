@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /jacksonville/speedway-philips-highway/
-shop: Lebensmittel
+shop: convenience
 ---

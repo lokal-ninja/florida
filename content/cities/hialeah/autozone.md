@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /hialeah/autozone/
-shop: Autoteile
+shop: car parts
 ---

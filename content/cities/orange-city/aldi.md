@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /orange-city/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

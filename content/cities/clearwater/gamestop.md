@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /clearwater/gamestop/
-shop: Videospiele
+shop: video games
 ---

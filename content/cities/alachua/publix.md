@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /alachua/publix/
-shop: Supermarkt
+shop: supermarket
 ---

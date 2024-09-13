@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /largo/winn-dixie/
-shop: Supermarkt
+shop: supermarket
 ---

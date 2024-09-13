@@ -1,5 +1,5 @@
 ---
 title: "Hodges Mazda"
 url: /jacksonville/hodges-mazda/
-shop: Autohaus
+shop: car
 ---

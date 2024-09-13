@@ -1,5 +1,5 @@
 ---
 title: "Dick's Sporting Goods"
 url: /sarasota/dicks-sporting-goods/
-shop: Sport
+shop: sports
 ---

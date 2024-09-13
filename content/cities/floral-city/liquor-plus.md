@@ -1,5 +1,5 @@
 ---
 title: "Liquor Plus"
 url: /floral-city/liquor-plus/
-shop: Spirituosen
+shop: alcohol
 ---

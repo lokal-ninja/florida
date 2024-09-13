@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /pompano-beach/publix-east-atlantic-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodlife SuperThrift"
 url: /bradenton/goodlife-superthrift/
-shop: Gebrauchtwaren
+shop: charity
 ---

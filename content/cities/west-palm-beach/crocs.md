@@ -1,5 +1,5 @@
 ---
 title: "Crocs"
 url: /west-palm-beach/crocs/
-shop: Schuhe
+shop: shoes
 ---

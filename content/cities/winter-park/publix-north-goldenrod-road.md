@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /winter-park/publix-north-goldenrod-road/
-shop: Supermarkt
+shop: supermarket
 ---

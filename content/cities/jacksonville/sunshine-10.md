@@ -1,5 +1,5 @@
 ---
 title: "Sunshine 10"
 url: /jacksonville/sunshine-10/
-shop: Lebensmittel
+shop: convenience
 ---

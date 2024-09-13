@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /south-daytona/publix/
-shop: Supermarkt
+shop: supermarket
 ---

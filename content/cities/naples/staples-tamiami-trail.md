@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /naples/staples-tamiami-trail/
-shop: Schreibwaren
+shop: office supplies
 ---

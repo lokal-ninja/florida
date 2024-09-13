@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /saint-petersburg/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

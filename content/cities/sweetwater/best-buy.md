@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /sweetwater/best-buy/
-shop: Elektronik
+shop: electronics
 ---

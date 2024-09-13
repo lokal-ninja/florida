@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /delray-beach/ross/
-shop: Warenhaus
+shop: department store
 ---

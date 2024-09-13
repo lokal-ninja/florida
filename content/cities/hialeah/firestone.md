@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /hialeah/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

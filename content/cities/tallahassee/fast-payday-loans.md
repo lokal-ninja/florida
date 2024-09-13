@@ -1,5 +1,5 @@
 ---
 title: "Fast Payday Loans"
 url: /tallahassee/fast-payday-loans/
-shop: Allgemein
+shop: shop
 ---

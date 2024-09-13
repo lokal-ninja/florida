@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /sarasota/publix-south-osprey-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

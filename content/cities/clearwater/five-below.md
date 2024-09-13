@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /clearwater/five-below/
-shop: Kramladen
+shop: variety store
 ---

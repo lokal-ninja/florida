@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /tampa/dollar-general-east-dr-martin-luther-king-jr-boulevard/
-shop: Kramladen
+shop: variety store
 ---

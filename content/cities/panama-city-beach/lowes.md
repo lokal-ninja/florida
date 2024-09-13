@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /panama-city-beach/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

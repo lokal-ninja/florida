@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /west-palm-beach/dsw/
-shop: Schuhe
+shop: shoes
 ---

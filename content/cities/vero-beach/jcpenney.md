@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /vero-beach/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

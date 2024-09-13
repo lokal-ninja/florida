@@ -1,5 +1,5 @@
 ---
-title: Massage
+title: massage
 url: /massage/
 icon: massage
 ---

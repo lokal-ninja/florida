@@ -1,5 +1,5 @@
 ---
 title: "Traditions"
 url: /havana/traditions/
-shop: Antiquitäten
+shop: antiques
 ---

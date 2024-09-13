@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /spring-hill/publix-county-line-road/
-shop: Supermarkt
+shop: supermarket
 ---

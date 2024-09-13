@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /bradenton/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GasKwick"
 url: /tampa/gaskwick/
-shop: Lebensmittel
+shop: convenience
 ---

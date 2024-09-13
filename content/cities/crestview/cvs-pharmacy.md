@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /crestview/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

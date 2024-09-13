@@ -1,5 +1,5 @@
 ---
 title: "Perry Ellis"
 url: /ellenton/perry-ellis/
-shop: Kleidung
+shop: clothes
 ---

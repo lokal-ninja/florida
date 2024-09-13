@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /valrico/walgreens/
-shop: Drogerie
+shop: chemist
 ---

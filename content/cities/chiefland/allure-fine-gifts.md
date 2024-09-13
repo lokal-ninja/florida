@@ -1,5 +1,5 @@
 ---
 title: "Allure Fine Gifts"
 url: /chiefland/allure-fine-gifts/
-shop: Schmuck
+shop: jewelry
 ---

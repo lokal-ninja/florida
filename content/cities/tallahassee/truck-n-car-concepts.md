@@ -1,5 +1,5 @@
 ---
 title: "Truck N' Car Concepts"
 url: /tallahassee/truck-n-car-concepts/
-shop: Autoteile
+shop: car parts
 ---

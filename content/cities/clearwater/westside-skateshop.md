@@ -1,5 +1,5 @@
 ---
 title: "Westside Skateshop"
 url: /clearwater/westside-skateshop/
-shop: Sport
+shop: sports
 ---

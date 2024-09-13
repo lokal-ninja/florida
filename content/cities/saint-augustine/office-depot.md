@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /saint-augustine/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

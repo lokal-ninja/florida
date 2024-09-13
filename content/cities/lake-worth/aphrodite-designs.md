@@ -1,5 +1,5 @@
 ---
 title: "Aphrodite Designs"
 url: /lake-worth/aphrodite-designs/
-shop: Schneiderei
+shop: tailor
 ---

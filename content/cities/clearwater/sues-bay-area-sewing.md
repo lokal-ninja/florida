@@ -1,5 +1,5 @@
 ---
 title: "Sue's Bay Area Sewing"
 url: /clearwater/sues-bay-area-sewing/
-shop: Nähzubehör
+shop: sewing
 ---

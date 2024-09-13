@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /miami/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /kissimmee/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spectrum Optical"
 url: /gainesville/spectrum-optical/
-shop: Optiker
+shop: optician
 ---

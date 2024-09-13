@@ -1,5 +1,5 @@
 ---
 title: "Ralph Pucci"
 url: /miami/ralph-pucci/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /tallahassee/pink/
-shop: Kleidung
+shop: clothes
 ---

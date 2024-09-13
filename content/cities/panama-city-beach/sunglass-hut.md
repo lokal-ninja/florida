@@ -1,5 +1,5 @@
 ---
 title: "Sunglass Hut"
 url: /panama-city-beach/sunglass-hut/
-shop: Optiker
+shop: optician
 ---

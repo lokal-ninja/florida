@@ -1,5 +1,5 @@
 ---
 title: "Pompano Supermarket"
 url: /pompano-beach/pompano-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

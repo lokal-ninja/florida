@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /largo/bealls/
-shop: Warenhaus
+shop: department store
 ---

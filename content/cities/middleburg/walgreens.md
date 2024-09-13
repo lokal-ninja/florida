@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /middleburg/walgreens/
-shop: Supermarkt
+shop: supermarket
 ---

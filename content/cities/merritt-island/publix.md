@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /merritt-island/publix/
-shop: Supermarkt
+shop: supermarket
 ---

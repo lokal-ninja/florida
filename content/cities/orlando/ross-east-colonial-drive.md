@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /orlando/ross-east-colonial-drive/
-shop: Warenhaus
+shop: department store
 ---

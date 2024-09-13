@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /panama-city-beach/aerie/
-shop: Kleidung
+shop: clothes
 ---

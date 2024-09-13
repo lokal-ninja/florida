@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /seminole/talbots/
-shop: Kleidung
+shop: clothes
 ---

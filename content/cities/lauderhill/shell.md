@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lauderhill/shell/
-shop: Lebensmittel
+shop: convenience
 ---

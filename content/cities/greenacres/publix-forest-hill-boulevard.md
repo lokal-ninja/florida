@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /greenacres/publix-forest-hill-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

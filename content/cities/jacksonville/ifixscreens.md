@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /jacksonville/ifixscreens/
-shop: Handy
+shop: mobile phone
 ---

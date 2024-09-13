@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
 url: /panama-city-beach/dillards/
-shop: Warenhaus
+shop: department store
 ---

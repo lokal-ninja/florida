@@ -1,5 +1,5 @@
 ---
 title: "Jerry's Cigars"
 url: /tallahassee/jerrys-cigars/
-shop: Tabak
+shop: tobacco
 ---

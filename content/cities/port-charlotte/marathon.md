@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /port-charlotte/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

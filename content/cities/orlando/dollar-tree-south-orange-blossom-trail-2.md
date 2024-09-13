@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /orlando/dollar-tree-south-orange-blossom-trail-2/
-shop: Kramladen
+shop: variety store
 ---

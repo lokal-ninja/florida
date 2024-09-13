@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /saint-johns/mattress-firm/
-shop: Betten
+shop: bed
 ---

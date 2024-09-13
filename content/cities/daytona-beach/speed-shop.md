@@ -1,5 +1,5 @@
 ---
 title: "Speed Shop"
 url: /daytona-beach/speed-shop/
-shop: Autoteile
+shop: car parts
 ---

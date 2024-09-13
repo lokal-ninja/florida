@@ -1,5 +1,5 @@
 ---
 title: "Electric Motion Golf Carts"
 url: /naples/electric-motion-golf-carts/
-shop: Autohaus
+shop: car
 ---

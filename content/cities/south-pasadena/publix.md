@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /south-pasadena/publix/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /palatka/aarons/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magnolia Laine Bridal"
 url: /tampa/magnolia-laine-bridal/
-shop: Kleidung
+shop: clothes
 ---

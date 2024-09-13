@@ -1,5 +1,5 @@
 ---
 title: "Ancient Arts Furniture"
 url: /tampa/ancient-arts-furniture/
-shop: Möbel
+shop: furniture
 ---

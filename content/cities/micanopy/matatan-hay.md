@@ -1,5 +1,5 @@
 ---
 title: "Matatan Hay"
 url: /micanopy/matatan-hay/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

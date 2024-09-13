@@ -1,5 +1,5 @@
 ---
 title: "Rolex"
 url: /miami/rolex/
-shop: Uhren
+shop: watches
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Khazana Boutique"
 url: /orlando/khazana-boutique/
-shop: Friseur
+shop: hairdresser
 ---

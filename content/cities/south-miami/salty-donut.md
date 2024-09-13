@@ -1,5 +1,5 @@
 ---
 title: "Salty Donut"
 url: /south-miami/salty-donut/
-shop: Bäckerei
+shop: bakery
 ---

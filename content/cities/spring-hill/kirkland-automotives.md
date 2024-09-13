@@ -1,5 +1,5 @@
 ---
 title: "Kirkland Automotives"
 url: /spring-hill/kirkland-automotives/
-shop: Autowerkstatt
+shop: car repair
 ---

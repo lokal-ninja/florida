@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /oviedo/publix-alafaya-woods-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

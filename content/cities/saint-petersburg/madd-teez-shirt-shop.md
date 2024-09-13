@@ -1,5 +1,5 @@
 ---
 title: "Madd Teez Shirt Shop"
 url: /saint-petersburg/madd-teez-shirt-shop/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tallahassee/target-apalachee-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

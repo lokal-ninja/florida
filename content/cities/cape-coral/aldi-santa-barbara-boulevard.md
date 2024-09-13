@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /cape-coral/aldi-santa-barbara-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

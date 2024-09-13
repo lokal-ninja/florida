@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /orlando/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

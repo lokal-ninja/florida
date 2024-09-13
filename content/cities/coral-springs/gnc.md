@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /coral-springs/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

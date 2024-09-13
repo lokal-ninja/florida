@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /gainesville/carters/
-shop: Kleidung
+shop: clothes
 ---

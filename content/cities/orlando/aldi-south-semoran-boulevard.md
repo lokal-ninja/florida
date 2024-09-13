@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /orlando/aldi-south-semoran-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

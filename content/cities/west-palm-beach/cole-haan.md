@@ -1,5 +1,5 @@
 ---
 title: "Cole Haan"
 url: /west-palm-beach/cole-haan/
-shop: Schuhe
+shop: shoes
 ---

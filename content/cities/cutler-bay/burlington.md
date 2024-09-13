@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /cutler-bay/burlington/
-shop: Warenhaus
+shop: department store
 ---

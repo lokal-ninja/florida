@@ -1,5 +1,5 @@
 ---
 title: "M E P Foods"
 url: /tampa/m-e-p-foods/
-shop: Lebensmittel
+shop: convenience
 ---

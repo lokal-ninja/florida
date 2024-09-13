@@ -1,5 +1,5 @@
 ---
 title: "Buck Saver"
 url: /eastpoint/buck-saver/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tara Angel's Magic"
 url: /tallahassee/tara-angels-magic/
-shop: Spiele
+shop: games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bob's Transmission Repair"
 url: /palm-bay/bobs-transmission-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

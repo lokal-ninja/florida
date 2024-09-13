@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /melbourne/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

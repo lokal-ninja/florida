@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /pinellas-park/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eleganza"
 url: /saint-petersburg/eleganza/
-shop: Kleidung
+shop: clothes
 ---

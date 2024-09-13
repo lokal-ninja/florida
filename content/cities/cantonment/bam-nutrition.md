@@ -1,5 +1,5 @@
 ---
 title: "BAM Nutrition"
 url: /cantonment/bam-nutrition/
-shop: Bioladen
+shop: health food
 ---

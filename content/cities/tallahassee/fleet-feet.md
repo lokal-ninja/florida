@@ -1,5 +1,5 @@
 ---
 title: "Fleet Feet"
 url: /tallahassee/fleet-feet/
-shop: Schuhe
+shop: shoes
 ---

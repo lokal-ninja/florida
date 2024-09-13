@@ -1,5 +1,5 @@
 ---
 title: "Beijing Mart"
 url: /miami/beijing-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daytona Infiniti"
 url: /daytona-beach/daytona-infiniti/
-shop: Autohaus
+shop: car
 ---

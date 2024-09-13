@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /kissimmee/kohls/
-shop: Warenhaus
+shop: department store
 ---

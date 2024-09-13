@@ -1,5 +1,5 @@
 ---
 title: "Edie's Hair Styling"
 url: /oldsmar/edies-hair-styling/
-shop: Friseur
+shop: hairdresser
 ---

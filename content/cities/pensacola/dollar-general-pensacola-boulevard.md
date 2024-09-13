@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /pensacola/dollar-general-pensacola-boulevard/
-shop: Kramladen
+shop: variety store
 ---

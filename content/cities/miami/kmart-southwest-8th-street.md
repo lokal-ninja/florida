@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /miami/kmart-southwest-8th-street/
-shop: Warenhaus
+shop: department store
 ---

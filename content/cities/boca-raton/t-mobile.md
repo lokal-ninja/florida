@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /boca-raton/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

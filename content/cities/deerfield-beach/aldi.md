@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /deerfield-beach/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

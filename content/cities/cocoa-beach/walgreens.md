@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cocoa-beach/walgreens/
-shop: Drogerie
+shop: chemist
 ---

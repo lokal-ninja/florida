@@ -1,5 +1,5 @@
 ---
 title: "Flash Garage LLC"
 url: /fort-lauderdale/flash-garage-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

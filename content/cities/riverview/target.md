@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /riverview/target/
-shop: Warenhaus
+shop: department store
 ---

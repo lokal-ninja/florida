@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /orlando/puma/
-shop: Reisebüro
+shop: travel agency
 ---

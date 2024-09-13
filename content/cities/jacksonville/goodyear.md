@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /jacksonville/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

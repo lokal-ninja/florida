@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /port-orange/target/
-shop: Warenhaus
+shop: department store
 ---

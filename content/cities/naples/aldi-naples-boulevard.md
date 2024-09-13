@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /naples/aldi-naples-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

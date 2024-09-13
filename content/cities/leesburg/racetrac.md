@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /leesburg/racetrac/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiehl's"
 url: /lake-buena-vista/kiehls/
-shop: Kosmetik
+shop: beauty
 ---

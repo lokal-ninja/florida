@@ -1,5 +1,5 @@
 ---
 title: "Citgo Express"
 url: /pinellas-park/citgo-express/
-shop: Lebensmittel
+shop: convenience
 ---

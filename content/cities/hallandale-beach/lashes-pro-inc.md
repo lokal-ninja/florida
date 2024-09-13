@@ -1,5 +1,5 @@
 ---
 title: "Lashes Pro Inc"
 url: /hallandale-beach/lashes-pro-inc/
-shop: Kosmetik
+shop: beauty
 ---

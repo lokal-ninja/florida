@@ -1,5 +1,5 @@
 ---
 title: "Grand Illusion"
 url: /fort-myers/grand-illusion/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Tire Choice"
 url: /fort-myers/the-tire-choice/
-shop: Autowerkstatt
+shop: car repair
 ---

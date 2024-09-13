@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /tampa/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

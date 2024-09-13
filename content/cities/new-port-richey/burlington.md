@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /new-port-richey/burlington/
-shop: Warenhaus
+shop: department store
 ---

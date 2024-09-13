@@ -1,5 +1,5 @@
 ---
 title: "Safelite AutoGlass"
 url: /miami/safelite-autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

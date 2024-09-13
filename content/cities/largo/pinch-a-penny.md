@@ -1,5 +1,5 @@
 ---
 title: "Pinch A Penny"
 url: /largo/pinch-a-penny/
-shop: Pool
+shop: swimming pool
 ---

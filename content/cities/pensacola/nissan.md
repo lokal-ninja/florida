@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /pensacola/nissan/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Incredible Pets"
 url: /melbourne/incredible-pets/
-shop: Tiere
+shop: pet
 ---

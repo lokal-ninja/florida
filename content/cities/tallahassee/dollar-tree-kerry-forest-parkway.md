@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /tallahassee/dollar-tree-kerry-forest-parkway/
-shop: Kramladen
+shop: variety store
 ---

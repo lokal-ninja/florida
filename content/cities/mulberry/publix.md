@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /mulberry/publix/
-shop: Supermarkt
+shop: supermarket
 ---

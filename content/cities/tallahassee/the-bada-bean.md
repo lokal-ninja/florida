@@ -1,5 +1,5 @@
 ---
 title: "The Bada Bean"
 url: /tallahassee/the-bada-bean/
-shop: Kaffee
+shop: coffee
 ---

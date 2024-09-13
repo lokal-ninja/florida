@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /fort-walton-beach/bealls/
-shop: Warenhaus
+shop: department store
 ---

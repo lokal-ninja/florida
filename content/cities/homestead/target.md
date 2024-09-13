@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /homestead/target/
-shop: Warenhaus
+shop: department store
 ---

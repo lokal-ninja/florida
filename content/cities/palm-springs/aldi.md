@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /palm-springs/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

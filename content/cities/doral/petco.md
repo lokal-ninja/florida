@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /doral/petco/
-shop: Tiere
+shop: pet
 ---

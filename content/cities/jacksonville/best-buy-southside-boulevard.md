@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /jacksonville/best-buy-southside-boulevard/
-shop: Elektronik
+shop: electronics
 ---

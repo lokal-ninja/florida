@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /pinellas-park/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

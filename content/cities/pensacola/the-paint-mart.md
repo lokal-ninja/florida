@@ -1,5 +1,5 @@
 ---
 title: "The Paint Mart"
 url: /pensacola/the-paint-mart/
-shop: Farben
+shop: paint
 ---

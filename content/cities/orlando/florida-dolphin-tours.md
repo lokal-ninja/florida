@@ -1,5 +1,5 @@
 ---
 title: "Florida Dolphin Tours"
 url: /orlando/florida-dolphin-tours/
-shop: Reisebüro
+shop: travel agency
 ---

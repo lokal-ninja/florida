@@ -1,5 +1,5 @@
 ---
 title: "Shoot Straight Clearwater"
 url: /clearwater/shoot-straight-clearwater/
-shop: Waffen
+shop: weapons
 ---

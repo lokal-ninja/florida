@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /lake-worth/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

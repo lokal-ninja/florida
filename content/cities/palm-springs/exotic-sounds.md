@@ -1,5 +1,5 @@
 ---
 title: "Exotic Sounds"
 url: /palm-springs/exotic-sounds/
-shop: Elektronik
+shop: electronics
 ---

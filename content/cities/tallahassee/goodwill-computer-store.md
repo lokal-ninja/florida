@@ -1,5 +1,5 @@
 ---
 title: "Goodwill Computer Store"
 url: /tallahassee/goodwill-computer-store/
-shop: Computer
+shop: computer
 ---

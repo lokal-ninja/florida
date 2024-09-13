@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /panama-city/nissan/
-shop: Autohaus
+shop: car
 ---

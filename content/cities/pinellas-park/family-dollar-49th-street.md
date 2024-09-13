@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /pinellas-park/family-dollar-49th-street/
-shop: Kramladen
+shop: variety store
 ---

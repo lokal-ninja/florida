@@ -1,5 +1,5 @@
 ---
 title: "Sola Salons"
 url: /melbourne/sola-salons/
-shop: Kosmetik
+shop: beauty
 ---

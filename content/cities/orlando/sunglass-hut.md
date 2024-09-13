@@ -1,5 +1,5 @@
 ---
 title: "Sunglass Hut"
 url: /orlando/sunglass-hut/
-shop: Optiker
+shop: optician
 ---

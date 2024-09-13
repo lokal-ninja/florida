@@ -1,5 +1,5 @@
 ---
 title: "John's Pass Trading Company"
 url: /madeira-beach/johns-pass-trading-company/
-shop: Kramladen
+shop: variety store
 ---

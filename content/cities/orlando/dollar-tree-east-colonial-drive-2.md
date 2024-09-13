@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /orlando/dollar-tree-east-colonial-drive-2/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /clearwater/petsmart/
-shop: Tiere
+shop: pet
 ---

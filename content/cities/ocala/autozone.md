@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /ocala/autozone/
-shop: Autoteile
+shop: car parts
 ---

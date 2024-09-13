@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /panama-city/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Contemporary Mortgage Services"
 url: /daytona-beach/contemporary-mortgage-services/
-shop: Leiher
+shop: pawnbroker
 ---

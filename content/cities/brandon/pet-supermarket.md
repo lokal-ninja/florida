@@ -1,5 +1,5 @@
 ---
 title: "Pet Supermarket"
 url: /brandon/pet-supermarket/
-shop: Tiere
+shop: pet
 ---

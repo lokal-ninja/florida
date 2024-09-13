@@ -1,5 +1,5 @@
 ---
 title: "Polished Hair Bar"
 url: /miami/polished-hair-bar/
-shop: Friseur
+shop: hairdresser
 ---

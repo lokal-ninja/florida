@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /lakeland/old-navy/
-shop: Kleidung
+shop: clothes
 ---

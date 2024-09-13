@@ -1,5 +1,5 @@
 ---
 title: "cuballama"
 url: /miami/cuballama/
-shop: Handy
+shop: mobile phone
 ---

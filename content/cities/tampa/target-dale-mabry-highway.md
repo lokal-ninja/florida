@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tampa/target-dale-mabry-highway/
-shop: Warenhaus
+shop: department store
 ---

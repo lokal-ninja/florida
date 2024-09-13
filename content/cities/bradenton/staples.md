@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bradenton/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Volvo Bomnin"
 url: /miami/volvo-bomnin/
-shop: Autowerkstatt
+shop: car repair
 ---

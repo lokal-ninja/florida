@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /boca-raton/walgreens/
-shop: Drogerie
+shop: chemist
 ---

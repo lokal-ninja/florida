@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /port-charlotte/winn-dixie/
-shop: Supermarkt
+shop: supermarket
 ---

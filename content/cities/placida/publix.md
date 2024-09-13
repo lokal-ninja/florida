@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /placida/publix/
-shop: Supermarkt
+shop: supermarket
 ---

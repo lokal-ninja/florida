@@ -1,5 +1,5 @@
 ---
 title: "American LubeFast"
 url: /niceville/american-lubefast/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tally Brow Studio"
 url: /tallahassee/tally-brow-studio/
-shop: Kosmetik
+shop: beauty
 ---

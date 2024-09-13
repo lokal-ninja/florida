@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /naples/publix/
-shop: Supermarkt
+shop: supermarket
 ---

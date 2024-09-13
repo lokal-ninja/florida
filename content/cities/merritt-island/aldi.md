@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /merritt-island/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

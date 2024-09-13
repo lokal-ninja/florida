@@ -1,5 +1,5 @@
 ---
 title: "GoodYear Auto Service Center"
 url: /miami/goodyear-auto-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

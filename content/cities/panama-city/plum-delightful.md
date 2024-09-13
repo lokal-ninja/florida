@@ -1,5 +1,5 @@
 ---
 title: "Plum Delightful"
 url: /panama-city/plum-delightful/
-shop: Kleidung
+shop: clothes
 ---

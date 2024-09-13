@@ -1,5 +1,5 @@
 ---
 title: "JCPenney Optical"
 url: /daytona-beach/jcpenney-optical/
-shop: Optiker
+shop: optician
 ---

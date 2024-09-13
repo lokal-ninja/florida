@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /the-villages/publix-kristine-way/
-shop: Supermarkt
+shop: supermarket
 ---

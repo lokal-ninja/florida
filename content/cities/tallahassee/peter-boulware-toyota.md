@@ -1,5 +1,5 @@
 ---
 title: "Peter Boulware Toyota"
 url: /tallahassee/peter-boulware-toyota/
-shop: Autohaus
+shop: car
 ---

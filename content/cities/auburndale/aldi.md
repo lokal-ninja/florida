@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /auburndale/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

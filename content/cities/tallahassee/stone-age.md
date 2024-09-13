@@ -1,5 +1,5 @@
 ---
 title: "Stone Age"
 url: /tallahassee/stone-age/
-shop: Allgemein
+shop: shop
 ---

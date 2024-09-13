@@ -1,5 +1,5 @@
 ---
 title: "Boca Auto Fix"
 url: /boca-raton/boca-auto-fix/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /sarasota/burlington/
-shop: Warenhaus
+shop: department store
 ---

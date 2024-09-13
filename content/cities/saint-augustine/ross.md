@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /saint-augustine/ross/
-shop: Warenhaus
+shop: department store
 ---

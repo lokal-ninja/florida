@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /orange-park/speedway-blanding-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

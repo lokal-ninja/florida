@@ -1,5 +1,5 @@
 ---
 title: "Debroux Automotive"
 url: /pensacola/debroux-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

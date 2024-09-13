@@ -1,5 +1,5 @@
 ---
 title: "THE WALLPAPER COMPANY"
 url: /miami/the-wallpaper-company/
-shop: Möbel
+shop: furniture
 ---

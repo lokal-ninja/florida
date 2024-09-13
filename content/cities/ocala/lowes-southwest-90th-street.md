@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /ocala/lowes-southwest-90th-street/
-shop: Baumarkt
+shop: doityourself
 ---

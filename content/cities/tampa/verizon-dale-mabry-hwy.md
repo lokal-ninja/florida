@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /tampa/verizon-dale-mabry-hwy/
-shop: Handy
+shop: mobile phone
 ---

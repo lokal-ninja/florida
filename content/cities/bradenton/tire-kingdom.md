@@ -1,5 +1,5 @@
 ---
 title: "Tire Kingdom"
 url: /bradenton/tire-kingdom/
-shop: Reifen
+shop: tyres
 ---

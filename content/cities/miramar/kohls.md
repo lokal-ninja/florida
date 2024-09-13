@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /miramar/kohls/
-shop: Warenhaus
+shop: department store
 ---

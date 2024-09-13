@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tampa/publix/
-shop: Supermarkt
+shop: supermarket
 ---

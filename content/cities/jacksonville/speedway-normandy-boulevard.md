@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /jacksonville/speedway-normandy-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

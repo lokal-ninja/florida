@@ -1,5 +1,5 @@
 ---
 title: "New Smyrna Jewelry"
 url: /new-smyrna-beach/new-smyrna-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

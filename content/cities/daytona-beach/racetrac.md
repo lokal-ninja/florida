@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /daytona-beach/racetrac/
-shop: Lebensmittel
+shop: convenience
 ---

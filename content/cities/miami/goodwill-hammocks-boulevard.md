@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /miami/goodwill-hammocks-boulevard/
-shop: Gebrauchtwaren
+shop: charity
 ---

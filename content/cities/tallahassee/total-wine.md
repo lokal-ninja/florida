@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /tallahassee/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

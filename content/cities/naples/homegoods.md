@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /naples/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

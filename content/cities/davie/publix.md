@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /davie/publix/
-shop: Supermarkt
+shop: supermarket
 ---

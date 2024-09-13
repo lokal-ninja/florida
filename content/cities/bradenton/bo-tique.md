@@ -1,5 +1,5 @@
 ---
 title: "Bo-Tique"
 url: /bradenton/bo-tique/
-shop: Kleidung
+shop: clothes
 ---

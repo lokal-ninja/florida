@@ -1,5 +1,5 @@
 ---
 title: "Those Blind Guys"
 url: /jacksonville/those-blind-guys/
-shop: Jalousien
+shop: window blind
 ---

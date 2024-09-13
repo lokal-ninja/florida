@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /ocala/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

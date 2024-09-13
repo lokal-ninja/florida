@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /parkland/publix/
-shop: Supermarkt
+shop: supermarket
 ---

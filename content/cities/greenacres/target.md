@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /greenacres/target/
-shop: Warenhaus
+shop: department store
 ---

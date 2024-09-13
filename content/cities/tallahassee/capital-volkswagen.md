@@ -1,5 +1,5 @@
 ---
 title: "Capital Volkswagen"
 url: /tallahassee/capital-volkswagen/
-shop: Autohaus
+shop: car
 ---

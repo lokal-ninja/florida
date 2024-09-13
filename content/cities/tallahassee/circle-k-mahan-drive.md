@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /tallahassee/circle-k-mahan-drive/
-shop: Lebensmittel
+shop: convenience
 ---

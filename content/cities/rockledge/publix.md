@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /rockledge/publix/
-shop: Supermarkt
+shop: supermarket
 ---

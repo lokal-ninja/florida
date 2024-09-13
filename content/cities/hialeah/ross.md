@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /hialeah/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /islamorada/publix/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /orlando/publix-narcoossee-road/
-shop: Supermarkt
+shop: supermarket
 ---

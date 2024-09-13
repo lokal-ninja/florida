@@ -1,5 +1,5 @@
 ---
 title: "Mattress Kings"
 url: /north-miami/mattress-kings/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunkin' Donuts"
 url: /pensacola/dunkin-donuts/
-shop: Kaffee
+shop: coffee
 ---

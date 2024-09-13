@@ -1,5 +1,5 @@
 ---
 title: "Tony Mart"
 url: /tallahassee/tony-mart/
-shop: Lebensmittel
+shop: convenience
 ---

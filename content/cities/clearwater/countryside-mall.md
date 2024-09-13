@@ -1,5 +1,5 @@
 ---
 title: "Countryside Mall"
 url: /clearwater/countryside-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

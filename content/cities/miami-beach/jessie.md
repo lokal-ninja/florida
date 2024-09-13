@@ -1,5 +1,5 @@
 ---
 title: "Jessie"
 url: /miami-beach/jessie/
-shop: Kleidung
+shop: clothes
 ---

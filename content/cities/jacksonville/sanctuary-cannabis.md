@@ -1,5 +1,5 @@
 ---
 title: "Sanctuary Cannabis"
 url: /jacksonville/sanctuary-cannabis/
-shop: Hanf
+shop: cannabis
 ---

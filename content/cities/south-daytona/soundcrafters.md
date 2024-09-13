@@ -1,5 +1,5 @@
 ---
 title: "Soundcrafters"
 url: /south-daytona/soundcrafters/
-shop: Instrumente
+shop: musical instrument
 ---

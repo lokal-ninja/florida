@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /spring-hill/winn-dixie/
-shop: Supermarkt
+shop: supermarket
 ---

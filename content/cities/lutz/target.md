@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lutz/target/
-shop: Warenhaus
+shop: department store
 ---

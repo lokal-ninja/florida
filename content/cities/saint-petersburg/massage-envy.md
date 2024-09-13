@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /saint-petersburg/massage-envy/
-shop: Massage
+shop: massage
 ---

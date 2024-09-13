@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /tampa/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

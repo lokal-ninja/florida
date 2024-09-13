@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /sunrise/warhammer/
-shop: Spiele
+shop: games
 ---

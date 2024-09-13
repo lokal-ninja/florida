@@ -1,5 +1,5 @@
 ---
 title: "Tire Kingdom"
 url: /palm-coast/tire-kingdom/
-shop: Autowerkstatt
+shop: car repair
 ---

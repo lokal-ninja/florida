@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /trinity/target/
-shop: Warenhaus
+shop: department store
 ---

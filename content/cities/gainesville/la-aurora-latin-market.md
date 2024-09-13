@@ -1,5 +1,5 @@
 ---
 title: "La Aurora Latin Market"
 url: /gainesville/la-aurora-latin-market/
-shop: Supermarkt
+shop: supermarket
 ---

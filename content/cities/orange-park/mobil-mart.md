@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /orange-park/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

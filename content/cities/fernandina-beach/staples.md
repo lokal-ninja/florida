@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /fernandina-beach/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

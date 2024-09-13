@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /saint-petersburg/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Washburn Imports"
 url: /sanford/washburn-imports/
-shop: Raumausstattung
+shop: interior decoration
 ---

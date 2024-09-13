@@ -1,5 +1,5 @@
 ---
 title: "NutriPro"
 url: /miami/nutripro/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

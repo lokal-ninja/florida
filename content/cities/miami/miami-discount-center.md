@@ -1,5 +1,5 @@
 ---
 title: "Miami Discount Center"
 url: /miami/miami-discount-center/
-shop: Kramladen
+shop: variety store
 ---

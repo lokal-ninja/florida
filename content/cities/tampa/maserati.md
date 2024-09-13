@@ -1,5 +1,5 @@
 ---
 title: "Maserati"
 url: /tampa/maserati/
-shop: Autohaus
+shop: car
 ---

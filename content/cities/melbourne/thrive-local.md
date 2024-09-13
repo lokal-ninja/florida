@@ -1,5 +1,5 @@
 ---
 title: "Thrive Local"
 url: /melbourne/thrive-local/
-shop: Kunst
+shop: art
 ---

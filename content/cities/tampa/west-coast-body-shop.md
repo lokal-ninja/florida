@@ -1,5 +1,5 @@
 ---
 title: "West Coast Body Shop"
 url: /tampa/west-coast-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

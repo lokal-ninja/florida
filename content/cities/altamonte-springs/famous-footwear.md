@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /altamonte-springs/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

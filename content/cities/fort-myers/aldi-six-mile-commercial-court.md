@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /fort-myers/aldi-six-mile-commercial-court/
-shop: Supermarkt
+shop: supermarket
 ---

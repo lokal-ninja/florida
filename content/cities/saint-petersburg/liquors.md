@@ -1,5 +1,5 @@
 ---
 title: "Liquors"
 url: /saint-petersburg/liquors/
-shop: Spirituosen
+shop: alcohol
 ---

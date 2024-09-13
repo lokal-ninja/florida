@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tequesta/publix/
-shop: Supermarkt
+shop: supermarket
 ---

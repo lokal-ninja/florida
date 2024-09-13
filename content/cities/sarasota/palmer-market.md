@@ -1,5 +1,5 @@
 ---
 title: "Palmer Market"
 url: /sarasota/palmer-market/
-shop: Lebensmittel
+shop: convenience
 ---

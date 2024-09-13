@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
 url: /estero/dillards/
-shop: Warenhaus
+shop: department store
 ---

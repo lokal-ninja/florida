@@ -1,5 +1,5 @@
 ---
 title: "Pink Flamingo at Petals"
 url: /new-smyrna-beach/pink-flamingo-at-petals/
-shop: Blumen
+shop: florist
 ---

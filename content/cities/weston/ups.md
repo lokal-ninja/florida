@@ -1,5 +1,5 @@
 ---
 title: "UPS"
 url: /weston/ups/
-shop: Kopieren
+shop: copyshop
 ---

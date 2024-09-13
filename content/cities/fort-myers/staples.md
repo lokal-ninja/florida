@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /fort-myers/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

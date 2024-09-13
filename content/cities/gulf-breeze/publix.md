@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /gulf-breeze/publix/
-shop: Supermarkt
+shop: supermarket
 ---

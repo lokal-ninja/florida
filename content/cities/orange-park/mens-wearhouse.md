@@ -1,5 +1,5 @@
 ---
 title: "Men's Wearhouse"
 url: /orange-park/mens-wearhouse/
-shop: Kleidung
+shop: clothes
 ---

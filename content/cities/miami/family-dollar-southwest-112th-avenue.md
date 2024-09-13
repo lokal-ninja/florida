@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /miami/family-dollar-southwest-112th-avenue/
-shop: Kramladen
+shop: variety store
 ---

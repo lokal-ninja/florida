@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /new-smyrna-beach/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

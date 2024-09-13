@@ -1,5 +1,5 @@
 ---
 title: "Freedman Office Furniture"
 url: /tampa/freedman-office-furniture/
-shop: Möbel
+shop: furniture
 ---

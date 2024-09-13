@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /the-villages/bealls/
-shop: Warenhaus
+shop: department store
 ---

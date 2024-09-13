@@ -1,5 +1,5 @@
 ---
 title: "HomeSmart"
 url: /pensacola/homesmart/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "We Care Pharmacy"
 url: /sarasota/we-care-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pet Supermarket"
 url: /key-west/pet-supermarket/
-shop: Tiere
+shop: pet
 ---

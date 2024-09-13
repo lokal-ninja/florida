@@ -1,5 +1,5 @@
 ---
 title: "RBM"
 url: /daytona-beach/rbm/
-shop: Foto
+shop: photo
 ---

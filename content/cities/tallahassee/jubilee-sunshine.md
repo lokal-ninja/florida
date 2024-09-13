@@ -1,5 +1,5 @@
 ---
 title: "Jubilee Sunshine"
 url: /tallahassee/jubilee-sunshine/
-shop: Gebrauchtwaren
+shop: charity
 ---

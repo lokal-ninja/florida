@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Food Mart"
 url: /tampa/rainbow-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

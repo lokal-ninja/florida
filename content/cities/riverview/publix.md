@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /riverview/publix/
-shop: Supermarkt
+shop: supermarket
 ---

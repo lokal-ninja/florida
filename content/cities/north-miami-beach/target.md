@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /north-miami-beach/target/
-shop: Warenhaus
+shop: department store
 ---

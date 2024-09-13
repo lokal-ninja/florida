@@ -1,5 +1,5 @@
 ---
 title: "Fairvilla Sexy Things"
 url: /key-west/fairvilla-sexy-things/
-shop: Erotik
+shop: erotic
 ---

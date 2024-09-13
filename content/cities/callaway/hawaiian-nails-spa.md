@@ -1,5 +1,5 @@
 ---
 title: "Hawaiian Nails Spa"
 url: /callaway/hawaiian-nails-spa/
-shop: Kosmetik
+shop: beauty
 ---

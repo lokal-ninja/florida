@@ -1,5 +1,5 @@
 ---
 title: "Euro Elegance Furniture"
 url: /clearwater/euro-elegance-furniture/
-shop: Möbel
+shop: furniture
 ---

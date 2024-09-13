@@ -1,5 +1,5 @@
 ---
 title: "Glengary Shoppes"
 url: /sarasota/glengary-shoppes/
-shop: Einkaufszentrum
+shop: mall
 ---

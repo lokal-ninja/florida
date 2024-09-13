@@ -1,5 +1,5 @@
 ---
 title: "Cerec Depot"
 url: /miami/cerec-depot/
-shop: Allgemein
+shop: shop
 ---

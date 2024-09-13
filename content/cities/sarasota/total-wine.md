@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /sarasota/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

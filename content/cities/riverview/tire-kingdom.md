@@ -1,5 +1,5 @@
 ---
 title: "Tire kingdom"
 url: /riverview/tire-kingdom/
-shop: Reifen
+shop: tyres
 ---

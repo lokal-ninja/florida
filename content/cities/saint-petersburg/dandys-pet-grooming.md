@@ -1,5 +1,5 @@
 ---
 title: "Dandy's Pet Grooming"
 url: /saint-petersburg/dandys-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

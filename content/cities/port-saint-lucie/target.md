@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /port-saint-lucie/target/
-shop: Warenhaus
+shop: department store
 ---

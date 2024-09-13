@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /port-charlotte/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

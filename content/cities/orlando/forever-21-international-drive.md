@@ -1,5 +1,5 @@
 ---
 title: "Forever 21"
 url: /orlando/forever-21-international-drive/
-shop: Kleidung
+shop: clothes
 ---

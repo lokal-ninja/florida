@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /orlando/autozone-curry-ford-road/
-shop: Autoteile
+shop: car parts
 ---

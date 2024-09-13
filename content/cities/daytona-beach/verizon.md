@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /daytona-beach/verizon/
-shop: Handy
+shop: mobile phone
 ---

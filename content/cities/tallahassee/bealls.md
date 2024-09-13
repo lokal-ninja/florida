@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /tallahassee/bealls/
-shop: Warenhaus
+shop: department store
 ---

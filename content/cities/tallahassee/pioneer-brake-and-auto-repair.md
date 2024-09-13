@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Brake and Auto Repair"
 url: /tallahassee/pioneer-brake-and-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

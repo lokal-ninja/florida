@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /cutler-bay/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

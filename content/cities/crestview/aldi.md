@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /crestview/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

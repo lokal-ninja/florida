@@ -1,5 +1,5 @@
 ---
 title: "Anchor Apparel Company"
 url: /jacksonville/anchor-apparel-company/
-shop: Kleidung
+shop: clothes
 ---

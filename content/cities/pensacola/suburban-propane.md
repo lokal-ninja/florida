@@ -1,5 +1,5 @@
 ---
 title: "Suburban Propane"
 url: /pensacola/suburban-propane/
-shop: Autowerkstatt
+shop: car repair
 ---

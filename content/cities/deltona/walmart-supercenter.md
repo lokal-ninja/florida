@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /deltona/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

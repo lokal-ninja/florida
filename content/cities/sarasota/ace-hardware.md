@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /sarasota/ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

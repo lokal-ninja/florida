@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /cutler-bay/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /navarre/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /port-saint-lucie/aldi-southwest-brighton-street/
-shop: Supermarkt
+shop: supermarket
 ---

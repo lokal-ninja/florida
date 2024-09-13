@@ -1,5 +1,5 @@
 ---
 title: "Five Star Automotive"
 url: /pensacola/five-star-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

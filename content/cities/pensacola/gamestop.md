@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /pensacola/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /jacksonville/carters/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /orlando/aldi-narcoossee-road-2/
-shop: Supermarkt
+shop: supermarket
 ---

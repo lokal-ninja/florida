@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /destin/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

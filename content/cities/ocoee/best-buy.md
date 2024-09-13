@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /ocoee/best-buy/
-shop: Elektronik
+shop: electronics
 ---

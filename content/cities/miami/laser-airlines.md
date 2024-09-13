@@ -1,5 +1,5 @@
 ---
 title: "Laser Airlines"
 url: /miami/laser-airlines/
-shop: Reisebüro
+shop: travel agency
 ---

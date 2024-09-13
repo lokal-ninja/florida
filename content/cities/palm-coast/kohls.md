@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /palm-coast/kohls/
-shop: Warenhaus
+shop: department store
 ---

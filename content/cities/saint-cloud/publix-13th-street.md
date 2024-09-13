@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /saint-cloud/publix-13th-street/
-shop: Supermarkt
+shop: supermarket
 ---

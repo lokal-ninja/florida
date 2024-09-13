@@ -1,5 +1,5 @@
 ---
 title: "VaperMate"
 url: /port-orange/vapermate/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

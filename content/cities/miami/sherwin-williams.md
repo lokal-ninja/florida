@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /miami/sherwin-williams/
-shop: Farben
+shop: paint
 ---

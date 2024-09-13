@@ -1,5 +1,5 @@
 ---
 title: "HelloMolly"
 url: /fort-walton-beach/hellomolly/
-shop: Friseur
+shop: hairdresser
 ---

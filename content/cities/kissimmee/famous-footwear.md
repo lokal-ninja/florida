@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /kissimmee/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

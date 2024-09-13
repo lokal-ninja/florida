@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /altamonte-springs/verizon/
-shop: Handy
+shop: mobile phone
 ---

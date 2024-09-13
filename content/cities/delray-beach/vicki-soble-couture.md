@@ -1,5 +1,5 @@
 ---
 title: "Vicki Soble Couture"
 url: /delray-beach/vicki-soble-couture/
-shop: Kleidung
+shop: clothes
 ---

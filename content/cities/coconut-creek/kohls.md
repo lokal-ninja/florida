@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /coconut-creek/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ollie's Bargain Outlet"
 url: /palatka/ollies-bargain-outlet/
-shop: Kramladen
+shop: variety store
 ---

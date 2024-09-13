@@ -1,5 +1,5 @@
 ---
 title: "Lapels"
 url: /tampa/lapels/
-shop: Wäscherei
+shop: laundry
 ---

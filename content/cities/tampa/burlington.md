@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /tampa/burlington/
-shop: Warenhaus
+shop: department store
 ---

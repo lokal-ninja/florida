@@ -1,5 +1,5 @@
 ---
 title: "Samaya"
 url: /miami-beach/samaya/
-shop: Tabak
+shop: tobacco
 ---

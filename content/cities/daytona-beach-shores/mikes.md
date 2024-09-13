@@ -1,5 +1,5 @@
 ---
 title: "Mike's"
 url: /daytona-beach-shores/mikes/
-shop: Andenken
+shop: gift
 ---

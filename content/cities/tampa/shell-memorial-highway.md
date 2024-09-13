@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /tampa/shell-memorial-highway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /miami/metro-by-t-mobile-hammocks-boulevard/
-shop: Handy
+shop: mobile phone
 ---

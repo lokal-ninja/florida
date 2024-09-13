@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /tallahassee/smallcakes/
-shop: Konditorei
+shop: pastry
 ---

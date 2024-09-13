@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /orlando/ross-millenia-plaza-way/
-shop: Warenhaus
+shop: department store
 ---

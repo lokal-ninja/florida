@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /plantation/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

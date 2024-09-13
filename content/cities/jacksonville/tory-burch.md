@@ -1,5 +1,5 @@
 ---
 title: "Tory Burch"
 url: /jacksonville/tory-burch/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /punta-gorda/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

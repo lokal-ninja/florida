@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /tallahassee/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

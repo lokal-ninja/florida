@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /lakeland/publix-harden-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

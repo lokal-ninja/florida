@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /rockledge/publix-stadium-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

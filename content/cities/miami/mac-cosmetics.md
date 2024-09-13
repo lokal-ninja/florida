@@ -1,5 +1,5 @@
 ---
 title: "MAC Cosmetics"
 url: /miami/mac-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /pensacola/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fort-myers/target-gulf-center-drive/
-shop: Warenhaus
+shop: department store
 ---

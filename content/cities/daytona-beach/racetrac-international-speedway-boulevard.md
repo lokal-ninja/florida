@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /daytona-beach/racetrac-international-speedway-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

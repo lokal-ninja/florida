@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /daytona-beach/ross/
-shop: Warenhaus
+shop: department store
 ---

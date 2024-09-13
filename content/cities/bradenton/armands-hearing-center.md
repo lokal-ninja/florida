@@ -1,5 +1,5 @@
 ---
 title: "Armand's Hearing Center"
 url: /bradenton/armands-hearing-center/
-shop: Hörgeräte
+shop: hearing aids
 ---

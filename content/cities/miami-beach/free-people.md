@@ -1,5 +1,5 @@
 ---
 title: "Free People"
 url: /miami-beach/free-people/
-shop: Kleidung
+shop: clothes
 ---

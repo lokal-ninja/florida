@@ -1,5 +1,5 @@
 ---
 title: "Advantage Ford"
 url: /stuart/advantage-ford/
-shop: Autohaus
+shop: car
 ---

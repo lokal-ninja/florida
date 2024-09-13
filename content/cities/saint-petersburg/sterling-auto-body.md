@@ -1,5 +1,5 @@
 ---
 title: "Sterling Auto Body"
 url: /saint-petersburg/sterling-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

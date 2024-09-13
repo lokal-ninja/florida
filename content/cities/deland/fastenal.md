@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /deland/fastenal/
-shop: Baustoffe
+shop: trade
 ---

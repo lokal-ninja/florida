@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lauderdale-lakes/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

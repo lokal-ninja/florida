@@ -1,5 +1,5 @@
 ---
 title: "BarkerScape"
 url: /south-daytona/barkerscape/
-shop: Allgemein
+shop: shop
 ---

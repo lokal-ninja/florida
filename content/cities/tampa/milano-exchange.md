@@ -1,5 +1,5 @@
 ---
 title: "Milano Exchange"
 url: /tampa/milano-exchange/
-shop: Kleidung
+shop: clothes
 ---

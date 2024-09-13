@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /melbourne/publix-south-babcock-street/
-shop: Supermarkt
+shop: supermarket
 ---

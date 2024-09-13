@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
 url: /monticello/amoco/
-shop: Lebensmittel
+shop: convenience
 ---

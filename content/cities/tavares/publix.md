@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tavares/publix/
-shop: Supermarkt
+shop: supermarket
 ---

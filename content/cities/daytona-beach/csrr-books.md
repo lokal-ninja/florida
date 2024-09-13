@@ -1,5 +1,5 @@
 ---
 title: "CSRR Books"
 url: /daytona-beach/csrr-books/
-shop: Bücher
+shop: books
 ---

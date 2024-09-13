@@ -1,5 +1,5 @@
 ---
 title: "RPM Auto Mart"
 url: /port-orange/rpm-auto-mart/
-shop: Autoteile
+shop: car parts
 ---

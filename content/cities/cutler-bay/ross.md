@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /cutler-bay/ross/
-shop: Warenhaus
+shop: department store
 ---

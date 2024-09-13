@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /crestview/mattress-firm/
-shop: Betten
+shop: bed
 ---

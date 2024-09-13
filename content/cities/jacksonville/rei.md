@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /jacksonville/rei/
-shop: Outdoor
+shop: outdoor
 ---

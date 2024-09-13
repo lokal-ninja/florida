@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /estero/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

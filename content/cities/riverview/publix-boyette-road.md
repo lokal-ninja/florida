@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /riverview/publix-boyette-road/
-shop: Supermarkt
+shop: supermarket
 ---

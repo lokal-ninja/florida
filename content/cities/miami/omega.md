@@ -1,5 +1,5 @@
 ---
 title: "Omega"
 url: /miami/omega/
-shop: Uhren
+shop: watches
 ---

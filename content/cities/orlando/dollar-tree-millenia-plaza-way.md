@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /orlando/dollar-tree-millenia-plaza-way/
-shop: Kramladen
+shop: variety store
 ---

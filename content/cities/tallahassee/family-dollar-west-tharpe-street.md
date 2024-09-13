@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /tallahassee/family-dollar-west-tharpe-street/
-shop: Kramladen
+shop: variety store
 ---

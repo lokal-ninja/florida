@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /daytona-beach/dollar-general-south-atlantic-avenue/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /gainesville/cricket-wireless-southwest-archer-road/
-shop: Handy
+shop: mobile phone
 ---

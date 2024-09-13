@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /deerfield-beach/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

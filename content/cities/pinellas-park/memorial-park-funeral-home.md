@@ -1,5 +1,5 @@
 ---
 title: "Memorial Park Funeral Home"
 url: /pinellas-park/memorial-park-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

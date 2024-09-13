@@ -1,5 +1,5 @@
 ---
 title: "STUDIO JEN"
 url: /estero/studio-jen/
-shop: Friseur
+shop: hairdresser
 ---

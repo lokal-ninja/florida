@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cutler-bay/walgreens/
-shop: Drogerie
+shop: chemist
 ---

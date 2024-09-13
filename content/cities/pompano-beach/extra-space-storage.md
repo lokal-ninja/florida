@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /pompano-beach/extra-space-storage/
-shop: Mieten
+shop: storage rental
 ---

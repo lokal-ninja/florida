@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /nokomis/publix/
-shop: Supermarkt
+shop: supermarket
 ---

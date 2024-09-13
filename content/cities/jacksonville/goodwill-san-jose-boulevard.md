@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /jacksonville/goodwill-san-jose-boulevard/
-shop: Gebrauchtwaren
+shop: charity
 ---

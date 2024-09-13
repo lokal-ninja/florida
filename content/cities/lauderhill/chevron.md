@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /lauderhill/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

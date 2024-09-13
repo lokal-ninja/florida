@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /palm-harbor/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

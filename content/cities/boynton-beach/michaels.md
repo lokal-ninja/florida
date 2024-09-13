@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /boynton-beach/michaels/
-shop: Basteln
+shop: craft
 ---

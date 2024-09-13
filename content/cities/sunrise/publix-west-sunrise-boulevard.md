@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /sunrise/publix-west-sunrise-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

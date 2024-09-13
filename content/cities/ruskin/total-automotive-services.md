@@ -1,5 +1,5 @@
 ---
 title: "Total Automotive Services"
 url: /ruskin/total-automotive-services/
-shop: Autowerkstatt
+shop: car repair
 ---

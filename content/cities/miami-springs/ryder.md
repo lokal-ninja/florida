@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /miami-springs/ryder/
-shop: Mieten
+shop: storage rental
 ---

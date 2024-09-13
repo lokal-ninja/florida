@@ -1,5 +1,5 @@
 ---
 title: "Loft Outlet"
 url: /orlando/loft-outlet/
-shop: Kleidung
+shop: clothes
 ---

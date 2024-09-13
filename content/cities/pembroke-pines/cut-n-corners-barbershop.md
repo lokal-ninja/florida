@@ -1,5 +1,5 @@
 ---
 title: "Cut N Corners Barbershop"
 url: /pembroke-pines/cut-n-corners-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

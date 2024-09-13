@@ -1,5 +1,5 @@
 ---
 title: "Blossoms"
 url: /tallahassee/blossoms/
-shop: Blumen
+shop: florist
 ---

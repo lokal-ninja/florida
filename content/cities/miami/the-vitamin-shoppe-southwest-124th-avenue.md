@@ -1,5 +1,5 @@
 ---
 title: "The Vitamin Shoppe"
 url: /miami/the-vitamin-shoppe-southwest-124th-avenue/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

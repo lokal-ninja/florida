@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /estero/target/
-shop: Supermarkt
+shop: supermarket
 ---

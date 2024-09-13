@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /fort-walton-beach/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

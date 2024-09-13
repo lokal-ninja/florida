@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /palatka/roses/
-shop: Kramladen
+shop: variety store
 ---

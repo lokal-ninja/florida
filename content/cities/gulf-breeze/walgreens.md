@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /gulf-breeze/walgreens/
-shop: Drogerie
+shop: chemist
 ---

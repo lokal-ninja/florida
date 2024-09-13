@@ -1,5 +1,5 @@
 ---
 title: "Southern Self Storage"
 url: /pensacola/southern-self-storage/
-shop: Mieten
+shop: storage rental
 ---

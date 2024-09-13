@@ -1,5 +1,5 @@
 ---
 title: "SoleFly"
 url: /miami/solefly/
-shop: Schuhe
+shop: shoes
 ---

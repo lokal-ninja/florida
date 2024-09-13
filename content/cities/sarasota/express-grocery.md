@@ -1,5 +1,5 @@
 ---
 title: "Express Grocery"
 url: /sarasota/express-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

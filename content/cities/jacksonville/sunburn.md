@@ -1,5 +1,5 @@
 ---
 title: "Sunburn"
 url: /jacksonville/sunburn/
-shop: Hanf
+shop: cannabis
 ---

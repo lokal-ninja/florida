@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /pensacola/u-haul-north-davis-highway/
-shop: Mieten
+shop: storage rental
 ---

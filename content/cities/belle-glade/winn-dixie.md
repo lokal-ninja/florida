@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /belle-glade/winn-dixie/
-shop: Supermarkt
+shop: supermarket
 ---

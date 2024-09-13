@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /saint-petersburg/macys/
-shop: Warenhaus
+shop: department store
 ---

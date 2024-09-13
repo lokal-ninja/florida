@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /brooksville/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

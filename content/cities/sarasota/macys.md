@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /sarasota/macys/
-shop: Warenhaus
+shop: department store
 ---

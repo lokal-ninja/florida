@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /miami/t-mobile-north-kendall-drive/
-shop: Handy
+shop: mobile phone
 ---

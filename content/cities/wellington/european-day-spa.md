@@ -1,5 +1,5 @@
 ---
 title: "European Day Spa"
 url: /wellington/european-day-spa/
-shop: Massage
+shop: massage
 ---

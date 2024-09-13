@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /new-port-richey/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

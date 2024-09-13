@@ -1,5 +1,5 @@
 ---
 title: "JoyAmerica"
 url: /tampa/joyamerica/
-shop: Lebensmittel
+shop: convenience
 ---

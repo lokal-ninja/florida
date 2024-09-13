@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /miami/dsw-south-dixie-highway/
-shop: Schuhe
+shop: shoes
 ---

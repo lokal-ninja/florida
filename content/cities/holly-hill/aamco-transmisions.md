@@ -1,5 +1,5 @@
 ---
 title: "AAMCO Transmisions"
 url: /holly-hill/aamco-transmisions/
-shop: Autowerkstatt
+shop: car repair
 ---

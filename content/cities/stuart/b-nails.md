@@ -1,5 +1,5 @@
 ---
 title: "B Nails"
 url: /stuart/b-nails/
-shop: Kosmetik
+shop: beauty
 ---

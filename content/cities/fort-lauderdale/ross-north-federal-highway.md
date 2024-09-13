@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /fort-lauderdale/ross-north-federal-highway/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Enjewel"
 url: /fort-myers/enjewel/
-shop: Kleidung
+shop: clothes
 ---

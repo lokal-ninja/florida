@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /jacksonville/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

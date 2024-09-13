@@ -1,5 +1,5 @@
 ---
 title: "Banana Republic"
 url: /west-palm-beach/banana-republic/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /clearwater/rituals/
-shop: Kosmetik
+shop: beauty
 ---

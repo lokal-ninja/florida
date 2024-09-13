@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /vero-beach/autozone/
-shop: Autoteile
+shop: car parts
 ---

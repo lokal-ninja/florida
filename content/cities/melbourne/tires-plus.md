@@ -1,5 +1,5 @@
 ---
 title: "Tires Plus"
 url: /melbourne/tires-plus/
-shop: Reifen
+shop: tyres
 ---

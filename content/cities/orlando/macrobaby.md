@@ -1,5 +1,5 @@
 ---
 title: "MacroBaby"
 url: /orlando/macrobaby/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /valrico/goodyear-bell-shoals-road/
-shop: Autowerkstatt
+shop: car repair
 ---

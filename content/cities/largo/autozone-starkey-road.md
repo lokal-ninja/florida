@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /largo/autozone-starkey-road/
-shop: Autoteile
+shop: car parts
 ---

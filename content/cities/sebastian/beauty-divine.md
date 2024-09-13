@@ -1,5 +1,5 @@
 ---
 title: "Beauty Divine"
 url: /sebastian/beauty-divine/
-shop: Kosmetik
+shop: beauty
 ---

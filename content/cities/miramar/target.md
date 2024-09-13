@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /miramar/target/
-shop: Supermarkt
+shop: supermarket
 ---

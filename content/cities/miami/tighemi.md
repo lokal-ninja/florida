@@ -1,5 +1,5 @@
 ---
 title: "TIGHEMI"
 url: /miami/tighemi/
-shop: Kleidung
+shop: clothes
 ---

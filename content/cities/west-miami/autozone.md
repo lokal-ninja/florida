@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /west-miami/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xtreme Care Body Shop"
 url: /miami/xtreme-care-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

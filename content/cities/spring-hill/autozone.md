@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /spring-hill/autozone/
-shop: Autoteile
+shop: car parts
 ---

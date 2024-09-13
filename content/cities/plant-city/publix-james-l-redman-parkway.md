@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /plant-city/publix-james-l-redman-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

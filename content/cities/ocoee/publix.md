@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /ocoee/publix/
-shop: Supermarkt
+shop: supermarket
 ---

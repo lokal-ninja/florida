@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /miami/radioshack/
-shop: Elektronik
+shop: electronics
 ---

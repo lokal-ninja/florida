@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /clearwater/publix/
-shop: Supermarkt
+shop: supermarket
 ---

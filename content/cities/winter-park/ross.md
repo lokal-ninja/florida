@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /winter-park/ross/
-shop: Warenhaus
+shop: department store
 ---

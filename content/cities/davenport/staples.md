@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /davenport/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

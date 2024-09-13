@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /north-miami/autozone/
-shop: Autoteile
+shop: car parts
 ---

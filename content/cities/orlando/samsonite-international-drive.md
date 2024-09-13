@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /orlando/samsonite-international-drive/
-shop: Taschen & Koffer
+shop: bag
 ---

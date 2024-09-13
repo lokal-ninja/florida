@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /pensacola/carmax/
-shop: Autohaus
+shop: car
 ---

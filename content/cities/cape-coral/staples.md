@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /cape-coral/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

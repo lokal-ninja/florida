@@ -1,5 +1,5 @@
 ---
 title: "MetroNet"
 url: /tallahassee/metronet/
-shop: Handy
+shop: mobile phone
 ---

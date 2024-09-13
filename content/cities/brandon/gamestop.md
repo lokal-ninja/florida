@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /brandon/gamestop/
-shop: Videospiele
+shop: video games
 ---

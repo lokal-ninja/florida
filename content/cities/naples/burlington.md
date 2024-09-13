@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /naples/burlington/
-shop: Warenhaus
+shop: department store
 ---

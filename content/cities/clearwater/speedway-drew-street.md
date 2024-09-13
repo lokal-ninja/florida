@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /clearwater/speedway-drew-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Balance"
 url: /west-palm-beach/new-balance/
-shop: Schuhe
+shop: shoes
 ---

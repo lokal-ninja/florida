@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /panama-city/kohls/
-shop: Warenhaus
+shop: department store
 ---

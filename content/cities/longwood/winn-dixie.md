@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /longwood/winn-dixie/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Just Sailing"
 url: /destin/just-sailing/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr. Transmission"
 url: /pensacola/mr-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

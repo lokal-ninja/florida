@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /cutler-bay/shell/
-shop: Lebensmittel
+shop: convenience
 ---

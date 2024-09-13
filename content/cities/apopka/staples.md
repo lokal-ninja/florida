@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /apopka/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

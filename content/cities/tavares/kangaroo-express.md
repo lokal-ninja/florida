@@ -1,5 +1,5 @@
 ---
 title: "Kangaroo Express"
 url: /tavares/kangaroo-express/
-shop: Lebensmittel
+shop: convenience
 ---

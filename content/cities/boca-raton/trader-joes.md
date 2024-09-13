@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /boca-raton/trader-joes/
-shop: Supermarkt
+shop: supermarket
 ---

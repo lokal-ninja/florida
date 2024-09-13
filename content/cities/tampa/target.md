@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tampa/target/
-shop: Warenhaus
+shop: department store
 ---

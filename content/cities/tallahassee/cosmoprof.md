@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /tallahassee/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

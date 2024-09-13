@@ -1,5 +1,5 @@
 ---
 title: "Golden Goddess Essentials"
 url: /sebastian/golden-goddess-essentials/
-shop: Schmuck
+shop: jewelry
 ---

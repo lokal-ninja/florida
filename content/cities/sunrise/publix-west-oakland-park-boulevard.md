@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /sunrise/publix-west-oakland-park-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CGX"
 url: /bradenton-beach/cgx/
-shop: Warenhaus
+shop: department store
 ---

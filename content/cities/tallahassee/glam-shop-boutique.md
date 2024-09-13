@@ -1,5 +1,5 @@
 ---
 title: "Glam Shop Boutique"
 url: /tallahassee/glam-shop-boutique/
-shop: Kleidung
+shop: clothes
 ---

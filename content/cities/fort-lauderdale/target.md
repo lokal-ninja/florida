@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fort-lauderdale/target/
-shop: Warenhaus
+shop: department store
 ---

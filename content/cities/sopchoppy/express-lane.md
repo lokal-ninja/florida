@@ -1,5 +1,5 @@
 ---
 title: "Express Lane"
 url: /sopchoppy/express-lane/
-shop: Lebensmittel
+shop: convenience
 ---

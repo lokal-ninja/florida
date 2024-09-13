@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /panama-city/burlington/
-shop: Warenhaus
+shop: department store
 ---

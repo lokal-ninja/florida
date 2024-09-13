@@ -1,5 +1,5 @@
 ---
 title: "Aldo Castillo Gallery"
 url: /naples/aldo-castillo-gallery/
-shop: Kunst
+shop: art
 ---

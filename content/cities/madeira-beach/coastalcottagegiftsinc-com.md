@@ -1,5 +1,5 @@
 ---
 title: "coastalcottagegiftsinc.com"
 url: /madeira-beach/coastalcottagegiftsinc-com/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /jupiter/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tampa/target-gandy-boulevard/
-shop: Warenhaus
+shop: department store
 ---

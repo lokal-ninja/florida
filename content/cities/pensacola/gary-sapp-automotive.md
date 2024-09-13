@@ -1,5 +1,5 @@
 ---
 title: "Gary Sapp Automotive"
 url: /pensacola/gary-sapp-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /neptune-beach/walgreens/
-shop: Drogerie
+shop: chemist
 ---

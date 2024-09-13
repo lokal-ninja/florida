@@ -1,5 +1,5 @@
 ---
 title: "Snyder Mobile RV Repair"
 url: /ocala/snyder-mobile-rv-repair/
-shop: Allgemein
+shop: shop
 ---

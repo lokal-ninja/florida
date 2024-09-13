@@ -1,5 +1,5 @@
 ---
 title: "Luxe Ego Boutique"
 url: /tallahassee/luxe-ego-boutique/
-shop: Kleidung
+shop: clothes
 ---

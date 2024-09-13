@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /plantation/xfinity/
-shop: Handy
+shop: mobile phone
 ---

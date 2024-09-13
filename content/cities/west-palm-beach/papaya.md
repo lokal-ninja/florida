@@ -1,5 +1,5 @@
 ---
 title: "Papaya"
 url: /west-palm-beach/papaya/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /hialeah/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

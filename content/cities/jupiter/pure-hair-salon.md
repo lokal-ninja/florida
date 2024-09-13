@@ -1,5 +1,5 @@
 ---
 title: "Pure Hair Salon"
 url: /jupiter/pure-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /seminole/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

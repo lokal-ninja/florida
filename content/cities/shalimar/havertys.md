@@ -1,5 +1,5 @@
 ---
 title: "Havertys"
 url: /shalimar/havertys/
-shop: Möbel
+shop: furniture
 ---

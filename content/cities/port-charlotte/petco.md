@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /port-charlotte/petco/
-shop: Tiere
+shop: pet
 ---

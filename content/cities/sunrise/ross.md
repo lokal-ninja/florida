@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /sunrise/ross/
-shop: Warenhaus
+shop: department store
 ---

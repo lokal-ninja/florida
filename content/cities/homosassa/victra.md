@@ -1,5 +1,5 @@
 ---
 title: "Victra"
 url: /homosassa/victra/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /winter-haven/publix-spirit-lake-road/
-shop: Supermarkt
+shop: supermarket
 ---

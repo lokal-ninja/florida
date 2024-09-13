@@ -1,5 +1,5 @@
 ---
 title: "Hermès"
 url: /miami/hermes/
-shop: Kleidung
+shop: clothes
 ---

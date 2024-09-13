@@ -1,5 +1,5 @@
 ---
 title: "One Stop Grocery"
 url: /clewiston/one-stop-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

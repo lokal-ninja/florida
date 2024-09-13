@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /fleming-island/publix-hibernia-road/
-shop: Supermarkt
+shop: supermarket
 ---

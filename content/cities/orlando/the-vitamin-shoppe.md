@@ -1,5 +1,5 @@
 ---
 title: "The Vitamin Shoppe"
 url: /orlando/the-vitamin-shoppe/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

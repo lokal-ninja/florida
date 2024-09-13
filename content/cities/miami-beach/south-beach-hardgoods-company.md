@@ -1,5 +1,5 @@
 ---
 title: "South Beach Hardgoods Company"
 url: /miami-beach/south-beach-hardgoods-company/
-shop: Baumarkt
+shop: doityourself
 ---

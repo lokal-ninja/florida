@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /ormond-beach/ifixscreens/
-shop: Handy
+shop: mobile phone
 ---

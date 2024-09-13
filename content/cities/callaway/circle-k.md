@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /callaway/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

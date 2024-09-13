@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /melbourne/aldi-north-wickham-road/
-shop: Supermarkt
+shop: supermarket
 ---

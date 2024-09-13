@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /palatka/autozone/
-shop: Autoteile
+shop: car parts
 ---

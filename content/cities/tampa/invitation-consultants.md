@@ -1,5 +1,5 @@
 ---
 title: "Invitation Consultants"
 url: /tampa/invitation-consultants/
-shop: Schreibwaren
+shop: office supplies
 ---

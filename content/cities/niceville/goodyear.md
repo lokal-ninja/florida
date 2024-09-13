@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /niceville/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

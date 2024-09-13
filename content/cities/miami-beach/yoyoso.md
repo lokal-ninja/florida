@@ -1,5 +1,5 @@
 ---
 title: "Yoyoso"
 url: /miami-beach/yoyoso/
-shop: Möbel
+shop: furniture
 ---

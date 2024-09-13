@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /altamonte-springs/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

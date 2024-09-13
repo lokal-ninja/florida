@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /melbourne/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

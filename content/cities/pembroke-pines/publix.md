@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /pembroke-pines/publix/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /tampa/exxon-us-301/
-shop: Lebensmittel
+shop: convenience
 ---

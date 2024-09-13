@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /saint-johns/burlington/
-shop: Warenhaus
+shop: department store
 ---

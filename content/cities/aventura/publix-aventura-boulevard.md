@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /aventura/publix-aventura-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

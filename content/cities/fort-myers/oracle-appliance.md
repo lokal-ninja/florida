@@ -1,5 +1,5 @@
 ---
 title: "Oracle Appliance"
 url: /fort-myers/oracle-appliance/
-shop: Haushaltsgeräte
+shop: appliance
 ---

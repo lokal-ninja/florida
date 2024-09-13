@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /miami/publix-southwest-57th-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

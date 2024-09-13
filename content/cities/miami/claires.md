@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /miami/claires/
-shop: Modehaus
+shop: boutique
 ---

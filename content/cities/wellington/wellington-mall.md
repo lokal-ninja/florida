@@ -1,5 +1,5 @@
 ---
 title: "Wellington Mall"
 url: /wellington/wellington-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

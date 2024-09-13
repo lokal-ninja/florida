@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /miami/bp-shop-southwest-56th-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /jacksonville/best-buy-town-center-parkway/
-shop: Elektronik
+shop: electronics
 ---

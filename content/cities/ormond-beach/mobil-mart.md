@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /ormond-beach/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

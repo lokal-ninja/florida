@@ -1,5 +1,5 @@
 ---
 title: "Sunglass World"
 url: /daytona-beach/sunglass-world/
-shop: Modehaus
+shop: boutique
 ---

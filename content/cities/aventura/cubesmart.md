@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /aventura/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

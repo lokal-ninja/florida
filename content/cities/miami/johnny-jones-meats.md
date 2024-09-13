@@ -1,5 +1,5 @@
 ---
 title: "Johnny Jones Meats"
 url: /miami/johnny-jones-meats/
-shop: Metzgerei
+shop: butcher
 ---

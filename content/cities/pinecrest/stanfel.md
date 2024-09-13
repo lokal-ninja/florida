@@ -1,5 +1,5 @@
 ---
 title: "Stanfel"
 url: /pinecrest/stanfel/
-shop: Bestattungen
+shop: funeral directors
 ---

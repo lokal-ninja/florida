@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /aventura/verizon-biscayne-boulevard/
-shop: Handy
+shop: mobile phone
 ---

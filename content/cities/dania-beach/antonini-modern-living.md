@@ -1,5 +1,5 @@
 ---
 title: "Antonini Modern Living"
 url: /dania-beach/antonini-modern-living/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /spring-hill/speedway-deltona-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bryan International"
 url: /opa-locka/bryan-international/
-shop: Autohaus
+shop: car
 ---

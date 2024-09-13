@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /lakeland/winn-dixie-lakeland-highlands-road/
-shop: Supermarkt
+shop: supermarket
 ---

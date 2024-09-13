@@ -1,5 +1,5 @@
 ---
 title: "Doral Travel International in Miami"
 url: /miami/doral-travel-international-in-miami/
-shop: Reisebüro
+shop: travel agency
 ---

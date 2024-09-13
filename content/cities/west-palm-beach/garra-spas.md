@@ -1,5 +1,5 @@
 ---
 title: "Garra Spas"
 url: /west-palm-beach/garra-spas/
-shop: Massage
+shop: massage
 ---

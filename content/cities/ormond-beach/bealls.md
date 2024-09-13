@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /ormond-beach/bealls/
-shop: Warenhaus
+shop: department store
 ---

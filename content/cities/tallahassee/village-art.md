@@ -1,5 +1,5 @@
 ---
 title: "Village Art"
 url: /tallahassee/village-art/
-shop: Kunst
+shop: art
 ---

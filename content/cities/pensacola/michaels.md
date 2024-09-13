@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /pensacola/michaels/
-shop: Basteln
+shop: craft
 ---

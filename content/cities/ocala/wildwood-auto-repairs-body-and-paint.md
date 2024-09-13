@@ -1,5 +1,5 @@
 ---
 title: "Wildwood Auto Repairs Body And Paint"
 url: /ocala/wildwood-auto-repairs-body-and-paint/
-shop: Autowerkstatt
+shop: car repair
 ---

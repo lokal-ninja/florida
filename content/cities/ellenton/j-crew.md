@@ -1,5 +1,5 @@
 ---
 title: "J.Crew"
 url: /ellenton/j-crew/
-shop: Kleidung
+shop: clothes
 ---

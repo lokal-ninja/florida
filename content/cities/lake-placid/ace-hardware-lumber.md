@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware Lumber"
 url: /lake-placid/ace-hardware-lumber/
-shop: Baumarkt
+shop: doityourself
 ---

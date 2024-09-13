@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /pinellas-park/supercuts-park-blvd/
-shop: Friseur
+shop: hairdresser
 ---

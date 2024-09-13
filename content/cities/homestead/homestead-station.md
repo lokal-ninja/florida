@@ -1,5 +1,5 @@
 ---
 title: "Homestead Station"
 url: /homestead/homestead-station/
-shop: Einkaufszentrum
+shop: mall
 ---

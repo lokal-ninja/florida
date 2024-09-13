@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /saint-petersburg/verizon-1st-avenue-north/
-shop: Handy
+shop: mobile phone
 ---

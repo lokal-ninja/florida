@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /yulee/target/
-shop: Warenhaus
+shop: department store
 ---

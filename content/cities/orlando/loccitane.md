@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /orlando/loccitane/
-shop: Kosmetik
+shop: beauty
 ---

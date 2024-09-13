@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /hialeah/cvs-pharmacy-west-49th-street/
-shop: Drogerie
+shop: chemist
 ---

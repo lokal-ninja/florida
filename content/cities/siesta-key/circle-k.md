@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /siesta-key/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

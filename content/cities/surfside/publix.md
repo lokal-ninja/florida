@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /surfside/publix/
-shop: Supermarkt
+shop: supermarket
 ---

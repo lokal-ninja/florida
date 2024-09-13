@@ -1,5 +1,5 @@
 ---
 title: "Summerland Ace Hardware"
 url: /summerland-key/summerland-ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

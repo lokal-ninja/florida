@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /venice/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buy-Rite Drugs"
 url: /havana/buy-rite-drugs/
-shop: Drogerie
+shop: chemist
 ---

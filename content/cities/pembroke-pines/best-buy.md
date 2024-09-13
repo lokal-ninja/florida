@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /pembroke-pines/best-buy/
-shop: Elektronik
+shop: electronics
 ---

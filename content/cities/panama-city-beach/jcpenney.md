@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /panama-city-beach/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /pensacola/sprint/
-shop: Handy
+shop: mobile phone
 ---

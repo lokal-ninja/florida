@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lehigh-acres/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

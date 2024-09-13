@@ -1,5 +1,5 @@
 ---
 title: "Greenwise Market"
 url: /ponte-vedra/greenwise-market/
-shop: Supermarkt
+shop: supermarket
 ---

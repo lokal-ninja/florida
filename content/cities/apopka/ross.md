@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /apopka/ross/
-shop: Warenhaus
+shop: department store
 ---

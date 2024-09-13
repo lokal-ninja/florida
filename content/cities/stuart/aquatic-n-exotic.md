@@ -1,5 +1,5 @@
 ---
 title: "Aquatic N Exotic"
 url: /stuart/aquatic-n-exotic/
-shop: Tiere
+shop: pet
 ---

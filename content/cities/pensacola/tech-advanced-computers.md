@@ -1,5 +1,5 @@
 ---
 title: "Tech Advanced Computers"
 url: /pensacola/tech-advanced-computers/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /jacksonville-beach/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

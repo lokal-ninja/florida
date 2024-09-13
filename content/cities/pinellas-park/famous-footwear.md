@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /pinellas-park/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

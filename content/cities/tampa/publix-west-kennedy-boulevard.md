@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tampa/publix-west-kennedy-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Southern Self Storage"
 url: /clearwater/southern-self-storage/
-shop: Mieten
+shop: storage rental
 ---

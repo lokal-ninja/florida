@@ -1,5 +1,5 @@
 ---
 title: "Chiefland NAPA Speed and Machine"
 url: /chiefland/chiefland-napa-speed-and-machine/
-shop: Autowerkstatt
+shop: car repair
 ---

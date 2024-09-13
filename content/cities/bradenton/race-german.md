@@ -1,5 +1,5 @@
 ---
 title: "Race German"
 url: /bradenton/race-german/
-shop: Autoteile
+shop: car parts
 ---

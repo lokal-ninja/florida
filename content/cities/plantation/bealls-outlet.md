@@ -1,5 +1,5 @@
 ---
 title: "Bealls Outlet"
 url: /plantation/bealls-outlet/
-shop: Warenhaus
+shop: department store
 ---

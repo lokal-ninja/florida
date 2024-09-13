@@ -1,5 +1,5 @@
 ---
 title: "Nest"
 url: /fort-myers/nest/
-shop: Allgemein
+shop: shop
 ---

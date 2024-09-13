@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /fort-myers/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

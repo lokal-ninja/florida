@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /orlando/office-depot-town-center-boulevard/
-shop: Schreibwaren
+shop: office supplies
 ---

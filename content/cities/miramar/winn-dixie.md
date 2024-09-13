@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /miramar/winn-dixie/
-shop: Supermarkt
+shop: supermarket
 ---

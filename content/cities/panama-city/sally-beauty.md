@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /panama-city/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

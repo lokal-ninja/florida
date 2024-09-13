@@ -1,5 +1,5 @@
 ---
 title: "Nail Passion"
 url: /plantation/nail-passion/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /delray-beach/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

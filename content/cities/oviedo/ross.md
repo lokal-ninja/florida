@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /oviedo/ross/
-shop: Warenhaus
+shop: department store
 ---

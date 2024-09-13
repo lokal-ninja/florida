@@ -1,5 +1,5 @@
 ---
 title: "Pedal Driven Co."
 url: /sanford/pedal-driven-co/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /lauderhill/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

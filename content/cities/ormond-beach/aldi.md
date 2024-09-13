@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ormond-beach/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gadget Fix Saint Pete"
 url: /saint-petersburg/gadget-fix-saint-pete/
-shop: Handy
+shop: mobile phone
 ---

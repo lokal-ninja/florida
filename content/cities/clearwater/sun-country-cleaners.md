@@ -1,5 +1,5 @@
 ---
 title: "Sun Country Cleaners"
 url: /clearwater/sun-country-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

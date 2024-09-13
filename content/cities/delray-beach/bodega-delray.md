@@ -1,5 +1,5 @@
 ---
 title: "Bodega Delray"
 url: /delray-beach/bodega-delray/
-shop: Lebensmittel
+shop: convenience
 ---

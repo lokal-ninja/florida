@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /cape-haze/ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

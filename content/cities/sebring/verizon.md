@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /sebring/verizon/
-shop: Handy
+shop: mobile phone
 ---

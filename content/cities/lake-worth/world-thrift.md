@@ -1,5 +1,5 @@
 ---
 title: "World Thrift"
 url: /lake-worth/world-thrift/
-shop: Gebrauchtwaren
+shop: charity
 ---

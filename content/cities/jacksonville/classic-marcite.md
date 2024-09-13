@@ -1,5 +1,5 @@
 ---
 title: "Classic Marcite"
 url: /jacksonville/classic-marcite/
-shop: Pool
+shop: swimming pool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cookie Cutters"
 url: /miami/cookie-cutters/
-shop: Friseur
+shop: hairdresser
 ---

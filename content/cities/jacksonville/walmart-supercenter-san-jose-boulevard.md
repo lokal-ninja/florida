@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /jacksonville/walmart-supercenter-san-jose-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

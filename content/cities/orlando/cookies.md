@@ -1,5 +1,5 @@
 ---
 title: "Cookies"
 url: /orlando/cookies/
-shop: Hanf
+shop: cannabis
 ---

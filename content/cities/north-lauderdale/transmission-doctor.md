@@ -1,5 +1,5 @@
 ---
 title: "Transmission Doctor"
 url: /north-lauderdale/transmission-doctor/
-shop: Autowerkstatt
+shop: car repair
 ---

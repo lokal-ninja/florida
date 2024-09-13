@@ -1,5 +1,5 @@
 ---
 title: "Brazilian Silhouette"
 url: /fort-myers/brazilian-silhouette/
-shop: Kosmetik
+shop: beauty
 ---

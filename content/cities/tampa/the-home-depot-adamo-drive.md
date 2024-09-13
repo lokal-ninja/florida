@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /tampa/the-home-depot-adamo-drive/
-shop: Baumarkt
+shop: doityourself
 ---

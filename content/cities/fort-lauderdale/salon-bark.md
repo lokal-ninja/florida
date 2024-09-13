@@ -1,5 +1,5 @@
 ---
 title: "Salon Bark"
 url: /fort-lauderdale/salon-bark/
-shop: Kleidung
+shop: clothes
 ---

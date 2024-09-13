@@ -1,5 +1,5 @@
 ---
 title: "Trulieve"
 url: /cutler-bay/trulieve/
-shop: Hanf
+shop: cannabis
 ---

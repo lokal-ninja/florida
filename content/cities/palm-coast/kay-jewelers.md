@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /palm-coast/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Snax"
 url: /tampa/snax/
-shop: Lebensmittel
+shop: convenience
 ---

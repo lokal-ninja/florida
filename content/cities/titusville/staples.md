@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /titusville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

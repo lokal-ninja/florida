@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /davenport/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /springfield/honda/
-shop: Autohaus
+shop: car
 ---

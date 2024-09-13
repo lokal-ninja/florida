@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /gulf-breeze/cefco/
-shop: Lebensmittel
+shop: convenience
 ---

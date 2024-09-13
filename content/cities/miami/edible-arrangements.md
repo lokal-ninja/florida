@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /miami/edible-arrangements/
-shop: Andenken
+shop: gift
 ---

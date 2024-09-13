@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /brandon/sams-club/
-shop: Großhandel
+shop: wholesale
 ---

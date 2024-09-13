@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /north-miami/gamestop/
-shop: Videospiele
+shop: video games
 ---

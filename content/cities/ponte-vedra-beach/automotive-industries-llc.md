@@ -1,5 +1,5 @@
 ---
 title: "Automotive Industries, LLC"
 url: /ponte-vedra-beach/automotive-industries-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

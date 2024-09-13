@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /wesley-chapel/target/
-shop: Warenhaus
+shop: department store
 ---

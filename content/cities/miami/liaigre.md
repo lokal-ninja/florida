@@ -1,5 +1,5 @@
 ---
 title: "LIAIGRE"
 url: /miami/liaigre/
-shop: Allgemein
+shop: shop
 ---

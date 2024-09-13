@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
 url: /orlando/the-ups-store/
-shop: Kopieren
+shop: copyshop
 ---

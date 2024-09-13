@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /gainesville/target/
-shop: Warenhaus
+shop: department store
 ---

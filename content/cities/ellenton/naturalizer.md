@@ -1,5 +1,5 @@
 ---
 title: "Naturalizer"
 url: /ellenton/naturalizer/
-shop: Schuhe
+shop: shoes
 ---

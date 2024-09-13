@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /tampa/west-marine/
-shop: Boot
+shop: boat
 ---

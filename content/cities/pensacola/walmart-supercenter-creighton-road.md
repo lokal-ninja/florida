@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /pensacola/walmart-supercenter-creighton-road/
-shop: Supermarkt
+shop: supermarket
 ---

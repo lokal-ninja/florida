@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /wellington/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

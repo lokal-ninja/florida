@@ -1,5 +1,5 @@
 ---
 title: "Zoom Tan"
 url: /tallahassee/zoom-tan-north-monroe-street/
-shop: Kosmetik
+shop: beauty
 ---

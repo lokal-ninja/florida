@@ -1,5 +1,5 @@
 ---
 title: "Paws in paradise"
 url: /lake-worth/paws-in-paradise/
-shop: Tiersalon
+shop: pet grooming
 ---

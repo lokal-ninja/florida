@@ -1,5 +1,5 @@
 ---
 title: "Woodland International LLC"
 url: /hialeah/woodland-international-llc/
-shop: Großhandel
+shop: wholesale
 ---

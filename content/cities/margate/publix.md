@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /margate/publix/
-shop: Supermarkt
+shop: supermarket
 ---

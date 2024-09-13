@@ -1,5 +1,5 @@
 ---
 title: "Dry Cleaners"
 url: /clearwater/dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

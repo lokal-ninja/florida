@@ -1,5 +1,5 @@
 ---
 title: "Advanced Storage Inc"
 url: /crestview/advanced-storage-inc/
-shop: Mieten
+shop: storage rental
 ---

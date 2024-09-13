@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
 url: /daytona-beach/dillards-international-speedway-boulevard/
-shop: Warenhaus
+shop: department store
 ---

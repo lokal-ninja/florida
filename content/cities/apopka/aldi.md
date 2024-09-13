@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /apopka/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

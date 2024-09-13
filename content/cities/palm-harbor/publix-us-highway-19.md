@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /palm-harbor/publix-us-highway-19/
-shop: Supermarkt
+shop: supermarket
 ---

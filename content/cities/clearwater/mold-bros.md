@@ -1,5 +1,5 @@
 ---
 title: "Mold Bros"
 url: /clearwater/mold-bros/
-shop: Baustoffe
+shop: trade
 ---

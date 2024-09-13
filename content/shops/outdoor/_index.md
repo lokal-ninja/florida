@@ -1,5 +1,5 @@
 ---
-title: Outdoor
+title: outdoor
 url: /outdoor/
 icon: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Textbook Brokers"
 url: /pensacola/textbook-brokers/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /orlando/perfumania/
-shop: Parfümerie
+shop: perfumery
 ---

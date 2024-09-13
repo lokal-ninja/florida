@@ -1,5 +1,5 @@
 ---
 title: "Quality Self Storage"
 url: /clearwater/quality-self-storage/
-shop: Mieten
+shop: storage rental
 ---

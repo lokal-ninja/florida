@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /hialeah/walgreens/
-shop: Drogerie
+shop: chemist
 ---

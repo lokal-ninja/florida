@@ -1,5 +1,5 @@
 ---
 title: "Enterprise"
 url: /jacksonville/enterprise/
-shop: Mieten
+shop: storage rental
 ---

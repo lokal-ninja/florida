@@ -1,5 +1,5 @@
 ---
 title: "The Cabinet Barn"
 url: /pensacola/the-cabinet-barn/
-shop: Küchen
+shop: kitchen
 ---

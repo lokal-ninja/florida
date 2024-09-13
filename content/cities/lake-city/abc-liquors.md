@@ -1,5 +1,5 @@
 ---
 title: "ABC Liquors"
 url: /lake-city/abc-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

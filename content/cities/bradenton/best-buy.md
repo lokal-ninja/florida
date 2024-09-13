@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /bradenton/best-buy/
-shop: Elektronik
+shop: electronics
 ---

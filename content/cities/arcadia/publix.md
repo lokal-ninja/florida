@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /arcadia/publix/
-shop: Supermarkt
+shop: supermarket
 ---

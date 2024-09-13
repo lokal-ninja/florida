@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /palm-bay/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

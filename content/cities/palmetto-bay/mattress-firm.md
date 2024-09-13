@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /palmetto-bay/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /largo/u-haul/
-shop: Mieten
+shop: storage rental
 ---

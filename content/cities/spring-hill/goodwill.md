@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /spring-hill/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

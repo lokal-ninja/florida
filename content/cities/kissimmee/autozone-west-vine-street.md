@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /kissimmee/autozone-west-vine-street/
-shop: Autoteile
+shop: car parts
 ---

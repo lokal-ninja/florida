@@ -1,5 +1,5 @@
 ---
 title: "Autocare of Naples"
 url: /naples/autocare-of-naples/
-shop: Autowerkstatt
+shop: car repair
 ---

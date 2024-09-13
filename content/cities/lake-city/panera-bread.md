@@ -1,5 +1,5 @@
 ---
 title: "Panera Bread"
 url: /lake-city/panera-bread/
-shop: Konditorei
+shop: pastry
 ---

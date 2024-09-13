@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /saint-johns/verizon/
-shop: Handy
+shop: mobile phone
 ---

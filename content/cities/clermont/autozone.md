@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /clermont/autozone/
-shop: Autoteile
+shop: car parts
 ---

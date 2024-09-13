@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /tamarac/ross/
-shop: Warenhaus
+shop: department store
 ---

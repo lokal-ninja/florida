@@ -1,5 +1,5 @@
 ---
 title: "Maserati Pensacola"
 url: /pensacola/maserati-pensacola/
-shop: Autohaus
+shop: car
 ---

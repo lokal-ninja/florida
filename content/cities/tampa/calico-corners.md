@@ -1,5 +1,5 @@
 ---
 title: "Calico Corners"
 url: /tampa/calico-corners/
-shop: Haushaltsartikel
+shop: houseware
 ---

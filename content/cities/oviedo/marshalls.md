@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /oviedo/marshalls/
-shop: Warenhaus
+shop: department store
 ---

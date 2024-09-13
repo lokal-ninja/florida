@@ -1,5 +1,5 @@
 ---
 title: "Willie's"
 url: /jacksonville/willies/
-shop: Kleidung
+shop: clothes
 ---

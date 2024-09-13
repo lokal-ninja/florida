@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /orlando/autozone-west-oak-ridge-road/
-shop: Autoteile
+shop: car parts
 ---

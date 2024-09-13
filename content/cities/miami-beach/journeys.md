@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /miami-beach/journeys/
-shop: Schuhe
+shop: shoes
 ---

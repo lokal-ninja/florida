@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /holmes-beach/shell/
-shop: Lebensmittel
+shop: convenience
 ---

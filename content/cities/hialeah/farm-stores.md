@@ -1,5 +1,5 @@
 ---
 title: "Farm Stores"
 url: /hialeah/farm-stores/
-shop: Lebensmittel
+shop: convenience
 ---

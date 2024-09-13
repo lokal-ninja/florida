@@ -1,5 +1,5 @@
 ---
 title: "El Dorado Furniture"
 url: /miami-gardens/el-dorado-furniture/
-shop: Möbel
+shop: furniture
 ---

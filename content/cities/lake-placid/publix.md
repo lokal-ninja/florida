@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /lake-placid/publix/
-shop: Supermarkt
+shop: supermarket
 ---

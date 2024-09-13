@@ -1,5 +1,5 @@
 ---
 title: "Standard Collective"
 url: /melbourne/standard-collective/
-shop: Kleidung
+shop: clothes
 ---

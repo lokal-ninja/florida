@@ -1,5 +1,5 @@
 ---
 title: "Calvin Klein"
 url: /aventura/calvin-klein/
-shop: Kleidung
+shop: clothes
 ---

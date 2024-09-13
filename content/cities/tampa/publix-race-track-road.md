@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tampa/publix-race-track-road/
-shop: Supermarkt
+shop: supermarket
 ---

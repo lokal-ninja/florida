@@ -1,5 +1,5 @@
 ---
 title: "Tuff Shed"
 url: /pensacola/tuff-shed/
-shop: Eisenwaren
+shop: hardware
 ---

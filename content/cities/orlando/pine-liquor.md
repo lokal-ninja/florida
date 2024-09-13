@@ -1,5 +1,5 @@
 ---
 title: "Pine Liquor"
 url: /orlando/pine-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

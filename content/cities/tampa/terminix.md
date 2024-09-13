@@ -1,5 +1,5 @@
 ---
 title: "Terminix"
 url: /tampa/terminix/
-shop: Schädlingsbekämpfung
+shop: pest control
 ---

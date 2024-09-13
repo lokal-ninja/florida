@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tampa/autozone/
-shop: Autoteile
+shop: car parts
 ---

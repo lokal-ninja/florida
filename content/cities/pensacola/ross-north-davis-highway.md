@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /pensacola/ross-north-davis-highway/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /fort-lauderdale/publix-sunrise-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

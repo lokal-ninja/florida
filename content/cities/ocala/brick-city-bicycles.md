@@ -1,5 +1,5 @@
 ---
 title: "Brick City Bicycles"
 url: /ocala/brick-city-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lina Nails"
 url: /delray-beach/lina-nails/
-shop: Kosmetik
+shop: beauty
 ---

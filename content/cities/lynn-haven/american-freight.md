@@ -1,5 +1,5 @@
 ---
 title: "American Freight"
 url: /lynn-haven/american-freight/
-shop: Warenhaus
+shop: department store
 ---

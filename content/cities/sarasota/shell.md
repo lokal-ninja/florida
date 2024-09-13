@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /sarasota/shell/
-shop: Lebensmittel
+shop: convenience
 ---

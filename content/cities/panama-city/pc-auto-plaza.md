@@ -1,5 +1,5 @@
 ---
 title: "PC Auto Plaza"
 url: /panama-city/pc-auto-plaza/
-shop: Autohaus
+shop: car
 ---

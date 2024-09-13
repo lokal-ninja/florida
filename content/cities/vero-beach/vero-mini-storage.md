@@ -1,5 +1,5 @@
 ---
 title: "Vero Mini Storage"
 url: /vero-beach/vero-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

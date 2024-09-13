@@ -1,5 +1,5 @@
 ---
 title: "HAUSSCAPE"
 url: /miami/hausscape/
-shop: Küchen
+shop: kitchen
 ---

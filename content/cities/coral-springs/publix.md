@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /coral-springs/publix/
-shop: Supermarkt
+shop: supermarket
 ---

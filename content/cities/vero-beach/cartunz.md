@@ -1,5 +1,5 @@
 ---
 title: "Cartunz"
 url: /vero-beach/cartunz/
-shop: Autoteile
+shop: car parts
 ---

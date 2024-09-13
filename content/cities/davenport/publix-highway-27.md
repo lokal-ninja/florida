@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /davenport/publix-highway-27/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SOHO Tan"
 url: /tampa/soho-tan/
-shop: Kosmetik
+shop: beauty
 ---

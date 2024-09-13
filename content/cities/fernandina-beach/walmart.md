@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /fernandina-beach/walmart/
-shop: Warenhaus
+shop: department store
 ---

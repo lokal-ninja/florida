@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /kissimmee/ross-vineland-road/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Western Beef Supermarket"
 url: /boca-raton/western-beef-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

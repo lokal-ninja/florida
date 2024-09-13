@@ -1,5 +1,5 @@
 ---
 title: "Lucy's Gift Boutique"
 url: /port-orange/lucys-gift-boutique/
-shop: Andenken
+shop: gift
 ---

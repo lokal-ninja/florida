@@ -1,5 +1,5 @@
 ---
 title: "Puma Outlet"
 url: /west-palm-beach/puma-outlet/
-shop: Kleidung
+shop: clothes
 ---

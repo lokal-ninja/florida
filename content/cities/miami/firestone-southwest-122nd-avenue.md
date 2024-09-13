@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /miami/firestone-southwest-122nd-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

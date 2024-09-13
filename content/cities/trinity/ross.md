@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /trinity/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Curaleaf"
 url: /tampa/curaleaf/
-shop: Hanf
+shop: cannabis
 ---

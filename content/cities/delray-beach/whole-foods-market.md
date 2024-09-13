@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /delray-beach/whole-foods-market/
-shop: Supermarkt
+shop: supermarket
 ---

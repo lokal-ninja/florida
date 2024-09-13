@@ -1,5 +1,5 @@
 ---
 title: "Latino's Automobile Repair"
 url: /naples/latinos-automobile-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /largo/autozone/
-shop: Autoteile
+shop: car parts
 ---

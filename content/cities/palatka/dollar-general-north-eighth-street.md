@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /palatka/dollar-general-north-eighth-street/
-shop: Kramladen
+shop: variety store
 ---

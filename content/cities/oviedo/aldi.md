@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /oviedo/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

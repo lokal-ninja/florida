@@ -1,5 +1,5 @@
 ---
 title: "Mania Jeans"
 url: /orlando/mania-jeans/
-shop: Kleidung
+shop: clothes
 ---

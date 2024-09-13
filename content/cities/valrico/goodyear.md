@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /valrico/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /coral-springs/michaels/
-shop: Basteln
+shop: craft
 ---

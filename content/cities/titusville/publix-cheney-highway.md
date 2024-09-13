@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /titusville/publix-cheney-highway/
-shop: Supermarkt
+shop: supermarket
 ---

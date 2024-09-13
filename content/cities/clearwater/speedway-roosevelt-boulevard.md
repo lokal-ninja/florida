@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /clearwater/speedway-roosevelt-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "South Motors Collision Center"
 url: /miami/south-motors-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

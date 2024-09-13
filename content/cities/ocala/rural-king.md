@@ -1,5 +1,5 @@
 ---
 title: "Rural King"
 url: /ocala/rural-king/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /daytona-beach/claires/
-shop: Andenken
+shop: gift
 ---

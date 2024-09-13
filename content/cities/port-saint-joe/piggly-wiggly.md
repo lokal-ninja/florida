@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /port-saint-joe/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minuteman Press Orlando"
 url: /orlando/minuteman-press-orlando/
-shop: Kopieren
+shop: copyshop
 ---

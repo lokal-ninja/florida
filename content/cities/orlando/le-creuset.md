@@ -1,5 +1,5 @@
 ---
 title: "Le Creuset"
 url: /orlando/le-creuset/
-shop: Haushaltsartikel
+shop: houseware
 ---

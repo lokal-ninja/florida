@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /loxahatchee-groves/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

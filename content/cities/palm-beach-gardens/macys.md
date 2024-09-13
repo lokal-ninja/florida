@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /palm-beach-gardens/macys/
-shop: Warenhaus
+shop: department store
 ---

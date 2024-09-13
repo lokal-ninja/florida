@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /pensacola/walgreens/
-shop: Drogerie
+shop: chemist
 ---

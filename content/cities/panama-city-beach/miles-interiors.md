@@ -1,5 +1,5 @@
 ---
 title: "Miles Interiors"
 url: /panama-city-beach/miles-interiors/
-shop: Möbel
+shop: furniture
 ---

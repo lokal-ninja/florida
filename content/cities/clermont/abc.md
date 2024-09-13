@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /clermont/abc/
-shop: Spirituosen
+shop: alcohol
 ---

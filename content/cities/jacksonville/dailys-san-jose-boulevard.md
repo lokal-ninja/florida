@@ -1,5 +1,5 @@
 ---
 title: "Daily's"
 url: /jacksonville/dailys-san-jose-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

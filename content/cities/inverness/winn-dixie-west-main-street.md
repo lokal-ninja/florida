@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /inverness/winn-dixie-west-main-street/
-shop: Supermarkt
+shop: supermarket
 ---

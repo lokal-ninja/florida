@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /panama-city/ryder/
-shop: Mieten
+shop: storage rental
 ---

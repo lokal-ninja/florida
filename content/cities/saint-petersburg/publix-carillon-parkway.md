@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /saint-petersburg/publix-carillon-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

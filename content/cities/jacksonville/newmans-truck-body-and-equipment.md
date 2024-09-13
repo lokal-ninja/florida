@@ -1,5 +1,5 @@
 ---
 title: "Newmans Truck Body and Equipment"
 url: /jacksonville/newmans-truck-body-and-equipment/
-shop: Autowerkstatt
+shop: car repair
 ---

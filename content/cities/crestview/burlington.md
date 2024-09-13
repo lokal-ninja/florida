@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /crestview/burlington/
-shop: Warenhaus
+shop: department store
 ---

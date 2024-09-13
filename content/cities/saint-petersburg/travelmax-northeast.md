@@ -1,5 +1,5 @@
 ---
 title: "TravelMax Northeast"
 url: /saint-petersburg/travelmax-northeast/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Key West Guide Girl"
 url: /key-west/key-west-guide-girl/
-shop: Reisebüro
+shop: travel agency
 ---

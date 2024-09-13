@@ -1,5 +1,5 @@
 ---
 title: "Tri County Tires"
 url: /chiefland/tri-county-tires/
-shop: Reifen
+shop: tyres
 ---
