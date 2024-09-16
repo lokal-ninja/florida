@@ -1,11 +1,11 @@
 id: 899184051
-type: way
+type: node
 latitude: 28.18857
 longitude: -82.55185
 postcode: "33556"
 city: Odessa
-street: "Sembler Drive"
-housenumber: 2175
-phone: "+1 813-926-3660"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.publix.com/locations/1702"
+street: Sembler Drive
+housenumber: "2175"
+phone: +1 813-926-3660
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.publix.com/locations/1702

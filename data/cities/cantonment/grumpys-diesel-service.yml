@@ -1,11 +1,11 @@
 id: 948231128
-type: way
+type: node
 latitude: 30.56715
 longitude: -87.28904
 postcode: "32533"
 city: Cantonment
-street: "South Highway 29"
-housenumber: 2320
+street: South Highway 29
+housenumber: "2320"
 phone: ""
 opening_hours: ""
 website: ""

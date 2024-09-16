@@ -1,11 +1,11 @@
 id: 495255759
-type: way
+type: node
 latitude: 30.41778
 longitude: -84.2814
 postcode: "32304"
 city: Tallahassee
-street: "South Monroe Street"
-housenumber: 2514
+street: South Monroe Street
+housenumber: "2514"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/fl/tallahassee/autoparts-3926.html"
+website: https://locations.oreillyauto.com/fl/tallahassee/autoparts-3926.html

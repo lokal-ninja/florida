@@ -1,11 +1,11 @@
 id: 476332608
-type: way
+type: node
 latitude: 29.17134
 longitude: -81.04036
 postcode: "32114"
 city: Daytona Beach
-street: "Beville Road"
-housenumber: 1420
-phone: "+1 386 257 5773"
-opening_hours: "Mo-Su 07:00-00:00"
-website: "https://www.walgreens.com/locator/walgreens-1420+BEVILLE+RD-Daytona+Beach-FL-32114/id=4261"
+street: Beville Road
+housenumber: "1420"
+phone: +1 386 257 5773
+opening_hours: Mo-Su 07:00-00:00
+website: https://www.walgreens.com/locator/walgreens-1420+BEVILLE+RD-Daytona+Beach-FL-32114/id=4261

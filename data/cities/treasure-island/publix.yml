@@ -2,10 +2,10 @@ id: 2031067331
 type: node
 latitude: 27.76621
 longitude: -82.76755
-postcode: "33706-4804"
+postcode: 33706-4804
 city: Treasure Island
-street: "104th Avenue"
-housenumber: 111
-phone: "+1 727-363-1042"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1149"
+street: 104th Avenue
+housenumber: "111"
+phone: +1 727-363-1042
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1149

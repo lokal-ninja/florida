@@ -1,11 +1,11 @@
 id: 997759330
-type: way
+type: node
 latitude: 28.07959
 longitude: -80.68825
 postcode: "32904"
 city: West Melbourne
-street: "New Haven Avenue"
-housenumber: 3890
+street: New Haven Avenue
+housenumber: "3890"
 phone: ""
 opening_hours: ""
 website: ""

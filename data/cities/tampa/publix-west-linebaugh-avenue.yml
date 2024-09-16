@@ -1,11 +1,11 @@
 id: 543024917
-type: way
+type: node
 latitude: 28.05739
 longitude: -82.62526
-postcode: "33626-1732"
+postcode: 33626-1732
 city: Tampa
-street: "West Linebaugh Avenue"
-housenumber: 12139
-phone: "+1 813-814-0737"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/627"
+street: West Linebaugh Avenue
+housenumber: "12139"
+phone: +1 813-814-0737
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/627

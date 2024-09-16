@@ -1,11 +1,11 @@
 id: 627613146
-type: way
+type: node
 latitude: 30.19164
 longitude: -81.38107
-postcode: "32082-3212"
+postcode: 32082-3212
 city: Ponte Vedra Beach
-street: "A1a North"
-housenumber: 870
-phone: "+1 904-285-8101"
-opening_hours: "Mo-Sa 07:30-19:00; Su 07:30-18:00"
+street: A1a North
+housenumber: "870"
+phone: +1 904-285-8101
+opening_hours: Mo-Sa 07:30-19:00; Su 07:30-18:00
 website: ""

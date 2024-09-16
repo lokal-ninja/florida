@@ -2,10 +2,10 @@ id: 3161228361
 type: node
 latitude: 28.5346
 longitude: -81.73535
-postcode: "34711-6788"
+postcode: 34711-6788
 city: Clermont
-street: "South Highway 27"
-housenumber: 2503
-phone: "+1 833-747-4017"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/clermont/2503-s-highway-27"
+street: South Highway 27
+housenumber: "2503"
+phone: +1 833-747-4017
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/clermont/2503-s-highway-27

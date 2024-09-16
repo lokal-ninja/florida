@@ -1,11 +1,11 @@
 id: 896844326
-type: way
+type: node
 latitude: 28.92706
 longitude: -82.03324
 postcode: "34484"
 city: Oxford
-street: "East C 466"
-housenumber: 4243
+street: East C 466
+housenumber: "4243"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/oxford/4243-e-county-road-466"
+website: https://stores.advanceautoparts.com/fl/oxford/4243-e-county-road-466

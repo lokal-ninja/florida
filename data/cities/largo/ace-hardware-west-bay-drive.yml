@@ -1,11 +1,11 @@
 id: 523059526
-type: way
+type: node
 latitude: 27.91643
 longitude: -82.79982
 postcode: "33770"
 city: Largo
-street: "West Bay Drive"
-housenumber: 1015
-phone: "+1 727-581-5077"
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-17:00"
-website: "https://www.acehardware.com/store-details/16703"
+street: West Bay Drive
+housenumber: "1015"
+phone: +1 727-581-5077
+opening_hours: Mo-Sa 07:00-19:00; Su 09:00-17:00
+website: https://www.acehardware.com/store-details/16703

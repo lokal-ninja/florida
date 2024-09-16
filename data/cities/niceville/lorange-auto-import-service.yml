@@ -1,11 +1,11 @@
 id: 546666908
-type: way
+type: node
 latitude: 30.51566
 longitude: -86.46582
 postcode: "32578"
 city: Niceville
-street: "John Sims Parkway"
-housenumber: 1089
+street: John Sims Parkway
+housenumber: "1089"
 phone: ""
 opening_hours: ""
-website: "lorangeauto.com"
+website: lorangeauto.com

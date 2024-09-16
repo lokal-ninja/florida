@@ -1,11 +1,11 @@
 id: 505953188
-type: way
+type: node
 latitude: 27.64003
 longitude: -80.45905
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 6420
-phone: "+1 772-770-5625"
-opening_hours: "Mo-Fr 09:00-21:00; Sa,Su 09:00-22:00"
-website: "https://local.biglots.com/fl/vero-beach/6420-20th-st"
+street: 20th Street
+housenumber: "6420"
+phone: +1 772-770-5625
+opening_hours: Mo-Fr 09:00-21:00; Sa,Su 09:00-22:00
+website: https://local.biglots.com/fl/vero-beach/6420-20th-st

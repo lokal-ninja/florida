@@ -1,11 +1,11 @@
 id: 824276715
-type: way
+type: node
 latitude: 30.42005
 longitude: -87.22881
 postcode: "32501"
 city: Pensacola
-street: "West Cervantes Street"
-housenumber: 907
+street: West Cervantes Street
+housenumber: "907"
 phone: ""
 opening_hours: ""
 website: ""

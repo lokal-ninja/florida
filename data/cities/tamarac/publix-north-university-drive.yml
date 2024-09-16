@@ -1,11 +1,11 @@
 id: 91845985
-type: way
+type: node
 latitude: 26.19709
 longitude: -80.25585
-postcode: "33321-4618"
+postcode: 33321-4618
 city: Tamarac
-street: "North University Drive"
-housenumber: 5881
-phone: "+1 954-721-7800"
-opening_hours: "Su 07:00-22:00;Mo-Sa 07:00-23:00"
-website: "https://www.publix.com/locations/302"
+street: North University Drive
+housenumber: "5881"
+phone: +1 954-721-7800
+opening_hours: Su 07:00-22:00;Mo-Sa 07:00-23:00
+website: https://www.publix.com/locations/302

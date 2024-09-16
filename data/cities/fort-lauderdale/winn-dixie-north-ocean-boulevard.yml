@@ -1,11 +1,11 @@
 id: 272560172
-type: way
+type: node
 latitude: 26.17496
 longitude: -80.0993
 postcode: "33308"
 city: Fort Lauderdale
-street: "North Ocean Boulevard"
-housenumber: 3800
-phone: "+1 954-563-4110"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.winndixie.com/storedetails/ft%20lauderdale/fl?search=386"
+street: North Ocean Boulevard
+housenumber: "3800"
+phone: +1 954-563-4110
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.winndixie.com/storedetails/ft%20lauderdale/fl?search=386

@@ -4,8 +4,8 @@ latitude: 25.68726
 longitude: -80.38753
 postcode: "33183"
 city: Miami
-street: "Mills Drive"
-housenumber: 8700
+street: Mills Drive
+housenumber: "8700"
 phone: "+13052796579"
 opening_hours: ""
-website: "https://www.marshalls.com/us/store/index.jsp"
+website: https://www.marshalls.com/us/store/index.jsp

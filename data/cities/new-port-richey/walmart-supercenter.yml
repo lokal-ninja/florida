@@ -1,11 +1,11 @@
 id: 297217114
-type: way
+type: node
 latitude: 28.20729
 longitude: -82.66897
 postcode: "34655"
 city: New Port Richey
-street: "State Road 54"
-housenumber: 8745
-phone: "+1 727-376-3811"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/994/new-port%20richey-fl/whats-new"
+street: State Road 54
+housenumber: "8745"
+phone: +1 727-376-3811
+opening_hours: 24/7
+website: https://www.walmart.com/store/994/new-port%20richey-fl/whats-new

@@ -1,11 +1,11 @@
 id: 172596469
-type: way
+type: node
 latitude: 28.03363
 longitude: -82.64977
 postcode: "34677"
 city: Oldsmar
-street: "Tampa Road"
-housenumber: 5010
+street: Tampa Road
+housenumber: "5010"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Oldsmar/5010-TAMPA-RD"
+website: https://www.speedway.com/locations/FL/Oldsmar/5010-TAMPA-RD

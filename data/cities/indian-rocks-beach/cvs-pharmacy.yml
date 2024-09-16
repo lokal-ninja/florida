@@ -1,11 +1,11 @@
 id: 523596239
-type: way
+type: node
 latitude: 27.88215
 longitude: -82.84984
 postcode: "33785"
 city: Indian Rocks Beach
-street: "Gulf Boulevard"
-housenumber: 353
+street: Gulf Boulevard
+housenumber: "353"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

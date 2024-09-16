@@ -1,11 +1,11 @@
 id: 322997404
-type: way
+type: node
 latitude: 27.93873
 longitude: -82.25696
 postcode: ""
 city: Valrico
-street: "FL 60"
-housenumber: 1880
-phone: "+1 (813) 662-0607"
-opening_hours: "Su-Th 06:00-22:00; Fr-Sa 06:00-23:00"
-website: "https://www.crackerbarrel.com/"
+street: FL 60
+housenumber: "1880"
+phone: +1 (813) 662-0607
+opening_hours: Su-Th 06:00-22:00; Fr-Sa 06:00-23:00
+website: https://www.crackerbarrel.com/

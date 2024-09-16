@@ -1,11 +1,11 @@
 id: 506511896
-type: way
+type: node
 latitude: 30.46411
 longitude: -84.31305
 postcode: ""
 city: Tallahassee
-street: "West Tharpe Street"
-housenumber: 1602
+street: West Tharpe Street
+housenumber: "1602"
 phone: ""
 opening_hours: ""
 website: ""

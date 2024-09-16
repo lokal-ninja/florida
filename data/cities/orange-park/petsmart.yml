@@ -1,11 +1,11 @@
 id: 236786346
-type: way
+type: node
 latitude: 30.18901
 longitude: -81.73556
 postcode: "32073"
 city: Orange Park
-street: "Wells Road"
-housenumber: 1919
-phone: "+1 904-579-2362"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/fl/orange-park-store2283.html"
+street: Wells Road
+housenumber: "1919"
+phone: +1 904-579-2362
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/fl/orange-park-store2283.html

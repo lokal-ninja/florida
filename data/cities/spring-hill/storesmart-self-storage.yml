@@ -1,11 +1,11 @@
 id: 753149763
-type: way
+type: node
 latitude: 28.47135
 longitude: -82.48864
 postcode: "34609"
 city: Spring Hill
-street: "Anderson Snow Road"
-housenumber: 2465
+street: Anderson Snow Road
+housenumber: "2465"
 phone: ""
 opening_hours: ""
 website: ""

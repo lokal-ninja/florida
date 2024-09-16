@@ -1,11 +1,11 @@
 id: 825445690
-type: way
+type: node
 latitude: 30.48138
 longitude: -87.31046
 postcode: "32526"
 city: Pensacola
-street: "Bridget Lane"
-housenumber: 4411
+street: Bridget Lane
+housenumber: "4411"
 phone: ""
 opening_hours: ""
 website: ""

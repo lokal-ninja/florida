@@ -1,11 +1,11 @@
 id: 322357826
-type: way
+type: node
 latitude: 28.81195
 longitude: -81.27389
 postcode: "32771"
 city: Sanford
-street: "N French Avenue"
-housenumber: 100
+street: N French Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

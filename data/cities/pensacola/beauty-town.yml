@@ -1,11 +1,11 @@
 id: 827734536
-type: way
+type: node
 latitude: 30.44879
 longitude: -87.23949
 postcode: "32505"
 city: Pensacola
-street: "North Pace Boulevard"
-housenumber: 3300
+street: North Pace Boulevard
+housenumber: "3300"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

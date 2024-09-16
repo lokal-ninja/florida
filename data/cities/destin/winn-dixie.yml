@@ -1,11 +1,11 @@
 id: 391120152
-type: way
+type: node
 latitude: 30.39074
 longitude: -86.47826
 postcode: "32541"
 city: Destin
-street: "US Highway 98"
-housenumber: 981
-phone: "+1 850-654-5353"
+street: US Highway 98
+housenumber: "981"
+phone: +1 850-654-5353
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/destin/fl?search=560"
+website: https://www.winndixie.com/storedetails/destin/fl?search=560

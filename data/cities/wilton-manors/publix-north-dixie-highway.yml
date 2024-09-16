@@ -1,11 +1,11 @@
 id: 737159751
-type: way
+type: node
 latitude: 26.16119
 longitude: -80.13275
-postcode: "33334-3724"
+postcode: 33334-3724
 city: Wilton Manors
-street: "North Dixie Highway"
-housenumber: 2633
-phone: "+1 954-566-6363"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/774"
+street: North Dixie Highway
+housenumber: "2633"
+phone: +1 954-566-6363
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/774

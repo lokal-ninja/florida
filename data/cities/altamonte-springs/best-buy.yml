@@ -1,11 +1,11 @@
 id: 920254535
-type: way
+type: node
 latitude: 28.66324
 longitude: -81.40551
 postcode: "32714"
 city: Altamonte Springs
-street: "West State Road 436"
-housenumber: 597
-phone: "+1 407-865-9977"
+street: West State Road 436
+housenumber: "597"
+phone: +1 407-865-9977
 opening_hours: ""
-website: "https://stores.bestbuy.com/fl/altamonte-springs/597-w-state-road-436-509.html"
+website: https://stores.bestbuy.com/fl/altamonte-springs/597-w-state-road-436-509.html

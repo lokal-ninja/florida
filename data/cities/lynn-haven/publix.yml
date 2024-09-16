@@ -1,11 +1,11 @@
 id: 1227649306
-type: way
+type: node
 latitude: 30.22275
 longitude: -85.65128
-postcode: "32444-4616"
+postcode: 32444-4616
 city: Lynn Haven
-street: "South Highway 77"
-housenumber: 2310
-phone: "+1 850-271-6180"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/823"
+street: South Highway 77
+housenumber: "2310"
+phone: +1 850-271-6180
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/823

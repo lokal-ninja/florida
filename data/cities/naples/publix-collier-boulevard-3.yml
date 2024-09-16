@@ -1,11 +1,11 @@
 id: 524566732
-type: way
+type: node
 latitude: 26.27171
 longitude: -81.69146
-postcode: "34119-7715"
+postcode: 34119-7715
 city: Naples
-street: "Collier Boulevard"
-housenumber: 15265
-phone: "+1 239-348-2931"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/781"
+street: Collier Boulevard
+housenumber: "15265"
+phone: +1 239-348-2931
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/781

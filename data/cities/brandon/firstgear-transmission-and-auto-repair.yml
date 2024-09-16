@@ -1,11 +1,11 @@
 id: 1051393983
-type: way
+type: node
 latitude: 27.93957
 longitude: -82.2921
 postcode: "33511"
 city: Brandon
-street: "Central Drive"
-housenumber: 119
-phone: "+1 (813) 643-0066"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-13:00"
-website: "https://www.firstgearbrandon.com/"
+street: Central Drive
+housenumber: "119"
+phone: +1 (813) 643-0066
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-13:00
+website: https://www.firstgearbrandon.com/

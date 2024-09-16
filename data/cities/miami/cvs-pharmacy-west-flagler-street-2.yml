@@ -1,11 +1,11 @@
 id: 436034162
-type: way
+type: node
 latitude: 25.77246
 longitude: -80.25481
 postcode: "33135"
 city: Miami
-street: "West Flagler Street"
-housenumber: 3695
+street: West Flagler Street
+housenumber: "3695"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/miami-fl-pharmacies/3695-w-flagler-st-miami-fl-33135/storeid=3327"
+website: https://www.cvs.com/store-locator/miami-fl-pharmacies/3695-w-flagler-st-miami-fl-33135/storeid=3327

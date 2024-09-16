@@ -1,11 +1,11 @@
 id: 337850846
-type: way
+type: node
 latitude: 26.23806
 longitude: -80.24513
 postcode: "33071"
 city: Coral Springs
-street: "West Atlantic Boulevard"
-housenumber: 8921
-phone: "+1 754-484-3423"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/coral-springs/1121/"
+street: West Atlantic Boulevard
+housenumber: "8921"
+phone: +1 754-484-3423
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/coral-springs/1121/

@@ -4,8 +4,8 @@ latitude: 27.8249
 longitude: -82.63822
 postcode: "33703"
 city: Saint Petersburg
-street: "4th Street North"
-housenumber: 5811
-phone: "+1-727-525-9119"
+street: 4th Street North
+housenumber: "5811"
+phone: +1-727-525-9119
 opening_hours: ""
-website: "https://www.jconsalon.com/"
+website: https://www.jconsalon.com/

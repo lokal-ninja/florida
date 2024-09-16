@@ -1,11 +1,11 @@
 id: 354150739
-type: way
+type: node
 latitude: 30.49915
 longitude: -87.22474
 postcode: "32504"
 city: Pensacola
-street: "North Davis Highway"
-housenumber: 7171
-phone: "+1 850-473-3800"
+street: North Davis Highway
+housenumber: "7171"
+phone: +1 850-473-3800
 opening_hours: ""
-website: "https://www.academy.com/storelocator/florida/pensacola/store-0173"
+website: https://www.academy.com/storelocator/florida/pensacola/store-0173

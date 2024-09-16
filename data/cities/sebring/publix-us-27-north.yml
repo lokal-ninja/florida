@@ -1,11 +1,11 @@
 id: 397569606
-type: way
+type: node
 latitude: 27.51652
 longitude: -81.49405
 postcode: "33870"
 city: Sebring
-street: "US 27 North"
-housenumber: 3610
-phone: "+1 863-385-2025"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1347"
+street: US 27 North
+housenumber: "3610"
+phone: +1 863-385-2025
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1347

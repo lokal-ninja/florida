@@ -1,11 +1,11 @@
 id: 440949092
-type: way
+type: node
 latitude: 27.92351
 longitude: -82.2934
 postcode: "33511"
 city: Brandon
-street: "West Lumsden Road"
-housenumber: 612
+street: West Lumsden Road
+housenumber: "612"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

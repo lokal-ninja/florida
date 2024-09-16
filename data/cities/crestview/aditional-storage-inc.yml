@@ -1,11 +1,11 @@
 id: 705030659
-type: way
+type: node
 latitude: 30.75167
 longitude: -86.56341
 postcode: ""
 city: Crestview
-street: "Reed Avenue East"
-housenumber: 150
+street: Reed Avenue East
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

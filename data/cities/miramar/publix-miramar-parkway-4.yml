@@ -1,11 +1,11 @@
 id: 162529370
-type: way
+type: node
 latitude: 25.98087
 longitude: -80.33745
-postcode: "33027-4134"
+postcode: 33027-4134
 city: Miramar
-street: "Miramar Parkway"
-housenumber: 14375
-phone: "+1 954-447-9212"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/673"
+street: Miramar Parkway
+housenumber: "14375"
+phone: +1 954-447-9212
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/673

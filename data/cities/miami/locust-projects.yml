@@ -1,11 +1,11 @@
 id: 314060514
-type: way
+type: node
 latitude: 25.81242
 longitude: -80.19585
 postcode: "33127"
 city: Miami
-street: "North Miami Avenue"
-housenumber: 3852
-phone: "(305) 576-8570"
+street: North Miami Avenue
+housenumber: "3852"
+phone: (305) 576-8570
 opening_hours: ""
 website: ""

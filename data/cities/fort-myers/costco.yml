@@ -1,11 +1,11 @@
 id: 165614226
-type: way
+type: node
 latitude: 26.48953
 longitude: -81.78616
 postcode: "33913"
 city: Fort Myers
-street: "Gulf Center Drive"
-housenumber: 10088
-phone: "+1 239-433-7240"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/estero-fort-myers-fl-621.html"
+street: Gulf Center Drive
+housenumber: "10088"
+phone: +1 239-433-7240
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/estero-fort-myers-fl-621.html

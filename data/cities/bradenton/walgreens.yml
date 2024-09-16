@@ -1,11 +1,11 @@
 id: 307882129
-type: way
+type: node
 latitude: 27.49649
 longitude: -82.60354
 postcode: "34205"
 city: Bradenton
-street: "Manatee Avenue West"
-housenumber: 3813
+street: Manatee Avenue West
+housenumber: "3813"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4220+manatee+ave+w-bradenton-fl-34205/id=3613"
+website: https://www.walgreens.com/locator/walgreens-4220+manatee+ave+w-bradenton-fl-34205/id=3613

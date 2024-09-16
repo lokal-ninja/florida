@@ -1,11 +1,11 @@
 id: 1044249517
-type: way
+type: node
 latitude: 26.58665
 longitude: -80.06304
-postcode: "33462-1517"
+postcode: 33462-1517
 city: Lantana
-street: "Lantana Road"
-housenumber: 1212
-phone: "+1 561-585-0247"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-16:00"
+street: Lantana Road
+housenumber: "1212"
+phone: +1 561-585-0247
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-16:00
 website: ""

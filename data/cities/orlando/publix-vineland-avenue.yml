@@ -1,11 +1,11 @@
 id: 142217182
-type: way
+type: node
 latitude: 28.38663
 longitude: -81.48555
 postcode: "32821"
 city: Orlando
-street: "Vineland Avenue"
-housenumber: 8145
-phone: "+1 407-238-9924"
-opening_hours: "07:00-23:00"
-website: "https://www.publix.com/"
+street: Vineland Avenue
+housenumber: "8145"
+phone: +1 407-238-9924
+opening_hours: 07:00-23:00
+website: https://www.publix.com/

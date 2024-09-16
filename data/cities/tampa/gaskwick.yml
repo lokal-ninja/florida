@@ -1,11 +1,11 @@
 id: 75031566
-type: way
+type: node
 latitude: 28.0539
 longitude: -82.39989
 postcode: ""
 city: Tampa
-street: "East Fowler Avenue"
-housenumber: 503
+street: East Fowler Avenue
+housenumber: "503"
 phone: ""
 opening_hours: ""
 website: ""

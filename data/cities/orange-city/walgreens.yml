@@ -1,11 +1,11 @@
 id: 458181762
-type: way
+type: node
 latitude: 28.912
 longitude: -81.2932
 postcode: "32763"
 city: Orange City
-street: "Saxon Boulevard"
-housenumber: 897
+street: Saxon Boulevard
+housenumber: "897"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-897+saxon+blvd-orange+city-fl-32763/id=4262"
+website: https://www.walgreens.com/locator/walgreens-897+saxon+blvd-orange+city-fl-32763/id=4262

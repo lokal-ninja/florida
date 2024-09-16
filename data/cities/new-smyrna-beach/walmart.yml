@@ -1,11 +1,11 @@
 id: 479896615
-type: way
+type: node
 latitude: 29.01527
 longitude: -80.99441
 postcode: "32168"
 city: New Smyrna Beach
-street: "FL 44"
-housenumber: 3155
-phone: "+1 386-427-5767"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1079/new-smyrna%20beach-fl/whats-new"
+street: FL 44
+housenumber: "3155"
+phone: +1 386-427-5767
+opening_hours: 24/7
+website: https://www.walmart.com/store/1079/new-smyrna%20beach-fl/whats-new

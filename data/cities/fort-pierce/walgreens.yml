@@ -1,11 +1,11 @@
 id: 766396845
-type: way
+type: node
 latitude: 27.43179
 longitude: -80.32666
 postcode: "34950"
 city: Fort Pierce
-street: "US 1"
-housenumber: 1603
+street: US 1
+housenumber: "1603"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1603+s+us+highway+1-fort+pierce-fl-34950/id=10741"
+website: https://www.walgreens.com/locator/walgreens-1603+s+us+highway+1-fort+pierce-fl-34950/id=10741

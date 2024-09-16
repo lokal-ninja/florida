@@ -1,11 +1,11 @@
 id: 711865946
-type: way
+type: node
 latitude: 30.28266
 longitude: -81.65095
 postcode: "32207"
 city: Jacksonville
-street: "Hendricks Avenue"
-housenumber: 3921
-phone: "+1-904-374-1645"
+street: Hendricks Avenue
+housenumber: "3921"
+phone: +1-904-374-1645
 opening_hours: ""
-website: "https://www.holysmokesyall.com/"
+website: https://www.holysmokesyall.com/

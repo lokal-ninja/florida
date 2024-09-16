@@ -1,11 +1,11 @@
 id: 85105805
-type: way
+type: node
 latitude: 24.71388
 longitude: -81.08316
 postcode: "33050"
 city: Marathon
-street: "Overseas Highway"
-housenumber: 4555
-phone: "+1 305-289-1966"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/marathon/fl/marathon/33050/6302"
+street: Overseas Highway
+housenumber: "4555"
+phone: +1 305-289-1966
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/marathon/fl/marathon/33050/6302

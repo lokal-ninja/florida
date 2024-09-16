@@ -1,11 +1,11 @@
 id: 622914157
-type: way
+type: node
 latitude: 28.66657
 longitude: -81.22506
 postcode: "32765"
 city: Oviedo
-street: "Broadway Street"
-housenumber: 1301
-phone: "+1-407-366-2887"
+street: Broadway Street
+housenumber: "1301"
+phone: +1-407-366-2887
 opening_hours: ""
-website: "https://www.automechandmuffler.com/"
+website: https://www.automechandmuffler.com/

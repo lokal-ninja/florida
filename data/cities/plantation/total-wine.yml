@@ -4,8 +4,8 @@ latitude: 26.11144
 longitude: -80.25311
 postcode: "33324"
 city: Plantation
-street: "South University Drive"
-housenumber: 801
-phone: "+1 954-424-0954"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://www.totalwine.com/store-info/919"
+street: South University Drive
+housenumber: "801"
+phone: +1 954-424-0954
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://www.totalwine.com/store-info/919

@@ -1,11 +1,11 @@
 id: 435237795
-type: way
+type: node
 latitude: 25.79458
 longitude: -80.34139
 postcode: "33172"
 city: Doral
-street: "Northwest 89th Place"
-housenumber: 2255
+street: Northwest 89th Place
+housenumber: "2255"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://www.grainger.com/branch/Doral-Branch-480"
+opening_hours: Mo-Fr 07:00-16:30
+website: https://www.grainger.com/branch/Doral-Branch-480

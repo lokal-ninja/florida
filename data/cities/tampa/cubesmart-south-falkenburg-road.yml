@@ -1,11 +1,11 @@
 id: 810896739
-type: way
+type: node
 latitude: 27.92628
 longitude: -82.33692
 postcode: "33619"
 city: Tampa
-street: "South Falkenburg Road"
-housenumber: 2460
-phone: "+1 (813) 393-1252"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.cubesmart.com/florida-self-storage/tampa-self-storage/3790.html"
+street: South Falkenburg Road
+housenumber: "2460"
+phone: +1 (813) 393-1252
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.cubesmart.com/florida-self-storage/tampa-self-storage/3790.html

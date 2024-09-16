@@ -1,11 +1,11 @@
 id: 1088278381
-type: way
+type: node
 latitude: 28.67229
 longitude: -81.45102
 postcode: "32703"
 city: Apopka
-street: "Hunt Club Boulevard"
-housenumber: 520
-phone: "+1-407-389-4200"
+street: Hunt Club Boulevard
+housenumber: "520"
+phone: +1-407-389-4200
 opening_hours: ""
-website: "https://christianscienceapopka.com/"
+website: https://christianscienceapopka.com/

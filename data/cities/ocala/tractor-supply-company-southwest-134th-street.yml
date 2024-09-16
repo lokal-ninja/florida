@@ -1,11 +1,11 @@
 id: 1095764849
-type: way
+type: node
 latitude: 29.02684
 longitude: -82.15531
 postcode: "34473"
 city: Ocala
-street: "Southwest 134th Street"
-housenumber: 1751
-phone: "+1 352-307-9200"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Southwest 134th Street
+housenumber: "1751"
+phone: +1 352-307-9200
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

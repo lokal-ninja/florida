@@ -1,11 +1,11 @@
 id: 879588715
-type: way
+type: node
 latitude: 27.43389
 longitude: -82.39425
 postcode: "34202"
 city: Bradenton
-street: "East State Road 70"
-housenumber: 14605
-phone: "+1 941-751-1325"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: East State Road 70
+housenumber: "14605"
+phone: +1 941-751-1325
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

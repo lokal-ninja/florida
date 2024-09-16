@@ -1,11 +1,11 @@
 id: 435237970
-type: way
+type: node
 latitude: 25.8835
 longitude: -80.24371
 postcode: "33167"
 city: Miami
-street: "Northwest 27th Avenue"
-housenumber: 11920
+street: Northwest 27th Avenue
+housenumber: "11920"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-11920+nw+27th+ave-miami-fl-33167/id=3105"
+website: https://www.walgreens.com/locator/walgreens-11920+nw+27th+ave-miami-fl-33167/id=3105

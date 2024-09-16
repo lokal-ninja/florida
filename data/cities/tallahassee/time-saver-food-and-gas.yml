@@ -1,11 +1,11 @@
 id: 687053767
-type: way
+type: node
 latitude: 30.44862
 longitude: -84.28947
 postcode: ""
 city: Tallahassee
-street: "Old Bainbridge Road"
-housenumber: 519
+street: Old Bainbridge Road
+housenumber: "519"
 phone: ""
 opening_hours: ""
 website: ""

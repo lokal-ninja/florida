@@ -1,11 +1,11 @@
 id: 231259219
-type: way
+type: node
 latitude: 28.81103
 longitude: -81.26687
 postcode: "32771"
 city: Sanford
-street: "Magnolia Avenue"
-housenumber: 117
+street: Magnolia Avenue
+housenumber: "117"
 phone: "4073212204"
 opening_hours: ""
-website: "https://www.hollerbachs.com/"
+website: https://www.hollerbachs.com/

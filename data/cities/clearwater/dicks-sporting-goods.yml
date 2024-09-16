@@ -1,11 +1,11 @@
 id: 227199833
-type: way
+type: node
 latitude: 28.01367
 longitude: -82.73491
 postcode: "33761"
 city: Clearwater
-street: "US 19 North"
-housenumber: 26583
-phone: "+1 727-791-8580"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/clearwater/637/"
+street: US 19 North
+housenumber: "26583"
+phone: +1 727-791-8580
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/clearwater/637/

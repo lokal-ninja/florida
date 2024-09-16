@@ -1,11 +1,11 @@
 id: 287520948
-type: way
+type: node
 latitude: 26.21118
 longitude: -81.74536
 postcode: "34105"
 city: Naples
-street: "Pine Ridge Road"
-housenumber: 3640
+street: Pine Ridge Road
+housenumber: "3640"
 phone: ""
 opening_hours: ""
 website: ""

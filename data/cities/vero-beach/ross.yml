@@ -4,8 +4,8 @@ latitude: 27.64136
 longitude: -80.45446
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 6190
-phone: "+1 772-299-6497"
-opening_hours: "Mo-Th 09:00-23:00; Sa 09:00-23:30; Su 09:30-22:00"
-website: "https://www.rossstores.com"
+street: 20th Street
+housenumber: "6190"
+phone: +1 772-299-6497
+opening_hours: Mo-Th 09:00-23:00; Sa 09:00-23:30; Su 09:30-22:00
+website: https://www.rossstores.com

@@ -1,11 +1,11 @@
 id: 290535794
-type: way
+type: node
 latitude: 25.94682
 longitude: -80.14637
 postcode: "33160"
 city: Aventura
-street: "Biscayne Boulevard"
-housenumber: 18499
-phone: "+1 305-907-5429"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/aventura/1404/"
+street: Biscayne Boulevard
+housenumber: "18499"
+phone: +1 305-907-5429
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/aventura/1404/

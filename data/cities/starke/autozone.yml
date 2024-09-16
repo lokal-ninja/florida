@@ -1,11 +1,11 @@
 id: 745521482
-type: way
+type: node
 latitude: 29.94269
 longitude: -82.11076
 postcode: "32091"
 city: Starke
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/starke/127-lafayette-st.html"
+website: https://www.autozone.com/locations/fl/starke/127-lafayette-st.html

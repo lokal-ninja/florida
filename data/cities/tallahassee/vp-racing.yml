@@ -1,11 +1,11 @@
 id: 1031678051
-type: way
+type: node
 latitude: 30.44255
 longitude: -84.41232
 postcode: "32310"
 city: Tallahassee
-street: "Blountstown Highway"
-housenumber: 8010
+street: Blountstown Highway
+housenumber: "8010"
 phone: ""
 opening_hours: ""
 website: ""

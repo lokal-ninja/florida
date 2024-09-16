@@ -1,11 +1,11 @@
 id: 523069622
-type: way
+type: node
 latitude: 28.07987
 longitude: -82.43421
 postcode: "33613"
 city: Tampa
-street: "East Bearss Avenue"
-housenumber: 2209
-phone: "+1-813-972-0300"
-opening_hours: "24/7"
-website: "https://find.shell.com/us/fuel/10008786-2209-e-bearss-ave"
+street: East Bearss Avenue
+housenumber: "2209"
+phone: +1-813-972-0300
+opening_hours: 24/7
+website: https://find.shell.com/us/fuel/10008786-2209-e-bearss-ave

@@ -1,11 +1,11 @@
 id: 295583786
-type: way
+type: node
 latitude: 30.40302
 longitude: -87.32228
 postcode: "32506"
 city: Pensacola
-street: "US-98"
-housenumber: 8200
+street: US-98
+housenumber: "8200"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:30-18:00; Su 12:00-17:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:30-18:00; Su 12:00-17:00
 website: ""

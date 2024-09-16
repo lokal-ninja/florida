@@ -1,11 +1,11 @@
 id: 384911451
-type: way
+type: node
 latitude: 26.60306
 longitude: -81.99154
-postcode: "33914-4648"
+postcode: 33914-4648
 city: Cape Coral
-street: "Skyline Boulevard"
-housenumber: 2614
-phone: "239-573-8461"
-opening_hours: "09:00-21:00"
-website: "https://www.dollartree.com/locations/fl/cape-coral/6545/"
+street: Skyline Boulevard
+housenumber: "2614"
+phone: 239-573-8461
+opening_hours: 09:00-21:00
+website: https://www.dollartree.com/locations/fl/cape-coral/6545/

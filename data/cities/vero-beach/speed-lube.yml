@@ -1,11 +1,11 @@
 id: 697434453
-type: way
+type: node
 latitude: 27.62409
 longitude: -80.39491
 postcode: "32960"
 city: Vero Beach
-street: "Old Dixie Highway"
-housenumber: 1205
-phone: "+1-772-562-3131"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00"
+street: Old Dixie Highway
+housenumber: "1205"
+phone: +1-772-562-3131
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00
 website: ""

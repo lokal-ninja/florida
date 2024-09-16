@@ -1,11 +1,11 @@
 id: 307992927
-type: way
+type: node
 latitude: 27.49821
 longitude: -82.50149
 postcode: "34208"
 city: Bradenton
-street: "State Road 64"
-housenumber: 4905
+street: State Road 64
+housenumber: "4905"
 phone: ""
 opening_hours: ""
 website: ""

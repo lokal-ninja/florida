@@ -1,11 +1,11 @@
 id: 648870063
-type: way
+type: node
 latitude: 30.26431
 longitude: -81.52877
 postcode: "32246"
 city: Jacksonville
-street: "Town Center Parkway"
-housenumber: 4444
-phone: "+1 833-474-7105"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/jacksonville/4444-town-center-parkway"
+street: Town Center Parkway
+housenumber: "4444"
+phone: +1 833-474-7105
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/jacksonville/4444-town-center-parkway

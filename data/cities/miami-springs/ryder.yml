@@ -1,11 +1,11 @@
 id: 436031452
-type: way
+type: node
 latitude: 25.81092
 longitude: -80.31383
 postcode: "33166"
 city: Miami Springs
-street: "Northwest 72nd Avenue"
-housenumber: 4040
+street: Northwest 72nd Avenue
+housenumber: "4040"
 phone: ""
 opening_hours: ""
 website: ""

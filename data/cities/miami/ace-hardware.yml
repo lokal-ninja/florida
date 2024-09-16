@@ -4,8 +4,8 @@ latitude: 25.76505
 longitude: -80.19763
 postcode: "33131"
 city: Miami
-street: "Southwest 2nd Avenue"
-housenumber: 900
-phone: "+1 786-409-3100"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-18:00"
-website: "https://www.acehardware.com/store-details/15680"
+street: Southwest 2nd Avenue
+housenumber: "900"
+phone: +1 786-409-3100
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-18:00
+website: https://www.acehardware.com/store-details/15680

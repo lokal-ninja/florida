@@ -4,8 +4,8 @@ latitude: 26.00803
 longitude: -80.2069
 postcode: "33023"
 city: Hollywood
-street: "State Road 7"
-housenumber: 211
-phone: "+1-954-239-2988"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.t-mobile.com/store-locator/fl/hollywood/hwy-441-hollywood-blvd"
+street: State Road 7
+housenumber: "211"
+phone: +1-954-239-2988
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.t-mobile.com/store-locator/fl/hollywood/hwy-441-hollywood-blvd

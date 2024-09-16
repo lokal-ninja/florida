@@ -1,11 +1,11 @@
 id: 682743426
-type: way
+type: node
 latitude: 30.62983
 longitude: -81.54961
 postcode: "32097"
 city: Yulee
-street: "State Road"
-housenumber: 463785
-phone: "+1 904-225-2940"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Yulee/FL/Yulee/32097/6921"
+street: State Road
+housenumber: "463785"
+phone: +1 904-225-2940
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Yulee/FL/Yulee/32097/6921

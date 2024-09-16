@@ -1,11 +1,11 @@
 id: 136794733
-type: way
+type: node
 latitude: 28.54027
 longitude: -81.27562
 postcode: "32825"
 city: Orlando
-street: "South Chickasaw Trl"
-housenumber: 201
-phone: "+1-407-380-9971"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5179/orlando-fl/whats-new"
+street: South Chickasaw Trl
+housenumber: "201"
+phone: +1-407-380-9971
+opening_hours: 24/7
+website: https://www.walmart.com/store/5179/orlando-fl/whats-new

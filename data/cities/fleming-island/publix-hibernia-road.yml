@@ -1,11 +1,11 @@
 id: 795491283
-type: way
+type: node
 latitude: 30.06982
 longitude: -81.70624
 postcode: "32003"
 city: Fleming Island
-street: "Hibernia Road"
-housenumber: 865
-phone: "+1 904-529-1250"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.publix.com/locations/1210-hibernia-pavilion"
+street: Hibernia Road
+housenumber: "865"
+phone: +1 904-529-1250
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.publix.com/locations/1210-hibernia-pavilion

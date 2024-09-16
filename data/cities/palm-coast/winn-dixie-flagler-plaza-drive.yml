@@ -1,11 +1,11 @@
 id: 43232569
-type: way
+type: node
 latitude: 29.47445
 longitude: -81.17998
 postcode: "32137"
 city: Palm Coast
-street: "Flagler Plaza Drive"
-housenumber: 111
-phone: "+1 386-439-4301"
+street: Flagler Plaza Drive
+housenumber: "111"
+phone: +1 386-439-4301
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/palm%20coast/fl?search=2244"
+website: https://www.winndixie.com/storedetails/palm%20coast/fl?search=2244

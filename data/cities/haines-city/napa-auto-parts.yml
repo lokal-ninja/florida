@@ -1,11 +1,11 @@
 id: 907115733
-type: way
+type: node
 latitude: 28.10941
 longitude: -81.62374
 postcode: "33844"
 city: Haines City
-street: "Ingraham Avenue"
-housenumber: 905
-phone: "+1 (863) 422-4957"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-16:00"
-website: "https://www.napaonline.com/en/fl/haines-city/store/20941?sdref=modal"
+street: Ingraham Avenue
+housenumber: "905"
+phone: +1 (863) 422-4957
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-16:00
+website: https://www.napaonline.com/en/fl/haines-city/store/20941?sdref=modal

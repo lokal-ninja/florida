@@ -1,11 +1,11 @@
 id: 368699601
-type: way
+type: node
 latitude: 29.11015
 longitude: -81.03707
 postcode: "32128"
 city: Port Orange
-street: "South Williamson Boulevard"
-housenumber: 5437
-phone: "+1 386 868 4319"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00, Su 08:00-17:00"
-website: "https://local.firestonecompleteautocare.com/florida/port-orange/5437-s-williamson-blvd/"
+street: South Williamson Boulevard
+housenumber: "5437"
+phone: +1 386 868 4319
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-18:00, Su 08:00-17:00
+website: https://local.firestonecompleteautocare.com/florida/port-orange/5437-s-williamson-blvd/

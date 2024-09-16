@@ -1,11 +1,11 @@
 id: 599042558
-type: way
+type: node
 latitude: 30.53383
 longitude: -87.26921
 postcode: "32534"
 city: Pensacola
-street: "East Nine Mile Road"
-housenumber: 100
+street: East Nine Mile Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/fl/pensacola/3687"
+website: https://www.dollargeneral.com/store-directory/fl/pensacola/3687

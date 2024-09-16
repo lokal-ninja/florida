@@ -1,11 +1,11 @@
 id: 827664745
-type: way
+type: node
 latitude: 30.46031
 longitude: -87.23868
 postcode: "32505"
 city: Pensacola
-street: "Mason Lane"
-housenumber: 25
+street: Mason Lane
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
 website: ""

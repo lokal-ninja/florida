@@ -1,11 +1,11 @@
 id: 546638352
-type: way
+type: node
 latitude: 30.51316
 longitude: -86.45657
 postcode: "32578"
 city: Niceville
-street: "John Sims Parkway"
-housenumber: 1405
+street: John Sims Parkway
+housenumber: "1405"
 phone: ""
 opening_hours: ""
-website: "https://mclaughlintwincities.com/"
+website: https://mclaughlintwincities.com/

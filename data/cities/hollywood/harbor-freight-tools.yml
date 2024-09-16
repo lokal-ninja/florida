@@ -1,11 +1,11 @@
 id: 317336466
-type: way
+type: node
 latitude: 26.0116
 longitude: -80.16427
 postcode: "33020"
 city: Hollywood
-street: "North 28th Avenue"
-housenumber: 104
-phone: "+1 954-923-2189"
-opening_hours: "Su 09:00-18:00; Mo-Sa 08:00-20:00"
-website: "https://www.harborfreight.com/storelocator/104-n-28th-avenue-hollywood-33020?number=504"
+street: North 28th Avenue
+housenumber: "104"
+phone: +1 954-923-2189
+opening_hours: Su 09:00-18:00; Mo-Sa 08:00-20:00
+website: https://www.harborfreight.com/storelocator/104-n-28th-avenue-hollywood-33020?number=504

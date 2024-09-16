@@ -1,11 +1,11 @@
 id: 617137883
-type: way
+type: node
 latitude: 30.60142
 longitude: -87.12349
 postcode: "32571"
 city: Pace
-street: "Highway 90"
-housenumber: 4829
-phone: "+1 850-994-2260"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/pace/fl/pace/32571/6368"
+street: Highway 90
+housenumber: "4829"
+phone: +1 850-994-2260
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/pace/fl/pace/32571/6368

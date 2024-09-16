@@ -1,11 +1,11 @@
 id: 176994706
-type: way
+type: node
 latitude: 28.12537
 longitude: -81.63737
 postcode: "33844"
 city: Haines City
-street: "Us Highway 27"
-housenumber: 36205
-phone: "+1 863-422-7537"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/725/haines-city-fl/whats-new"
+street: Us Highway 27
+housenumber: "36205"
+phone: +1 863-422-7537
+opening_hours: 24/7
+website: https://www.walmart.com/store/725/haines-city-fl/whats-new

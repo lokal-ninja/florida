@@ -1,11 +1,11 @@
 id: 488551659
-type: way
+type: node
 latitude: 27.38356
 longitude: -82.45653
 postcode: "34243"
 city: Sarasota
-street: "North Cattlemen Road"
-housenumber: 243
-phone: "941-351-9895"
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-18:00"
-website: "https://locations.vitaminshoppe.com/fl/sarasota/vitamins-supplements-sarasota-fl-884.html"
+street: North Cattlemen Road
+housenumber: "243"
+phone: 941-351-9895
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-18:00
+website: https://locations.vitaminshoppe.com/fl/sarasota/vitamins-supplements-sarasota-fl-884.html

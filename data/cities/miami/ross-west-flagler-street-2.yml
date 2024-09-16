@@ -4,8 +4,8 @@ latitude: 25.77144
 longitude: -80.35908
 postcode: "33174"
 city: Miami
-street: "West Flagler Street"
-housenumber: 10001
-phone: "+1 305-225-1530"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 08:30-24:00; Su 09:00-23:00"
+street: West Flagler Street
+housenumber: "10001"
+phone: +1 305-225-1530
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 08:30-24:00; Su 09:00-23:00
 website: ""

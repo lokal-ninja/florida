@@ -1,11 +1,11 @@
 id: 287993125
-type: way
+type: node
 latitude: 25.94022
 longitude: -80.29451
 postcode: "33015"
 city: Hialeah
-street: "Northwest 183rd Street"
-housenumber: 5701
+street: Northwest 183rd Street
+housenumber: "5701"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5701+nw+183rd+st-hialeah-fl-33015/id=3782"
+website: https://www.walgreens.com/locator/walgreens-5701+nw+183rd+st-hialeah-fl-33015/id=3782

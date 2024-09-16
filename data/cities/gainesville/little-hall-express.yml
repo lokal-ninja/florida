@@ -1,11 +1,11 @@
 id: 220368157
-type: way
+type: node
 latitude: 29.64874
 longitude: -82.34149
 postcode: "32611"
 city: Gainesville
-street: "Stadium Road"
-housenumber: 1456
+street: Stadium Road
+housenumber: "1456"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
+opening_hours: Mo-Fr 07:00-16:00
 website: ""

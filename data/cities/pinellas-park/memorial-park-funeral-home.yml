@@ -1,11 +1,11 @@
 id: 192493510
-type: way
+type: node
 latitude: 27.82442
 longitude: -82.70088
 postcode: ""
 city: Pinellas Park
-street: "49th Street"
-housenumber: 5750
+street: 49th Street
+housenumber: "5750"
 phone: ""
 opening_hours: ""
 website: ""

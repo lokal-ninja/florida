@@ -1,11 +1,11 @@
 id: 693972638
-type: way
+type: node
 latitude: 27.62737
 longitude: -80.39033
 postcode: "32960"
 city: Vero Beach
-street: "US 1"
-housenumber: 1401
-phone: "+1-772-617-4791"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
-website: "https://www.linusautomotive.com/"
+street: US 1
+housenumber: "1401"
+phone: +1-772-617-4791
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00
+website: https://www.linusautomotive.com/

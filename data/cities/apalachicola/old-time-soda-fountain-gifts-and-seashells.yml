@@ -1,11 +1,11 @@
 id: 287115479
-type: way
+type: node
 latitude: 29.72777
 longitude: -84.98409
 postcode: "32320"
 city: Apalachicola
-street: "Market Street"
-housenumber: 93
+street: Market Street
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

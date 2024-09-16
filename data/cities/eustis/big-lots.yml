@@ -1,11 +1,11 @@
 id: 942924222
-type: way
+type: node
 latitude: 28.82523
 longitude: -81.69081
 postcode: "32726"
 city: Eustis
-street: "Plaza Drive"
-housenumber: 405
-phone: "+1 352-357-6800"
-opening_hours: "Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/fl/eustis/405-plaza-dr"
+street: Plaza Drive
+housenumber: "405"
+phone: +1 352-357-6800
+opening_hours: Mo 10:00-21:00; Tu-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/fl/eustis/405-plaza-dr

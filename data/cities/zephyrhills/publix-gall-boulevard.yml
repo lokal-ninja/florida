@@ -1,11 +1,11 @@
 id: 1161544299
-type: way
+type: node
 latitude: 28.27105
 longitude: -82.18563
 postcode: "33541"
 city: Zephyrhills
-street: "Gall Boulevard"
-housenumber: 7838
-phone: "+1 813-783-6871"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1245"
+street: Gall Boulevard
+housenumber: "7838"
+phone: +1 813-783-6871
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1245

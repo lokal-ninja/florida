@@ -1,11 +1,11 @@
 id: 867059867
-type: way
+type: node
 latitude: 29.20816
 longitude: -81.03873
 postcode: "32114"
 city: Daytona Beach
-street: "Doctor Mary McLeod Bethune Boulevard"
-housenumber: 919
-phone: "1-386-307-3424"
+street: Doctor Mary McLeod Bethune Boulevard
+housenumber: "919"
+phone: 1-386-307-3424
 opening_hours: ""
 website: ""

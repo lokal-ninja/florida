@@ -1,11 +1,11 @@
 id: 771948583
-type: way
+type: node
 latitude: 28.33097
 longitude: -81.58795
 postcode: "34747"
 city: Kissimmee
-street: "Old Lake Wilson Road"
-housenumber: 2855
-phone: "+1 407-606-0109"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://www.walmart.com/store/5214/kissimmee-fl/"
+street: Old Lake Wilson Road
+housenumber: "2855"
+phone: +1 407-606-0109
+opening_hours: Mo-Su 06:00-21:00
+website: https://www.walmart.com/store/5214/kissimmee-fl/

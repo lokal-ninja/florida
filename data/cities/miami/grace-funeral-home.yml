@@ -1,11 +1,11 @@
 id: 435531742
-type: way
+type: node
 latitude: 25.88329
 longitude: -80.21206
 postcode: "33168"
 city: Miami
-street: "Northwest 119th Street"
-housenumber: 770
+street: Northwest 119th Street
+housenumber: "770"
 phone: ""
 opening_hours: ""
 website: ""

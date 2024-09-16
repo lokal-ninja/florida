@@ -1,11 +1,11 @@
 id: 636395845
-type: way
+type: node
 latitude: 29.03193
 longitude: -81.30328
 postcode: "32720"
 city: DeLand
-street: "North Woodland Boulevard"
-housenumber: 303
+street: North Woodland Boulevard
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

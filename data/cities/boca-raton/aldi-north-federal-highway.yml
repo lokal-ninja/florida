@@ -1,11 +1,11 @@
 id: 934774197
-type: way
+type: node
 latitude: 26.3935
 longitude: -80.07846
 postcode: "33431"
 city: Boca Raton
-street: "North Federal Highway"
-housenumber: 4901
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://stores.aldi.us/fl/boca-raton/4901-n-federal-highway"
+street: North Federal Highway
+housenumber: "4901"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:30
+website: https://stores.aldi.us/fl/boca-raton/4901-n-federal-highway

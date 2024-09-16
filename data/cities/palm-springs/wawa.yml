@@ -1,11 +1,11 @@
 id: 561400059
-type: way
+type: node
 latitude: 26.65024
 longitude: -80.08877
 postcode: "33406"
 city: Palm Springs
-street: "South Congress Avenue"
-housenumber: 1771
+street: South Congress Avenue
+housenumber: "1771"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

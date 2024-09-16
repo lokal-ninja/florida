@@ -1,11 +1,11 @@
 id: 340783035
-type: way
+type: node
 latitude: 28.37172
 longitude: -81.51713
 postcode: "32830"
 city: Lake Buena Vista
-street: "East Buena Vista Drive"
-housenumber: 1670
+street: East Buena Vista Drive
+housenumber: "1670"
 phone: ""
 opening_hours: ""
-website: "https://disneyworld.disney.go.com/shops/disney-springs/set-the-bar/"
+website: https://disneyworld.disney.go.com/shops/disney-springs/set-the-bar/

@@ -1,11 +1,11 @@
 id: 308005756
-type: way
+type: node
 latitude: 27.23465
 longitude: -82.49585
 postcode: "34238"
 city: Sarasota
-street: "Tamiami Trail"
-housenumber: 8201
+street: Tamiami Trail
+housenumber: "8201"
 phone: ""
 opening_hours: ""
 website: ""

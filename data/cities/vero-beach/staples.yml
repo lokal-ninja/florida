@@ -1,11 +1,11 @@
 id: 808460544
-type: way
+type: node
 latitude: 27.62278
 longitude: -80.39047
 postcode: "32960"
 city: Vero Beach
-street: "US 1"
-housenumber: 1191
-phone: "+1 772-563-4940"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://stores.staples.com/fl/vero-beach/1191-us-highway-1"
+street: US 1
+housenumber: "1191"
+phone: +1 772-563-4940
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://stores.staples.com/fl/vero-beach/1191-us-highway-1

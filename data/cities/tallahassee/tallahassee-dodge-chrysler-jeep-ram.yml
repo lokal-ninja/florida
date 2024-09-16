@@ -1,11 +1,11 @@
 id: 426938237
-type: way
+type: node
 latitude: 30.45685
 longitude: -84.36078
 postcode: "32304"
 city: Tallahassee
-street: "West Tennessee Street"
-housenumber: 3987
+street: West Tennessee Street
+housenumber: "3987"
 phone: ""
 opening_hours: ""
-website: "https://www.tallahasseedcj.com/"
+website: https://www.tallahasseedcj.com/

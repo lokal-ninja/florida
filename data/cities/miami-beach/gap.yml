@@ -1,11 +1,11 @@
 id: 1183429549
-type: way
+type: node
 latitude: 25.79063
 longitude: -80.13924
 postcode: "33139"
 city: Miami Beach
-street: "Lincoln Road"
-housenumber: 1001
-phone: "+1 305 695 1074"
+street: Lincoln Road
+housenumber: "1001"
+phone: +1 305 695 1074
 opening_hours: ""
-website: "https://www.gap.com/products/miami-beach-fl-store-6344.jsp"
+website: https://www.gap.com/products/miami-beach-fl-store-6344.jsp

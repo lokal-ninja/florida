@@ -1,11 +1,11 @@
 id: 637968547
-type: way
+type: node
 latitude: 30.17323
 longitude: -85.594
 postcode: "32404"
 city: Springfield
-street: "East 15th Street"
-housenumber: 4136
+street: East 15th Street
+housenumber: "4136"
 phone: ""
 opening_hours: ""
 website: ""

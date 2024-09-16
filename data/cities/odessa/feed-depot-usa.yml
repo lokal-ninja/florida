@@ -1,11 +1,11 @@
 id: 672527265
-type: way
+type: node
 latitude: 28.14231
 longitude: -82.614
 postcode: "33556"
 city: Odessa
-street: "Tarpon Springs Road"
-housenumber: 11108
-phone: "+1 (813) 792-9068"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-17:00"
+street: Tarpon Springs Road
+housenumber: "11108"
+phone: +1 (813) 792-9068
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-17:00
 website: ""

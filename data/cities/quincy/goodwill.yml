@@ -1,11 +1,11 @@
 id: 431141368
-type: way
+type: node
 latitude: 30.58615
 longitude: -84.59485
 postcode: "32351"
 city: Quincy
-street: "West Jefferson Street"
-housenumber: 1503
+street: West Jefferson Street
+housenumber: "1503"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 926059288
-type: way
+type: node
 latitude: 30.36007
 longitude: -82.61803
 postcode: "32055"
 city: Lake City
-street: "North US Highway 441"
-housenumber: 12049
+street: North US Highway 441
+housenumber: "12049"
 phone: ""
 opening_hours: ""
 website: ""

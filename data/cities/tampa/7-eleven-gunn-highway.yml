@@ -1,11 +1,11 @@
 id: 259878688
-type: way
+type: node
 latitude: 28.08451
 longitude: -82.57919
 postcode: "33626"
 city: Tampa
-street: "Gunn Highway"
-housenumber: 8402
-phone: "+1-813-926-0641"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/fl/tampa/8402-gunn-hwy-40346"
+street: Gunn Highway
+housenumber: "8402"
+phone: +1-813-926-0641
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/fl/tampa/8402-gunn-hwy-40346

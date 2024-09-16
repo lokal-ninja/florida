@@ -1,11 +1,11 @@
 id: 265112772
-type: way
+type: node
 latitude: 30.42788
 longitude: -84.2226
 postcode: "32311"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 3210
+street: Apalachee Parkway
+housenumber: "3210"
 phone: ""
 opening_hours: ""
-website: "https://www.batterysource.com/"
+website: https://www.batterysource.com/

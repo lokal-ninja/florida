@@ -1,11 +1,11 @@
 id: 531575241
-type: way
+type: node
 latitude: 27.79875
 longitude: -82.66979
 postcode: ""
 city: Saint Petersburg
-street: "30th Avenue North"
-housenumber: 2600
+street: 30th Avenue North
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

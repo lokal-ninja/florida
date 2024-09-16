@@ -1,11 +1,11 @@
 id: 1263676578
-type: way
+type: node
 latitude: 30.13356
 longitude: -83.58368
 postcode: "32347"
 city: Perry
-street: "Jefferson Street"
-housenumber: 1650
+street: Jefferson Street
+housenumber: "1650"
 phone: ""
 opening_hours: ""
 website: ""

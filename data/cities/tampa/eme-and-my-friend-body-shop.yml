@@ -1,11 +1,11 @@
 id: 522648082
-type: way
+type: node
 latitude: 27.9908
 longitude: -82.51864
 postcode: "33614"
 city: Tampa
-street: "North Lauber Way"
-housenumber: 4818
-phone: "+1 (404) 957-8244"
-opening_hours: "Mo-Sa 08:00-18:00"
+street: North Lauber Way
+housenumber: "4818"
+phone: +1 (404) 957-8244
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

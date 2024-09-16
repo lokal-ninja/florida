@@ -1,11 +1,11 @@
 id: 1210476644
-type: way
+type: node
 latitude: 26.6796
 longitude: -81.92145
 postcode: "33909"
 city: Cape Coral
-street: "Northeast Pine Island Road"
-housenumber: 2555
-phone: "+1 239-656-4499"
-opening_hours: "Mo-Sa 08:30-17:00"
-website: "https://stor-rite.com/"
+street: Northeast Pine Island Road
+housenumber: "2555"
+phone: +1 239-656-4499
+opening_hours: Mo-Sa 08:30-17:00
+website: https://stor-rite.com/

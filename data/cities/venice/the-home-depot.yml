@@ -1,11 +1,11 @@
 id: 61410892
-type: way
+type: node
 latitude: 27.0533
 longitude: -82.39495
 postcode: "34293"
 city: Venice
-street: "Jacaranda Boulevard"
-housenumber: 2450
-phone: "+1 941-408-9400"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Venice/FL/Venice/34293/273"
+street: Jacaranda Boulevard
+housenumber: "2450"
+phone: +1 941-408-9400
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Venice/FL/Venice/34293/273

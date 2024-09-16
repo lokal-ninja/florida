@@ -1,11 +1,11 @@
 id: 880438031
-type: way
+type: node
 latitude: 28.28233
 longitude: -81.34731
 postcode: "34744"
 city: Kissimmee
-street: "Academy Drive"
-housenumber: 950
+street: Academy Drive
+housenumber: "950"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/kissimmee/950-academy-drive.html"
+website: https://www.autozone.com/locations/fl/kissimmee/950-academy-drive.html

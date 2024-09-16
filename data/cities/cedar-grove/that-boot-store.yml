@@ -1,11 +1,11 @@
 id: 637979721
-type: way
+type: node
 latitude: 30.17535
 longitude: -85.62874
 postcode: "32405"
 city: Cedar Grove
-street: "East 15th Street"
-housenumber: 2509
+street: East 15th Street
+housenumber: "2509"
 phone: ""
 opening_hours: ""
 website: ""

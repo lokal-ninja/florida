@@ -1,11 +1,11 @@
 id: 161970012
-type: way
+type: node
 latitude: 27.846
 longitude: -82.68415
 postcode: "33781"
 city: Pinellas Park
-street: "US Highway 19 North"
-housenumber: 8001
-phone: "+1 727-576-1770"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1390/pinellas-park-fl/whats-new"
+street: US Highway 19 North
+housenumber: "8001"
+phone: +1 727-576-1770
+opening_hours: 24/7
+website: https://www.walmart.com/store/1390/pinellas-park-fl/whats-new

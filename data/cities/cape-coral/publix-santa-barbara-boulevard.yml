@@ -1,11 +1,11 @@
 id: 287671093
-type: way
+type: node
 latitude: 26.60714
 longitude: -81.97636
-postcode: "33914-4485"
+postcode: 33914-4485
 city: Cape Coral
-street: "Santa Barbara Boulevard"
-housenumber: 2420
-phone: "+1 239-574-6395"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/854"
+street: Santa Barbara Boulevard
+housenumber: "2420"
+phone: +1 239-574-6395
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/854

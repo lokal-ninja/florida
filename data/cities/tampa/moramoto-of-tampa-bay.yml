@@ -4,8 +4,8 @@ latitude: 28.01844
 longitude: -82.50435
 postcode: "33614"
 city: Tampa
-street: "N Dale Mabry Hwy"
-housenumber: 7807
-phone: "813-512-6888"
-opening_hours: "Tue - Fri : 9 AM–6 PM || Sat: 9 AM–5 PM || Sunday – Monday : Closed"
-website: "https://www.moramoto.com/"
+street: N Dale Mabry Hwy
+housenumber: "7807"
+phone: 813-512-6888
+opening_hours: 'Tue - Fri : 9 AM–6 PM || Sat: 9 AM–5 PM || Sunday – Monday : Closed'
+website: https://www.moramoto.com/

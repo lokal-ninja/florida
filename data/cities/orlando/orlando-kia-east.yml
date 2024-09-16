@@ -1,11 +1,11 @@
 id: 603896183
-type: way
+type: node
 latitude: 28.56932
 longitude: -81.26934
 postcode: "32817"
 city: Orlando
-street: "East Colonial Drive"
-housenumber: 8701
-phone: "+1-844-684-9484"
+street: East Colonial Drive
+housenumber: "8701"
+phone: +1-844-684-9484
 opening_hours: ""
 website: ""

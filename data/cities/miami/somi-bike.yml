@@ -1,11 +1,11 @@
 id: 435517005
-type: way
+type: node
 latitude: 25.69622
 longitude: -80.3002
 postcode: "33143"
 city: Miami
-street: "Southwest 80th Street"
-housenumber: 6600
+street: Southwest 80th Street
+housenumber: "6600"
 phone: ""
 opening_hours: ""
 website: ""

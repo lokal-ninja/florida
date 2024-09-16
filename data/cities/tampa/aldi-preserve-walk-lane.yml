@@ -1,11 +1,11 @@
 id: 993689417
-type: way
+type: node
 latitude: 28.12972
 longitude: -82.36778
 postcode: "33647"
 city: Tampa
-street: "Preserve Walk Lane"
-housenumber: 18002
-phone: "+1 888-474-1086"
-opening_hours: "09:00-20:00"
-website: "https://stores.aldi.us/fl/tampa/18002-highwoods-preserve-park"
+street: Preserve Walk Lane
+housenumber: "18002"
+phone: +1 888-474-1086
+opening_hours: 09:00-20:00
+website: https://stores.aldi.us/fl/tampa/18002-highwoods-preserve-park

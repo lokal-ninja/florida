@@ -1,11 +1,11 @@
 id: 288607161
-type: way
+type: node
 latitude: 26.54801
 longitude: -81.80366
 postcode: "33912"
 city: Fort Myers
-street: "Kings Crossing Road"
-housenumber: 9150
+street: Kings Crossing Road
+housenumber: "9150"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9150+kings+crossing+rd-fort+myers-fl-33912/id=12722"
+website: https://www.walgreens.com/locator/walgreens-9150+kings+crossing+rd-fort+myers-fl-33912/id=12722

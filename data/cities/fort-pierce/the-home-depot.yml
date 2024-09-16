@@ -1,11 +1,11 @@
 id: 282407260
-type: way
+type: node
 latitude: 27.41847
 longitude: -80.38675
 postcode: "34947"
 city: Fort Pierce
-street: "Okeechobee Road"
-housenumber: 5880
-phone: "+1 772-489-3688"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Ft-Pierce/FL/Fort-Pierce/34947/283"
+street: Okeechobee Road
+housenumber: "5880"
+phone: +1 772-489-3688
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Ft-Pierce/FL/Fort-Pierce/34947/283

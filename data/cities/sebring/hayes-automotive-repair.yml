@@ -1,11 +1,11 @@
 id: 712678408
-type: way
+type: node
 latitude: 27.50856
 longitude: -81.49342
 postcode: "33870"
 city: Sebring
-street: "US 27"
-housenumber: 2805
+street: US 27
+housenumber: "2805"
 phone: ""
 opening_hours: ""
 website: ""

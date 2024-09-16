@@ -1,11 +1,11 @@
 id: 162117848
-type: way
+type: node
 latitude: 27.87599
 longitude: -82.70867
 postcode: "33782"
 city: Pinellas Park
-street: "US-19"
-housenumber: 11433
+street: US-19
+housenumber: "11433"
 phone: ""
 opening_hours: ""
 website: ""

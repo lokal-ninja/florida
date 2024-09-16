@@ -1,11 +1,11 @@
 id: 792773408
-type: way
+type: node
 latitude: 27.71551
 longitude: -82.3749
 postcode: "33573"
 city: Ruskin
-street: "Sun City Center Boulevard"
-housenumber: 3730
-phone: "+1 813-633-3161"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/sun-city/fl/ruskin/33573/6951"
+street: Sun City Center Boulevard
+housenumber: "3730"
+phone: +1 813-633-3161
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/sun-city/fl/ruskin/33573/6951

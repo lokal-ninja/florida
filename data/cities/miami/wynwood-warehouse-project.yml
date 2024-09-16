@@ -1,11 +1,11 @@
 id: 310319091
-type: way
+type: node
 latitude: 25.80144
 longitude: -80.2027
 postcode: ""
 city: Miami
-street: "Northwest 27th Street"
-housenumber: 450
+street: Northwest 27th Street
+housenumber: "450"
 phone: ""
 opening_hours: ""
 website: ""

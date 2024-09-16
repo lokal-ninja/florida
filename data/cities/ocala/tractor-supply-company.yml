@@ -1,11 +1,11 @@
 id: 1028469391
-type: way
+type: node
 latitude: 29.26322
 longitude: -82.15059
 postcode: "34475"
 city: Ocala
-street: "North US Highway 441"
-housenumber: 7351
-phone: "+1 352-368-9937"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North US Highway 441
+housenumber: "7351"
+phone: +1 352-368-9937
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 926859604
-type: way
+type: node
 latitude: 28.38933
 longitude: -82.66152
 postcode: ""
 city: Hudson
-street: "Denton Avenue"
-housenumber: 9228
-phone: "727-388-3473"
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://www.sunkingdiscs.com/"
+street: Denton Avenue
+housenumber: "9228"
+phone: 727-388-3473
+opening_hours: Mo-Su 08:00-19:00
+website: https://www.sunkingdiscs.com/

@@ -1,11 +1,11 @@
 id: 407091974
-type: way
+type: node
 latitude: 29.89511
 longitude: -81.31216
 postcode: "32084"
 city: Saint Augustine
-street: "Hypolita Street"
-housenumber: 20
+street: Hypolita Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 995926440
-type: way
+type: node
 latitude: 26.54587
 longitude: -80.09283
 postcode: "33426"
 city: Boynton Beach
-street: "North Congress Avenue"
-housenumber: 1901
-phone: "+1 561-369-4299"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/fl/boyntonbeach-1222.shtml"
+street: North Congress Avenue
+housenumber: "1901"
+phone: +1 561-369-4299
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/fl/boyntonbeach-1222.shtml

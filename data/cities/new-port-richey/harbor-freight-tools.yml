@@ -1,11 +1,11 @@
 id: 1161221713
-type: way
+type: node
 latitude: 28.25236
 longitude: -82.72968
 postcode: "34652"
 city: New Port Richey
-street: "Highway 19"
-housenumber: 6435
-phone: "+1 727-849-4904"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/6435-us-hwy-19-new-port-richey-34652?number=256"
+street: Highway 19
+housenumber: "6435"
+phone: +1 727-849-4904
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/6435-us-hwy-19-new-port-richey-34652?number=256

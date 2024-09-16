@@ -1,11 +1,11 @@
 id: 565844570
-type: way
+type: node
 latitude: 29.48025
 longitude: -82.8595
 postcode: "32626"
 city: Chiefland
-street: "North Main Street"
-housenumber: 105
-phone: "+1-352-490-0958"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00; Su off"
-website: "https://www.cityelectricsupply.com/branch/158"
+street: North Main Street
+housenumber: "105"
+phone: +1-352-490-0958
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00; Su off
+website: https://www.cityelectricsupply.com/branch/158

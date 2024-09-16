@@ -1,11 +1,11 @@
 id: 387555949
-type: way
+type: node
 latitude: 30.4792
 longitude: -84.29975
 postcode: "32303"
 city: Tallahassee
-street: "North Monroe Street"
-housenumber: 2715
+street: North Monroe Street
+housenumber: "2715"
 phone: ""
 opening_hours: ""
-website: "http://www.suntire.com/"
+website: http://www.suntire.com/

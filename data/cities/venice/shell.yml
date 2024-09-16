@@ -1,11 +1,11 @@
 id: 895248091
-type: way
+type: node
 latitude: 27.1073
 longitude: -82.38524
 postcode: "34292"
 city: Venice
-street: "Commercial Court"
-housenumber: 360
+street: Commercial Court
+housenumber: "360"
 phone: ""
 opening_hours: ""
 website: ""

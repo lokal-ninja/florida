@@ -1,11 +1,11 @@
 id: 931042841
-type: way
+type: node
 latitude: 28.37989
 longitude: -81.24297
 postcode: "32832"
 city: Orlando
-street: "Narcoossee Road"
-housenumber: 12817
-phone: "+1 855-474-4013"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/orlando/12817-narcoossee-road"
+street: Narcoossee Road
+housenumber: "12817"
+phone: +1 855-474-4013
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/orlando/12817-narcoossee-road

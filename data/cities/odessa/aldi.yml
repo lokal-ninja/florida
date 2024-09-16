@@ -1,11 +1,11 @@
 id: 775146505
-type: way
+type: node
 latitude: 28.18995
 longitude: -82.61526
 postcode: "33556"
 city: Odessa
-street: "State Road 54"
-housenumber: 12134
-phone: "+1 888-474-7084"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/odessa/12134-state-road-54"
+street: State Road 54
+housenumber: "12134"
+phone: +1 888-474-7084
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/odessa/12134-state-road-54

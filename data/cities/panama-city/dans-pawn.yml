@@ -1,11 +1,11 @@
 id: 636394859
-type: way
+type: node
 latitude: 30.17257
 longitude: -85.70165
 postcode: "32401"
 city: Panama City
-street: "Beck Avenue"
-housenumber: 1315
+street: Beck Avenue
+housenumber: "1315"
 phone: ""
 opening_hours: ""
-website: "https://www.danspawn.com/"
+website: https://www.danspawn.com/

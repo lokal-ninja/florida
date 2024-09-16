@@ -1,11 +1,11 @@
 id: 459210406
-type: way
+type: node
 latitude: 30.32231
 longitude: -81.46719
 postcode: "32225"
 city: Jacksonville
-street: "Atlantic Boulevard"
-housenumber: 12945
-phone: "+1 904-486-4701"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-jacksonville/1699"
+street: Atlantic Boulevard
+housenumber: "12945"
+phone: +1 904-486-4701
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-jacksonville/1699

@@ -1,11 +1,11 @@
 id: 163050035
-type: way
+type: node
 latitude: 26.58792
 longitude: -80.07023
-postcode: "33462-2601"
+postcode: 33462-2601
 city: Lantana
-street: "Lantana Road"
-housenumber: 1873
-phone: "+1 561-533-0958"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/lantana-fl-180.html"
+street: Lantana Road
+housenumber: "1873"
+phone: +1 561-533-0958
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/lantana-fl-180.html

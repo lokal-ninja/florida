@@ -4,8 +4,8 @@ latitude: 30.45891
 longitude: -84.2271
 postcode: "32308"
 city: Tallahassee
-street: "Capital Circle Northeast"
-housenumber: 1519
-phone: "1-850-656-7193;+1-850-371-5497;+1-850-671-2572"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.dixiecabinets.com/"
+street: Capital Circle Northeast
+housenumber: "1519"
+phone: 1-850-656-7193;+1-850-371-5497;+1-850-671-2572
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.dixiecabinets.com/

@@ -4,8 +4,8 @@ latitude: 25.81435
 longitude: -80.19311
 postcode: "33137"
 city: Miami
-street: "Northeast 41st Street"
-housenumber: 119
-phone: "(786) 409-2591"
+street: Northeast 41st Street
+housenumber: "119"
+phone: (786) 409-2591
 opening_hours: ""
-website: "https://www.johnelliott.com/"
+website: https://www.johnelliott.com/

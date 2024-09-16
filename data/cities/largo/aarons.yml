@@ -1,11 +1,11 @@
 id: 523048293
-type: way
+type: node
 latitude: 27.92447
 longitude: -82.78835
 postcode: "33770"
 city: Largo
-street: "Missouri Avenue North"
-housenumber: 901
+street: Missouri Avenue North
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

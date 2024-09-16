@@ -1,11 +1,11 @@
 id: 992053596
-type: way
+type: node
 latitude: 28.0043
 longitude: -82.28666
 postcode: "33584"
 city: Seffner
-street: "US 92"
-housenumber: 706
-phone: "+1-813-653-9256"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/seffner/706-w-us-hwy-92/2705075"
+street: US 92
+housenumber: "706"
+phone: +1-813-653-9256
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/seffner/706-w-us-hwy-92/2705075

@@ -1,11 +1,11 @@
 id: 523225119
-type: way
+type: node
 latitude: 28.0103
 longitude: -82.78803
 postcode: "34698"
 city: Dunedin
-street: "Douglas Avenue"
-housenumber: 674
+street: Douglas Avenue
+housenumber: "674"
 phone: ""
 opening_hours: ""
 website: ""

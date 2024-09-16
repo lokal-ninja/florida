@@ -1,11 +1,11 @@
 id: 689245582
-type: way
+type: node
 latitude: 26.21352
 longitude: -81.7715
-postcode: "34109-2032"
+postcode: 34109-2032
 city: Naples
-street: "Pine Ridge Road"
-housenumber: 2255
-phone: "+1 239-593-5640"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/fl/naples/2022"
+street: Pine Ridge Road
+housenumber: "2255"
+phone: +1 239-593-5640
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/fl/naples/2022

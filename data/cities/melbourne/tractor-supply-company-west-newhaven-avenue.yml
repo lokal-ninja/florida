@@ -1,11 +1,11 @@
 id: 664426794
-type: way
+type: node
 latitude: 28.08
 longitude: -80.68352
 postcode: "32904"
 city: Melbourne
-street: "West Newhaven Avenue"
-housenumber: 3660
-phone: "+1 321-725-7857"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West Newhaven Avenue
+housenumber: "3660"
+phone: +1 321-725-7857
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 30.51239
 longitude: -84.24866
 postcode: "32312"
 city: Tallahassee
-street: "Village Square Boulevard"
-housenumber: 1400
+street: Village Square Boulevard
+housenumber: "1400"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00;Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/fl/tallahassee/4128/"
+opening_hours: Mo-Sa 08:00-22:00;Su 10:00-20:00
+website: https://www.dollartree.com/locations/fl/tallahassee/4128/

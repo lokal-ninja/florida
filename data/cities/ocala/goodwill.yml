@@ -1,11 +1,11 @@
 id: 144847312
-type: way
+type: node
 latitude: 29.16036
 longitude: -82.17018
 postcode: "34474"
 city: Ocala
-street: "Southwest 27th Avenue"
-housenumber: 2830
-phone: "+1 352 629 4202"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.goodwill.org/location/?store=YzliZDc3ZjMtNDU4YS1lMTExLThkZGUtMDA1MDU2OTM0MDUw%20%20&lat=%20MjkuMTU3MTkyMQ==%20&lng=%20LTgyLjEyMjM5Nzc="
+street: Southwest 27th Avenue
+housenumber: "2830"
+phone: +1 352 629 4202
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.goodwill.org/location/?store=YzliZDc3ZjMtNDU4YS1lMTExLThkZGUtMDA1MDU2OTM0MDUw%20%20&lat=%20MjkuMTU3MTkyMQ==%20&lng=%20LTgyLjEyMjM5Nzc=

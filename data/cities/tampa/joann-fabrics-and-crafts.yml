@@ -1,11 +1,11 @@
 id: 98964230
-type: way
+type: node
 latitude: 28.06368
 longitude: -82.57759
 postcode: "33625"
 city: Tampa
 street: ""
-housenumber: 
-phone: "+1 813-792-2287"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/fl/tampa/1958/"
+housenumber: ""
+phone: +1 813-792-2287
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/fl/tampa/1958/

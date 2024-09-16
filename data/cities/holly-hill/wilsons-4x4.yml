@@ -1,11 +1,11 @@
 id: 1000289268
-type: way
+type: node
 latitude: 29.22975
 longitude: -81.02798
 postcode: "32117"
 city: Holly Hill
-street: "North Beach Street"
-housenumber: 1050
-phone: "+1 386 673 9725"
+street: North Beach Street
+housenumber: "1050"
+phone: +1 386 673 9725
 opening_hours: ""
 website: ""

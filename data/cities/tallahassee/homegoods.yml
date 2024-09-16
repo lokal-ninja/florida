@@ -1,11 +1,11 @@
 id: 224023214
-type: way
+type: node
 latitude: 30.51252
 longitude: -84.24949
 postcode: "32312"
 city: Tallahassee
-street: "Village Square Boulevard"
-housenumber: 1400
-phone: "+1 850-894-2385"
-opening_hours: "Mo-Sa 09:30-21:30;Su 10:00-20:00"
+street: Village Square Boulevard
+housenumber: "1400"
+phone: +1 850-894-2385
+opening_hours: Mo-Sa 09:30-21:30;Su 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 436134678
-type: way
+type: node
 latitude: 25.68776
 longitude: -80.39513
 postcode: "33186"
 city: Miami
-street: "Southwest 88th Street"
-housenumber: 12495
-phone: "+1 305-275-8338"
+street: Southwest 88th Street
+housenumber: "12495"
+phone: +1 305-275-8338
 opening_hours: ""
-website: "https://stores.bestbuy.com/fl/miami/12495-sw-88th-st-552.html"
+website: https://stores.bestbuy.com/fl/miami/12495-sw-88th-st-552.html

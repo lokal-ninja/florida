@@ -1,11 +1,11 @@
 id: 229735546
-type: way
+type: node
 latitude: 30.19984
 longitude: -81.82965
 postcode: "32222"
 city: Jacksonville
-street: "Crosshill Boulevard"
-housenumber: 9751
-phone: "+1 904-771-3228"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/jacksonville-w-oakleaf/fl/jacksonville/32222/6890"
+street: Crosshill Boulevard
+housenumber: "9751"
+phone: +1 904-771-3228
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/jacksonville-w-oakleaf/fl/jacksonville/32222/6890

@@ -1,11 +1,11 @@
 id: 260864723
-type: way
+type: node
 latitude: 30.10617
 longitude: -81.83033
 postcode: "32068"
 city: Middleburg
-street: "Branan Field Road"
-housenumber: 1575
-phone: "+1 904-589-9516"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/middleburg/fl/middleburg/32068/6935"
+street: Branan Field Road
+housenumber: "1575"
+phone: +1 904-589-9516
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/middleburg/fl/middleburg/32068/6935

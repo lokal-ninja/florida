@@ -1,11 +1,11 @@
 id: 1190732316
-type: way
+type: node
 latitude: 28.18372
 longitude: -82.73924
 postcode: "34690"
 city: Holiday
-street: "US Highway 19"
-housenumber: 1640
-phone: "+1 727-943-8065"
-opening_hours: "Mo-Su 08:00-10:00"
-website: "https://www.winndixie.com/storedetails/holiday/fl?search=644"
+street: US Highway 19
+housenumber: "1640"
+phone: +1 727-943-8065
+opening_hours: Mo-Su 08:00-10:00
+website: https://www.winndixie.com/storedetails/holiday/fl?search=644

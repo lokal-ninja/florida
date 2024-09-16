@@ -1,11 +1,11 @@
 id: 833643582
-type: way
+type: node
 latitude: 28.19963
 longitude: -82.73753
-postcode: "34690-3808"
+postcode: 34690-3808
 city: Holiday
-street: "Sunray Drive"
-housenumber: 4701
-phone: "+1 727-944-3551"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/504"
+street: Sunray Drive
+housenumber: "4701"
+phone: +1 727-944-3551
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/504

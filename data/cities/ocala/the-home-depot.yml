@@ -1,11 +1,11 @@
 id: 1019609789
-type: way
+type: node
 latitude: 29.15488
 longitude: -82.18444
 postcode: "34474"
 city: Ocala
-street: "Southwest 35th Terrace"
-housenumber: 3300
-phone: "+1 352-873-1144"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/ocala/fl/ocala/34474/253"
+street: Southwest 35th Terrace
+housenumber: "3300"
+phone: +1 352-873-1144
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/ocala/fl/ocala/34474/253

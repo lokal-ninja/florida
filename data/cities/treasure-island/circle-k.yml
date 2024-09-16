@@ -1,11 +1,11 @@
 id: 305423898
-type: way
+type: node
 latitude: 27.7767
 longitude: -82.77806
 postcode: "33706"
 city: Treasure Island
-street: "Gulf Boulevard"
-housenumber: 12001
+street: Gulf Boulevard
+housenumber: "12001"
 phone: ""
 opening_hours: ""
 website: ""

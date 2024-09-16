@@ -1,11 +1,11 @@
 id: 315560999
-type: way
+type: node
 latitude: 28.55964
 longitude: -81.20855
 postcode: "32828"
 city: Orlando
-street: "Alafaya Trail"
-housenumber: 1100
-phone: "+1 407-380-9066"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/orlando/631/"
+street: Alafaya Trail
+housenumber: "1100"
+phone: +1 407-380-9066
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/orlando/631/

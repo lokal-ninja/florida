@@ -1,11 +1,11 @@
 id: 737709386
-type: way
+type: node
 latitude: 29.18814
 longitude: -82.11097
-postcode: "34470-6916"
+postcode: 34470-6916
 city: Ocala
-street: "East Silver Springs Boulevard"
-housenumber: 2015
-phone: "+1 352-512-9467"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-16:00"
+street: East Silver Springs Boulevard
+housenumber: "2015"
+phone: +1 352-512-9467
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-16:00
 website: ""

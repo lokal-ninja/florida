@@ -1,11 +1,11 @@
 id: 317323975
-type: way
+type: node
 latitude: 26.04146
 longitude: -80.16112
 postcode: "33020"
 city: Hollywood
-street: "Oakwood Boulevard"
-housenumber: 3401
-phone: "+1 954-922-7886"
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/N-Hollywood-Stirling/FL/Hollywood/33020/6310"
+street: Oakwood Boulevard
+housenumber: "3401"
+phone: +1 954-922-7886
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/N-Hollywood-Stirling/FL/Hollywood/33020/6310

@@ -1,11 +1,11 @@
 id: 1239003906
-type: way
+type: node
 latitude: 28.44957
 longitude: -81.46987
 postcode: "32819"
 city: Orlando
-street: "West Sand Lake Road"
-housenumber: 8015
-phone: "+1 407 413 5858"
+street: West Sand Lake Road
+housenumber: "8015"
+phone: +1 407 413 5858
 opening_hours: ""
-website: "https://locations.theupsstore.com/fl/orlando/8015-international-dr"
+website: https://locations.theupsstore.com/fl/orlando/8015-international-dr

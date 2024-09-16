@@ -1,11 +1,11 @@
 id: 1138177037
-type: way
+type: node
 latitude: 27.30469
 longitude: -82.51455
 postcode: "34239"
 city: Sarasota
-street: "Southgate Circle"
-housenumber: 3242
-phone: "+1-941-365-0300"
-opening_hours: "Tu-Fr 09:00-19:00"
-website: "https://www.guillermossalon.com"
+street: Southgate Circle
+housenumber: "3242"
+phone: +1-941-365-0300
+opening_hours: Tu-Fr 09:00-19:00
+website: https://www.guillermossalon.com

@@ -4,8 +4,8 @@ latitude: 25.79076
 longitude: -80.13415
 postcode: "33139"
 city: Miami Beach
-street: "Lincoln Road"
-housenumber: 551
-phone: "+1 855 466 7467"
-opening_hours: "Su-We 11:00-22:00, Th-Fr 11:00-24:00, Sa 10:00-24:00"
-website: "http://www.hm.com/us/store-locator#store=US0240"
+street: Lincoln Road
+housenumber: "551"
+phone: +1 855 466 7467
+opening_hours: Su-We 11:00-22:00, Th-Fr 11:00-24:00, Sa 10:00-24:00
+website: http://www.hm.com/us/store-locator#store=US0240

@@ -1,11 +1,11 @@
 id: 250713866
-type: way
+type: node
 latitude: 28.051
 longitude: -82.70067
 postcode: "34677"
 city: Oldsmar
-street: "Tampa Road"
-housenumber: 3130
-phone: "+1 727-431-1991"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/fl/oldsmar-store2780.html"
+street: Tampa Road
+housenumber: "3130"
+phone: +1 727-431-1991
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/fl/oldsmar-store2780.html

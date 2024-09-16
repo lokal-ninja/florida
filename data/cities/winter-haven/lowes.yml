@@ -1,11 +1,11 @@
 id: 279141147
-type: way
+type: node
 latitude: 28.01246
 longitude: -81.7285
 postcode: "33880"
 city: Winter Haven
-street: "3rd Street Southwest"
-housenumber: 700
-phone: "+1 863-299-2819"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-winter-haven/1079"
+street: 3rd Street Southwest
+housenumber: "700"
+phone: +1 863-299-2819
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-winter-haven/1079

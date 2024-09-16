@@ -4,8 +4,8 @@ latitude: 29.0142
 longitude: -80.94711
 postcode: "32168"
 city: New Smyrna Beach
-street: "State Road 44"
-housenumber: 1899
-phone: "+1 386 409 3034"
-opening_hours: "We-Sa 10:00-18:00; Su 11:00-17:00; Mo,Tu,PH off"
-website: "https://www.brucerossmeyer.com"
+street: State Road 44
+housenumber: "1899"
+phone: +1 386 409 3034
+opening_hours: We-Sa 10:00-18:00; Su 11:00-17:00; Mo,Tu,PH off
+website: https://www.brucerossmeyer.com

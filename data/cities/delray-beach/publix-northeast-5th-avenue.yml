@@ -1,11 +1,11 @@
 id: 792378646
-type: way
+type: node
 latitude: 26.47086
 longitude: -80.06776
 postcode: "33483"
 city: Delray Beach
-street: "Northeast 5th Avenue"
-housenumber: 555
-phone: "+1 561-272-9460"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/739"
+street: Northeast 5th Avenue
+housenumber: "555"
+phone: +1 561-272-9460
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/739

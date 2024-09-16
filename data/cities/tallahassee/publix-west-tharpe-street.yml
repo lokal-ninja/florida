@@ -4,8 +4,8 @@ latitude: 30.4628
 longitude: -84.28456
 postcode: "32303"
 city: Tallahassee
-street: "West Tharpe Street"
-housenumber: 1700
-phone: "+1 850-222-1975"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: West Tharpe Street
+housenumber: "1700"
+phone: +1 850-222-1975
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

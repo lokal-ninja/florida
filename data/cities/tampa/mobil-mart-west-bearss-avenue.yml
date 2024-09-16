@@ -1,11 +1,11 @@
 id: 1041468191
-type: way
+type: node
 latitude: 28.0886
 longitude: -82.46004
 postcode: "33612"
 city: Tampa
-street: "West Bearss Avenue"
-housenumber: 101
-phone: "+1-813-265-1977"
-opening_hours: "Mo-Sa 05:00-23:00, Su 06:00-22:00"
-website: "https://www.exxon.com/en/find-station/mobil-tampa-fl-floridamart-200320040"
+street: West Bearss Avenue
+housenumber: "101"
+phone: +1-813-265-1977
+opening_hours: Mo-Sa 05:00-23:00, Su 06:00-22:00
+website: https://www.exxon.com/en/find-station/mobil-tampa-fl-floridamart-200320040

@@ -1,11 +1,11 @@
 id: 112930163
-type: way
+type: node
 latitude: 27.23908
 longitude: -80.27219
 postcode: "34957"
 city: Jensen Beach
-street: "Northwest Mall Circle"
-housenumber: 2751
-phone: "+1 772-692-3113"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/fl/jensenbeach-1160.shtml"
+street: Northwest Mall Circle
+housenumber: "2751"
+phone: +1 772-692-3113
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/fl/jensenbeach-1160.shtml

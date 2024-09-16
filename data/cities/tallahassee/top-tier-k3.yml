@@ -1,11 +1,11 @@
 id: 419701387
-type: way
+type: node
 latitude: 30.43456
 longitude: -84.25977
 postcode: "32301"
 city: Tallahassee
-street: "East Lafayette Street"
-housenumber: 1355
+street: East Lafayette Street
+housenumber: "1355"
 phone: ""
 opening_hours: ""
 website: ""

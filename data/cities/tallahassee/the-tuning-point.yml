@@ -1,11 +1,11 @@
 id: 1296062182
-type: way
+type: node
 latitude: 30.53678
 longitude: -84.21379
 postcode: "32309"
 city: Tallahassee
-street: "Seaton Court"
-housenumber: 4803
-phone: "+1-850-893-2000"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://thetuningpoint.com/"
+street: Seaton Court
+housenumber: "4803"
+phone: +1-850-893-2000
+opening_hours: Mo-Fr 07:30-18:00
+website: https://thetuningpoint.com/

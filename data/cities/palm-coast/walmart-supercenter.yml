@@ -1,11 +1,11 @@
 id: 41838129
-type: way
+type: node
 latitude: 29.54949
 longitude: -81.22443
 postcode: "32164"
 city: Palm Coast
-street: "Cypress Point Parkway"
-housenumber: 174
-phone: "+1 386-446-8486"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1182/palm-coast-fl/whats-new"
+street: Cypress Point Parkway
+housenumber: "174"
+phone: +1 386-446-8486
+opening_hours: 24/7
+website: https://www.walmart.com/store/1182/palm-coast-fl/whats-new

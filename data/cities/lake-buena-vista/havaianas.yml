@@ -1,11 +1,11 @@
 id: 340944048
-type: way
+type: node
 latitude: 28.37172
 longitude: -81.51762
 postcode: "32830"
 city: Lake Buena Vista
-street: "East Buena Vista Drive"
-housenumber: 1650
+street: East Buena Vista Drive
+housenumber: "1650"
 phone: ""
 opening_hours: ""
-website: "https://disneyworld.disney.go.com/shops/disney-springs/havaianas/"
+website: https://disneyworld.disney.go.com/shops/disney-springs/havaianas/

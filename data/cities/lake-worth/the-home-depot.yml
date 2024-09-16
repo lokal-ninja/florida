@@ -1,11 +1,11 @@
 id: 161551559
-type: way
+type: node
 latitude: 26.6192
 longitude: -80.10862
 postcode: "33461"
 city: Lake Worth
-street: "Lake Worth Road"
-housenumber: 4241
-phone: "+1 561-642-2626"
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/lake-worth/fl/lake-worth/33461/205"
+street: Lake Worth Road
+housenumber: "4241"
+phone: +1 561-642-2626
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/lake-worth/fl/lake-worth/33461/205

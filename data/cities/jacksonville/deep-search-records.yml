@@ -1,11 +1,11 @@
 id: 327935260
-type: way
+type: node
 latitude: 30.31349
 longitude: -81.68096
 postcode: ""
 city: Jacksonville
-street: "Lomax Street"
-housenumber: 822
+street: Lomax Street
+housenumber: "822"
 phone: ""
 opening_hours: ""
 website: ""

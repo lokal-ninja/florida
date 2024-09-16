@@ -1,11 +1,11 @@
 id: 635354829
-type: way
+type: node
 latitude: 25.91805
 longitude: -80.1245
 postcode: "33154"
 city: Miami Beach
-street: "Collins Avenue"
-housenumber: 15600
+street: Collins Avenue
+housenumber: "15600"
 phone: ""
 opening_hours: ""
-website: "http://www.haulovermarinecenter.net/"
+website: http://www.haulovermarinecenter.net/

@@ -1,11 +1,11 @@
 id: 231238238
-type: way
+type: node
 latitude: 30.47569
 longitude: -84.36242
 postcode: ""
 city: Tallahassee
-street: "Capital Circle Northwest"
-housenumber: 1699
+street: Capital Circle Northwest
+housenumber: "1699"
 phone: ""
 opening_hours: ""
 website: ""

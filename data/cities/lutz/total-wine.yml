@@ -1,11 +1,11 @@
 id: 942389857
-type: way
+type: node
 latitude: 28.19581
 longitude: -82.39547
 postcode: "33559"
 city: Lutz
-street: "Sierra Center Boulevard"
-housenumber: 25535
-phone: "+1 813-435-1027"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://www.totalwine.com/store-info/934"
+street: Sierra Center Boulevard
+housenumber: "25535"
+phone: +1 813-435-1027
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://www.totalwine.com/store-info/934

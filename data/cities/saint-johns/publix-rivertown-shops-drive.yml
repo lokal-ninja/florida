@@ -1,11 +1,11 @@
 id: 1034684351
-type: way
+type: node
 latitude: 30.05422
 longitude: -81.61364
 postcode: "32259"
 city: Saint Johns
-street: "Rivertown Shops Drive"
-housenumber: 205
-phone: "+1 904-230-1347"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1667-shoppes-at-rivertown"
+street: Rivertown Shops Drive
+housenumber: "205"
+phone: +1 904-230-1347
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1667-shoppes-at-rivertown

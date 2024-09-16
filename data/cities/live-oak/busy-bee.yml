@@ -1,11 +1,11 @@
 id: 595972015
-type: way
+type: node
 latitude: 30.33229
 longitude: -82.96022
 postcode: ""
 city: Live Oak
-street: "US Highway 129"
-housenumber: 6458
+street: US Highway 129
+housenumber: "6458"
 phone: ""
 opening_hours: ""
 website: ""

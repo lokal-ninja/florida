@@ -1,11 +1,11 @@
 id: 887081883
-type: way
+type: node
 latitude: 27.63137
 longitude: -80.3885
 postcode: "32960"
 city: Vero Beach
-street: "US 1"
-housenumber: 1610
-phone: "+1-772-562-3883"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 11:00-17:00"
-website: "https://www.badcock.com/vero-beach-fl"
+street: US 1
+housenumber: "1610"
+phone: +1-772-562-3883
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 11:00-17:00
+website: https://www.badcock.com/vero-beach-fl

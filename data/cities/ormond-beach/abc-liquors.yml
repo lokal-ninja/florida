@@ -1,11 +1,11 @@
 id: 617915970
-type: way
+type: node
 latitude: 29.26489
 longitude: -81.05164
 postcode: "32174"
 city: Ormond Beach
-street: "South Yonge Street"
-housenumber: 725
+street: South Yonge Street
+housenumber: "725"
 phone: ""
 opening_hours: ""
 website: ""

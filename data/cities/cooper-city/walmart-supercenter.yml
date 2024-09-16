@@ -1,11 +1,11 @@
 id: 316917050
-type: way
+type: node
 latitude: 26.06279
 longitude: -80.31094
 postcode: "33330"
 city: Cooper City
-street: "South Flamingo Road"
-housenumber: 4700
-phone: "+1 954-680-7810"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1845/cooper-city-fl/whats-new"
+street: South Flamingo Road
+housenumber: "4700"
+phone: +1 954-680-7810
+opening_hours: 24/7
+website: https://www.walmart.com/store/1845/cooper-city-fl/whats-new

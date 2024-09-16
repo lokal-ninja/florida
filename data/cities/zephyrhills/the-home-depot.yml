@@ -1,11 +1,11 @@
 id: 794221694
-type: way
+type: node
 latitude: 28.22077
 longitude: -82.2492
 postcode: "33545"
 city: Zephyrhills
-street: "Eiland Boulevard"
-housenumber: 32715
-phone: "+1 813-788-1642"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/zephyrhills/fl/zephyrhills/33545/8929"
+street: Eiland Boulevard
+housenumber: "32715"
+phone: +1 813-788-1642
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/zephyrhills/fl/zephyrhills/33545/8929

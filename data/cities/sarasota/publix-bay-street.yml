@@ -1,11 +1,11 @@
 id: 156813144
-type: way
+type: node
 latitude: 27.32831
 longitude: -82.53008
-postcode: "34237-7914"
+postcode: 34237-7914
 city: Sarasota
-street: "Bay Street"
-housenumber: 2031
-phone: "+1 941-366-4089"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1372"
+street: Bay Street
+housenumber: "2031"
+phone: +1 941-366-4089
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1372

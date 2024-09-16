@@ -1,11 +1,11 @@
 id: 261137496
-type: way
+type: node
 latitude: 28.53359
 longitude: -82.41116
 postcode: "34601"
 city: Brooksville
-street: "Broad Street"
-housenumber: 7117
-phone: "+1 352-754-6320"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-brooksville/1827"
+street: Broad Street
+housenumber: "7117"
+phone: +1 352-754-6320
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-brooksville/1827

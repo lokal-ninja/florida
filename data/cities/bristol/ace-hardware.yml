@@ -1,11 +1,11 @@
 id: 1173757508
-type: way
+type: node
 latitude: 30.43221
 longitude: -84.97875
 postcode: "32321"
 city: Bristol
-street: "Northwest State Road 20"
-housenumber: 10898
-phone: "+1 850-643-2336"
-opening_hours: "Mo-Sa 08:00-18:00; Su 12:00-17:00"
+street: Northwest State Road 20
+housenumber: "10898"
+phone: +1 850-643-2336
+opening_hours: Mo-Sa 08:00-18:00; Su 12:00-17:00
 website: ""

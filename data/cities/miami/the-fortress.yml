@@ -1,11 +1,11 @@
 id: 454144083
-type: way
+type: node
 latitude: 25.79145
 longitude: -80.19207
 postcode: "33132"
 city: Miami
-street: "Northeast 1st Avenue"
-housenumber: 1629
+street: Northeast 1st Avenue
+housenumber: "1629"
 phone: ""
 opening_hours: ""
 website: ""

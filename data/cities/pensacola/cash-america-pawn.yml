@@ -1,11 +1,11 @@
 id: 361477816
-type: way
+type: node
 latitude: 30.53273
 longitude: -87.27152
 postcode: "32534"
 city: Pensacola
-street: "East Nine Mile Road"
-housenumber: 27
+street: East Nine Mile Road
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

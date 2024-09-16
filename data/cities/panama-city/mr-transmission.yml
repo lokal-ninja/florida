@@ -1,11 +1,11 @@
 id: 637973861
-type: way
+type: node
 latitude: 30.17555
 longitude: -85.65933
 postcode: "32405"
 city: Panama City
-street: "East 15th Street"
-housenumber: 5
+street: East 15th Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

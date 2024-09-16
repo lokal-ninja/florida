@@ -4,8 +4,8 @@ latitude: 26.14143
 longitude: -81.80002
 postcode: "34102"
 city: Naples
-street: "5th Avenue South"
-housenumber: 525
-phone: "+1 239-963-8108"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.marinemax.com/stores/yachts-and-charter"
+street: 5th Avenue South
+housenumber: "525"
+phone: +1 239-963-8108
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.marinemax.com/stores/yachts-and-charter

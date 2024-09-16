@@ -1,11 +1,11 @@
 id: 236786349
-type: way
+type: node
 latitude: 30.18865
 longitude: -81.73394
 postcode: "32073"
 city: Orange Park
-street: "Wells Road"
-housenumber: 1919
-phone: "+1 904-269-3117"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/orange-park/fl/orange-park/32073/275"
+street: Wells Road
+housenumber: "1919"
+phone: +1 904-269-3117
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/orange-park/fl/orange-park/32073/275

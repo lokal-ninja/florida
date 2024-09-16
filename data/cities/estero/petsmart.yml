@@ -1,11 +1,11 @@
 id: 175722955
-type: way
+type: node
 latitude: 26.40902
 longitude: -81.80917
 postcode: "33928"
 city: Estero
-street: "Mediterranean Drive"
-housenumber: 8006
-phone: "+1 239-948-3581"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/store-locator/store/?storeID=1255"
+street: Mediterranean Drive
+housenumber: "8006"
+phone: +1 239-948-3581
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/store-locator/store/?storeID=1255

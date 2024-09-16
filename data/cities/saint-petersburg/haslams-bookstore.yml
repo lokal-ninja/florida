@@ -1,11 +1,11 @@
 id: 535316535
-type: way
+type: node
 latitude: 27.77145
 longitude: -82.66096
 postcode: "33713"
 city: Saint Petersburg
-street: "Central Avenue"
-housenumber: 2025
-phone: "+1-727-822-8616"
-opening_hours: "Mo-Sa 10:00-18:30; Su 12:00-17:00"
+street: Central Avenue
+housenumber: "2025"
+phone: +1-727-822-8616
+opening_hours: Mo-Sa 10:00-18:30; Su 12:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 697558036
-type: way
+type: node
 latitude: 29.2148
 longitude: -81.09491
 postcode: "32114"
 city: Daytona Beach
-street: "Cornerstone Boulevard"
-housenumber: 1115
-phone: "+1 386-888-5607"
-opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-18:00"
-website: "https://www.ulta.com/stores/daytona-beach-fl-1325"
+street: Cornerstone Boulevard
+housenumber: "1115"
+phone: +1 386-888-5607
+opening_hours: Mo-Sa 10:00-21:00, Su 11:00-18:00
+website: https://www.ulta.com/stores/daytona-beach-fl-1325

@@ -1,11 +1,11 @@
 id: 1204242772
-type: way
+type: node
 latitude: 27.94936
 longitude: -82.50686
 postcode: "33618"
 city: Tampa
-street: "North Dale Mabry Highway"
-housenumber: 13755
-phone: "+1-813-851-0105"
-opening_hours: "Mo-Sa 09:00-20:30; Su 10:00-19:00"
-website: "https://curaleaf.com/inline-shop/florida/curaleaf-dispensary-tampa-dale-mabry"
+street: North Dale Mabry Highway
+housenumber: "13755"
+phone: +1-813-851-0105
+opening_hours: Mo-Sa 09:00-20:30; Su 10:00-19:00
+website: https://curaleaf.com/inline-shop/florida/curaleaf-dispensary-tampa-dale-mabry

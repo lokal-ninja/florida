@@ -1,11 +1,11 @@
 id: 229138029
-type: way
+type: node
 latitude: 29.11866
 longitude: -82.02636
 postcode: "34472"
 city: Ocala
-street: "Southeast Maricamp Road"
-housenumber: 7563
-phone: "+1-352-687-4242"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.cvs.com/store-locator/ocala-fl-pharmacies/7563-se-maricamp-rd-ocala-fl-34472/storeid=5231"
+street: Southeast Maricamp Road
+housenumber: "7563"
+phone: +1-352-687-4242
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.cvs.com/store-locator/ocala-fl-pharmacies/7563-se-maricamp-rd-ocala-fl-34472/storeid=5231

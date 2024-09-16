@@ -1,11 +1,11 @@
 id: 309848230
-type: way
+type: node
 latitude: 27.77479
 longitude: -82.63601
 postcode: ""
 city: Saint Petersburg
-street: "2nd Street North"
-housenumber: 256
+street: 2nd Street North
+housenumber: "256"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr,Sa 10:00-20:00; Su 11:00-17:00"
+opening_hours: Mo-Th 10:00-20:00; Fr,Sa 10:00-20:00; Su 11:00-17:00
 website: ""

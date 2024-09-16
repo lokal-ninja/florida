@@ -1,11 +1,11 @@
 id: 141032278
-type: way
+type: node
 latitude: 28.46206
 longitude: -81.45196
 postcode: ""
 city: Orlando
-street: "Municipal Drive"
-housenumber: 6905
+street: Municipal Drive
+housenumber: "6905"
 phone: ""
 opening_hours: ""
 website: ""

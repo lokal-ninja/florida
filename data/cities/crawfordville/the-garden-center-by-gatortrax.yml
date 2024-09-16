@@ -1,11 +1,11 @@
 id: 972054765
-type: way
+type: node
 latitude: 30.16954
 longitude: -84.37597
 postcode: "32327"
 city: Crawfordville
-street: "Crawfordville Highway"
-housenumber: 3215
-phone: "+1 850 545 2901"
+street: Crawfordville Highway
+housenumber: "3215"
+phone: +1 850 545 2901
 opening_hours: ""
-website: "http://www.thegardencenterbygatortrax.com/"
+website: http://www.thegardencenterbygatortrax.com/

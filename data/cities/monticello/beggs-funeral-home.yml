@@ -1,11 +1,11 @@
 id: 680399420
-type: way
+type: node
 latitude: 30.54578
 longitude: -83.86752
 postcode: "32344"
 city: Monticello
-street: "East Dogwood Street"
-housenumber: 485
+street: East Dogwood Street
+housenumber: "485"
 phone: ""
 opening_hours: ""
 website: ""

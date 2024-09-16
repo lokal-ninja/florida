@@ -1,11 +1,11 @@
 id: 244211996
-type: way
+type: node
 latitude: 27.43742
 longitude: -82.57671
 postcode: "34207"
 city: Bradenton
-street: "15th Street West"
-housenumber: 5828
+street: 15th Street West
+housenumber: "5828"
 phone: ""
 opening_hours: ""
 website: ""

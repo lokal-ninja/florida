@@ -1,11 +1,11 @@
 id: 599042560
-type: way
+type: node
 latitude: 30.53459
 longitude: -87.26946
 postcode: "32534"
 city: Pensacola
-street: "Nims Lane"
-housenumber: 9540
+street: Nims Lane
+housenumber: "9540"
 phone: ""
 opening_hours: ""
 website: ""

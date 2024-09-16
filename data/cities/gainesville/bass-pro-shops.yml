@@ -1,11 +1,11 @@
 id: 557842799
-type: way
+type: node
 latitude: 29.62911
 longitude: -82.39582
 postcode: "32608"
 city: Gainesville
-street: "Bass Pro Shops Blvd"
-housenumber: 2650
-phone: "352-204-4100"
+street: Bass Pro Shops Blvd
+housenumber: "2650"
+phone: 352-204-4100
 opening_hours: ""
 website: ""

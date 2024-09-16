@@ -1,11 +1,11 @@
 id: 939108439
-type: way
+type: node
 latitude: 28.33256
 longitude: -82.66565
 postcode: "34667"
 city: Hudson
-street: "Little Road"
-housenumber: 12070
-phone: "+1 833-747-4080"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/hudson/12070-little-road"
+street: Little Road
+housenumber: "12070"
+phone: +1 833-747-4080
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/hudson/12070-little-road

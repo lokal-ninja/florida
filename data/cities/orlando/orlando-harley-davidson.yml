@@ -1,11 +1,11 @@
 id: 810266203
-type: way
+type: node
 latitude: 28.504
 longitude: -81.42578
 postcode: ""
 city: Orlando
-street: "37th Street"
-housenumber: 3770
+street: 37th Street
+housenumber: "3770"
 phone: ""
 opening_hours: ""
-website: "https://www.orlandoharley.com/map-hours-directions-motorcycles-dealership--hours-historic-factory"
+website: https://www.orlandoharley.com/map-hours-directions-motorcycles-dealership--hours-historic-factory

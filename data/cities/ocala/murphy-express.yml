@@ -1,11 +1,11 @@
 id: 1068323077
-type: way
+type: node
 latitude: 29.11524
 longitude: -82.02529
 postcode: "34472"
 city: Ocala
-street: "Cedar Radial Pass"
-housenumber: 17
-phone: "+1-352-680-0439"
+street: Cedar Radial Pass
+housenumber: "17"
+phone: +1-352-680-0439
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 318764845
-type: way
+type: node
 latitude: 27.92399
 longitude: -82.31663
 postcode: "33511"
 city: Brandon
-street: "Providence Road"
-housenumber: 915
+street: Providence Road
+housenumber: "915"
 phone: "+18136548809"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/FL/Brandon/915-PROVIDENCE-RD"
+opening_hours: 24/7
+website: https://www.speedway.com/locations/FL/Brandon/915-PROVIDENCE-RD

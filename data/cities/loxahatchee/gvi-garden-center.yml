@@ -1,11 +1,11 @@
 id: 465640696
-type: way
+type: node
 latitude: 26.68381
 longitude: -80.25771
 postcode: "33470"
 city: Loxahatchee
-street: "Southern Boulevard"
-housenumber: 13415
-phone: "+1-561-261-6230"
+street: Southern Boulevard
+housenumber: "13415"
+phone: +1-561-261-6230
 opening_hours: ""
 website: ""

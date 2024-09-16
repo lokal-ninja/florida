@@ -4,8 +4,8 @@ latitude: 28.36085
 longitude: -80.78828
 postcode: "32926"
 city: Cocoa
-street: "Cox Road"
-housenumber: 340
+street: Cox Road
+housenumber: "340"
 phone: "+13214468162"
-opening_hours: "by appointment only"
-website: "www.QsCabinetry.com"
+opening_hours: '"by appointment only"'
+website: www.QsCabinetry.com

@@ -1,11 +1,11 @@
 id: 859381411
-type: way
+type: node
 latitude: 29.20568
 longitude: -81.03341
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 825
+street: International Speedway Boulevard
+housenumber: "825"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/fl/daytona-beach/15433"
+website: https://www.dollargeneral.com/store-directory/fl/daytona-beach/15433

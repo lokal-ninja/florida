@@ -1,11 +1,11 @@
 id: 316661761
-type: way
+type: node
 latitude: 26.12262
 longitude: -80.33275
 postcode: "33325"
 city: Sunrise
-street: "Northwest 136th Avenue"
-housenumber: 151
+street: Northwest 136th Avenue
+housenumber: "151"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://www.ikea.com/us/en/stores/sunrise/"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://www.ikea.com/us/en/stores/sunrise/

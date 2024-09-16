@@ -1,11 +1,11 @@
 id: 435848997
-type: way
+type: node
 latitude: 25.74753
 longitude: -80.39062
 postcode: "33175"
 city: Miami
-street: "Southwest 122nd Avenue"
-housenumber: 2215
+street: Southwest 122nd Avenue
+housenumber: "2215"
 phone: ""
 opening_hours: ""
 website: ""

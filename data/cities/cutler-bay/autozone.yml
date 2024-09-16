@@ -1,11 +1,11 @@
 id: 435540598
-type: way
+type: node
 latitude: 25.58656
 longitude: -80.36156
 postcode: "33157"
 city: Cutler Bay
-street: "South Dixie Highway"
-housenumber: 19525
-phone: "+1-786-732-8305"
-opening_hours: "Mo-Sa 07:30-23:00; Su 07:30-21:00"
-website: "https://www.autozone.com/locations/fl/cutler-bay/19525-s-dixie-hwy.html"
+street: South Dixie Highway
+housenumber: "19525"
+phone: +1-786-732-8305
+opening_hours: Mo-Sa 07:30-23:00; Su 07:30-21:00
+website: https://www.autozone.com/locations/fl/cutler-bay/19525-s-dixie-hwy.html

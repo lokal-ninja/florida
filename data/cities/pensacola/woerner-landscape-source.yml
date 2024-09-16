@@ -1,11 +1,11 @@
 id: 354637137
-type: way
+type: node
 latitude: 30.49666
 longitude: -87.2114
 postcode: "32504"
 city: Pensacola
-street: "Creighton Road"
-housenumber: 1332
-phone: "+1 850-474-0830"
+street: Creighton Road
+housenumber: "1332"
+phone: +1 850-474-0830
 opening_hours: ""
-website: "https://woerner.com/"
+website: https://woerner.com/

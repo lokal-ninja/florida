@@ -1,11 +1,11 @@
 id: 1296753999
-type: way
+type: node
 latitude: 30.59073
 longitude: -84.64218
 postcode: "32351"
 city: Quincy
-street: "Greensboro Highway"
-housenumber: 6900
-phone: "850-274-5698"
+street: Greensboro Highway
+housenumber: "6900"
+phone: 850-274-5698
 opening_hours: ""
 website: ""

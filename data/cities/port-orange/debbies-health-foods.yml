@@ -1,11 +1,11 @@
 id: 483087420
-type: way
+type: node
 latitude: 29.12477
 longitude: -81.00486
 postcode: "32128"
 city: Port Orange
-street: "South Nova Road"
-housenumber: 3850
-phone: "+1 386 763 7046"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su 12:00-18:00"
-website: "https://debbieshealthfoods.com/about-debbies-health-foods-inc"
+street: South Nova Road
+housenumber: "3850"
+phone: +1 386 763 7046
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su 12:00-18:00
+website: https://debbieshealthfoods.com/about-debbies-health-foods-inc

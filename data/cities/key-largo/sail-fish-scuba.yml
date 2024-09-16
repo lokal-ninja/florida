@@ -1,11 +1,11 @@
 id: 925497370
-type: way
+type: node
 latitude: 25.13341
 longitude: -80.4069
 postcode: "33037"
 city: Key Largo
-street: "Overseas Highway"
-housenumber: 103100
-phone: "+1-305-453-3446"
+street: Overseas Highway
+housenumber: "103100"
+phone: +1-305-453-3446
 opening_hours: ""
-website: "https://www.sailfishscuba.com/"
+website: https://www.sailfishscuba.com/

@@ -1,11 +1,11 @@
 id: 636930411
-type: way
+type: node
 latitude: 30.14465
 longitude: -85.75616
 postcode: "32408"
 city: Panama City Beach
-street: "Thomas Drive"
-housenumber: 5414
+street: Thomas Drive
+housenumber: "5414"
 phone: ""
 opening_hours: ""
 website: ""

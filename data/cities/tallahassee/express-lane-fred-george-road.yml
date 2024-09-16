@@ -1,11 +1,11 @@
 id: 926248768
-type: way
+type: node
 latitude: 30.49856
 longitude: -84.3349
 postcode: ""
 city: Tallahassee
-street: "Fred George Road"
-housenumber: 3417
+street: Fred George Road
+housenumber: "3417"
 phone: ""
 opening_hours: ""
 website: ""

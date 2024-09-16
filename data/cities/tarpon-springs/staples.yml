@@ -1,11 +1,11 @@
 id: 1009759035
-type: way
+type: node
 latitude: 28.14816
 longitude: -82.74163
 postcode: "34689"
 city: Tarpon Springs
-street: "North Highway 19 North"
-housenumber: 41334
+street: North Highway 19 North
+housenumber: "41334"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/fl/tarpon-springs/41334-north-hwy-19-n"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/fl/tarpon-springs/41334-north-hwy-19-n

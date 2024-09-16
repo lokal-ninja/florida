@@ -1,11 +1,11 @@
 id: 549450778
-type: way
+type: node
 latitude: 29.47444
 longitude: -81.22128
 postcode: "32164"
 city: Palm Coast
-street: "Belle Terre Boulevard"
-housenumber: 250
-phone: "+1 386-586-2500"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Belle Terre Boulevard
+housenumber: "250"
+phone: +1 386-586-2500
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

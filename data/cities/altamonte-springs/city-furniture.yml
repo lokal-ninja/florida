@@ -1,11 +1,11 @@
 id: 975807409
-type: way
+type: node
 latitude: 28.67044
 longitude: -81.38981
 postcode: "32714"
 city: Altamonte Springs
-street: "Douglas Avenue"
-housenumber: 555
+street: Douglas Avenue
+housenumber: "555"
 phone: "+14075510570"
 opening_hours: ""
-website: "https://www.cityfurniture.com/"
+website: https://www.cityfurniture.com/

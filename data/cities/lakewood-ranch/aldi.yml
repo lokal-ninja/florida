@@ -1,11 +1,11 @@
 id: 1263960395
-type: way
+type: node
 latitude: 27.38557
 longitude: -82.39715
 postcode: "34240"
 city: Lakewood Ranch
-street: "University Parkway"
-housenumber: 7214
-phone: "+1 855-474-1154"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/lakewood-ranch/7214-university-parkway"
+street: University Parkway
+housenumber: "7214"
+phone: +1 855-474-1154
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/lakewood-ranch/7214-university-parkway

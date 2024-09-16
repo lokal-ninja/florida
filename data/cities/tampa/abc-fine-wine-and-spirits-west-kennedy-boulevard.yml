@@ -1,11 +1,11 @@
 id: 1198663305
-type: way
+type: node
 latitude: 27.9449
 longitude: -82.49217
 postcode: "33609"
 city: Tampa
-street: "West Kennedy Boulevard"
-housenumber: 3015
-phone: "+1-813-876-5330"
-opening_hours: "Su 11:00-19:00; Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00"
-website: "https://www.abcfws.com/product/19"
+street: West Kennedy Boulevard
+housenumber: "3015"
+phone: +1-813-876-5330
+opening_hours: Su 11:00-19:00; Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00
+website: https://www.abcfws.com/product/19

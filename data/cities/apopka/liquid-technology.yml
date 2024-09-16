@@ -1,11 +1,11 @@
 id: 453126713
-type: way
+type: node
 latitude: 28.64262
 longitude: -81.46828
 postcode: "32703"
 city: Apopka
-street: "Apex Court"
-housenumber: 2048
-phone: "+1 407 292 2990"
+street: Apex Court
+housenumber: "2048"
+phone: +1 407 292 2990
 opening_hours: ""
-website: "http://www.liquidtechcorp.com/"
+website: http://www.liquidtechcorp.com/

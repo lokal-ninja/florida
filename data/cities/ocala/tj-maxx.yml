@@ -1,11 +1,11 @@
 id: 549918255
-type: way
+type: node
 latitude: 29.16563
 longitude: -82.17052
 postcode: "34474"
 city: Ocala
-street: "Southwest College Road"
-housenumber: 2701
-phone: "+1 352 237 6655"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://tjmaxx.tjx.com/store/stores/Ocala-FL-34474/645/aboutstore"
+street: Southwest College Road
+housenumber: "2701"
+phone: +1 352 237 6655
+opening_hours: Mo-Su 08:00-23:00
+website: https://tjmaxx.tjx.com/store/stores/Ocala-FL-34474/645/aboutstore

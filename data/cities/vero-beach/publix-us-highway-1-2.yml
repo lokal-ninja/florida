@@ -1,11 +1,11 @@
 id: 550942721
-type: way
+type: node
 latitude: 27.68846
 longitude: -80.41019
-postcode: "32967-7608"
+postcode: 32967-7608
 city: Vero Beach
-street: "US Highway 1"
-housenumber: 5230
-phone: "+1 772-778-3513"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1374"
+street: US Highway 1
+housenumber: "5230"
+phone: +1 772-778-3513
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1374

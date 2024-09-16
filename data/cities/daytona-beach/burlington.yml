@@ -1,11 +1,11 @@
 id: 697558037
-type: way
+type: node
 latitude: 29.21464
 longitude: -81.09424
 postcode: "32114"
 city: Daytona Beach
-street: "Cornerstone Boulevard"
-housenumber: 1115
-phone: "+1 386-490-9265"
-opening_hours: "Mo-Fr 07:00-00:00"
-website: "https://stores.burlington.com/fl/daytona-beach/578"
+street: Cornerstone Boulevard
+housenumber: "1115"
+phone: +1 386-490-9265
+opening_hours: Mo-Fr 07:00-00:00
+website: https://stores.burlington.com/fl/daytona-beach/578

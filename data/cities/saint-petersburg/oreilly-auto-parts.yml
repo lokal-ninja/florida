@@ -1,11 +1,11 @@
 id: 43877603
-type: way
+type: node
 latitude: 27.82998
 longitude: -82.64721
 postcode: "33703"
 city: Saint Petersburg
-street: "9th Street North"
-housenumber: 6398
+street: 9th Street North
+housenumber: "6398"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/fl/stpetersburg/autoparts-5418.html"
+website: https://locations.oreillyauto.com/fl/stpetersburg/autoparts-5418.html

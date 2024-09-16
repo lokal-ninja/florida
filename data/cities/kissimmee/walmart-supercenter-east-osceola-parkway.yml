@@ -1,11 +1,11 @@
 id: 312366265
-type: way
+type: node
 latitude: 28.34345
 longitude: -81.38694
 postcode: "34744"
 city: Kissimmee
-street: "East Osceola Parkway"
-housenumber: 1471
-phone: "+1-407-870-2277"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2881/kissimmee-fl/whats-new"
+street: East Osceola Parkway
+housenumber: "1471"
+phone: +1-407-870-2277
+opening_hours: 24/7
+website: https://www.walmart.com/store/2881/kissimmee-fl/whats-new

@@ -1,11 +1,11 @@
 id: 574523635
-type: way
+type: node
 latitude: 30.18257
 longitude: -82.63913
 postcode: "32025"
 city: Lake City
-street: "Southwest Main Boulevard"
-housenumber: 567
+street: Southwest Main Boulevard
+housenumber: "567"
 phone: ""
 opening_hours: ""
 website: ""

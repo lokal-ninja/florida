@@ -1,11 +1,11 @@
 id: 585985905
-type: way
+type: node
 latitude: 26.65109
 longitude: -80.08472
 postcode: "33406"
 city: Palm Springs
-street: "Forest Hill Boulevard"
-housenumber: 2789
-phone: "(561) 633-0829"
+street: Forest Hill Boulevard
+housenumber: "2789"
+phone: (561) 633-0829
 opening_hours: ""
 website: ""

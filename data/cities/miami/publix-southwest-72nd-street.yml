@@ -1,11 +1,11 @@
 id: 290515332
-type: way
+type: node
 latitude: 25.69854
 longitude: -80.44833
-postcode: "33193-5060"
+postcode: 33193-5060
 city: Miami
-street: "Southwest 72nd Street"
-housenumber: 15750
-phone: "+1 305-383-6990"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/529"
+street: Southwest 72nd Street
+housenumber: "15750"
+phone: +1 305-383-6990
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/529

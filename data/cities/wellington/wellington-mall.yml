@@ -1,11 +1,11 @@
 id: 253569199
-type: way
+type: node
 latitude: 26.67326
 longitude: -80.24573
 postcode: "33414"
 city: Wellington
-street: "Forest Hill Boulevard"
-housenumber: 12794
-phone: "+1-561-793-4500"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:30-18:00"
-website: "https://originalwellingtonmall.com/"
+street: Forest Hill Boulevard
+housenumber: "12794"
+phone: +1-561-793-4500
+opening_hours: Mo-Sa 08:00-21:00; Su 10:30-18:00
+website: https://originalwellingtonmall.com/

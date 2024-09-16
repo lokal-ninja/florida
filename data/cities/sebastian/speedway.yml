@@ -1,11 +1,11 @@
 id: 469768732
-type: way
+type: node
 latitude: 27.80965
 longitude: -80.46632
 postcode: "32958"
 city: Sebastian
-street: "US Highway 1"
-housenumber: 700
+street: US Highway 1
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Sebastian/700-US-HIGHWAY-1"
+website: https://www.speedway.com/locations/FL/Sebastian/700-US-HIGHWAY-1

@@ -1,11 +1,11 @@
 id: 436031191
-type: way
+type: node
 latitude: 25.89313
 longitude: -80.16235
 postcode: "33181"
 city: North Miami
-street: "Biscayne Boulevard"
-housenumber: 12605
+street: Biscayne Boulevard
+housenumber: "12605"
 phone: ""
 opening_hours: ""
 website: ""

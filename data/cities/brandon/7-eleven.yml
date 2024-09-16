@@ -1,11 +1,11 @@
 id: 672618613
-type: way
+type: node
 latitude: 27.92133
 longitude: -82.29457
 postcode: "33551"
 city: Brandon
-street: "South Kings Avenue"
-housenumber: 1020
+street: South Kings Avenue
+housenumber: "1020"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 435379013
-type: way
+type: node
 latitude: 25.58995
 longitude: -80.35987
 postcode: "33157"
 city: Cutler Bay
-street: "South Dixie Highway"
-housenumber: 19198
-phone: "+1-305-252-8662"
-opening_hours: "Mo-Su 07:00-13:30,14:00-00:00"
-website: "https://www.cvs.com/store-locator/cutler-bay-fl-pharmacies/19198-s-dixie-hwy-across-from-burlington-coat-factory-cutler-bay-fl-33157/storeid=3765"
+street: South Dixie Highway
+housenumber: "19198"
+phone: +1-305-252-8662
+opening_hours: Mo-Su 07:00-13:30,14:00-00:00
+website: https://www.cvs.com/store-locator/cutler-bay-fl-pharmacies/19198-s-dixie-hwy-across-from-burlington-coat-factory-cutler-bay-fl-33157/storeid=3765

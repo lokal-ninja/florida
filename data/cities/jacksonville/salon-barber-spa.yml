@@ -1,11 +1,11 @@
 id: 362815984
-type: way
+type: node
 latitude: 30.3119
 longitude: -81.66063
 postcode: "32207"
 city: Jacksonville
-street: "San Marco Boulevard"
-housenumber: 
+street: San Marco Boulevard
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

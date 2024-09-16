@@ -1,11 +1,11 @@
 id: 697773148
-type: way
+type: node
 latitude: 28.00404
 longitude: -80.56396
 postcode: "32950"
 city: Malabar
-street: "US 1"
-housenumber: 1360
+street: US 1
+housenumber: "1360"
 phone: ""
 opening_hours: ""
 website: ""

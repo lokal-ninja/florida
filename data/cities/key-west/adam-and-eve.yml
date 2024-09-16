@@ -1,11 +1,11 @@
 id: 461412553
-type: way
+type: node
 latitude: 24.55715
 longitude: -81.80389
 postcode: "33040"
 city: Key West
-street: "Duval Street"
-housenumber: 330
+street: Duval Street
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

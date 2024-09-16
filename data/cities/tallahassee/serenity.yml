@@ -1,11 +1,11 @@
 id: 139573620
-type: way
+type: node
 latitude: 30.43402
 longitude: -84.28947
 postcode: "32319"
 city: Tallahassee
-street: "Railroad Avenue"
-housenumber: 915
+street: Railroad Avenue
+housenumber: "915"
 phone: ""
 opening_hours: ""
 website: ""

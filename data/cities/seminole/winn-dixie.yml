@@ -1,11 +1,11 @@
 id: 198329641
-type: way
+type: node
 latitude: 27.8454
 longitude: -82.81763
 postcode: "33776"
 city: Seminole
-street: "Park Boulevard"
-housenumber: 12975
-phone: "+1 727-319-3840"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.winndixie.com/storedetails/seminole/fl?search=607"
+street: Park Boulevard
+housenumber: "12975"
+phone: +1 727-319-3840
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.winndixie.com/storedetails/seminole/fl?search=607

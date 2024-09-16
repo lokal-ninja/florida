@@ -1,11 +1,11 @@
 id: 291219935
-type: way
+type: node
 latitude: 27.94258
 longitude: -82.32562
 postcode: "33511"
 city: Brandon
-street: "Grand Regency Boulevard"
-housenumber: 116
-phone: "+1 813-643-1700"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/fl/brandon/116-grand-regency-blvd-560.html"
+street: Grand Regency Boulevard
+housenumber: "116"
+phone: +1 813-643-1700
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/fl/brandon/116-grand-regency-blvd-560.html

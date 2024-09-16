@@ -1,11 +1,11 @@
 id: 429864600
-type: way
+type: node
 latitude: 30.25273
 longitude: -81.53759
 postcode: "32246"
 city: Jacksonville
-street: "Skinner Lake Drive"
-housenumber: 10051
-phone: "+1-904-645-7003"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
+street: Skinner Lake Drive
+housenumber: "10051"
+phone: +1-904-645-7003
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
 website: ""

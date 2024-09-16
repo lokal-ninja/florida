@@ -1,11 +1,11 @@
 id: 381142296
-type: way
+type: node
 latitude: 26.23706
 longitude: -80.19721
 postcode: "33063"
 city: Margate
-street: "West Atlantic Boulevard"
-housenumber: 5313
-phone: "+1 954-956-2697"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-22:30; Su 09:00-22:00"
+street: West Atlantic Boulevard
+housenumber: "5313"
+phone: +1 954-956-2697
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-22:30; Su 09:00-22:00
 website: ""

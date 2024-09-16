@@ -1,11 +1,11 @@
 id: 980736000
-type: way
+type: node
 latitude: 27.85049
 longitude: -82.35354
 postcode: ""
 city: Gibsonton
-street: "Gibsonton Drive"
-housenumber: 9218
-phone: "+1 (813) 672-2765"
-opening_hours: "24/7"
+street: Gibsonton Drive
+housenumber: "9218"
+phone: +1 (813) 672-2765
+opening_hours: 24/7
 website: ""

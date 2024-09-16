@@ -1,11 +1,11 @@
 id: 136455239
-type: way
+type: node
 latitude: 30.31345
 longitude: -84.24824
-postcode: "32305-1604"
+postcode: 32305-1604
 city: Tallahassee
-street: "Woodville Highway"
-housenumber: 9382
-phone: "+1 850-421-9000"
-opening_hours: "Mo-Sa 07:00-19:00; Su 10:00-17:00"
+street: Woodville Highway
+housenumber: "9382"
+phone: +1 850-421-9000
+opening_hours: Mo-Sa 07:00-19:00; Su 10:00-17:00
 website: ""

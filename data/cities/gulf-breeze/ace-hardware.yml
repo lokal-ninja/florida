@@ -1,11 +1,11 @@
 id: 895314729
-type: way
+type: node
 latitude: 30.35789
 longitude: -87.158
 postcode: "32561"
 city: Gulf Breeze
-street: "Gulf Breeze Parkway"
-housenumber: 1131
-phone: "+1 850-932-9316"
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-17:00"
-website: "https://www.acehardware.com/store-details/03245"
+street: Gulf Breeze Parkway
+housenumber: "1131"
+phone: +1 850-932-9316
+opening_hours: Mo-Sa 07:00-19:00; Su 09:00-17:00
+website: https://www.acehardware.com/store-details/03245

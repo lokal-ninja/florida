@@ -1,11 +1,11 @@
 id: 263233283
-type: way
+type: node
 latitude: 25.79306
 longitude: -80.14312
 postcode: "33139"
 city: Miami Beach
-street: "West Avenue"
-housenumber: 1301
+street: West Avenue
+housenumber: "1301"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 25.77849
 longitude: -80.13298
 postcode: "33139"
 city: Miami Beach
-street: "Washington Avenue"
-housenumber: 815
-phone: "+1 305-397-8943"
-opening_hours: "Mo-Sa 12:00-17:00; Su 11:00-19:00"
-website: "https://www.omgmiamiswimwear.com/"
+street: Washington Avenue
+housenumber: "815"
+phone: +1 305-397-8943
+opening_hours: Mo-Sa 12:00-17:00; Su 11:00-19:00
+website: https://www.omgmiamiswimwear.com/

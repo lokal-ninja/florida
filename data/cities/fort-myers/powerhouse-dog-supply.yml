@@ -4,8 +4,10 @@ latitude: 26.57179
 longitude: -81.84931
 postcode: "33966"
 city: Fort Myers
-street: "Lacy Ln"
-housenumber: 11800
-phone: "239-834-2700"
-opening_hours: "Monday: 9:00 AM - 4:30 PM,Tuesday : 9:00 AM - 4:30 PM,Wednesday: 9:00 AM - 4:30 PM,Thursday: 9:00 AM - 4:00 PM,Friday: 9:00 AM - 4:30 PM,Saturday-Sunday: Closed"
-website: "https://powerhousedogsupply.com"
+street: Lacy Ln
+housenumber: "11800"
+phone: 239-834-2700
+opening_hours: 'Monday: 9:00 AM - 4:30 PM,Tuesday : 9:00 AM - 4:30 PM,Wednesday: 9:00
+    AM - 4:30 PM,Thursday: 9:00 AM - 4:00 PM,Friday: 9:00 AM - 4:30 PM,Saturday-Sunday:
+    Closed'
+website: https://powerhousedogsupply.com

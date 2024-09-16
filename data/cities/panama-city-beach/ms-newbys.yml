@@ -1,11 +1,11 @@
 id: 431329365
-type: way
+type: node
 latitude: 30.16747
 longitude: -85.78922
 postcode: "32408"
 city: Panama City Beach
-street: "Thomas Drive"
-housenumber: 8711
+street: Thomas Drive
+housenumber: "8711"
 phone: ""
 opening_hours: ""
-website: "https://msnewbys.com/"
+website: https://msnewbys.com/

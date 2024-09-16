@@ -1,11 +1,11 @@
 id: 391207341
-type: way
+type: node
 latitude: 25.7833
 longitude: -80.3201
 postcode: "33126"
 city: Miami
-street: "Northwest 12th Street"
-housenumber: 7691
+street: Northwest 12th Street
+housenumber: "7691"
 phone: ""
 opening_hours: ""
 website: ""

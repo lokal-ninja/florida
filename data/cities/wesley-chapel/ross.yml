@@ -1,11 +1,11 @@
 id: 117203744
-type: way
+type: node
 latitude: 28.18375
 longitude: -82.35039
 postcode: "33544"
 city: Wesley Chapel
-street: "Bruce B Downs Boulevard"
-housenumber: 1814
-phone: "+1 813-907-2174"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://stores.beallsflorida.com/fl-wesley-chapel-1814-bruce-b-downs-blvd.html"
+street: Bruce B Downs Boulevard
+housenumber: "1814"
+phone: +1 813-907-2174
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://stores.beallsflorida.com/fl-wesley-chapel-1814-bruce-b-downs-blvd.html

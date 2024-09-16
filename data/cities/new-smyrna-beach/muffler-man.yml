@@ -1,11 +1,11 @@
 id: 888252575
-type: way
+type: node
 latitude: 29.02602
 longitude: -80.9279
 postcode: "32168"
 city: New Smyrna Beach
-street: "North Dixie Freeway"
-housenumber: 300
-phone: "+1 386 409 3400"
+street: North Dixie Freeway
+housenumber: "300"
+phone: +1 386 409 3400
 opening_hours: ""
 website: ""

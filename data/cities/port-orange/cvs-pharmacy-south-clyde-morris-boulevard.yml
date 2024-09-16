@@ -1,11 +1,11 @@
 id: 623090977
-type: way
+type: node
 latitude: 29.14365
 longitude: -81.03424
 postcode: "32129"
 city: Port Orange
-street: "South Clyde Morris Boulevard"
-housenumber: 3771
+street: South Clyde Morris Boulevard
+housenumber: "3771"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/port-orange-fl-pharmacies/3771-clyde-morris-blvd-port-orange-fl-32129/storeid=5917"
+website: https://www.cvs.com/store-locator/port-orange-fl-pharmacies/3771-clyde-morris-blvd-port-orange-fl-32129/storeid=5917

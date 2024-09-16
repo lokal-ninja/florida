@@ -4,8 +4,8 @@ latitude: 30.43105
 longitude: -81.66965
 postcode: "32218"
 city: Jacksonville
-street: "Dunn Avenue #8"
-housenumber: 1403
-phone: "904-683-9759"
+street: 'Dunn Avenue #8'
+housenumber: "1403"
+phone: 904-683-9759
 opening_hours: ""
-website: "https://www.10kcp.com/"
+website: https://www.10kcp.com/

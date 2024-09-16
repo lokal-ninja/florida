@@ -1,11 +1,11 @@
 id: 762584148
-type: way
+type: node
 latitude: 27.42
 longitude: -80.32508
 postcode: "34950"
 city: Fort Pierce
-street: "US 1"
-housenumber: 2630
+street: US 1
+housenumber: "2630"
 phone: ""
 opening_hours: ""
 website: ""

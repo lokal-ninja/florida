@@ -4,8 +4,8 @@ latitude: 28.25027
 longitude: -81.31566
 postcode: "34769"
 city: Saint Cloud
-street: "13th Street"
-housenumber: 4267
-phone: "+1 407-498-0775"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: 13th Street
+housenumber: "4267"
+phone: +1 407-498-0775
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

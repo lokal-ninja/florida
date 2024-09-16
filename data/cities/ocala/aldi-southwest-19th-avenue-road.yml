@@ -1,11 +1,11 @@
 id: 549915740
-type: way
+type: node
 latitude: 29.16308
 longitude: -82.16426
 postcode: "34471"
 city: Ocala
-street: "Southwest 19th Avenue Road"
-housenumber: 2450
-phone: "+1 888-474-1038"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/ocala/2450-sw-19th-ave-rd"
+street: Southwest 19th Avenue Road
+housenumber: "2450"
+phone: +1 888-474-1038
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/ocala/2450-sw-19th-ave-rd

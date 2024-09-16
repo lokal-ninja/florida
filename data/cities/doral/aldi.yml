@@ -1,11 +1,11 @@
 id: 796866210
-type: way
+type: node
 latitude: 25.827
 longitude: -80.36856
 postcode: "33178"
 city: Doral
-street: "Northwest 105th Court"
-housenumber: 5875
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://stores.aldi.us/fl/doral/5875-nw-105th-ct"
+street: Northwest 105th Court
+housenumber: "5875"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:30
+website: https://stores.aldi.us/fl/doral/5875-nw-105th-ct

@@ -1,11 +1,11 @@
 id: 295319274
-type: way
+type: node
 latitude: 30.45399
 longitude: -84.28042
 postcode: ""
 city: Tallahassee
-street: "North Monroe Street"
-housenumber: 1125
+street: North Monroe Street
+housenumber: "1125"
 phone: ""
 opening_hours: ""
-website: "http://www.tallahasseeautoclinic.com/"
+website: http://www.tallahasseeautoclinic.com/

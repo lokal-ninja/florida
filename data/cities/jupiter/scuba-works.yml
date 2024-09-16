@@ -4,8 +4,8 @@ latitude: 26.93151
 longitude: -80.07873
 postcode: "33477"
 city: Jupiter
-street: "South US 1"
-housenumber: 351
-phone: "+1 561 575 3483"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://www.scubaworks.com/"
+street: South US 1
+housenumber: "351"
+phone: +1 561 575 3483
+opening_hours: Mo-Su 08:00-18:00
+website: https://www.scubaworks.com/

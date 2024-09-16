@@ -1,11 +1,11 @@
 id: 37122454
-type: way
+type: node
 latitude: 27.9307
 longitude: -82.32575
 postcode: "33511"
 city: Brandon
-street: "Brandon Town Center Drive"
-housenumber: 459
-phone: "813 661 6255"
+street: Brandon Town Center Drive
+housenumber: "459"
+phone: 813 661 6255
 opening_hours: ""
-website: "https://www.westfield.com/brandon"
+website: https://www.westfield.com/brandon

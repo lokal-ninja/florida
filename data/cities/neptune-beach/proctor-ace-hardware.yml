@@ -1,11 +1,11 @@
 id: 456455483
-type: way
+type: node
 latitude: 30.32321
 longitude: -81.41162
 postcode: "32266"
 city: Neptune Beach
-street: "Atlantic Boulevard"
-housenumber: 1281
-phone: "+1 904-249-5622"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 07:30-18:00"
+street: Atlantic Boulevard
+housenumber: "1281"
+phone: +1 904-249-5622
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 07:30-18:00
 website: ""

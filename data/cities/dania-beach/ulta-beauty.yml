@@ -1,11 +1,11 @@
 id: 681050548
-type: way
+type: node
 latitude: 26.05158
 longitude: -80.15964
 postcode: "33004"
 city: Dania Beach
-street: "South Bearing Street"
-housenumber: 1760
-phone: "+1 954-342-6439"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/dania-beach-fl-1372"
+street: South Bearing Street
+housenumber: "1760"
+phone: +1 954-342-6439
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/dania-beach-fl-1372

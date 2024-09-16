@@ -1,11 +1,11 @@
 id: 354637127
-type: way
+type: node
 latitude: 30.49614
 longitude: -87.20881
 postcode: "32504"
 city: Pensacola
-street: "Creighton Road"
-housenumber: 1508
-phone: "+1 850-479-9227"
+street: Creighton Road
+housenumber: "1508"
+phone: +1 850-479-9227
 opening_hours: ""
-website: "https://www.techadvanced.com/"
+website: https://www.techadvanced.com/

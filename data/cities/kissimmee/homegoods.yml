@@ -1,11 +1,11 @@
 id: 551602148
-type: way
+type: node
 latitude: 28.34201
 longitude: -81.4107
 postcode: "34741"
 city: Kissimmee
-street: "Centerview Boulevard"
-housenumber: 731
-phone: "+1 407-932-2613"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Centerview Boulevard
+housenumber: "731"
+phone: +1 407-932-2613
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

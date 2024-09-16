@@ -1,11 +1,11 @@
 id: 229625864
-type: way
+type: node
 latitude: 30.1952
 longitude: -81.8251
 postcode: "32222"
 city: Jacksonville
-street: "Oakleaf Village Parkway"
-housenumber: 116
+street: Oakleaf Village Parkway
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

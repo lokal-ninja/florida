@@ -1,11 +1,11 @@
 id: 1087860389
-type: way
+type: node
 latitude: 27.83343
 longitude: -82.33086
 postcode: "33578"
 city: Riverview
-street: "US-301"
-housenumber: 11567
-phone: "(813) 677-7117"
+street: US-301
+housenumber: "11567"
+phone: (813) 677-7117
 opening_hours: ""
-website: "https://www.metrostorage.com/locations/fl/riverview/metro-self-storage-riverview-us-301/"
+website: https://www.metrostorage.com/locations/fl/riverview/metro-self-storage-riverview-us-301/

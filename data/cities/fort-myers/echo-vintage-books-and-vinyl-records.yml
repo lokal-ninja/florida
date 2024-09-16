@@ -1,11 +1,11 @@
 id: 292426599
-type: way
+type: node
 latitude: 26.64305
 longitude: -81.86347
 postcode: "33901"
 city: Fort Myers
-street: "Fowler Street"
-housenumber: 1793
+street: Fowler Street
+housenumber: "1793"
 phone: ""
-opening_hours: "Seasonal Fall-Spring"
+opening_hours: '"Seasonal Fall-Spring"'
 website: ""

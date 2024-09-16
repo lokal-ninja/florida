@@ -1,11 +1,11 @@
 id: 935619988
-type: way
+type: node
 latitude: 30.44875
 longitude: -84.29652
 postcode: "32304"
 city: Tallahassee
-street: "West Brevard Street"
-housenumber: 817
+street: West Brevard Street
+housenumber: "817"
 phone: ""
 opening_hours: ""
-website: "https://private-hair-salon.edan.io/"
+website: https://private-hair-salon.edan.io/

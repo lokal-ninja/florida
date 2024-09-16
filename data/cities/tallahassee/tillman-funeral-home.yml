@@ -1,11 +1,11 @@
 id: 1119435808
-type: way
+type: node
 latitude: 30.39075
 longitude: -84.28533
 postcode: "32305"
 city: Tallahassee
-street: "Crawfordville Road"
-housenumber: 4006
-phone: "+1-850-942-1950"
+street: Crawfordville Road
+housenumber: "4006"
+phone: +1-850-942-1950
 opening_hours: ""
-website: "https://www.tillmanfh.com/"
+website: https://www.tillmanfh.com/

@@ -1,11 +1,11 @@
 id: 211019272
-type: way
+type: node
 latitude: 27.87071
 longitude: -82.61199
 postcode: ""
 city: Saint Petersburg
-street: "Gandy Boulevard"
-housenumber: 13040
-phone: "+1-727-498-8568"
+street: Gandy Boulevard
+housenumber: "13040"
+phone: +1-727-498-8568
 opening_hours: ""
-website: "https://icsharks.com/"
+website: https://icsharks.com/

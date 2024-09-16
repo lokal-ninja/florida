@@ -1,11 +1,11 @@
 id: 544627119
-type: way
+type: node
 latitude: 27.43215
 longitude: -82.58745
 postcode: "34207"
 city: Bradenton
-street: "26th St W"
-housenumber: 6123
+street: 26th St W
+housenumber: "6123"
 phone: ""
 opening_hours: ""
 website: ""

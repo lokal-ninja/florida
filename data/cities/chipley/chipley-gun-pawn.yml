@@ -1,11 +1,11 @@
 id: 1080818207
-type: way
+type: node
 latitude: 30.77982
 longitude: -85.53645
 postcode: ""
 city: Chipley
-street: "Jackson Avenue"
-housenumber: 1222
+street: Jackson Avenue
+housenumber: "1222"
 phone: ""
 opening_hours: ""
-website: "https://www.chipleypawnshop.com/"
+website: https://www.chipleypawnshop.com/

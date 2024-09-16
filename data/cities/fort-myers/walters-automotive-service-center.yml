@@ -1,11 +1,11 @@
 id: 502889393
-type: way
+type: node
 latitude: 26.52229
 longitude: -81.93806
 postcode: "33908"
 city: Fort Myers
-street: "McGregor Boulevard"
-housenumber: 15135
+street: McGregor Boulevard
+housenumber: "15135"
 phone: ""
 opening_hours: ""
-website: "https://www.waltersautoservice.com/"
+website: https://www.waltersautoservice.com/

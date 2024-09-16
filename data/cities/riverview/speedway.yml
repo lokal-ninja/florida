@@ -1,11 +1,11 @@
 id: 202995938
-type: way
+type: node
 latitude: 27.79272
 longitude: -82.33583
 postcode: "33578"
 city: Riverview
-street: "US Highway 301 South"
-housenumber: 13179
+street: US Highway 301 South
+housenumber: "13179"
 phone: ""
 opening_hours: ""
 website: ""

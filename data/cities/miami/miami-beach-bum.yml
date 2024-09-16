@@ -4,8 +4,8 @@ latitude: 25.84222
 longitude: -80.19348
 postcode: "33138"
 city: Miami
-street: "NE 1st Place"
-housenumber: 7301
-phone: "305.399.7580"
-opening_hours: "24/7"
-website: "https://miamibeachbum.com/"
+street: NE 1st Place
+housenumber: "7301"
+phone: 305.399.7580
+opening_hours: 24/7
+website: https://miamibeachbum.com/

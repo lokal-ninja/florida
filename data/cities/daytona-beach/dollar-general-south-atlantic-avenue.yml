@@ -1,11 +1,11 @@
 id: 925796384
-type: way
+type: node
 latitude: 29.19825
 longitude: -80.99455
 postcode: "32118"
 city: Daytona Beach
-street: "South Atlantic Avenue"
-housenumber: 2112
+street: South Atlantic Avenue
+housenumber: "2112"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/fl/daytona-beach-shores/12460"
+website: https://www.dollargeneral.com/store-directory/fl/daytona-beach-shores/12460

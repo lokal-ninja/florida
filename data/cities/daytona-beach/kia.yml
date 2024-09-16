@@ -1,11 +1,11 @@
 id: 1000067801
-type: way
+type: node
 latitude: 29.21275
 longitude: -81.04544
 postcode: "32114"
 city: Daytona Beach
-street: "South Nova Road"
-housenumber: 510
-phone: "+1 386 252 7000"
+street: South Nova Road
+housenumber: "510"
+phone: +1 386 252 7000
 opening_hours: ""
-website: "https://daytonakia.com/Default"
+website: https://daytonakia.com/Default

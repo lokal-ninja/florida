@@ -1,11 +1,11 @@
 id: 946516552
-type: way
+type: node
 latitude: 28.24442
 longitude: -82.35251
 postcode: "33544"
 city: Wesley Chapel
-street: "Wesley Grove Boulevard"
-housenumber: 5953
-phone: "+1 813-991-7220"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/wesley-chapel-fl-253"
+street: Wesley Grove Boulevard
+housenumber: "5953"
+phone: +1 813-991-7220
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/wesley-chapel-fl-253

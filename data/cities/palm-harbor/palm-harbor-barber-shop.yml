@@ -1,11 +1,11 @@
 id: 523147857
-type: way
+type: node
 latitude: 28.07762
 longitude: -82.76529
 postcode: "34683"
 city: Palm Harbor
-street: "Florida Avenue"
-housenumber: 1122
+street: Florida Avenue
+housenumber: "1122"
 phone: ""
 opening_hours: ""
 website: ""

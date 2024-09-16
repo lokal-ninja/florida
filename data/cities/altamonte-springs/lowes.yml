@@ -1,11 +1,11 @@
 id: 315413893
-type: way
+type: node
 latitude: 28.66326
 longitude: -81.42117
 postcode: "32714"
 city: Altamonte Springs
-street: "North State Road 434"
-housenumber: 110
-phone: "+1 407-788-4305"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-altamonte-springs/0604"
+street: North State Road 434
+housenumber: "110"
+phone: +1 407-788-4305
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-altamonte-springs/0604

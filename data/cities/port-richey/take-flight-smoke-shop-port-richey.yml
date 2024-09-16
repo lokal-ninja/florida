@@ -1,11 +1,11 @@
 id: 1013514037
-type: way
+type: node
 latitude: 28.31207
 longitude: -82.69992
 postcode: "34668"
 city: Port Richey
-street: "US-19 S"
-housenumber: 10633
-phone: "+1-727-967-1186"
-opening_hours: "Su-Th 10:00-22:00; Fr-Sa 10:00-24:00"
+street: US-19 S
+housenumber: "10633"
+phone: +1-727-967-1186
+opening_hours: Su-Th 10:00-22:00; Fr-Sa 10:00-24:00
 website: ""

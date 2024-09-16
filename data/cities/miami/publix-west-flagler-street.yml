@@ -1,11 +1,11 @@
 id: 307736735
-type: way
+type: node
 latitude: 25.77164
 longitude: -80.33216
 postcode: "33144"
 city: Miami
-street: "West Flagler Street"
-housenumber: 8341
-phone: "+1 305-266-0713"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: West Flagler Street
+housenumber: "8341"
+phone: +1 305-266-0713
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

@@ -1,11 +1,11 @@
 id: 313653205
-type: way
+type: node
 latitude: 28.37596
 longitude: -81.40262
 postcode: "32837"
 city: Orlando
-street: "South Orange Blossom Trail"
-housenumber: 13121
-phone: "+1 407-240-2491"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/South-Chase/FL/Orlando/32837/6328"
+street: South Orange Blossom Trail
+housenumber: "13121"
+phone: +1 407-240-2491
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/South-Chase/FL/Orlando/32837/6328

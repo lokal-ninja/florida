@@ -1,11 +1,11 @@
 id: 316609806
-type: way
+type: node
 latitude: 25.80095
 longitude: -80.2021
 postcode: "33127"
 city: Miami
-street: "Northwest 25th Street"
-housenumber: 343
-phone: "+1 305 438 3771"
+street: Northwest 25th Street
+housenumber: "343"
+phone: +1 305 438 3771
 opening_hours: ""
 website: ""

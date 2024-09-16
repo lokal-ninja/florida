@@ -4,8 +4,8 @@ latitude: 30.46431
 longitude: -84.27213
 postcode: "32303"
 city: Tallahassee
-street: "Thomasville Road"
-housenumber: 1806
+street: Thomasville Road
+housenumber: "1806"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:45-19:00"
-website: "https://www.tuesdaymorning.com/"
+opening_hours: Mo-Sa 10:00-20:00; Su 10:45-19:00
+website: https://www.tuesdaymorning.com/

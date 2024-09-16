@@ -1,11 +1,11 @@
 id: 564079080
-type: way
+type: node
 latitude: 30.16691
 longitude: -81.63329
-postcode: "32223-7963"
+postcode: 32223-7963
 city: Jacksonville
-street: "San Jose Boulevard"
-housenumber: 11406
-phone: "+1 904-262-5258"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1022"
+street: San Jose Boulevard
+housenumber: "11406"
+phone: +1 904-262-5258
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1022

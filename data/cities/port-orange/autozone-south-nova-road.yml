@@ -1,11 +1,11 @@
 id: 483126066
-type: way
+type: node
 latitude: 29.13119
 longitude: -81.00813
 postcode: "32129"
 city: Port Orange
-street: "South Nova Road"
-housenumber: 3750
+street: South Nova Road
+housenumber: "3750"
 phone: ""
-opening_hours: "Mo-Th 07:30-22:00, Fr 07:30-20:00, Sa 09:00-22:00, Su 07:30-21:00"
-website: "https://www.autozone.com/locations/fl/port-orange/3750-s-nova-rd.html"
+opening_hours: Mo-Th 07:30-22:00, Fr 07:30-20:00, Sa 09:00-22:00, Su 07:30-21:00
+website: https://www.autozone.com/locations/fl/port-orange/3750-s-nova-rd.html

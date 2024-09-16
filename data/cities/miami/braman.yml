@@ -1,11 +1,11 @@
 id: 435748177
-type: way
+type: node
 latitude: 25.74738
 longitude: -80.30818
 postcode: "33155"
 city: Miami
-street: "Southwest 24th Street"
-housenumber: 7000
+street: Southwest 24th Street
+housenumber: "7000"
 phone: ""
 opening_hours: ""
 website: ""

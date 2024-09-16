@@ -4,8 +4,8 @@ latitude: 28.24641
 longitude: -81.3074
 postcode: "34769"
 city: Saint Cloud
-street: "13th Street"
-housenumber: 3401
-phone: "+1 407-957-3044"
-opening_hours: "09:00-21:00"
-website: "https://local.biglots.com/fl/saint-cloud/3401-13th-st"
+street: 13th Street
+housenumber: "3401"
+phone: +1 407-957-3044
+opening_hours: 09:00-21:00
+website: https://local.biglots.com/fl/saint-cloud/3401-13th-st

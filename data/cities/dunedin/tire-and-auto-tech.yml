@@ -1,11 +1,11 @@
 id: 180071782
-type: way
+type: node
 latitude: 28.01979
 longitude: -82.76476
 postcode: ""
 city: Dunedin
-street: "Main Street"
-housenumber: 1480
+street: Main Street
+housenumber: "1480"
 phone: ""
 opening_hours: ""
 website: ""

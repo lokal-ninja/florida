@@ -4,8 +4,8 @@ latitude: 25.77442
 longitude: -80.1888
 postcode: "33131"
 city: Miami
-street: "East Flagler Street"
-housenumber: 259
-phone: "+1-305-579-5998"
-opening_hours: "09:00-20:00"
+street: East Flagler Street
+housenumber: "259"
+phone: +1-305-579-5998
+opening_hours: 09:00-20:00
 website: ""

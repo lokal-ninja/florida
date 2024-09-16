@@ -1,11 +1,11 @@
 id: 162003354
-type: way
+type: node
 latitude: 26.11237
 longitude: -80.25151
 postcode: "33324"
 city: Plantation
-street: "South University Drive"
-housenumber: 805
+street: South University Drive
+housenumber: "805"
 phone: ""
-opening_hours: "Su 12:00-17:00; Mo-Fr 9:00-20:00; Sa 9:00-18:00"
+opening_hours: Su 12:00-17:00; Mo-Fr 9:00-20:00; Sa 9:00-18:00
 website: ""

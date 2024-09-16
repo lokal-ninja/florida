@@ -1,11 +1,11 @@
 id: 975069852
-type: way
+type: node
 latitude: 26.8104
 longitude: -80.19981
 postcode: "33412"
 city: West Palm Beach
-street: "Northlake Boulevard"
-housenumber: 10130
+street: Northlake Boulevard
+housenumber: "10130"
 phone: ""
 opening_hours: ""
 website: ""

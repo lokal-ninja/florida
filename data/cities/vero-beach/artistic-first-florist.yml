@@ -1,11 +1,11 @@
 id: 449467127
-type: way
+type: node
 latitude: 27.63782
 longitude: -80.38977
 postcode: "32960"
 city: Vero Beach
-street: "20th Street"
-housenumber: 805
-phone: "+1-772-567-3474"
-opening_hours: "Mo-Fr 9:00-17:00; Sa 9:00-12:00; PH off"
-website: "https://www.artisticfirstflorist.net/"
+street: 20th Street
+housenumber: "805"
+phone: +1-772-567-3474
+opening_hours: Mo-Fr 9:00-17:00; Sa 9:00-12:00; PH off
+website: https://www.artisticfirstflorist.net/

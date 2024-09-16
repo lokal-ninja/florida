@@ -1,11 +1,11 @@
 id: 177515043
-type: way
+type: node
 latitude: 28.45424
 longitude: -82.63107
 postcode: ""
 city: Spring Hill
-street: "Commercial Way"
-housenumber: 1371
-phone: "352-688-2911"
-opening_hours: "Su-Th 06:00-22:00; Fr-Sa 06:00-23:00"
+street: Commercial Way
+housenumber: "1371"
+phone: 352-688-2911
+opening_hours: Su-Th 06:00-22:00; Fr-Sa 06:00-23:00
 website: ""

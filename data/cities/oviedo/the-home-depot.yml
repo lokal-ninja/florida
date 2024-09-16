@@ -1,11 +1,11 @@
 id: 556842641
-type: way
+type: node
 latitude: 28.65493
 longitude: -81.23089
 postcode: "32765"
 city: Oviedo
-street: "West FL 426"
-housenumber: 1900
-phone: "+1 407-977-8566"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/oviedo/fl/oviedo/32765/287"
+street: West FL 426
+housenumber: "1900"
+phone: +1 407-977-8566
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/oviedo/fl/oviedo/32765/287

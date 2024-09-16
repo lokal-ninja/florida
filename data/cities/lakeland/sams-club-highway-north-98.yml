@@ -1,11 +1,11 @@
 id: 308833678
-type: way
+type: node
 latitude: 28.1019
 longitude: -81.97743
 postcode: "33809"
 city: Lakeland
-street: "Highway North 98"
-housenumber: 4600
-phone: "+1 863-853-2654"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/lakeland-fl-sams-club/6441"
+street: Highway North 98
+housenumber: "4600"
+phone: +1 863-853-2654
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/lakeland-fl-sams-club/6441

@@ -1,11 +1,11 @@
 id: 175722946
-type: way
+type: node
 latitude: 26.40832
 longitude: -81.81003
 postcode: "33928"
 city: Estero
-street: "Mediterranean Drive"
-housenumber: 8000
-phone: "+1 239-949-8146"
+street: Mediterranean Drive
+housenumber: "8000"
+phone: +1 239-949-8146
 opening_hours: ""
-website: "https://stores.bestbuy.com/fl/estero/8000-mediterranean-dr-767.html"
+website: https://stores.bestbuy.com/fl/estero/8000-mediterranean-dr-767.html

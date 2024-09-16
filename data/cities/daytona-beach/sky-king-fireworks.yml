@@ -1,11 +1,11 @@
 id: 361219946
-type: way
+type: node
 latitude: 29.20911
 longitude: -81.02657
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 529
-phone: "+1 386 999 3658"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://skykingfireworks.com/locations/florida/daytona-beach/"
+street: International Speedway Boulevard
+housenumber: "529"
+phone: +1 386 999 3658
+opening_hours: Mo-Su 09:00-19:00
+website: https://skykingfireworks.com/locations/florida/daytona-beach/

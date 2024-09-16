@@ -1,11 +1,11 @@
 id: 332137010
-type: way
+type: node
 latitude: 29.71475
 longitude: -85.00635
 postcode: "32320"
 city: Apalachicola
-street: "US Highway 98"
-housenumber: 409
-phone: "+1-850-653-1400"
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:00-17:00"
-website: "https://www.acehardware.com/store-details/11317"
+street: US Highway 98
+housenumber: "409"
+phone: +1-850-653-1400
+opening_hours: Mo-Sa 08:00-19:00; Su 08:00-17:00
+website: https://www.acehardware.com/store-details/11317

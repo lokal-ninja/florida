@@ -1,11 +1,11 @@
 id: 540575035
-type: way
+type: node
 latitude: 27.29724
 longitude: -80.30279
 postcode: "34996"
 city: Stuart
-street: "First Street"
-housenumber: 
+street: First Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

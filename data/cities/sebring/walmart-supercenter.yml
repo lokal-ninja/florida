@@ -1,11 +1,11 @@
 id: 123892086
-type: way
+type: node
 latitude: 27.51196
 longitude: -81.49724
 postcode: "33870"
 city: Sebring
-street: "US 27 North"
-housenumber: 3525
-phone: "+1 863-471-1200"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/666-sebring-fl"
+street: US 27 North
+housenumber: "3525"
+phone: +1 863-471-1200
+opening_hours: 24/7
+website: https://www.walmart.com/store/666-sebring-fl

@@ -1,11 +1,11 @@
 id: 1125519321
-type: way
+type: node
 latitude: 27.95353
 longitude: -80.65275
 postcode: "32909"
 city: Palm Bay
-street: "Bayside Lakes Boulevard"
-housenumber: 3225
+street: Bayside Lakes Boulevard
+housenumber: "3225"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 523870807
-type: way
+type: node
 latitude: 26.19381
 longitude: -81.68784
 postcode: "34116"
 city: Naples
-street: "Collier Boulevard"
-housenumber: 12245
-phone: "(239) 353-0600"
-opening_hours: "Mo-Fr 07:00-18:00"
+street: Collier Boulevard
+housenumber: "12245"
+phone: (239) 353-0600
+opening_hours: Mo-Fr 07:00-18:00
 website: ""

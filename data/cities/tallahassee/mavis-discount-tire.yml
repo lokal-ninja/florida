@@ -1,11 +1,11 @@
 id: 548143801
-type: way
+type: node
 latitude: 30.44357
 longitude: -84.26161
 postcode: "32301"
 city: Tallahassee
-street: "North Magnolia Drive"
-housenumber: 204
+street: North Magnolia Drive
+housenumber: "204"
 phone: ""
 opening_hours: ""
-website: "https://www.mavistire.com/"
+website: https://www.mavistire.com/

@@ -1,11 +1,11 @@
 id: 112955292
-type: way
+type: node
 latitude: 25.78909
 longitude: -80.384
 postcode: "33172"
 city: Miami
-street: "Northwest 12th Street"
-housenumber: 11401
+street: Northwest 12th Street
+housenumber: "11401"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30; Su 11:00-20:00"
-website: "https://shopdolphinmall.com/"
+opening_hours: Mo-Sa 09:00-21:30; Su 11:00-20:00
+website: https://shopdolphinmall.com/

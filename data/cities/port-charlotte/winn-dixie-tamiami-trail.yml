@@ -1,11 +1,11 @@
 id: 781181132
-type: way
+type: node
 latitude: 26.98447
 longitude: -82.09816
 postcode: "33952"
 city: Port Charlotte
-street: "Tamiami Trail"
-housenumber: 3280
-phone: "+1 941-625-2151"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.winndixie.com/storedetails/port%20charlotte/fl?search=736"
+street: Tamiami Trail
+housenumber: "3280"
+phone: +1 941-625-2151
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.winndixie.com/storedetails/port%20charlotte/fl?search=736

@@ -1,11 +1,11 @@
 id: 705281660
-type: way
+type: node
 latitude: 30.75113
 longitude: -86.56475
 postcode: ""
 city: Crestview
-street: "Edney Avenue West"
-housenumber: 101
+street: Edney Avenue West
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

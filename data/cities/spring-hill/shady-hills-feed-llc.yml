@@ -1,11 +1,11 @@
 id: 913297337
-type: way
+type: node
 latitude: 28.39706
 longitude: -82.55078
 postcode: "34610"
 city: Spring Hill
-street: "Shady Hills Road"
-housenumber: 16438
-phone: "727-856-4916"
-opening_hours: "Mo-Fr 09:00-17:30"
+street: Shady Hills Road
+housenumber: "16438"
+phone: 727-856-4916
+opening_hours: Mo-Fr 09:00-17:30
 website: ""

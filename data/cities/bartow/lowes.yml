@@ -1,11 +1,11 @@
 id: 410923338
-type: way
+type: node
 latitude: 27.90285
 longitude: -81.83948
 postcode: "33830"
 city: Bartow
-street: "East Van Fleet Drive"
-housenumber: 425
-phone: "+1 863-519-4000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-bartow/2531"
+street: East Van Fleet Drive
+housenumber: "425"
+phone: +1 863-519-4000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-bartow/2531

@@ -1,11 +1,11 @@
 id: 1025572952
-type: way
+type: node
 latitude: 30.1023
 longitude: -81.52038
 postcode: "32259"
 city: Jacksonville
-street: "Bartram Market Drive"
-housenumber: 300
+street: Bartram Market Drive
+housenumber: "300"
 phone: "+19044179073"
-opening_hours: "Mo-Sa 07:30-21:00; Su 8:00-21:00"
-website: "https://www.autozone.com/locations/fl/saint-johns/300-bartram-market-drive.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 8:00-21:00
+website: https://www.autozone.com/locations/fl/saint-johns/300-bartram-market-drive.html

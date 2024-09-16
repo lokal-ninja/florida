@@ -1,11 +1,11 @@
 id: 162127905
-type: way
+type: node
 latitude: 27.91732
 longitude: -82.72832
 postcode: "33760"
 city: Largo
-street: "Roosevelt Boulevard"
-housenumber: 2550
+street: Roosevelt Boulevard
+housenumber: "2550"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/7172"
+website: https://www.carmax.com/stores/7172

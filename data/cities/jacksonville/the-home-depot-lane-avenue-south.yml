@@ -1,11 +1,11 @@
 id: 521602156
-type: way
+type: node
 latitude: 30.30992
 longitude: -81.74929
 postcode: "32205"
 city: Jacksonville
-street: "Lane Avenue South"
-housenumber: 855
-phone: "+1 904-781-6208"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Jacksonville-lane-Ave/FL/Jacksonville/32205/6346"
+street: Lane Avenue South
+housenumber: "855"
+phone: +1 904-781-6208
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Jacksonville-lane-Ave/FL/Jacksonville/32205/6346

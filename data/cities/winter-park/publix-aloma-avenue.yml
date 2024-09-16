@@ -1,11 +1,11 @@
 id: 931898253
-type: way
+type: node
 latitude: 28.60227
 longitude: -81.32234
 postcode: "32792"
 city: Winter Park
-street: "Aloma Avenue"
-housenumber: 2295
-phone: "+1 407-671-3403"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1381-aloma-shopping-center"
+street: Aloma Avenue
+housenumber: "2295"
+phone: +1 407-671-3403
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1381-aloma-shopping-center

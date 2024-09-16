@@ -4,8 +4,8 @@ latitude: 27.63962
 longitude: -80.45679
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 6280
-phone: "+1-772-794-5799"
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-18:00"
-website: "https://www.verizonwireless.com"
+street: 20th Street
+housenumber: "6280"
+phone: +1-772-794-5799
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-18:00
+website: https://www.verizonwireless.com

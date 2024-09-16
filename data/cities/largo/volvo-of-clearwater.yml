@@ -1,11 +1,11 @@
 id: 162127918
-type: way
+type: node
 latitude: 27.8963
 longitude: -82.72333
 postcode: "33760"
 city: Largo
-street: "US 19"
-housenumber: 
+street: US 19
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

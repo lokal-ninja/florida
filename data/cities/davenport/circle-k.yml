@@ -1,11 +1,11 @@
 id: 312366232
-type: way
+type: node
 latitude: 28.26081
 longitude: -81.61653
 postcode: "33896"
 city: Davenport
-street: "ChampionsGate Boulevard"
-housenumber: 8200
+street: ChampionsGate Boulevard
+housenumber: "8200"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1117650808
-type: way
+type: node
 latitude: 27.10425
 longitude: -82.38263
 postcode: "34292"
 city: Venice
-street: "Times Circle"
-housenumber: 19410
-phone: "+1 941-800-3800"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Times Circle
+housenumber: "19410"
+phone: +1 941-800-3800
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

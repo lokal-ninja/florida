@@ -1,11 +1,11 @@
 id: 712557604
-type: way
+type: node
 latitude: 27.5068
 longitude: -81.49381
 postcode: "33870"
 city: Sebring
-street: "US 27 North"
-housenumber: 2537
-phone: "+1 863-471-2511"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/sebring/office-depot-2362"
+street: US 27 North
+housenumber: "2537"
+phone: +1 863-471-2511
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/sebring/office-depot-2362

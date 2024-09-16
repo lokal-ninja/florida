@@ -1,11 +1,11 @@
 id: 354964198
-type: way
+type: node
 latitude: 30.46707
 longitude: -87.23995
 postcode: "32503"
 city: Pensacola
-street: "Brent Lane"
-housenumber: 61
+street: Brent Lane
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://locations.aarons.com/us/fl/pensacola/61-brent-ln"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00
+website: https://locations.aarons.com/us/fl/pensacola/61-brent-ln

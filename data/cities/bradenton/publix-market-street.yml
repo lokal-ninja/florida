@@ -2,10 +2,10 @@ id: 970427323
 type: node
 latitude: 27.39042
 longitude: -82.44322
-postcode: "34202-5137"
+postcode: 34202-5137
 city: Bradenton
-street: "Market Street"
-housenumber: 8330
-phone: "+1 941-907-6600"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/709"
+street: Market Street
+housenumber: "8330"
+phone: +1 941-907-6600
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/709

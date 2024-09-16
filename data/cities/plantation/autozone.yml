@@ -1,11 +1,11 @@
 id: 638304684
-type: way
+type: node
 latitude: 26.11122
 longitude: -80.20235
 postcode: "33317"
 city: Plantation
-street: "State Road 7"
-housenumber: 801
-phone: "+1-954-583-8717"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-21:00"
-website: "https://www.autozone.com/locations/fl/plantation/801-s-state-rd-7.html"
+street: State Road 7
+housenumber: "801"
+phone: +1-954-583-8717
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-21:00
+website: https://www.autozone.com/locations/fl/plantation/801-s-state-rd-7.html

@@ -1,11 +1,11 @@
 id: 1192391679
-type: way
+type: node
 latitude: 27.95206
 longitude: -82.49036
 postcode: "33609"
 city: Tampa
-street: "West Cypress Street"
-housenumber: 2909
+street: West Cypress Street
+housenumber: "2909"
 phone: ""
 opening_hours: ""
-website: "https://www.alessibakery.com/"
+website: https://www.alessibakery.com/

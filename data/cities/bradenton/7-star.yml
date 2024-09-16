@@ -1,11 +1,11 @@
 id: 244458123
-type: way
+type: node
 latitude: 27.4291
 longitude: -82.57429
 postcode: "34207"
 city: Bradenton
-street: "63rd Avenue West"
-housenumber: 1202
+street: 63rd Avenue West
+housenumber: "1202"
 phone: ""
 opening_hours: ""
 website: ""

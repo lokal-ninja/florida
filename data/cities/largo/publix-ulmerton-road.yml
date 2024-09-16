@@ -1,11 +1,11 @@
 id: 295729708
-type: way
+type: node
 latitude: 27.89391
 longitude: -82.78107
 postcode: "33771"
 city: Largo
-street: "Ulmerton Road"
-housenumber: 10500
-phone: "+1 727-518-0098"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1663"
+street: Ulmerton Road
+housenumber: "10500"
+phone: +1 727-518-0098
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1663

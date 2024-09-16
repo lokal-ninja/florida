@@ -1,11 +1,11 @@
 id: 895994376
-type: way
+type: node
 latitude: 27.49345
 longitude: -82.56218
 postcode: "34208"
 city: Bradenton
-street: "1st Street East"
-housenumber: 701
+street: 1st Street East
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

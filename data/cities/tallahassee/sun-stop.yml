@@ -1,11 +1,11 @@
 id: 1256313886
-type: way
+type: node
 latitude: 30.48727
 longitude: -84.1505
 postcode: "32317"
 city: Tallahassee
-street: "Summit Lake Drive"
-housenumber: 1535
-phone: "+1-850-558-2588"
+street: Summit Lake Drive
+housenumber: "1535"
+phone: +1-850-558-2588
 opening_hours: ""
 website: ""

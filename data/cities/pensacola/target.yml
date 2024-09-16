@@ -1,11 +1,11 @@
 id: 191655180
-type: way
+type: node
 latitude: 30.46914
 longitude: -87.20877
 postcode: "32503"
 city: Pensacola
-street: "Bayou Boulevard"
-housenumber: 4711
-phone: "+1 850-494-9070"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/pensacola/686"
+street: Bayou Boulevard
+housenumber: "4711"
+phone: +1 850-494-9070
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/pensacola/686

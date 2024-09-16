@@ -1,11 +1,11 @@
 id: 322994098
-type: way
+type: node
 latitude: 25.73453
 longitude: -80.26086
 postcode: "33146"
 city: Coral Gables
-street: "Southwest 40th Street"
-housenumber: 350
-phone: "+1 305-443-0500"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/fl/coral-gables/350-bird-rd-10491"
+street: Southwest 40th Street
+housenumber: "350"
+phone: +1 305-443-0500
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/fl/coral-gables/350-bird-rd-10491

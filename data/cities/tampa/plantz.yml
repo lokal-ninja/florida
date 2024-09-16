@@ -4,8 +4,8 @@ latitude: 27.96928
 longitude: -82.38435
 postcode: "33619"
 city: Tampa
-street: "Eugene Street"
-housenumber: 6202
-phone: "+1-813-258-1940"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.plantz.us/"
+street: Eugene Street
+housenumber: "6202"
+phone: +1-813-258-1940
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.plantz.us/

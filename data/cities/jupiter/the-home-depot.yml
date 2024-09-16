@@ -1,11 +1,11 @@
 id: 166553910
-type: way
+type: node
 latitude: 26.93241
 longitude: -80.12245
 postcode: "33458"
 city: Jupiter
-street: "West Indiantown Road"
-housenumber: 1694
-phone: "+1 561-747-6561"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Jupiter/FL/Jupiter/33458/274"
+street: West Indiantown Road
+housenumber: "1694"
+phone: +1 561-747-6561
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Jupiter/FL/Jupiter/33458/274

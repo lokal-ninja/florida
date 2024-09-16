@@ -1,11 +1,11 @@
 id: 964050064
-type: way
+type: node
 latitude: 26.75026
 longitude: -82.26206
 postcode: "33921"
 city: Boca Grande
-street: "4th Street West"
-housenumber: 428
-phone: "+ 941-964-2323"
-opening_hours: "Mo-Su 09:30-17:00"
-website: "https://www.facebook.com/fugates/"
+street: 4th Street West
+housenumber: "428"
+phone: + 941-964-2323
+opening_hours: Mo-Su 09:30-17:00
+website: https://www.facebook.com/fugates/

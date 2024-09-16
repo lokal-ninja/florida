@@ -3,9 +3,9 @@ type: node
 latitude: 26.73767
 longitude: -81.93505
 postcode: "33909"
-city: Cape Coral 
-street: "NE 20th CT "
-housenumber: 4304
+city: 'Cape Coral '
+street: 'NE 20th CT '
+housenumber: "4304"
 phone: ""
 opening_hours: ""
-website: "www.LawnMGT.com"
+website: www.LawnMGT.com

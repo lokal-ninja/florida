@@ -4,8 +4,8 @@ latitude: 30.41074
 longitude: -84.30386
 postcode: "32305"
 city: Tallahassee
-street: "Joes Rd"
-housenumber: 1120
-phone: "+1 -850-765-3715"
-opening_hours: "Monday-Friday: 8:30AM to 6:30PM, Saturday: 10:00AM to 1:00PM"
-website: "https://thespotpaintandbodyshop.com"
+street: Joes Rd
+housenumber: "1120"
+phone: +1 -850-765-3715
+opening_hours: 'Monday-Friday: 8:30AM to 6:30PM, Saturday: 10:00AM to 1:00PM'
+website: https://thespotpaintandbodyshop.com

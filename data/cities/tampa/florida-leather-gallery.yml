@@ -1,11 +1,11 @@
 id: 307057526
-type: way
+type: node
 latitude: 27.9451
 longitude: -82.33623
 postcode: "33619"
 city: Tampa
-street: "Adamo Drive"
-housenumber: 10020
-phone: "813-418-3109"
-opening_hours: "Mo-Sa 10:00-18:00;Su 12:00-17:00"
-website: "https://www.floridaleathergallery.com/"
+street: Adamo Drive
+housenumber: "10020"
+phone: 813-418-3109
+opening_hours: Mo-Sa 10:00-18:00;Su 12:00-17:00
+website: https://www.floridaleathergallery.com/

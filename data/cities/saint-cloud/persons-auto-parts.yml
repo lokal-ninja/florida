@@ -1,11 +1,11 @@
 id: 907103953
-type: way
+type: node
 latitude: 28.2455
 longitude: -81.28629
 postcode: "34769"
 city: Saint Cloud
-street: "Kentucky Avenue"
-housenumber: 1320
-phone: "+1 (407) 892-6000"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00; Su 09:00-14:00"
-website: "https://www.napaonline.com/en/fl/saint-cloud/store/25020?sdref=modal"
+street: Kentucky Avenue
+housenumber: "1320"
+phone: +1 (407) 892-6000
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00; Su 09:00-14:00
+website: https://www.napaonline.com/en/fl/saint-cloud/store/25020?sdref=modal

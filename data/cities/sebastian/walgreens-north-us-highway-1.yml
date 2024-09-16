@@ -1,11 +1,11 @@
 id: 765240454
-type: way
+type: node
 latitude: 27.76861
 longitude: -80.44568
 postcode: "32958"
 city: Sebastian
-street: "North US Highway 1"
-housenumber: 9595
-phone: "+1-772-589-5177"
-opening_hours: "07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-9595+n+us+highway+1-sebastian-fl-32958/id=6991"
+street: North US Highway 1
+housenumber: "9595"
+phone: +1-772-589-5177
+opening_hours: 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-9595+n+us+highway+1-sebastian-fl-32958/id=6991

@@ -1,11 +1,11 @@
 id: 341452949
-type: way
+type: node
 latitude: 27.79016
 longitude: -82.67828
 postcode: "33713"
 city: Saint Petersburg
-street: "34th Street North"
-housenumber: 2139
-phone: "+1 727-323-2900"
+street: 34th Street North
+housenumber: "2139"
+phone: +1 727-323-2900
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/saint%20petersburg/fl?search=2409"
+website: https://www.winndixie.com/storedetails/saint%20petersburg/fl?search=2409

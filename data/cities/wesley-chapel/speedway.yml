@@ -1,11 +1,11 @@
 id: 745992951
-type: way
+type: node
 latitude: 28.23573
 longitude: -82.34887
 postcode: "33543"
 city: Wesley Chapel
-street: "State Road 54"
-housenumber: 28232
+street: State Road 54
+housenumber: "28232"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Wesley-Chapel/28232-WESLEY-CHAPEL-BLVD"
+website: https://www.speedway.com/locations/FL/Wesley-Chapel/28232-WESLEY-CHAPEL-BLVD

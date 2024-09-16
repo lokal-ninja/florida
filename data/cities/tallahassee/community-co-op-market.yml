@@ -1,11 +1,11 @@
 id: 139560909
-type: way
+type: node
 latitude: 30.43631
 longitude: -84.26266
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 1235
-phone: "(866) 985-2667"
-opening_hours: "8:00-9:00"
-website: "https://www.communitycoopmarket.coop/"
+street: Apalachee Parkway
+housenumber: "1235"
+phone: (866) 985-2667
+opening_hours: 8:00-9:00
+website: https://www.communitycoopmarket.coop/

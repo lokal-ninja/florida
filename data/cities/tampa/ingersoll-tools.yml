@@ -1,11 +1,11 @@
 id: 523040852
-type: way
+type: node
 latitude: 27.9844
 longitude: -82.5681
 postcode: "33615"
 city: Tampa
-street: "Memorial Highway"
-housenumber: 5823
-phone: "+1 (813) 885-6975"
+street: Memorial Highway
+housenumber: "5823"
+phone: +1 (813) 885-6975
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 27.84544
 longitude: -82.64378
 postcode: "33702"
 city: Saint Petersburg
-street: "9th Street North"
-housenumber: 7999
-phone: "+1 727-578-2833"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/688"
+street: 9th Street North
+housenumber: "7999"
+phone: +1 727-578-2833
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/688

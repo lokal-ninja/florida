@@ -1,11 +1,11 @@
 id: 177167367
-type: way
+type: node
 latitude: 28.13804
 longitude: -81.63453
 postcode: "33844"
 city: Haines City
-street: "US Highway 27"
-housenumber: 37051
-phone: "+1 863-422-9116"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-haines-city/2702"
+street: US Highway 27
+housenumber: "37051"
+phone: +1 863-422-9116
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-haines-city/2702

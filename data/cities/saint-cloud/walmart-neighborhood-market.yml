@@ -1,11 +1,11 @@
 id: 891487541
-type: way
+type: node
 latitude: 28.22259
 longitude: -81.29382
 postcode: "34772"
 city: Saint Cloud
-street: "Nolte Road"
-housenumber: 2125
-phone: "+1 407-556-0995"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5265/saint-cloud-fl/whats-new"
+street: Nolte Road
+housenumber: "2125"
+phone: +1 407-556-0995
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5265/saint-cloud-fl/whats-new

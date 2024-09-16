@@ -1,11 +1,11 @@
 id: 464451608
-type: way
+type: node
 latitude: 28.56814
 longitude: -81.19626
-postcode: "32826-4759"
+postcode: 32826-4759
 city: Orlando
-street: "East Colonial Drive"
-housenumber: 12231
-phone: "+1 407-482-1244"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1440"
+street: East Colonial Drive
+housenumber: "12231"
+phone: +1 407-482-1244
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1440

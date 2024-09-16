@@ -1,11 +1,11 @@
 id: 383718905
-type: way
+type: node
 latitude: 27.26535
 longitude: -81.34606
 postcode: "33852"
 city: Lake Placid
-street: "Shoreline Drive"
-housenumber: 100
+street: Shoreline Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/fl/lake-placid/16041"
+website: https://www.dollargeneral.com/store-directory/fl/lake-placid/16041

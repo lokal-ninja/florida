@@ -1,11 +1,11 @@
 id: 963004975
-type: way
+type: node
 latitude: 27.58887
 longitude: -80.46294
 postcode: "32968"
 city: Vero Beach
-street: "66th Avenue Southwest"
-housenumber: 870
-phone: "+1-772-567-4749"
+street: 66th Avenue Southwest
+housenumber: "870"
+phone: +1-772-567-4749
 opening_hours: ""
-website: "https://www.audreysfeedandtack.com/"
+website: https://www.audreysfeedandtack.com/

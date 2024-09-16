@@ -4,8 +4,8 @@ latitude: 27.63772
 longitude: -80.4309
 postcode: "32960"
 city: Vero Beach
-street: "44th Avenue"
-housenumber: 1950
-phone: "+1-772-925-1505"
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://www.boostmobile.com"
+street: 44th Avenue
+housenumber: "1950"
+phone: +1-772-925-1505
+opening_hours: Mo-Sa 10:00-19:00; Su 10:00-18:00
+website: https://www.boostmobile.com

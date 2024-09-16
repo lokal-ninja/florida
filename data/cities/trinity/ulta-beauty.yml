@@ -1,11 +1,11 @@
 id: 920553845
-type: way
+type: node
 latitude: 28.20365
 longitude: -82.66771
 postcode: "34655"
 city: Trinity
-street: "Strength Avenue"
-housenumber: 8976
-phone: "+1 727-842-9036"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/trinity-fl-1335"
+street: Strength Avenue
+housenumber: "8976"
+phone: +1 727-842-9036
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/trinity-fl-1335

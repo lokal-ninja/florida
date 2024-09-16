@@ -1,11 +1,11 @@
 id: 322357830
-type: way
+type: node
 latitude: 28.8115
 longitude: -81.27385
 postcode: "32771"
 city: Sanford
-street: "W 1st Street"
-housenumber: 601
+street: W 1st Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

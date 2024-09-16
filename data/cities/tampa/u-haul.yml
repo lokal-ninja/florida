@@ -1,11 +1,11 @@
 id: 814749283
-type: way
+type: node
 latitude: 28.0135
 longitude: -82.61186
 postcode: "33635"
 city: Tampa
-street: "West Hillsborough Avenue"
-housenumber: 11401
+street: West Hillsborough Avenue
+housenumber: "11401"
 phone: ""
 opening_hours: ""
 website: ""

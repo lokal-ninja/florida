@@ -1,11 +1,11 @@
 id: 177369051
-type: way
+type: node
 latitude: 28.3558
 longitude: -81.67352
 postcode: "34714"
 city: Clermont
-street: "US Highway 27"
-housenumber: 550
-phone: "+1 352-536-2750"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5299/clermont-fl/whats-new"
+street: US Highway 27
+housenumber: "550"
+phone: +1 352-536-2750
+opening_hours: 24/7
+website: https://www.walmart.com/store/5299/clermont-fl/whats-new

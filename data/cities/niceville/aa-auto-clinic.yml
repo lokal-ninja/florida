@@ -1,11 +1,11 @@
 id: 546638347
-type: way
+type: node
 latitude: 30.51173
 longitude: -86.44938
 postcode: "32578"
 city: Niceville
-street: "John Sims Parkway"
-housenumber: 1595
+street: John Sims Parkway
+housenumber: "1595"
 phone: ""
 opening_hours: ""
-website: "https://autoclinicandautomotivesales.com/"
+website: https://autoclinicandautomotivesales.com/

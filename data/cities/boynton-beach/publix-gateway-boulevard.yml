@@ -1,11 +1,11 @@
 id: 439256744
-type: way
+type: node
 latitude: 26.55119
 longitude: -80.07391
 postcode: "33426"
 city: Boynton Beach
-street: "Gateway Boulevard"
-housenumber: 1005
-phone: "+1 561-732-6148"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1041"
+street: Gateway Boulevard
+housenumber: "1005"
+phone: +1 561-732-6148
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1041

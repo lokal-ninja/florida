@@ -1,11 +1,11 @@
 id: 396477134
-type: way
+type: node
 latitude: 25.79345
 longitude: -80.14244
 postcode: "33139"
 city: Miami Beach
-street: "West Avenue"
-housenumber: 1771
-phone: "+1 305-531-1050"
-opening_hours: "Mo-Th 08:30-19:30; Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-17:00"
-website: "https://www.officedepot.com/storelocator/fl/miami-beach/office-depot-2294"
+street: West Avenue
+housenumber: "1771"
+phone: +1 305-531-1050
+opening_hours: Mo-Th 08:30-19:30; Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-17:00
+website: https://www.officedepot.com/storelocator/fl/miami-beach/office-depot-2294

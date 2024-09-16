@@ -1,11 +1,11 @@
 id: 678565780
-type: way
+type: node
 latitude: 27.64982
 longitude: -80.42154
 postcode: "32966"
 city: Vero Beach
-street: "Flight Safety Drive"
-housenumber: 2813
-phone: "+1-772-469-4600"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.rosnermotorsports.com/"
+street: Flight Safety Drive
+housenumber: "2813"
+phone: +1-772-469-4600
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.rosnermotorsports.com/

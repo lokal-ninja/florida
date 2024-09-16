@@ -1,11 +1,11 @@
 id: 332610746
-type: way
+type: node
 latitude: 30.19267
 longitude: -84.37041
 postcode: "32327"
 city: Crawfordville
-street: "Crawfordville Highway"
-housenumber: 2629
-phone: "+1 850-926-2204"
-opening_hours: "07:00-22:00"
-website: "https://www.winndixie.com/storedetails/crawfordville/fl?search=186"
+street: Crawfordville Highway
+housenumber: "2629"
+phone: +1 850-926-2204
+opening_hours: 07:00-22:00
+website: https://www.winndixie.com/storedetails/crawfordville/fl?search=186

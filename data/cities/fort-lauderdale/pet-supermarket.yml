@@ -1,11 +1,11 @@
 id: 316330854
-type: way
+type: node
 latitude: 26.13787
 longitude: -80.13508
 postcode: "33304"
 city: Fort Lauderdale
-street: "Sunrise Boulevard"
-housenumber: 801
+street: Sunrise Boulevard
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

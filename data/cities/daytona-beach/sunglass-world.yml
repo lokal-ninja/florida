@@ -4,8 +4,8 @@ latitude: 29.19372
 longitude: -81.07273
 postcode: "32114"
 city: Daytona Beach
-street: "Daytona Boulevard"
-housenumber: 225
-phone: "+1 386 267 0151"
-opening_hours: "Mo 11:00-18:00, We 11:00-18:00, Fr-Sa 11:00-19:00, Su 12:00-19:00"
-website: "https://www.sunglassworld.net/stores/one-daytona/"
+street: Daytona Boulevard
+housenumber: "225"
+phone: +1 386 267 0151
+opening_hours: Mo 11:00-18:00, We 11:00-18:00, Fr-Sa 11:00-19:00, Su 12:00-19:00
+website: https://www.sunglassworld.net/stores/one-daytona/

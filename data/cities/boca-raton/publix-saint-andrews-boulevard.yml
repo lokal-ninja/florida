@@ -1,11 +1,11 @@
 id: 482121118
-type: way
+type: node
 latitude: 26.36229
 longitude: -80.13611
 postcode: "33433"
 city: Boca Raton
-street: "Saint Andrews Boulevard"
-housenumber: 21230
-phone: "+1 561-544-2422"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: Saint Andrews Boulevard
+housenumber: "21230"
+phone: +1 561-544-2422
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

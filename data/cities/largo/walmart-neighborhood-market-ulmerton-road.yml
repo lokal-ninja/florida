@@ -1,11 +1,11 @@
 id: 523961488
-type: way
+type: node
 latitude: 27.89333
 longitude: -82.76389
 postcode: "33771"
 city: Largo
-street: "Ulmerton Road"
-housenumber: 9020
-phone: "+1 727-431-5016"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4141/largo-fl"
+street: Ulmerton Road
+housenumber: "9020"
+phone: +1 727-431-5016
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4141/largo-fl

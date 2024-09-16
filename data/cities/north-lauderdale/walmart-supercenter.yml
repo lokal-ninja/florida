@@ -1,11 +1,11 @@
 id: 371910233
-type: way
+type: node
 latitude: 26.2057
 longitude: -80.22997
 postcode: "33068"
 city: North Lauderdale
-street: "West McNab Road"
-housenumber: 7900
-phone: "+1 954-726-3388"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1851/north-lauderdale-fl/whats-new"
+street: West McNab Road
+housenumber: "7900"
+phone: +1 954-726-3388
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1851/north-lauderdale-fl/whats-new

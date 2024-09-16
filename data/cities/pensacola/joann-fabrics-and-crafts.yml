@@ -1,11 +1,11 @@
 id: 354655707
-type: way
+type: node
 latitude: 30.49208
 longitude: -87.22531
 postcode: "32504"
 city: Pensacola
-street: "North Davis Highway"
-housenumber: 6601
-phone: "+1 850-473-3926"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/fl/pensacola/2109/"
+street: North Davis Highway
+housenumber: "6601"
+phone: +1 850-473-3926
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/fl/pensacola/2109/

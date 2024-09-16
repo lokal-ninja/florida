@@ -1,11 +1,11 @@
 id: 192575554
-type: way
+type: node
 latitude: 27.97142
 longitude: -82.72867
 postcode: "33765"
 city: Clearwater
-street: "US Highway 19 North"
-housenumber: 21799
-phone: "800-677-6099"
+street: US Highway 19 North
+housenumber: "21799"
+phone: 800-677-6099
 opening_hours: ""
-website: "https://www.clearwatertoyota.com/"
+website: https://www.clearwatertoyota.com/

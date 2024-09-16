@@ -1,11 +1,11 @@
 id: 56681423
-type: way
+type: node
 latitude: 30.43956
 longitude: -84.2555
 postcode: "32301"
 city: Tallahassee
-street: "Governors Square Boulevard"
-housenumber: 1604
+street: Governors Square Boulevard
+housenumber: "1604"
 phone: ""
 opening_hours: ""
-website: "http://www.kirklands.com"
+website: http://www.kirklands.com

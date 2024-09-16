@@ -1,11 +1,11 @@
 id: 595972037
-type: way
+type: node
 latitude: 30.32504
 longitude: -82.96444
 postcode: "32060"
 city: Live Oak
-street: "Us Highway 129"
-housenumber: 6868
-phone: "+1 386-330-2488"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2626/live-oak-fl/whats-new"
+street: Us Highway 129
+housenumber: "6868"
+phone: +1 386-330-2488
+opening_hours: 24/7
+website: https://www.walmart.com/store/2626/live-oak-fl/whats-new

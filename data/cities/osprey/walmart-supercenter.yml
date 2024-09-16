@@ -1,11 +1,11 @@
 id: 107040000
-type: way
+type: node
 latitude: 27.19232
 longitude: -82.48539
 postcode: "34229"
 city: Osprey
-street: "South Tamiami Trail"
-housenumber: 13140
-phone: "+1 941-918-1247"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5264/osprey-fl/whats-new"
+street: South Tamiami Trail
+housenumber: "13140"
+phone: +1 941-918-1247
+opening_hours: 24/7
+website: https://www.walmart.com/store/5264/osprey-fl/whats-new

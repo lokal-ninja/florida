@@ -1,11 +1,11 @@
 id: 1173210562
-type: way
+type: node
 latitude: 28.81032
 longitude: -81.31606
 postcode: "32771"
 city: Sanford
-street: "West 1st Street"
-housenumber: 3751
-phone: "+1 407-268-3421"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West 1st Street
+housenumber: "3751"
+phone: +1 407-268-3421
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

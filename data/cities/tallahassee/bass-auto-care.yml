@@ -1,11 +1,11 @@
 id: 406192172
-type: way
+type: node
 latitude: 30.46826
 longitude: -84.23127
 postcode: "32308"
 city: Tallahassee
-street: "Capital Circle Northeast"
-housenumber: 1836
+street: Capital Circle Northeast
+housenumber: "1836"
 phone: ""
 opening_hours: ""
 website: ""

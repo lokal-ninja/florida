@@ -1,11 +1,11 @@
 id: 795850971
-type: way
+type: node
 latitude: 29.65111
 longitude: -81.67116
 postcode: "32177"
 city: Palatka
-street: "North State Road 19"
-housenumber: 333
-phone: "+1 386-325-9496"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/333-n-state-road-19-palatka-32177?number=668"
+street: North State Road 19
+housenumber: "333"
+phone: +1 386-325-9496
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/333-n-state-road-19-palatka-32177?number=668

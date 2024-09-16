@@ -1,11 +1,11 @@
 id: 637574005
-type: way
+type: node
 latitude: 30.19876
 longitude: -85.82047
 postcode: "32407"
 city: Panama City Beach
-street: "Panama City Beach Parkway"
-housenumber: 11751
-phone: "+1 850-636-3920"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-panama-city-beach/2367"
+street: Panama City Beach Parkway
+housenumber: "11751"
+phone: +1 850-636-3920
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-panama-city-beach/2367

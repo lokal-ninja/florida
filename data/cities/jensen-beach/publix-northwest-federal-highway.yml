@@ -1,11 +1,11 @@
 id: 1036383442
-type: way
+type: node
 latitude: 27.25764
 longitude: -80.27763
 postcode: "34957"
 city: Jensen Beach
-street: "Northwest Federal Highway"
-housenumber: 4231
-phone: "+1 772-692-7090"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/682"
+street: Northwest Federal Highway
+housenumber: "4231"
+phone: +1 772-692-7090
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/682

@@ -1,11 +1,11 @@
 id: 952724652
-type: way
+type: node
 latitude: 29.05607
 longitude: -81.30391
 postcode: "32720"
 city: Deland
-street: "North Woodland Boulevard"
-housenumber: 1511
+street: North Woodland Boulevard
+housenumber: "1511"
 phone: ""
 opening_hours: ""
 website: ""

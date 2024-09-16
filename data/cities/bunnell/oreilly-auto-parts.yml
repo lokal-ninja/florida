@@ -1,11 +1,11 @@
 id: 489462343
-type: way
+type: node
 latitude: 29.47052
 longitude: -81.26551
 postcode: "32110"
 city: Bunnell
-street: "State Street"
-housenumber: 905
-phone: "+1-386-263-1040"
-opening_hours: "Mo-Sa 07:30-21:00, Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/fl/bunnell/autoparts-4830.html"
+street: State Street
+housenumber: "905"
+phone: +1-386-263-1040
+opening_hours: Mo-Sa 07:30-21:00, Su 08:00-20:00
+website: https://locations.oreillyauto.com/fl/bunnell/autoparts-4830.html

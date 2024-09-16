@@ -1,11 +1,11 @@
 id: 705829710
-type: way
+type: node
 latitude: 30.30692
 longitude: -81.86828
 postcode: "32221"
 city: Jacksonville
-street: "Halsema Road South"
-housenumber: 271
+street: Halsema Road South
+housenumber: "271"
 phone: ""
 opening_hours: ""
-website: "https://haletrailer.com/locations/jacksonville-fl/"
+website: https://haletrailer.com/locations/jacksonville-fl/

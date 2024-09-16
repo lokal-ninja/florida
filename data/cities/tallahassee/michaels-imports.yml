@@ -1,11 +1,11 @@
 id: 371179384
-type: way
+type: node
 latitude: 30.4635
 longitude: -84.28221
 postcode: "32303"
 city: Tallahassee
-street: "North Monroe Street"
-housenumber: 1745
+street: North Monroe Street
+housenumber: "1745"
 phone: ""
 opening_hours: ""
-website: "https://michaelsimports.biz/"
+website: https://michaelsimports.biz/

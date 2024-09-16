@@ -1,11 +1,11 @@
 id: 436040668
-type: way
+type: node
 latitude: 25.90761
 longitude: -80.17005
 postcode: "33161"
 city: North Miami
-street: "West Dixie Highway"
-housenumber: 14301
+street: West Dixie Highway
+housenumber: "14301"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/north-miami/14301-w-dixie-hwy"
+website: https://stores.advanceautoparts.com/fl/north-miami/14301-w-dixie-hwy

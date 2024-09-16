@@ -1,11 +1,11 @@
 id: 700694723
-type: way
+type: node
 latitude: 26.6721
 longitude: -80.24885
 postcode: "33414"
 city: Wellington
-street: "Forest Hill Boulevard"
-housenumber: 12797
-phone: "+1-561-793-0151"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 09:00-15:00"
-website: "https://www.schaeferdrugs.com/"
+street: Forest Hill Boulevard
+housenumber: "12797"
+phone: +1-561-793-0151
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 09:00-15:00
+website: https://www.schaeferdrugs.com/

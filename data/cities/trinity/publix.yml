@@ -1,11 +1,11 @@
 id: 330596194
-type: way
+type: node
 latitude: 28.20365
 longitude: -82.66432
 postcode: "34655"
 city: Trinity
-street: "Little Road"
-housenumber: 3100
-phone: "+1 727-375-1526"
-opening_hours: "Mo-Su 07:30-22:00"
-website: "https://www.publix.com/locations/873-mitchell-ranch-plaza"
+street: Little Road
+housenumber: "3100"
+phone: +1 727-375-1526
+opening_hours: Mo-Su 07:30-22:00
+website: https://www.publix.com/locations/873-mitchell-ranch-plaza

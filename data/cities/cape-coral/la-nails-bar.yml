@@ -1,11 +1,11 @@
 id: 363386589
-type: way
+type: node
 latitude: 26.60228
 longitude: -81.97512
 postcode: "33914"
 city: Cape Coral
-street: "Santa Barbara Boulevard"
-housenumber: 2708
-phone: "+1 239-541-8609"
+street: Santa Barbara Boulevard
+housenumber: "2708"
+phone: +1 239-541-8609
 opening_hours: ""
 website: ""

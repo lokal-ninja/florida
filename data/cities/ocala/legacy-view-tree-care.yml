@@ -4,8 +4,8 @@ latitude: 29.16372
 longitude: -82.16786
 postcode: "34471"
 city: Ocala
-street: "SW 27th Ave"
-housenumber: 2497
-phone: "352-605-6478"
-opening_hours: "Mon - Sun : 8:00 AM  6:00 PM"
-website: "https://legacyviewtreecare.net/"
+street: SW 27th Ave
+housenumber: "2497"
+phone: 352-605-6478
+opening_hours: 'Mon - Sun : 8:00 AM  6:00 PM'
+website: https://legacyviewtreecare.net/

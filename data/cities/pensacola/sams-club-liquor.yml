@@ -1,11 +1,11 @@
 id: 353740514
-type: way
+type: node
 latitude: 30.48289
 longitude: -87.21528
 postcode: "32504"
 city: Pensacola
-street: "Airport Boulevard"
-housenumber: 1250
-phone: "+1 850-484-7508"
+street: Airport Boulevard
+housenumber: "1250"
+phone: +1 850-484-7508
 opening_hours: ""
-website: "http://www3.samsclub.com/clublocator/club_detail.aspx?myClub=8119"
+website: http://www3.samsclub.com/clublocator/club_detail.aspx?myClub=8119

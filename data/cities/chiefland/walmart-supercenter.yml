@@ -1,11 +1,11 @@
 id: 186582595
-type: way
+type: node
 latitude: 29.50309
 longitude: -82.86734
 postcode: "32626"
 city: Chiefland
-street: "North Young Boulevard"
-housenumber: 2201
-phone: "+1 352-493-0758"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1297/chiefland-fl/whats-new"
+street: North Young Boulevard
+housenumber: "2201"
+phone: +1 352-493-0758
+opening_hours: 24/7
+website: https://www.walmart.com/store/1297/chiefland-fl/whats-new

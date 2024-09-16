@@ -1,11 +1,11 @@
 id: 506086072
-type: way
+type: node
 latitude: 27.63989
 longitude: -80.46055
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 6500
-phone: "+1-772-778-5600"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-18:00"
-website: "https://www.roomstogo.com"
+street: 20th Street
+housenumber: "6500"
+phone: +1-772-778-5600
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-18:00
+website: https://www.roomstogo.com

@@ -1,11 +1,11 @@
 id: 230559899
-type: way
+type: node
 latitude: 30.37091
 longitude: -87.17662
 postcode: "32561"
 city: Gulf Breeze
-street: "Gulf Breeze Parkway"
-housenumber: 54
+street: Gulf Breeze Parkway
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 680399411
-type: way
+type: node
 latitude: 30.54535
 longitude: -83.86534
 postcode: "32344"
 city: Monticello
-street: "East Washington Street"
-housenumber: 690
+street: East Washington Street
+housenumber: "690"
 phone: ""
 opening_hours: ""
 website: ""

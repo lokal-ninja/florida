@@ -1,11 +1,11 @@
 id: 753149764
-type: way
+type: node
 latitude: 28.47717
 longitude: -82.4857
 postcode: "34609"
 city: Spring Hill
-street: "Spring Hill Drive"
-housenumber: 14344
-phone: "+1 352-587-6950"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/6207-spring-hill-fl"
+street: Spring Hill Drive
+housenumber: "14344"
+phone: +1 352-587-6950
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/6207-spring-hill-fl

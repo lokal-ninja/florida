@@ -1,11 +1,11 @@
 id: 314060697
-type: way
+type: node
 latitude: 25.82469
 longitude: -80.20195
 postcode: "33127"
 city: Miami
-street: "Northwest 54th Street"
-housenumber: 294
+street: Northwest 54th Street
+housenumber: "294"
 phone: ""
 opening_hours: ""
 website: ""

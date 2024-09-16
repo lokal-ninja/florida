@@ -1,11 +1,11 @@
 id: 560541172
-type: way
+type: node
 latitude: 28.55645
 longitude: -81.11504
 postcode: "32820"
 city: Orlando
-street: "East Colonial Drive"
-housenumber: 17821
-phone: "407-568-6835"
+street: East Colonial Drive
+housenumber: "17821"
+phone: 407-568-6835
 opening_hours: ""
 website: ""

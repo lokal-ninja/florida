@@ -4,8 +4,8 @@ latitude: 27.7722
 longitude: -82.64407
 postcode: "33701"
 city: Saint Petersburg
-street: "1st Avenue North"
-housenumber: 701
-phone: "+1 727-755-3499"
-opening_hours: "Mo-Su 11:00-20:00"
-website: "https://stpetegadgetfix.com/"
+street: 1st Avenue North
+housenumber: "701"
+phone: +1 727-755-3499
+opening_hours: Mo-Su 11:00-20:00
+website: https://stpetegadgetfix.com/

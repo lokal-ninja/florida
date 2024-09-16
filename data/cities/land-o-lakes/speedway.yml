@@ -1,11 +1,11 @@
 id: 427643375
-type: way
+type: node
 latitude: 28.321
 longitude: -82.50222
 postcode: "34638"
 city: Land O Lakes
-street: "Land O Lakes Boulevard"
-housenumber: 11224
+street: Land O Lakes Boulevard
+housenumber: "11224"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Land-O'-Lakes/11210-LAND-O'LAKES-BLVD"
+website: https://www.speedway.com/locations/FL/Land-O'-Lakes/11210-LAND-O'LAKES-BLVD

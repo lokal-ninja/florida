@@ -4,8 +4,8 @@ latitude: 26.35949
 longitude: -80.13681
 postcode: "33433"
 city: Boca Raton
-street: "Saint Andrews Boulevard"
-housenumber: 21330
-phone: "(561) 447-9506"
-opening_hours: "Mo,Fr,Sa 09:00-17:00; Tu,We,Th 09:00-20:00"
-website: "https://greenroomsalon.com/"
+street: Saint Andrews Boulevard
+housenumber: "21330"
+phone: (561) 447-9506
+opening_hours: Mo,Fr,Sa 09:00-17:00; Tu,We,Th 09:00-20:00
+website: https://greenroomsalon.com/

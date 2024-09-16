@@ -1,11 +1,11 @@
 id: 672191925
-type: way
+type: node
 latitude: 28.14937
 longitude: -82.5799
 postcode: "33556"
 city: Odessa
-street: "Gunn Highway"
-housenumber: 18820
-phone: "+1 (813) 920-0005"
-opening_hours: "Su-Mo 05:00-23:00; Fr-Sa 05:00-24:00"
-website: "http://gas-stations.citgo.com/FL/ODESSA/33556/18820-GUNN-HWY"
+street: Gunn Highway
+housenumber: "18820"
+phone: +1 (813) 920-0005
+opening_hours: Su-Mo 05:00-23:00; Fr-Sa 05:00-24:00
+website: http://gas-stations.citgo.com/FL/ODESSA/33556/18820-GUNN-HWY

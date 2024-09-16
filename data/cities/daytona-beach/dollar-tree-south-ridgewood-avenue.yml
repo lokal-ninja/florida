@@ -1,11 +1,11 @@
 id: 697512758
-type: way
+type: node
 latitude: 29.18454
 longitude: -81.00792
 postcode: "32114"
 city: Daytona Beach
-street: "South Ridgewood Avenue"
-housenumber: 1541
+street: South Ridgewood Avenue
+housenumber: "1541"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/fl/daytona-beach/6265/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/fl/daytona-beach/6265/

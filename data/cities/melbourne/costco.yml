@@ -1,11 +1,11 @@
 id: 1165380348
-type: way
+type: node
 latitude: 28.18983
 longitude: -80.71824
 postcode: "32940"
 city: Melbourne
-street: "Pineda Causeway"
-housenumber: 4305
-phone: "+1 321-428-2910"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/melbourne-fl-1450.html"
+street: Pineda Causeway
+housenumber: "4305"
+phone: +1 321-428-2910
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/melbourne-fl-1450.html

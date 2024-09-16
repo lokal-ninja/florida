@@ -4,8 +4,8 @@ latitude: 30.25835
 longitude: -81.39178
 postcode: "32250"
 city: Jacksonville Beach
-street: "3rd Street South"
-housenumber: 3928
-phone: "+1 904-247-6895"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/jacksonville-beach-fl-1010"
+street: 3rd Street South
+housenumber: "3928"
+phone: +1 904-247-6895
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/jacksonville-beach-fl-1010

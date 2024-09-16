@@ -1,11 +1,11 @@
 id: 926456618
-type: way
+type: node
 latitude: 29.12779
 longitude: -81.00671
 postcode: "32129"
 city: Port Orange
-street: "Dunlawton Avenue"
-housenumber: 1031
-phone: "+1 386-763-5503"
-opening_hours: "24/7"
-website: "https://www.wawa.com/stores/5172/fl-port-orange-1031-dunlawton-ave"
+street: Dunlawton Avenue
+housenumber: "1031"
+phone: +1 386-763-5503
+opening_hours: 24/7
+website: https://www.wawa.com/stores/5172/fl-port-orange-1031-dunlawton-ave

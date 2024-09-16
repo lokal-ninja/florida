@@ -1,11 +1,11 @@
 id: 47515348
-type: way
+type: node
 latitude: 28.51494
 longitude: -81.48402
 postcode: "32835"
 city: Orlando
-street: "Hiawassee Road"
-housenumber: 2435
-phone: "+1 407-294-7104"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/276"
+street: Hiawassee Road
+housenumber: "2435"
+phone: +1 407-294-7104
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/276

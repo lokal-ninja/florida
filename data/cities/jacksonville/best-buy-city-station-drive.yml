@@ -1,11 +1,11 @@
 id: 567606449
-type: way
+type: node
 latitude: 30.4754
 longitude: -81.64261
 postcode: "32218"
 city: Jacksonville
-street: "City Station Drive"
-housenumber: 13141
-phone: "+1 904-714-6087"
+street: City Station Drive
+housenumber: "13141"
+phone: +1 904-714-6087
 opening_hours: ""
-website: "https://stores.bestbuy.com/fl/jacksonville/13141-city-station-dr-1475.html"
+website: https://stores.bestbuy.com/fl/jacksonville/13141-city-station-dr-1475.html

@@ -1,11 +1,11 @@
 id: 523042286
-type: way
+type: node
 latitude: 27.99549
 longitude: -82.57892
 postcode: "33615"
 city: Tampa
-street: "West Hillsborough Avenue"
-housenumber: 8464
-phone: "+1 813-888-6664"
-opening_hours: "Mo-Th 09:30-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00"
+street: West Hillsborough Avenue
+housenumber: "8464"
+phone: +1 813-888-6664
+opening_hours: Mo-Th 09:30-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00
 website: ""

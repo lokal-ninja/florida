@@ -1,11 +1,11 @@
 id: 659594856
-type: way
+type: node
 latitude: 26.54837
 longitude: -81.84274
 postcode: "33912"
 city: Fort Myers
-street: "Daniels Parkway"
-housenumber: 6891
-phone: "+1 239-935-6550"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/fortmyers"
+street: Daniels Parkway
+housenumber: "6891"
+phone: +1 239-935-6550
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/fortmyers

@@ -1,11 +1,11 @@
 id: 827070978
-type: way
+type: node
 latitude: 30.48401
 longitude: -87.25592
 postcode: "32505"
 city: Pensacola
-street: "Pensacola Boulevard"
-housenumber: 6450
+street: Pensacola Boulevard
+housenumber: "6450"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00; Sa 09:00-19:00; Su 12:00-19:00"
-website: "https://www.carmax.com/stores/6061"
+opening_hours: Mo-Fr 11:00-20:00; Sa 09:00-19:00; Su 12:00-19:00
+website: https://www.carmax.com/stores/6061

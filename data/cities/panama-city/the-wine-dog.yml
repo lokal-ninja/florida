@@ -1,11 +1,11 @@
 id: 636947640
-type: way
+type: node
 latitude: 30.15637
 longitude: -85.6605
 postcode: "32401"
 city: Panama City
-street: "Harrison Avenue"
-housenumber: 461
+street: Harrison Avenue
+housenumber: "461"
 phone: ""
 opening_hours: ""
 website: ""

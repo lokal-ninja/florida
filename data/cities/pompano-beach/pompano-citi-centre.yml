@@ -1,11 +1,11 @@
 id: 315575115
-type: way
+type: node
 latitude: 26.25891
 longitude: -80.10602
 postcode: "33062"
 city: Pompano Beach
-street: "North Federal Highway"
-housenumber: 1955
+street: North Federal Highway
+housenumber: "1955"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 831560153
-type: way
+type: node
 latitude: 28.23749
 longitude: -82.66779
-postcode: "34655-1294"
+postcode: 34655-1294
 city: New Port Richey
-street: "Little Road"
-housenumber: 5324
-phone: "+1 727-375-5377"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/643"
+street: Little Road
+housenumber: "5324"
+phone: +1 727-375-5377
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/643

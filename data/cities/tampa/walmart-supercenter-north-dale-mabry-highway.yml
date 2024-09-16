@@ -1,11 +1,11 @@
 id: 523995659
-type: way
+type: node
 latitude: 28.02305
 longitude: -82.50674
 postcode: "33614"
 city: Tampa
-street: "North Dale Mabry Highway"
-housenumber: 8220
-phone: "+1 813-887-5175"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5220/tampa-fl/whats-new"
+street: North Dale Mabry Highway
+housenumber: "8220"
+phone: +1 813-887-5175
+opening_hours: 24/7
+website: https://www.walmart.com/store/5220/tampa-fl/whats-new

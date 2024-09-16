@@ -4,8 +4,8 @@ latitude: 25.79031
 longitude: -80.14014
 postcode: "33139"
 city: Miami Beach
-street: "Lincoln Road"
-housenumber: 1100
-phone: "+1 305 534 4706"
-opening_hours: "Mo-Sa 11:00-22:00; Su 12:00-21:00"
-website: "https://www.bananarepublic.com/products/miami-beach-fl-store-8499.jsp"
+street: Lincoln Road
+housenumber: "1100"
+phone: +1 305 534 4706
+opening_hours: Mo-Sa 11:00-22:00; Su 12:00-21:00
+website: https://www.bananarepublic.com/products/miami-beach-fl-store-8499.jsp

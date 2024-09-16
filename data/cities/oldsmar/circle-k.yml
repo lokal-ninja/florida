@@ -1,11 +1,11 @@
 id: 543399915
-type: way
+type: node
 latitude: 28.03467
 longitude: -82.64912
 postcode: "34677"
 city: Oldsmar
-street: "Tampa Road"
-housenumber: 5025
+street: Tampa Road
+housenumber: "5025"
 phone: ""
 opening_hours: ""
 website: ""

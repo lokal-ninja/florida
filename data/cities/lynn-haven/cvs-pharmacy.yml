@@ -1,11 +1,11 @@
 id: 744628936
-type: way
+type: node
 latitude: 30.23865
 longitude: -85.64785
 postcode: "32444"
 city: Lynn Haven
-street: "Ohio Ave"
-housenumber: 1317
+street: Ohio Ave
+housenumber: "1317"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.cvs.com/store-locator/lynn-haven-fl-pharmacies/1317-ohio-ave-lynn-haven-fl-32444/storeid=3667"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.cvs.com/store-locator/lynn-haven-fl-pharmacies/1317-ohio-ave-lynn-haven-fl-32444/storeid=3667

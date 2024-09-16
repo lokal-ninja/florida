@@ -1,11 +1,11 @@
 id: 117369050
-type: way
+type: node
 latitude: 28.14562
 longitude: -82.35551
-postcode: "33647-2434"
+postcode: 33647-2434
 city: Tampa
-street: "Bruce B. Downs Boulevard"
-housenumber: 19034
-phone: "+1 813-631-1911"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/584"
+street: Bruce B. Downs Boulevard
+housenumber: "19034"
+phone: +1 813-631-1911
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/584

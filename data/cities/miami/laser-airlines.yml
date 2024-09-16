@@ -4,8 +4,8 @@ latitude: 25.79329
 longitude: -80.27414
 postcode: "33142"
 city: Miami
-street: "Northwest 42nd Avenue"
-housenumber: 2100
-phone: "+1 305 602-4617"
-opening_hours: "Mo-Su 07:00-17:00"
+street: Northwest 42nd Avenue
+housenumber: "2100"
+phone: +1 305 602-4617
+opening_hours: Mo-Su 07:00-17:00
 website: ""

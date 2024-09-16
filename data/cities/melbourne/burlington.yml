@@ -1,11 +1,11 @@
 id: 177233346
-type: way
+type: node
 latitude: 28.08198
 longitude: -80.65527
 postcode: "32901"
 city: Melbourne
-street: "Evans Road"
-housenumber: 1750
-phone: "+1 321-722-4256"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/fl/melbourne/1064"
+street: Evans Road
+housenumber: "1750"
+phone: +1 321-722-4256
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:00
+website: https://stores.burlington.com/fl/melbourne/1064

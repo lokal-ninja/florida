@@ -1,11 +1,11 @@
 id: 368696290
-type: way
+type: node
 latitude: 29.14199
 longitude: -82.19141
 postcode: "34474"
 city: Ocala
-street: "Southwest College Road"
-housenumber: 4414
-phone: "+1 352-237-7672"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/ocala/373/"
+street: Southwest College Road
+housenumber: "4414"
+phone: +1 352-237-7672
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/ocala/373/

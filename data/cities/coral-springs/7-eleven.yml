@@ -1,11 +1,11 @@
 id: 535379370
-type: way
+type: node
 latitude: 26.29879
 longitude: -80.24954
 postcode: "33067"
 city: Coral Springs
-street: "University Drive"
-housenumber: 5615
+street: University Drive
+housenumber: "5615"
 phone: ""
 opening_hours: ""
 website: ""

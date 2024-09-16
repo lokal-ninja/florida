@@ -1,11 +1,11 @@
 id: 630242545
-type: way
+type: node
 latitude: 30.47054
 longitude: -84.28897
 postcode: "32303"
 city: Tallahassee
-street: "North Monroe Street"
-housenumber: 2241
+street: North Monroe Street
+housenumber: "2241"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/fl/tallahassee/2241-north-monroe-street"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/fl/tallahassee/2241-north-monroe-street

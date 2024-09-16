@@ -1,11 +1,11 @@
 id: 292012263
-type: way
+type: node
 latitude: 27.85784
 longitude: -82.32756
 postcode: "33578"
 city: Riverview
-street: "Gibsonton Drive"
-housenumber: 10624
-phone: "+1 (813) 671-3389"
-opening_hours: "Mo-Su 07:00-23:59"
-website: "https://www.walgreens.com/locator/walgreens-10624+gibsonton+dr-riverview-fl-33578/id=9475"
+street: Gibsonton Drive
+housenumber: "10624"
+phone: +1 (813) 671-3389
+opening_hours: Mo-Su 07:00-23:59
+website: https://www.walgreens.com/locator/walgreens-10624+gibsonton+dr-riverview-fl-33578/id=9475

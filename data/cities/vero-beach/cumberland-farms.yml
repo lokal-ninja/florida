@@ -1,11 +1,11 @@
 id: 598985165
-type: way
+type: node
 latitude: 27.58808
 longitude: -80.41377
 postcode: "32968"
 city: Vero Beach
-street: "27th Avenue Southwest"
-housenumber: 880
+street: 27th Avenue Southwest
+housenumber: "880"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

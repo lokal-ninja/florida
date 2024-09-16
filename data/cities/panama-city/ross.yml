@@ -1,11 +1,11 @@
 id: 755472368
-type: way
+type: node
 latitude: 30.19123
 longitude: -85.65319
 postcode: "32405"
 city: Panama City
-street: "East 23rd Street"
-housenumber: 419
-phone: "+1 850-763-0353"
-opening_hours: "Mo-Th 09:00-22:30; Fr-Sa 08:30-23:00; Su 09:00-22:00"
+street: East 23rd Street
+housenumber: "419"
+phone: +1 850-763-0353
+opening_hours: Mo-Th 09:00-22:30; Fr-Sa 08:30-23:00; Su 09:00-22:00
 website: ""

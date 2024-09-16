@@ -1,11 +1,11 @@
 id: 617515037
-type: way
+type: node
 latitude: 30.51868
 longitude: -86.4789
 postcode: "32578"
 city: Niceville
-street: "John Sims Parkway"
-housenumber: 795
-phone: "+1 850 376 9140"
+street: John Sims Parkway
+housenumber: "795"
+phone: +1 850 376 9140
 opening_hours: ""
-website: "http://www.secondamendmentshooting.com/"
+website: http://www.secondamendmentshooting.com/

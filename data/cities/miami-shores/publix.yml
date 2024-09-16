@@ -1,11 +1,11 @@
 id: 290631079
-type: way
+type: node
 latitude: 25.85902
 longitude: -80.18491
 postcode: "33138"
 city: Miami Shores
-street: "Biscayne Boulevard"
-housenumber: 9050
-phone: "+1 305-751-4075"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/794"
+street: Biscayne Boulevard
+housenumber: "9050"
+phone: +1 305-751-4075
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/794

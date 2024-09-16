@@ -1,11 +1,11 @@
 id: 331548530
-type: way
+type: node
 latitude: 28.44916
 longitude: -81.47046
 postcode: "32819"
 city: Orlando
-street: "International Drive"
-housenumber: 8021
-phone: "+1 407 352 7071"
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-8021+international+dr-orlando-fl-32819/id=15500"
+street: International Drive
+housenumber: "8021"
+phone: +1 407 352 7071
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-8021+international+dr-orlando-fl-32819/id=15500

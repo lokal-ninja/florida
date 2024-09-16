@@ -1,11 +1,11 @@
 id: 617726201
-type: way
+type: node
 latitude: 30.29072
 longitude: -81.71416
 postcode: "32205"
 city: Jacksonville
-street: "Herschel Street"
-housenumber: 4048
-phone: "+1-904-389-6659"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.rayware.com/index.html"
+street: Herschel Street
+housenumber: "4048"
+phone: +1-904-389-6659
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.rayware.com/index.html

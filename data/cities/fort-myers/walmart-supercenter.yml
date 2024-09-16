@@ -1,11 +1,11 @@
 id: 163784027
-type: way
+type: node
 latitude: 26.61152
 longitude: -81.8148
 postcode: "33966"
 city: Fort Myers
-street: "Colonial Boulevard"
-housenumber: 4770
-phone: "+1 239-274-2920"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5034-fort-myers-fl"
+street: Colonial Boulevard
+housenumber: "4770"
+phone: +1 239-274-2920
+opening_hours: 24/7
+website: https://www.walmart.com/store/5034-fort-myers-fl

@@ -1,11 +1,11 @@
 id: 482332834
-type: way
+type: node
 latitude: 29.19217
 longitude: -81.07498
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 1900
-phone: "+1 386-254-7555"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/fl/daytona-beach-store0311.html"
+street: International Speedway Boulevard
+housenumber: "1900"
+phone: +1 386-254-7555
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/fl/daytona-beach-store0311.html

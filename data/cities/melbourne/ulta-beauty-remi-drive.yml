@@ -4,8 +4,8 @@ latitude: 28.23734
 longitude: -80.72655
 postcode: "32940"
 city: Melbourne
-street: "Remi Drive"
-housenumber: 2304
-phone: "+1 321-631-8613"
-opening_hours: "Mo-We 10:00-20:00; Th-Fr 10:00-21:00; Sa 10:00-18:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/viera-fl-1012"
+street: Remi Drive
+housenumber: "2304"
+phone: +1 321-631-8613
+opening_hours: Mo-We 10:00-20:00; Th-Fr 10:00-21:00; Sa 10:00-18:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/viera-fl-1012

@@ -1,11 +1,11 @@
 id: 141104354
-type: way
+type: node
 latitude: 30.43628
 longitude: -84.26153
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 1313
+street: Apalachee Parkway
+housenumber: "1313"
 phone: ""
 opening_hours: ""
-website: "http://www.vitaminshoppe.com/"
+website: http://www.vitaminshoppe.com/

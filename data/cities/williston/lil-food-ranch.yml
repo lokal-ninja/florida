@@ -1,11 +1,11 @@
 id: 428734565
-type: way
+type: node
 latitude: 29.41027
 longitude: -82.53992
 postcode: "32696"
 city: Williston
-street: "Northeast 140th Court"
-housenumber: 5250
-phone: "+1 352 528 6555"
+street: Northeast 140th Court
+housenumber: "5250"
+phone: +1 352 528 6555
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 705027752
-type: way
+type: node
 latitude: 30.75199
 longitude: -86.56479
 postcode: ""
 city: Crestview
-street: "West Cane Avenue"
-housenumber: 200
+street: West Cane Avenue
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

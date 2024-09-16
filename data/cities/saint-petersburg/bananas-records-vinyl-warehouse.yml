@@ -1,11 +1,11 @@
 id: 525641723
-type: way
+type: node
 latitude: 27.7871
 longitude: -82.66367
 postcode: "33713"
 city: Saint Petersburg
-street: "16th Avenue North"
-housenumber: 2226
+street: 16th Avenue North
+housenumber: "2226"
 phone: ""
 opening_hours: ""
 website: ""

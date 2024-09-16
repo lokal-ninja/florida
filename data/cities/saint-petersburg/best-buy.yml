@@ -1,11 +1,11 @@
 id: 191627793
-type: way
+type: node
 latitude: 27.79072
 longitude: -82.73089
 postcode: "33710"
 city: Saint Petersburg
-street: "22nd Avenue North"
-housenumber: 6600
-phone: "+1 727-381-5223"
+street: 22nd Avenue North
+housenumber: "6600"
+phone: +1 727-381-5223
 opening_hours: ""
-website: "https://stores.bestbuy.com/fl/saint-petersburg/6600-22nd-avenue-n-565.html"
+website: https://stores.bestbuy.com/fl/saint-petersburg/6600-22nd-avenue-n-565.html

@@ -4,8 +4,8 @@ latitude: 25.73431
 longitude: -80.33453
 postcode: "33155"
 city: Miami
-street: "Bird Road"
-housenumber: 8605
-phone: "+1 305-228-1162"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/miami/office-depot-2815"
+street: Bird Road
+housenumber: "8605"
+phone: +1 305-228-1162
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/miami/office-depot-2815

@@ -4,8 +4,8 @@ latitude: 29.10337
 longitude: -81.03699
 postcode: "32128"
 city: Port Orange
-street: "Taylor Road"
-housenumber: 1710
-phone: "386-317-3095"
-opening_hours: "Mo-Sa 07:30-22:00, Su 7:30-21:00"
-website: "https://www.autozone.com/locations/fl/port-orange/1710-taylor-rd.html"
+street: Taylor Road
+housenumber: "1710"
+phone: 386-317-3095
+opening_hours: Mo-Sa 07:30-22:00, Su 7:30-21:00
+website: https://www.autozone.com/locations/fl/port-orange/1710-taylor-rd.html

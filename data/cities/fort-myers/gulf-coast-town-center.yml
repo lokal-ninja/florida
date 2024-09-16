@@ -1,11 +1,11 @@
 id: 210912546
-type: way
+type: node
 latitude: 26.49245
 longitude: -81.79054
 postcode: "33913"
 city: Fort Myers
-street: "Gulf Coast Main Street"
-housenumber: 9903
+street: Gulf Coast Main Street
+housenumber: "9903"
 phone: ""
 opening_hours: ""
 website: ""

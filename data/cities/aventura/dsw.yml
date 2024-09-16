@@ -1,11 +1,11 @@
 id: 763932611
-type: way
+type: node
 latitude: 25.95281
 longitude: -80.14477
 postcode: "33180"
 city: Aventura
-street: "Biscayne Boulevard"
-housenumber: 19135
-phone: "+1 305-932-1991"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://stores.dsw.com/usa/fl/aventura/dsw-designer-shoe-warehouse-biscayne-boulevard-plaza.html"
+street: Biscayne Boulevard
+housenumber: "19135"
+phone: +1 305-932-1991
+opening_hours: Mo-Su 10:00-20:00
+website: https://stores.dsw.com/usa/fl/aventura/dsw-designer-shoe-warehouse-biscayne-boulevard-plaza.html

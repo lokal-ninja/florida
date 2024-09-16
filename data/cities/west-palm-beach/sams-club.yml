@@ -4,8 +4,8 @@ latitude: 26.7623
 longitude: -80.10516
 postcode: "33407"
 city: West Palm Beach
-street: "45th Street"
-housenumber: 4295
-phone: "+1 561-687-0098"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/w-palm-beach-fl-sams-club/8157"
+street: 45th Street
+housenumber: "4295"
+phone: +1 561-687-0098
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/w-palm-beach-fl-sams-club/8157

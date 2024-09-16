@@ -1,11 +1,11 @@
 id: 211816199
-type: way
+type: node
 latitude: 30.46128
 longitude: -84.28059
 postcode: "32303"
 city: Tallahssee
-street: "North Monroe Street"
-housenumber: 1637
+street: North Monroe Street
+housenumber: "1637"
 phone: ""
 opening_hours: ""
-website: "http://www.joesbikeshop.net"
+website: http://www.joesbikeshop.net

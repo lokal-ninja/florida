@@ -1,11 +1,11 @@
 id: 262391382
-type: way
+type: node
 latitude: 28.45148
 longitude: -81.38572
 postcode: "32809"
 city: Orlando
-street: "West Sand Lake Road"
-housenumber: 765
-phone: "+1 833-547-4023"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/orlando/765-w-sandlake-rd"
+street: West Sand Lake Road
+housenumber: "765"
+phone: +1 833-547-4023
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/orlando/765-w-sandlake-rd

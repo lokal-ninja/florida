@@ -1,11 +1,11 @@
 id: 97673275
-type: way
+type: node
 latitude: 27.03393
 longitude: -82.21566
 postcode: "34287"
 city: North Port
-street: "Tamiami Trail"
-housenumber: 18000
-phone: "+1 941-240-5935"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/North-Port/FL/North-Port/34287/8528"
+street: Tamiami Trail
+housenumber: "18000"
+phone: +1 941-240-5935
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/North-Port/FL/North-Port/34287/8528

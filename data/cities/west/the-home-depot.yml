@@ -1,11 +1,11 @@
 id: 244212687
-type: way
+type: node
 latitude: 27.4639
 longitude: -82.58529
 postcode: "34207"
 city: West
-street: "Cortez Road"
-housenumber: 2350
-phone: "+1 941-753-7777"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/bradenton/fl/bradenton/34207/244"
+street: Cortez Road
+housenumber: "2350"
+phone: +1 941-753-7777
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/bradenton/fl/bradenton/34207/244

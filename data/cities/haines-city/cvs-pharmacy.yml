@@ -1,11 +1,11 @@
 id: 176994720
-type: way
+type: node
 latitude: 28.12099
 longitude: -81.63917
 postcode: "33844"
 city: Haines City
-street: "US 27 (FL)"
-housenumber: 35799
+street: US 27 (FL)
+housenumber: "35799"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/haines-city-fl-pharmacies/35799-hwy-27-haines-city-fl-33844/storeid=511"
+website: https://www.cvs.com/store-locator/haines-city-fl-pharmacies/35799-hwy-27-haines-city-fl-33844/storeid=511

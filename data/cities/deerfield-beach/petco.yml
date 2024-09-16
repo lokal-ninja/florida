@@ -1,11 +1,11 @@
 id: 480677891
-type: way
+type: node
 latitude: 26.3198
 longitude: -80.14915
 postcode: "33442"
 city: Deerfield Beach
-street: "West Hillsboro Boulevard"
-housenumber: 3551
-phone: "+1 954-570-8913"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/fl/deerfieldbeach/pet-supplies-deerfieldbeach-fl-1587.html"
+street: West Hillsboro Boulevard
+housenumber: "3551"
+phone: +1 954-570-8913
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/fl/deerfieldbeach/pet-supplies-deerfieldbeach-fl-1587.html

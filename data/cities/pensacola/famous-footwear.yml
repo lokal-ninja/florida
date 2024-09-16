@@ -1,11 +1,11 @@
 id: 354150731
-type: way
+type: node
 latitude: 30.49764
 longitude: -87.22509
 postcode: "32504"
 city: Pensacola
-street: "North Davis Highway"
-housenumber: 7171
-phone: "+1 850-476-2946"
+street: North Davis Highway
+housenumber: "7171"
+phone: +1 850-476-2946
 opening_hours: ""
-website: "https://www.famousfootwear.com/"
+website: https://www.famousfootwear.com/

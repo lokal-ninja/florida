@@ -1,11 +1,11 @@
 id: 1254055426
-type: way
+type: node
 latitude: 25.73414
 longitude: -80.37884
 postcode: "33165"
 city: Miami
-street: "Southwest 40th Street"
-housenumber: 11305
-phone: "+1 305-552-9005"
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/West-Dade/FL/Miami/33165/206"
+street: Southwest 40th Street
+housenumber: "11305"
+phone: +1 305-552-9005
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/West-Dade/FL/Miami/33165/206

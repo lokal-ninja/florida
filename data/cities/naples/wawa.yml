@@ -1,11 +1,11 @@
 id: 1236037422
-type: way
+type: node
 latitude: 26.15402
 longitude: -81.75116
 postcode: ""
 city: Naples
-street: "Radio Road"
-housenumber: 4787
+street: Radio Road
+housenumber: "4787"
 phone: ""
 opening_hours: ""
 website: ""

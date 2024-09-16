@@ -1,11 +1,11 @@
 id: 544457632
-type: way
+type: node
 latitude: 28.62913
 longitude: -81.36238
 postcode: "32751"
 city: Maitland
-street: "Orlando Avenue"
-housenumber: 242
-phone: "+1 407-599-0202"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1070"
+street: Orlando Avenue
+housenumber: "242"
+phone: +1 407-599-0202
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1070

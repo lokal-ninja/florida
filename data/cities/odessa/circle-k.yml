@@ -1,11 +1,11 @@
 id: 672191922
-type: way
+type: node
 latitude: 28.15011
 longitude: -82.5799
 postcode: "33556"
 city: Odessa
-street: "Gunn Highway"
-housenumber: 18902
-phone: "+1 (813) 920-6002"
-opening_hours: "24/7"
-website: "https://www.circlek.com/"
+street: Gunn Highway
+housenumber: "18902"
+phone: +1 (813) 920-6002
+opening_hours: 24/7
+website: https://www.circlek.com/

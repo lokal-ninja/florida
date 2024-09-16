@@ -1,11 +1,11 @@
 id: 308005822
-type: way
+type: node
 latitude: 27.30026
 longitude: -82.53264
-postcode: "34239-6803"
+postcode: 34239-6803
 city: Sarasota
-street: "South Osprey Avenue"
-housenumber: 3825
-phone: "+1 941-316-0616"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/555"
+street: South Osprey Avenue
+housenumber: "3825"
+phone: +1 941-316-0616
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/555

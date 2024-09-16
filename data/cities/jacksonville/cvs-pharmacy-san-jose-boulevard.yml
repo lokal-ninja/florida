@@ -1,11 +1,11 @@
 id: 814019725
-type: way
+type: node
 latitude: 30.20491
 longitude: -81.61677
 postcode: "32257"
 city: Jacksonville
-street: "San Jose Boulevard"
-housenumber: 9509
+street: San Jose Boulevard
+housenumber: "9509"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/jacksonville-fl-pharmacies/9509-san-jose-blvd-jacksonville-fl-32257/storeid=7129"
+website: https://www.cvs.com/store-locator/jacksonville-fl-pharmacies/9509-san-jose-blvd-jacksonville-fl-32257/storeid=7129

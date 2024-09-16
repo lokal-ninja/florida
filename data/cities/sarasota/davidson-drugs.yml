@@ -4,8 +4,8 @@ latitude: 27.27688
 longitude: -82.56496
 postcode: "34242"
 city: Sarasota
-street: "Ocean Boulevard"
-housenumber: 5124
-phone: "+1-941-349-1111"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-16:00"
-website: "https://davidsondrugs.com/"
+street: Ocean Boulevard
+housenumber: "5124"
+phone: +1-941-349-1111
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-16:00
+website: https://davidsondrugs.com/

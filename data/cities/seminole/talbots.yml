@@ -1,11 +1,11 @@
 id: 948544856
-type: way
+type: node
 latitude: 27.84495
 longitude: -82.79228
 postcode: "33772"
 city: Seminole
-street: "113th Street North"
-housenumber: 7927
+street: 113th Street North
+housenumber: "7927"
 phone: ""
 opening_hours: ""
 website: ""

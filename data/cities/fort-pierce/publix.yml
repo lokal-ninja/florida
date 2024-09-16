@@ -1,11 +1,11 @@
 id: 738916939
-type: way
+type: node
 latitude: 27.42249
 longitude: -80.32863
 postcode: "34982"
 city: Fort Pierce
-street: "South Federal Highway"
-housenumber: 2517
-phone: "+1 772-595-1700"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/567"
+street: South Federal Highway
+housenumber: "2517"
+phone: +1 772-595-1700
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/567

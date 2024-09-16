@@ -1,11 +1,11 @@
 id: 124493128
-type: way
+type: node
 latitude: 26.80304
 longitude: -80.09789
 postcode: "33403"
 city: Palm Beach Gardens
-street: "Gander Way"
-housenumber: 100
+street: Gander Way
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

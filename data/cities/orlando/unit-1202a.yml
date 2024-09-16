@@ -1,11 +1,11 @@
 id: 932633284
-type: way
+type: node
 latitude: 28.44497
 longitude: -81.39264
 postcode: "32809"
 city: Orlando
-street: "S Orange Blossom Trl"
-housenumber: 8001
+street: S Orange Blossom Trl
+housenumber: "8001"
 phone: ""
 opening_hours: ""
 website: ""

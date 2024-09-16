@@ -1,11 +1,11 @@
 id: 611700154
-type: way
+type: node
 latitude: 30.7645
 longitude: -86.56835
 postcode: ""
 city: Crestview
-street: "East Cedar Avenue"
-housenumber: 525
+street: East Cedar Avenue
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

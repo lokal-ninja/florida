@@ -1,11 +1,11 @@
 id: 394938361
-type: way
+type: node
 latitude: 29.49687
 longitude: -82.29374
 postcode: "32667"
 city: Micanopy
-street: "Southeast County Road 234"
-housenumber: 17035
-phone: "+1 (352) 466-3803"
-opening_hours: "24/7"
-website: "http://www.caferisquefl.com/"
+street: Southeast County Road 234
+housenumber: "17035"
+phone: +1 (352) 466-3803
+opening_hours: 24/7
+website: http://www.caferisquefl.com/

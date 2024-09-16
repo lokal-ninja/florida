@@ -1,11 +1,11 @@
 id: 1231029053
-type: way
+type: node
 latitude: 27.79402
 longitude: -82.73349
 postcode: "33710"
 city: Saint Petersburg
-street: "22nd Avenue North"
-housenumber: 
+street: 22nd Avenue North
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/fl/stpetersburg/tyrone-square_821.html"
+website: https://www.macys.com/stores/fl/stpetersburg/tyrone-square_821.html

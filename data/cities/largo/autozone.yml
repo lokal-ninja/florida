@@ -1,11 +1,11 @@
 id: 227224271
-type: way
+type: node
 latitude: 27.87987
 longitude: -82.82112
 postcode: "33774"
 city: Largo
-street: "Walsingham Road"
-housenumber: 13202
-phone: "+1-727-596-5801"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/fl/largo/13202-walsingham-rd.html"
+street: Walsingham Road
+housenumber: "13202"
+phone: +1-727-596-5801
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/fl/largo/13202-walsingham-rd.html

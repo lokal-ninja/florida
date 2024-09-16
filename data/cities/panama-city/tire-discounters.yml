@@ -1,11 +1,11 @@
 id: 747123894
-type: way
+type: node
 latitude: 30.18924
 longitude: -85.65118
 postcode: "32405"
 city: Panama City
-street: "East 23rd Street"
-housenumber: 528
-phone: "+1 (850) 691-4490"
+street: East 23rd Street
+housenumber: "528"
+phone: +1 (850) 691-4490
 opening_hours: ""
-website: "https://www.discounttire.com/store/fl/panama-city/s/2158"
+website: https://www.discounttire.com/store/fl/panama-city/s/2158

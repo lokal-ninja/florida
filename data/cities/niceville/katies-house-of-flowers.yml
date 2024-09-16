@@ -1,11 +1,11 @@
 id: 412157140
-type: way
+type: node
 latitude: 30.51878
 longitude: -86.48744
 postcode: "32578"
 city: Niceville
-street: "Bayshore Drive"
-housenumber: 402
-phone: "+1-850-678-7811"
+street: Bayshore Drive
+housenumber: "402"
+phone: +1-850-678-7811
 opening_hours: ""
-website: "https://www.nicevilleflowers.com/"
+website: https://www.nicevilleflowers.com/

@@ -1,11 +1,11 @@
 id: 172516839
-type: way
+type: node
 latitude: 27.8813
 longitude: -82.81945
 postcode: "33774"
 city: Largo
-street: "Walsingham Road"
-housenumber: 13031
-phone: "+1 727-517-0847"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1579"
+street: Walsingham Road
+housenumber: "13031"
+phone: +1 727-517-0847
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1579

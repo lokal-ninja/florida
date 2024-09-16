@@ -1,11 +1,11 @@
 id: 1172043942
-type: way
+type: node
 latitude: 26.70888
 longitude: -81.72214
 postcode: "33905"
 city: Fort Myers
-street: "Palm Beach Boulevard"
-housenumber: 14411
+street: Palm Beach Boulevard
+housenumber: "14411"
 phone: ""
 opening_hours: ""
 website: ""

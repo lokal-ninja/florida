@@ -1,11 +1,11 @@
 id: 401434247
-type: way
+type: node
 latitude: 25.84797
 longitude: -80.18509
 postcode: "33138"
 city: Miami
-street: "Northeast 79th Street"
-housenumber: 591
+street: Northeast 79th Street
+housenumber: "591"
 phone: ""
 opening_hours: ""
 website: ""

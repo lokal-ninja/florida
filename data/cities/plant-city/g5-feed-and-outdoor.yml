@@ -1,11 +1,11 @@
 id: 902835432
-type: way
+type: node
 latitude: 28.02128
 longitude: -82.18268
 postcode: "33563"
 city: Plant City
-street: "US 92"
-housenumber: 4906
-phone: "+1 (813) 754-5405"
+street: US 92
+housenumber: "4906"
+phone: +1 (813) 754-5405
 opening_hours: ""
-website: "http://g5feedandoutdoor.com/"
+website: http://g5feedandoutdoor.com/

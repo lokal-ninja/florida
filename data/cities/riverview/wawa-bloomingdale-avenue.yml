@@ -1,11 +1,11 @@
 id: 374134908
-type: way
+type: node
 latitude: 27.89313
 longitude: -82.33601
 postcode: "33578"
 city: Riverview
-street: "Bloomingdale Avenue"
-housenumber: 10115
-phone: "+1 (813) 620-3518"
-opening_hours: "24/7"
-website: "https://www.wawa.com/"
+street: Bloomingdale Avenue
+housenumber: "10115"
+phone: +1 (813) 620-3518
+opening_hours: 24/7
+website: https://www.wawa.com/

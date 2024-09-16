@@ -1,11 +1,11 @@
 id: 1132952791
-type: way
+type: node
 latitude: 30.42456
 longitude: -84.24904
 postcode: "32301"
 city: Tallahassee
-street: "Blair Stone Road"
-housenumber: 2711
+street: Blair Stone Road
+housenumber: "2711"
 phone: ""
 opening_hours: ""
-website: "https://muvfl.com/"
+website: https://muvfl.com/

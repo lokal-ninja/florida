@@ -4,8 +4,8 @@ latitude: 27.7925
 longitude: -82.67629
 postcode: "33713"
 city: Saint Petersburg
-street: "23rd Avenue North"
-housenumber: 3138
+street: 23rd Avenue North
+housenumber: "3138"
 phone: ""
 opening_hours: ""
-website: "https://www.electrobatteryinc.com/"
+website: https://www.electrobatteryinc.com/

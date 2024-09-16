@@ -1,11 +1,11 @@
 id: 556398917
-type: way
+type: node
 latitude: 28.36913
 longitude: -81.51887
 postcode: "32830"
 city: Lake Buena Vista
-street: "East Buena Vista Drive"
-housenumber: 1512
+street: East Buena Vista Drive
+housenumber: "1512"
 phone: ""
 opening_hours: ""
 website: ""

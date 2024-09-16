@@ -1,11 +1,11 @@
 id: 1008635828
-type: way
+type: node
 latitude: 28.90983
 longitude: -82.60326
 postcode: "34428"
 city: Crystal River
-street: "US Highway 19"
-housenumber: 1801
+street: US Highway 19
+housenumber: "1801"
 phone: ""
 opening_hours: ""
-website: "https://www.crystalrivermall.com/"
+website: https://www.crystalrivermall.com/

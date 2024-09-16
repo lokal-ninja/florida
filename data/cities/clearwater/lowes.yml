@@ -1,11 +1,11 @@
 id: 172417680
-type: way
+type: node
 latitude: 28.01771
 longitude: -82.73992
 postcode: "33736"
 city: Clearwater
-street: "Enterprise Road"
-housenumber: 26990
-phone: "+1 727-724-3557"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-clearwater/0771"
+street: Enterprise Road
+housenumber: "26990"
+phone: +1 727-724-3557
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-clearwater/0771

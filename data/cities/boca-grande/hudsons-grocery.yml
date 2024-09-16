@@ -1,11 +1,11 @@
 id: 964050062
-type: way
+type: node
 latitude: 26.75136
 longitude: -82.26207
 postcode: "33921"
 city: Boca Grande
-street: "Park Avenue"
-housenumber: 441
-phone: "+1 941-964-2621"
+street: Park Avenue
+housenumber: "441"
+phone: +1 941-964-2621
 opening_hours: ""
-website: "http://www.hudsonsgrocery.com/"
+website: http://www.hudsonsgrocery.com/

@@ -1,11 +1,11 @@
 id: 485635103
-type: way
+type: node
 latitude: 26.30157
 longitude: -80.13531
 postcode: "33442"
 city: Deerfield Beach
-street: "South Military Trail"
-housenumber: 1337
-phone: "+1 954-427-5828"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: South Military Trail
+housenumber: "1337"
+phone: +1 954-427-5828
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

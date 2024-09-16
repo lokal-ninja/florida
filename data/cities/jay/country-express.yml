@@ -1,11 +1,11 @@
 id: 1089013793
-type: way
+type: node
 latitude: 30.90652
 longitude: -87.03337
 postcode: "32565"
 city: Jay
-street: "Highway 87 N"
-housenumber: 13010
+street: Highway 87 N
+housenumber: "13010"
 phone: ""
 opening_hours: ""
 website: ""

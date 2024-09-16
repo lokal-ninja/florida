@@ -1,11 +1,11 @@
 id: 482286531
-type: way
+type: node
 latitude: 29.19161
 longitude: -81.07254
 postcode: "32114"
 city: Daytona Beach
-street: "Checkered Flag Boulevard"
-housenumber: 1880
-phone: "+1 386 281 4300"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-19:00"
-website: "https://stores.basspro.com/us/fl/daytona-beach/1880-w-checkered-flag-blvd.html"
+street: Checkered Flag Boulevard
+housenumber: "1880"
+phone: +1 386 281 4300
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-19:00
+website: https://stores.basspro.com/us/fl/daytona-beach/1880-w-checkered-flag-blvd.html

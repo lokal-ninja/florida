@@ -1,11 +1,11 @@
 id: 931171466
-type: way
+type: node
 latitude: 28.49787
 longitude: -81.39803
 postcode: "32839"
 city: Orlando
-street: "South Orange Blossom Trail"
-housenumber: 4504
+street: South Orange Blossom Trail
+housenumber: "4504"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
-website: "https://www.dollartree.com/locations/fl/orlando/9315/"
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
+website: https://www.dollartree.com/locations/fl/orlando/9315/

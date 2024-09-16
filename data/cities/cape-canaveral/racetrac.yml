@@ -1,11 +1,11 @@
 id: 212969462
-type: way
+type: node
 latitude: 28.3979
 longitude: -80.61459
 postcode: "32920"
 city: Cape Canaveral
-street: "Astronaut Boulevard"
-housenumber: 8899
+street: Astronaut Boulevard
+housenumber: "8899"
 phone: ""
 opening_hours: ""
 website: ""

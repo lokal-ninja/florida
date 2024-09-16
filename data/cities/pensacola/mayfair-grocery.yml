@@ -1,11 +1,11 @@
 id: 828197226
-type: way
+type: node
 latitude: 30.4364
 longitude: -87.26813
 postcode: "32505"
 city: Pensacola
-street: "West Fairfield Drive"
-housenumber: 4036
+street: West Fairfield Drive
+housenumber: "4036"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 636393743
-type: way
+type: node
 latitude: 30.1745
 longitude: -85.6831
 postcode: "32401"
 city: Panama City
-street: "West 15th Street"
-housenumber: 1347
+street: West 15th Street
+housenumber: "1347"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/fl/panama-city/9529/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/fl/panama-city/9529/

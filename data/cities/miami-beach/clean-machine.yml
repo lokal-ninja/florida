@@ -1,11 +1,11 @@
 id: 1180472156
-type: way
+type: node
 latitude: 25.78287
 longitude: -80.13192
 postcode: "33139"
 city: Miami Beach
-street: "12th Street"
-housenumber: 226
+street: 12th Street
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

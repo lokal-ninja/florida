@@ -1,11 +1,11 @@
 id: 538061661
-type: way
+type: node
 latitude: 28.39216
 longitude: -81.37684
 postcode: "32824"
 city: Orlando
-street: "East Wetherbee Road"
-housenumber: 102
+street: East Wetherbee Road
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

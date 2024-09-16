@@ -1,11 +1,11 @@
 id: 150510274
-type: way
+type: node
 latitude: 27.25845
 longitude: -80.37399
 postcode: "34953"
 city: Port Saint Lucie
-street: "Southwest Port Saint Lucie Boulevard"
-housenumber: 2873
+street: Southwest Port Saint Lucie Boulevard
+housenumber: "2873"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/port-saint-lucie-fl-pharmacies/2873-sw-port-st-lucie-blvd-port-saint-lucie-fl-34953/storeid=7923"
+website: https://www.cvs.com/store-locator/port-saint-lucie-fl-pharmacies/2873-sw-port-st-lucie-blvd-port-saint-lucie-fl-34953/storeid=7923

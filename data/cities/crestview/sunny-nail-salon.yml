@@ -1,11 +1,11 @@
 id: 711881656
-type: way
+type: node
 latitude: 30.76566
 longitude: -86.56924
 postcode: ""
 city: Crestview
-street: "East 1st Avenue"
-housenumber: 536
+street: East 1st Avenue
+housenumber: "536"
 phone: ""
 opening_hours: ""
 website: ""

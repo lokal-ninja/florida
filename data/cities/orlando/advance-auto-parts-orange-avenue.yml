@@ -1,11 +1,11 @@
 id: 538060087
-type: way
+type: node
 latitude: 28.39316
 longitude: -81.37602
 postcode: "32824"
 city: Orlando
-street: "Orange Avenue"
-housenumber: 11898
+street: Orange Avenue
+housenumber: "11898"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/orlando/11898-s-orange-ave"
+website: https://stores.advanceautoparts.com/fl/orlando/11898-s-orange-ave

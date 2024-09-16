@@ -1,11 +1,11 @@
 id: 231594714
-type: way
+type: node
 latitude: 27.78556
 longitude: -82.78244
 postcode: "33708"
 city: Madeira Beach
-street: "Village Boulevard"
-housenumber: 12850
+street: Village Boulevard
+housenumber: "12850"
 phone: ""
 opening_hours: ""
-website: "https://surfstyle.com/"
+website: https://surfstyle.com/

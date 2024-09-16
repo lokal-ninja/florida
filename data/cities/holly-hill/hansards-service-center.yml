@@ -1,11 +1,11 @@
 id: 987117408
-type: way
+type: node
 latitude: 29.22872
 longitude: -81.03267
 postcode: "32117"
 city: Holly Hill
-street: "North Ridgewood Avenue"
-housenumber: 170
+street: North Ridgewood Avenue
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

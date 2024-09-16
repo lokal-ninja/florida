@@ -1,11 +1,11 @@
 id: 584765651
-type: way
+type: node
 latitude: 30.44768
 longitude: -84.26349
 postcode: "32308"
 city: Tallahassee
-street: "East Tennessee Street"
-housenumber: 1150
+street: East Tennessee Street
+housenumber: "1150"
 phone: ""
 opening_hours: ""
 website: ""

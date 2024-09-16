@@ -1,11 +1,11 @@
 id: 910728283
-type: way
+type: node
 latitude: 29.40699
 longitude: -82.47611
 postcode: "32696"
 city: Williston
-street: "Northeast 180th Ave"
-housenumber: 5390
+street: Northeast 180th Ave
+housenumber: "5390"
 phone: ""
 opening_hours: ""
-website: "http://www.devilsden.com/"
+website: http://www.devilsden.com/

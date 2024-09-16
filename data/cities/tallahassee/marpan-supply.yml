@@ -1,11 +1,11 @@
 id: 401417679
-type: way
+type: node
 latitude: 30.42943
 longitude: -84.2801
 postcode: ""
 city: Tallahassee
-street: "East Pershing Street"
-housenumber: 215
+street: East Pershing Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

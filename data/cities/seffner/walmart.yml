@@ -1,11 +1,11 @@
 id: 983230680
-type: way
+type: node
 latitude: 27.98378
 longitude: -82.30197
 postcode: "33584"
 city: Seffner
-street: "East Drive Martin Luther King Jr Boulevard"
-housenumber: 11720
-phone: "+1 813-681-6654"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/925-seffner-fl"
+street: East Drive Martin Luther King Jr Boulevard
+housenumber: "11720"
+phone: +1 813-681-6654
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/925-seffner-fl

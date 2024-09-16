@@ -1,11 +1,11 @@
 id: 523172842
-type: way
+type: node
 latitude: 28.07839
 longitude: -82.7398
 postcode: "34684"
 city: Palm Harbor
-street: "US 19"
-housenumber: 33670
+street: US 19
+housenumber: "33670"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-33670+us+highway+19+n-palm+harbor-fl-34684/id=4124"
+website: https://www.walgreens.com/locator/walgreens-33670+us+highway+19+n-palm+harbor-fl-34684/id=4124

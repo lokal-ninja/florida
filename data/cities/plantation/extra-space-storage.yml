@@ -1,11 +1,11 @@
 id: 880444371
-type: way
+type: node
 latitude: 26.14968
 longitude: -80.25369
 postcode: "33322"
 city: Plantation
-street: "West Sunrise Boulevard"
-housenumber: 7795
+street: West Sunrise Boulevard
+housenumber: "7795"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 25.65675
 longitude: -80.41662
 postcode: "33186"
 city: Miami
-street: "Southwest 120th Street"
-housenumber: 11990
-phone: "+1-786-870-4550"
-opening_hours: "24/7"
-website: "https://www.wawa.com/about/locations/store-locator"
+street: Southwest 120th Street
+housenumber: "11990"
+phone: +1-786-870-4550
+opening_hours: 24/7
+website: https://www.wawa.com/about/locations/store-locator

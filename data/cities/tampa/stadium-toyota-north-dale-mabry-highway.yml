@@ -4,8 +4,8 @@ latitude: 27.99282
 longitude: -82.50626
 postcode: "33614"
 city: Tampa
-street: "North Dale Mabry Highway"
-housenumber: 5088
-phone: "+1-813-358-1002"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 12:00-18:00"
-website: "https://www.stadiumtoyota.com/"
+street: North Dale Mabry Highway
+housenumber: "5088"
+phone: +1-813-358-1002
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 12:00-18:00
+website: https://www.stadiumtoyota.com/

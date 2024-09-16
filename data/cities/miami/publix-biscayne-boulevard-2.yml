@@ -1,11 +1,11 @@
 id: 454144113
-type: way
+type: node
 latitude: 25.79329
 longitude: -80.18919
 postcode: "33132"
 city: Miami
-street: "Biscayne Boulevard"
-housenumber: 1776
-phone: "+1 305-358-3433"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1397"
+street: Biscayne Boulevard
+housenumber: "1776"
+phone: +1 305-358-3433
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1397

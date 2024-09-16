@@ -1,11 +1,11 @@
 id: 1028134594
-type: way
+type: node
 latitude: 29.28096
 longitude: -81.0698
 postcode: "32174"
 city: Ormond Beach
-street: "West Granada Boulevard"
-housenumber: 405
-phone: "+1 386-676-2449"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/ormond-beach/office-depot-448"
+street: West Granada Boulevard
+housenumber: "405"
+phone: +1 386-676-2449
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/ormond-beach/office-depot-448

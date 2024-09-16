@@ -1,11 +1,11 @@
 id: 435586266
-type: way
+type: node
 latitude: 25.6589
 longitude: -80.43177
 postcode: "33186"
 city: Miami
-street: "Southwest 147th Avenue"
-housenumber: 11605
+street: Southwest 147th Avenue
+housenumber: "11605"
 phone: ""
 opening_hours: ""
 website: ""

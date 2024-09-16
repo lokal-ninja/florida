@@ -1,11 +1,11 @@
 id: 524312552
-type: way
+type: node
 latitude: 27.96521
 longitude: -82.51985
 postcode: "33607"
 city: Tampa
-street: "North Westshore Bolevard"
-housenumber: 2223
-phone: "+1 813-342-3790"
+street: North Westshore Bolevard
+housenumber: "2223"
+phone: +1 813-342-3790
 opening_hours: ""
-website: "https://www.shopinternationalplaza.com/"
+website: https://www.shopinternationalplaza.com/

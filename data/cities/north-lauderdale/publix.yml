@@ -1,11 +1,11 @@
 id: 91841915
-type: way
+type: node
 latitude: 26.2065
 longitude: -80.23731
-postcode: "33068-4138"
+postcode: 33068-4138
 city: North Lauderdale
-street: "West McNab Road"
-housenumber: 8140
-phone: "+1 954-722-0599"
-opening_hours: "Su 07:00-22:00;Mo-Sa 07:00-23:00"
-website: "https://www.publix.com/locations/822"
+street: West McNab Road
+housenumber: "8140"
+phone: +1 954-722-0599
+opening_hours: Su 07:00-22:00;Mo-Sa 07:00-23:00
+website: https://www.publix.com/locations/822

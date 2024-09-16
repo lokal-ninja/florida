@@ -1,11 +1,11 @@
 id: 946516551
-type: way
+type: node
 latitude: 28.24456
 longitude: -82.35203
 postcode: "33544"
 city: Wesley Chapel
-street: "Wesley Grove Boulevard"
-housenumber: 6001
-phone: "+1 813-994-7010"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/fl/wesley-chapel-store1609.html"
+street: Wesley Grove Boulevard
+housenumber: "6001"
+phone: +1 813-994-7010
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/fl/wesley-chapel-store1609.html

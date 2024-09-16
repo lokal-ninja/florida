@@ -4,8 +4,8 @@ latitude: 27.82357
 longitude: -82.63905
 postcode: "33703"
 city: Saint Petersburg
-street: "4th Street North"
-housenumber: 5700
+street: 4th Street North
+housenumber: "5700"
 phone: "7275269696"
 opening_hours: ""
-website: "http://mytravelmax.com/"
+website: http://mytravelmax.com/

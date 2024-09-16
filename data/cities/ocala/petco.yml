@@ -1,11 +1,11 @@
 id: 1060351726
-type: way
+type: node
 latitude: 29.14331
 longitude: -82.18769
 postcode: "34474"
 city: Ocala
-street: "Southwest 40th Avenue"
-housenumber: 4475
-phone: "+1 352-291-9130"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/fl/ocala/pet-supplies-ocala-fl-2780.html"
+street: Southwest 40th Avenue
+housenumber: "4475"
+phone: +1 352-291-9130
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/fl/ocala/pet-supplies-ocala-fl-2780.html

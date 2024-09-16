@@ -1,11 +1,11 @@
 id: 762582953
-type: way
+type: node
 latitude: 27.27452
 longitude: -80.35053
 postcode: "34953"
 city: Port Saint Lucie
-street: "Southwest Port Saint Lucie Boulevard"
-housenumber: 215
+street: Southwest Port Saint Lucie Boulevard
+housenumber: "215"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/port-st-lucie/215-port-st-lucie-blvd-sw.html"
+website: https://www.autozone.com/locations/fl/port-st-lucie/215-port-st-lucie-blvd-sw.html

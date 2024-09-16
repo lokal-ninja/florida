@@ -1,11 +1,11 @@
 id: 355542788
-type: way
+type: node
 latitude: 29.85884
 longitude: -81.28069
 postcode: "32080"
 city: Saint Augustine
-street: "Pope Road"
-housenumber: 1005
+street: Pope Road
+housenumber: "1005"
 phone: ""
 opening_hours: ""
 website: ""

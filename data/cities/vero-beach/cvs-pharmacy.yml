@@ -1,11 +1,11 @@
 id: 218825420
-type: way
+type: node
 latitude: 27.58689
 longitude: -80.43012
 postcode: "32968"
 city: Vero Beach
-street: "9th Street Southwest"
-housenumber: 4215
+street: 9th Street Southwest
+housenumber: "4215"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/vero-beach-fl-pharmacies/4215-sw-9th-st-vero-beach-fl-32968/storeid=7883"
+website: https://www.cvs.com/store-locator/vero-beach-fl-pharmacies/4215-sw-9th-st-vero-beach-fl-32968/storeid=7883

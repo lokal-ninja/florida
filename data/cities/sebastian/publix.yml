@@ -1,11 +1,11 @@
 id: 159083862
-type: way
+type: node
 latitude: 27.76585
 longitude: -80.51022
-postcode: "32958-8200"
+postcode: 32958-8200
 city: Sebastian
-street: "Sebastian Boulevard"
-housenumber: 1451
-phone: "+1 772-581-5710"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1035"
+street: Sebastian Boulevard
+housenumber: "1451"
+phone: +1 772-581-5710
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1035

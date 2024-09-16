@@ -1,11 +1,11 @@
 id: 251651553
-type: way
+type: node
 latitude: 27.13317
 longitude: -80.20679
 postcode: "34997"
 city: Stuart
-street: "Southeast Federal Highway"
-housenumber: 5800
-phone: "+1 (772) 286-0551"
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-5800+se+federal+hwy-stuart-fl-34997/id=6832"
+street: Southeast Federal Highway
+housenumber: "5800"
+phone: +1 (772) 286-0551
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-5800+se+federal+hwy-stuart-fl-34997/id=6832

@@ -1,11 +1,11 @@
 id: 106771064
-type: way
+type: node
 latitude: 30.31095
 longitude: -81.68224
-postcode: "32204-4442"
+postcode: 32204-4442
 city: Jacksonville
-street: "Riverside Avenue"
-housenumber: 2033
-phone: "+1 904-381-8610"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/849"
+street: Riverside Avenue
+housenumber: "2033"
+phone: +1 904-381-8610
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/849

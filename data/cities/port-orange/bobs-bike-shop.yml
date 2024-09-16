@@ -1,11 +1,11 @@
 id: 710290108
-type: way
+type: node
 latitude: 29.1448
 longitude: -80.98794
 postcode: "32129"
 city: Port Orange
-street: "Ridgewood Avenue"
-housenumber: 3855
-phone: "+1 386 761 4691"
-opening_hours: "Mo-Fr 09:00-17:30,Sa 09:00-14:00"
-website: "http://www.bobsbikespo.com/"
+street: Ridgewood Avenue
+housenumber: "3855"
+phone: +1 386 761 4691
+opening_hours: Mo-Fr 09:00-17:30,Sa 09:00-14:00
+website: http://www.bobsbikespo.com/

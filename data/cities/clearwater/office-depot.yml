@@ -1,11 +1,11 @@
 id: 142219766
-type: way
+type: node
 latitude: 28.01172
 longitude: -82.73144
 postcode: "33761"
 city: Clearwater
-street: "US Highway 19"
-housenumber: 26277
-phone: "+1 727-725-3181"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/clearwater/office-depot-95"
+street: US Highway 19
+housenumber: "26277"
+phone: +1 727-725-3181
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/clearwater/office-depot-95

@@ -1,11 +1,11 @@
 id: 354655689
-type: way
+type: node
 latitude: 30.48678
 longitude: -87.22409
 postcode: "32504"
 city: Pensacola
-street: "North Davis Highway"
-housenumber: 6235
-phone: "+1 850-475-0958"
-opening_hours: "09:00-21:00"
-website: "https://local.biglots.com/fl/pensacola/5153"
+street: North Davis Highway
+housenumber: "6235"
+phone: +1 850-475-0958
+opening_hours: 09:00-21:00
+website: https://local.biglots.com/fl/pensacola/5153

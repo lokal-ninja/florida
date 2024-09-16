@@ -4,8 +4,8 @@ latitude: 25.843
 longitude: -80.24557
 postcode: "33147"
 city: Miami
-street: "NW 75th St"
-housenumber: 2995
-phone: "+1 305-691-0191"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://economytent.com/"
+street: NW 75th St
+housenumber: "2995"
+phone: +1 305-691-0191
+opening_hours: Mo-Fr 08:00-16:00
+website: https://economytent.com/

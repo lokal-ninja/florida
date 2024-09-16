@@ -1,11 +1,11 @@
 id: 712567125
-type: way
+type: node
 latitude: 29.13376
 longitude: -81.00943
 postcode: "32129"
 city: Port Orange
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/fl/portorange/autoparts-4721.html"
+website: https://locations.oreillyauto.com/fl/portorange/autoparts-4721.html

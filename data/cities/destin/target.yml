@@ -1,11 +1,11 @@
 id: 757098518
-type: way
+type: node
 latitude: 30.39076
 longitude: -86.48075
-postcode: "32541-2709"
+postcode: 32541-2709
 city: Destin
-street: "Harbor Boulevard"
-housenumber: 853
-phone: "+1 850-650-7525"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/destin/2085"
+street: Harbor Boulevard
+housenumber: "853"
+phone: +1 850-650-7525
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/destin/2085

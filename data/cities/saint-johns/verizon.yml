@@ -1,11 +1,11 @@
 id: 696746218
-type: way
+type: node
 latitude: 30.09769
 longitude: -81.52186
 postcode: "32259"
 city: Saint Johns
-street: "Durbin Pavilion Drive"
-housenumber: 520
+street: Durbin Pavilion Drive
+housenumber: "520"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

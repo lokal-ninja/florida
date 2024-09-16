@@ -1,11 +1,11 @@
 id: 1172887725
-type: way
+type: node
 latitude: 26.34936
 longitude: -80.23068
 postcode: "33428"
 city: Boca Raton
-street: "Palmetto Park Road"
-housenumber: 11449
-phone: "+1 561-962-4006"
-opening_hours: "08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-11449+w+palmetto+park+rd-boca+raton-fl-33428/id=12550"
+street: Palmetto Park Road
+housenumber: "11449"
+phone: +1 561-962-4006
+opening_hours: 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-11449+w+palmetto+park+rd-boca+raton-fl-33428/id=12550

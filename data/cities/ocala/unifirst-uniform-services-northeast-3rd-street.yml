@@ -1,11 +1,11 @@
 id: 1033880917
-type: way
+type: node
 latitude: 29.18924
 longitude: -82.1338
 postcode: "34470"
 city: Ocala
-street: "Northeast 3rd Street"
-housenumber: 317
+street: Northeast 3rd Street
+housenumber: "317"
 phone: ""
 opening_hours: ""
 website: ""

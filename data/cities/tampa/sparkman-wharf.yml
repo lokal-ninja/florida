@@ -1,11 +1,11 @@
 id: 25646641
-type: way
+type: node
 latitude: 27.94396
 longitude: -82.44606
 postcode: "33602"
 city: Tampa
-street: "Channelside Drive"
-housenumber: 615
+street: Channelside Drive
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1135119772
-type: way
+type: node
 latitude: 28.03416
 longitude: -82.10401
 postcode: ""
 city: Plant City
-street: "North Park Road"
-housenumber: 2210
+street: North Park Road
+housenumber: "2210"
 phone: ""
 opening_hours: ""
 website: ""

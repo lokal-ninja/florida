@@ -1,11 +1,11 @@
 id: 1180266286
-type: way
+type: node
 latitude: 25.77414
 longitude: -80.19103
 postcode: "33131"
 city: Miami
-street: "East Flagler Street"
-housenumber: 140
+street: East Flagler Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

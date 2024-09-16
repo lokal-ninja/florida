@@ -1,11 +1,11 @@
 id: 670836345
-type: way
+type: node
 latitude: 30.55691
 longitude: -81.44929
 postcode: "32034"
 city: Fernandina Beach
-street: "Amelia Village Circle"
-housenumber: 87
-phone: "904-491-4834"
+street: Amelia Village Circle
+housenumber: "87"
+phone: 904-491-4834
 opening_hours: ""
-website: "https://www.omnihotels.com/hotels/amelia-island/dining/marche-burette-deli"
+website: https://www.omnihotels.com/hotels/amelia-island/dining/marche-burette-deli

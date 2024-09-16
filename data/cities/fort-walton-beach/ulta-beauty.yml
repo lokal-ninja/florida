@@ -4,8 +4,8 @@ latitude: 30.41781
 longitude: -86.60682
 postcode: "32548"
 city: Fort Walton Beach
-street: "Eglin Parkway Northeast"
-housenumber: 99
-phone: "+1 850-533-8010"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/fort-walton-beach-fl-1458"
+street: Eglin Parkway Northeast
+housenumber: "99"
+phone: +1 850-533-8010
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/fort-walton-beach-fl-1458

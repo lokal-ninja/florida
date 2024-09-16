@@ -1,11 +1,11 @@
 id: 770541778
-type: way
+type: node
 latitude: 27.89126
 longitude: -82.2705
 postcode: "33511"
 city: Brandon
-street: "East Bloomingdale Avenue"
-housenumber: 949
-phone: "+1 813-684-2598"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: East Bloomingdale Avenue
+housenumber: "949"
+phone: +1 813-684-2598
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

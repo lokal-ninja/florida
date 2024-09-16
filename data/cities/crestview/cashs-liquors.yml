@@ -1,11 +1,11 @@
 id: 705288551
-type: way
+type: node
 latitude: 30.74157
 longitude: -86.56365
 postcode: ""
 city: Crestview
-street: "South Ferdon Boulevard"
-housenumber: 1601
+street: South Ferdon Boulevard
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

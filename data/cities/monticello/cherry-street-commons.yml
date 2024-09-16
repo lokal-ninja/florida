@@ -1,11 +1,11 @@
 id: 672969742
-type: way
+type: node
 latitude: 30.54474
 longitude: -83.86921
 postcode: "32344"
 city: Monticello
-street: "South Cherry Street"
-housenumber: 180
+street: South Cherry Street
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

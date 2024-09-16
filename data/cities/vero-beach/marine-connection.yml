@@ -1,11 +1,11 @@
 id: 887087190
-type: way
+type: node
 latitude: 27.62918
 longitude: -80.38877
 postcode: "32960"
 city: Vero Beach
-street: "US 1"
-housenumber: 1530
-phone: "+1-772-222-7850"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "http://www.marineconnection.com/contact/Vero-Beach"
+street: US 1
+housenumber: "1530"
+phone: +1-772-222-7850
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: http://www.marineconnection.com/contact/Vero-Beach

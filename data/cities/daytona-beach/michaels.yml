@@ -1,11 +1,11 @@
 id: 61407005
-type: way
+type: node
 latitude: 29.17777
 longitude: -81.0836
-postcode: "32114-1119"
+postcode: 32114-1119
 city: Daytona Beach
-street: "West International Speedway Boulevard"
-housenumber: 2500
-phone: "+1 386-258-5542"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/fl/daytona-beach/9920"
+street: West International Speedway Boulevard
+housenumber: "2500"
+phone: +1 386-258-5542
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/fl/daytona-beach/9920

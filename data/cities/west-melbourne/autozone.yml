@@ -1,11 +1,11 @@
 id: 753093978
-type: way
+type: node
 latitude: 28.07956
 longitude: -80.6438
 postcode: "32904"
 city: West Melbourne
-street: "New Haven Avenue"
-housenumber: 1340
+street: New Haven Avenue
+housenumber: "1340"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/melbourne/1340-w-new-haven-ave.html"
+website: https://www.autozone.com/locations/fl/melbourne/1340-w-new-haven-ave.html

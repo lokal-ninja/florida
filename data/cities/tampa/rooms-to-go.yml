@@ -1,11 +1,11 @@
 id: 1206180806
-type: way
+type: node
 latitude: 27.94752
 longitude: -82.50666
 postcode: "33609"
 city: Tampa
-street: "North Dale Mabry Highway"
-housenumber: 236
-phone: "+1-813-871-5828"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.roomstogo.com/stores/florida/tampa-dale-mabry-showroom-217"
+street: North Dale Mabry Highway
+housenumber: "236"
+phone: +1-813-871-5828
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.roomstogo.com/stores/florida/tampa-dale-mabry-showroom-217

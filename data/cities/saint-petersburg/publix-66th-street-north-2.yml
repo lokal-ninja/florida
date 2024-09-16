@@ -1,11 +1,11 @@
 id: 523105382
-type: way
+type: node
 latitude: 27.80794
 longitude: -82.73025
-postcode: "33709-4912"
+postcode: 33709-4912
 city: Saint Petersburg
-street: "66th Street North"
-housenumber: 3900
-phone: "+1 727-343-2879"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1322"
+street: 66th Street North
+housenumber: "3900"
+phone: +1 727-343-2879
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1322

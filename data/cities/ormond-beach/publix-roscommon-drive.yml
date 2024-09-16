@@ -1,11 +1,11 @@
 id: 49826069
-type: way
+type: node
 latitude: 29.40094
 longitude: -81.14832
 postcode: "32174"
 city: Ormond Beach
-street: "Roscommon Drive"
-housenumber: 3750
-phone: "+1 386-615-8885"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.publix.com/locations/660-halifax-plantation-village"
+street: Roscommon Drive
+housenumber: "3750"
+phone: +1 386-615-8885
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.publix.com/locations/660-halifax-plantation-village

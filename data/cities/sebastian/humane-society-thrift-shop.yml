@@ -1,11 +1,11 @@
 id: 306014671
-type: way
+type: node
 latitude: 27.80175
 longitude: -80.47652
 postcode: "32958"
 city: Sebastian
-street: "Sebastian Boulevard"
-housenumber: 441
-phone: "+1-772-589-0323"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://hsvb.org/"
+street: Sebastian Boulevard
+housenumber: "441"
+phone: +1-772-589-0323
+opening_hours: Mo-Sa 09:00-17:00
+website: https://hsvb.org/

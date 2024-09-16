@@ -1,11 +1,11 @@
 id: 611698560
-type: way
+type: node
 latitude: 30.76508
 longitude: -86.56948
 postcode: ""
 city: Crestview
-street: "North Ferdon Boulevard"
-housenumber: 510
+street: North Ferdon Boulevard
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

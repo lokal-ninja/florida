@@ -1,11 +1,11 @@
 id: 43147833
-type: way
+type: node
 latitude: 29.55152
 longitude: -81.23074
 postcode: "32137"
 city: Palm Coast
-street: "Palm Coast Parkway SouthWest"
-housenumber: 1150
-phone: "+1 386 206 5314"
+street: Palm Coast Parkway SouthWest
+housenumber: "1150"
+phone: +1 386 206 5314
 opening_hours: ""
-website: "https://www.palmcoastford.com/"
+website: https://www.palmcoastford.com/

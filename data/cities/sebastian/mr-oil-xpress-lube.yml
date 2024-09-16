@@ -1,11 +1,11 @@
 id: 960766205
-type: way
+type: node
 latitude: 27.77391
 longitude: -80.44825
 postcode: "32958"
 city: Sebastian
-street: "US 1"
-housenumber: 9895
-phone: "+1-772-228-8506"
+street: US 1
+housenumber: "9895"
+phone: +1-772-228-8506
 opening_hours: ""
-website: "https://www.mroilxpress.com/"
+website: https://www.mroilxpress.com/

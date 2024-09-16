@@ -1,11 +1,11 @@
 id: 858998018
-type: way
+type: node
 latitude: 29.20175
 longitude: -81.0386
 postcode: "32114"
 city: Daytona Beach
-street: "South Nova Road"
-housenumber: 201
+street: South Nova Road
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

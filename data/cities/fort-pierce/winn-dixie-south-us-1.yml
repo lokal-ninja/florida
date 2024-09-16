@@ -1,11 +1,11 @@
 id: 961700768
-type: way
+type: node
 latitude: 27.37472
 longitude: -80.32875
 postcode: "34982"
 city: Fort Pierce
-street: "South US 1"
-housenumber: 4967
-phone: "+1 772-466-5308"
-opening_hours: "07:00-23:00"
-website: "https://www.winndixie.com/storedetails/fort%20pierce/fl?search=2355"
+street: South US 1
+housenumber: "4967"
+phone: +1 772-466-5308
+opening_hours: 07:00-23:00
+website: https://www.winndixie.com/storedetails/fort%20pierce/fl?search=2355

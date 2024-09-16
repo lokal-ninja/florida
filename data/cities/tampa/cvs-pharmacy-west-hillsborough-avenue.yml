@@ -1,11 +1,11 @@
 id: 522764096
-type: way
+type: node
 latitude: 27.99726
 longitude: -82.58159
 postcode: "33635"
 city: Tampa
-street: "West Hillsborough Avenue"
-housenumber: 8603
+street: West Hillsborough Avenue
+housenumber: "8603"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/tampa-fl-pharmacies/8603-west-hillsborough-ave-tampa-fl-33615/storeid=5783"
+website: https://www.cvs.com/store-locator/tampa-fl-pharmacies/8603-west-hillsborough-ave-tampa-fl-33615/storeid=5783

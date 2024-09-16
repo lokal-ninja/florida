@@ -1,11 +1,11 @@
 id: 149485287
-type: way
+type: node
 latitude: 27.82147
 longitude: -82.67905
 postcode: "33714"
 city: Saint Petersburg
-street: "54th Avenue North"
-housenumber: 5401
-phone: "+1-727-525-6333"
+street: 54th Avenue North
+housenumber: "5401"
+phone: +1-727-525-6333
 opening_hours: ""
 website: ""

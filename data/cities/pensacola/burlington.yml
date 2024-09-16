@@ -1,11 +1,11 @@
 id: 354150735
-type: way
+type: node
 latitude: 30.4983
 longitude: -87.22555
 postcode: "32504"
 city: Pensacola
-street: "North Davis Highway"
-housenumber: 7171
-phone: "+1 850-475-0528"
+street: North Davis Highway
+housenumber: "7171"
+phone: +1 850-475-0528
 opening_hours: ""
-website: "https://www.burlingtoncoatfactory.com/"
+website: https://www.burlingtoncoatfactory.com/

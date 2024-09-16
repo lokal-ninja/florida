@@ -1,11 +1,11 @@
 id: 611713213
-type: way
+type: node
 latitude: 30.76235
 longitude: -86.57664
 postcode: ""
 city: Crestview
-street: "West James Lee Boulevard"
-housenumber: 307
+street: West James Lee Boulevard
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

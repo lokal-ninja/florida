@@ -1,11 +1,11 @@
 id: 960858614
-type: way
+type: node
 latitude: 28.236
 longitude: -82.34661
-postcode: "33544-8616"
+postcode: 33544-8616
 city: Wesley Chapel
-street: "Bruce B Downs Boulevard"
-housenumber: 5400
-phone: "+1 813-907-1699"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/618"
+street: Bruce B Downs Boulevard
+housenumber: "5400"
+phone: +1 813-907-1699
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/618

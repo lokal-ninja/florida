@@ -1,11 +1,11 @@
 id: 998169646
-type: way
+type: node
 latitude: 27.99523
 longitude: -82.47753
 postcode: "33603"
 city: Tampa
-street: "West Hillsborough Avenue"
-housenumber: 1760
-phone: "+1-813-873-3649"
-opening_hours: "24/7"
-website: "https://www.wawa.com/store/5183/fl/fl-tampa-1760-hillsborough-ave"
+street: West Hillsborough Avenue
+housenumber: "1760"
+phone: +1-813-873-3649
+opening_hours: 24/7
+website: https://www.wawa.com/store/5183/fl/fl-tampa-1760-hillsborough-ave

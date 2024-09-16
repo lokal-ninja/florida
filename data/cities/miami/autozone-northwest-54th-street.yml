@@ -1,11 +1,11 @@
 id: 278725021
-type: way
+type: node
 latitude: 25.8245
 longitude: -80.20862
 postcode: "33127"
 city: Miami
-street: "Northwest 54th Street"
-housenumber: 730
+street: Northwest 54th Street
+housenumber: "730"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/miami/730-nw-54th-st.html"
+website: https://www.autozone.com/locations/fl/miami/730-nw-54th-st.html

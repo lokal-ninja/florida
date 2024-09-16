@@ -1,11 +1,11 @@
 id: 538623629
-type: way
+type: node
 latitude: 27.55865
 longitude: -82.56395
 postcode: "34221"
 city: Palmetto
-street: "US-19"
-housenumber: 4910
+street: US-19
+housenumber: "4910"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/fl/palmetto/15468"
+website: https://www.dollargeneral.com/store-directory/fl/palmetto/15468

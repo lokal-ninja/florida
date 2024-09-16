@@ -1,11 +1,11 @@
 id: 772470529
-type: way
+type: node
 latitude: 27.9821
 longitude: -82.28524
 postcode: "33584"
 city: Seffner
-street: "South Parsons Avenue"
-housenumber: 1606
-phone: "+1 (813) 654-8046"
-opening_hours: "24/7"
+street: South Parsons Avenue
+housenumber: "1606"
+phone: +1 (813) 654-8046
+opening_hours: 24/7
 website: ""

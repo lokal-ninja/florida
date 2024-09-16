@@ -1,11 +1,11 @@
 id: 1044207944
-type: way
+type: node
 latitude: 26.52703
 longitude: -80.06052
 postcode: "33435"
 city: Boynton Beach
-street: "East Ocean Avenue"
-housenumber: 402
-phone: "+1-561-732-3722"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.blossomshoppeflorist.com/"
+street: East Ocean Avenue
+housenumber: "402"
+phone: +1-561-732-3722
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.blossomshoppeflorist.com/

@@ -1,11 +1,11 @@
 id: 825069443
-type: way
+type: node
 latitude: 28.65483
 longitude: -81.21496
 postcode: "32765"
 city: Oviedo
-street: "Mitchell Hammock Road"
-housenumber: 318
-phone: "+1-321-222-3856"
+street: Mitchell Hammock Road
+housenumber: "318"
+phone: +1-321-222-3856
 opening_hours: ""
-website: "https://www.thetirechoice.com"
+website: https://www.thetirechoice.com

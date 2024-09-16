@@ -1,11 +1,11 @@
 id: 846813404
-type: way
+type: node
 latitude: 28.32987
 longitude: -82.55989
 postcode: "34638"
 city: Land O Lakes
-street: "State Road 52"
-housenumber: 15474
-phone: "+1 813 995 2011"
+street: State Road 52
+housenumber: "15474"
+phone: +1 813 995 2011
 opening_hours: ""
 website: ""

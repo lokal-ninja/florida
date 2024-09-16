@@ -1,11 +1,11 @@
 id: 192562219
-type: way
+type: node
 latitude: 27.78524
 longitude: -82.63831
 postcode: ""
 city: Saint Petersburg
-street: "4th Street North"
-housenumber: 1301
+street: 4th Street North
+housenumber: "1301"
 phone: ""
 opening_hours: ""
-website: "http://www.marionsonline.com/"
+website: http://www.marionsonline.com/

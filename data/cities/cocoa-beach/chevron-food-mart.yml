@@ -1,11 +1,11 @@
 id: 697773147
-type: way
+type: node
 latitude: 28.32589
 longitude: -80.6097
 postcode: "32931"
 city: Cocoa Beach
-street: "North Atlantic Avenue"
-housenumber: 400
+street: North Atlantic Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

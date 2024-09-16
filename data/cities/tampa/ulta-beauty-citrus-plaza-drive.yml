@@ -1,11 +1,11 @@
 id: 1009538242
-type: way
+type: node
 latitude: 28.06383
 longitude: -82.57563
 postcode: "33625"
 city: Tampa
-street: "Citrus Plaza Drive"
-housenumber: 12715
-phone: "+1 813-926-7110"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/tampa-fl-153"
+street: Citrus Plaza Drive
+housenumber: "12715"
+phone: +1 813-926-7110
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/tampa-fl-153

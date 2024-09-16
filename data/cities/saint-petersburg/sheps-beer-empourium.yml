@@ -4,8 +4,8 @@ latitude: 27.79088
 longitude: -82.63824
 postcode: "33704"
 city: Saint Petersburg
-street: "4th Street North"
-housenumber: 2001
-phone: "+1 727 823-6565"
+street: 4th Street North
+housenumber: "2001"
+phone: +1 727 823-6565
 opening_hours: ""
-website: "http://www.shepsbeers.com/"
+website: http://www.shepsbeers.com/

@@ -1,11 +1,11 @@
 id: 139563453
-type: way
+type: node
 latitude: 30.43641
 longitude: -84.26323
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 1231
+street: Apalachee Parkway
+housenumber: "1231"
 phone: ""
 opening_hours: ""
 website: ""

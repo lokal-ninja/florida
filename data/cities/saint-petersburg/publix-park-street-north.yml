@@ -2,10 +2,10 @@ id: 7745277764
 type: node
 latitude: 27.82268
 longitude: -82.75177
-postcode: "33709-6309"
+postcode: 33709-6309
 city: Saint Petersburg
-street: "Park Street North"
-housenumber: 5577
-phone: "+1 727-545-8488"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/305"
+street: Park Street North
+housenumber: "5577"
+phone: +1 727-545-8488
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/305

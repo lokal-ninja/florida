@@ -1,11 +1,11 @@
 id: 1253828729
-type: way
+type: node
 latitude: 27.24887
 longitude: -80.27045
 postcode: "34957"
 city: Jensen Beach
-street: "Federal Highway"
-housenumber: 3451
-phone: "+1 772-692-9000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Jensen-Beach/FL/Jensen-Beach/34957/221"
+street: Federal Highway
+housenumber: "3451"
+phone: +1 772-692-9000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Jensen-Beach/FL/Jensen-Beach/34957/221

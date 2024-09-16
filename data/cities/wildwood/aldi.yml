@@ -1,11 +1,11 @@
 id: 1119275186
-type: way
+type: node
 latitude: 28.86588
 longitude: -82.00936
 postcode: "34785"
 city: Wildwood
-street: "Seven Mile Drive"
-housenumber: 5643
-phone: "+1 888-474-1048"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/wildwood/5643-seven-mile-dr"
+street: Seven Mile Drive
+housenumber: "5643"
+phone: +1 888-474-1048
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/wildwood/5643-seven-mile-dr

@@ -2,10 +2,10 @@ id: 4139535835
 type: node
 latitude: 30.11936
 longitude: -81.62711
-postcode: "32259-3861"
+postcode: 32259-3861
 city: Saint Johns
-street: "State Road 13"
-housenumber: 450
-phone: "+1 904-230-3201"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/716"
+street: State Road 13
+housenumber: "450"
+phone: +1 904-230-3201
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/716

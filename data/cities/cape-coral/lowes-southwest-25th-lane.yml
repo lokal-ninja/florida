@@ -1,11 +1,11 @@
 id: 363386609
-type: way
+type: node
 latitude: 26.60698
 longitude: -81.98022
 postcode: "33914"
 city: Cape Coral
-street: "Southwest 25th Lane"
-housenumber: 285
-phone: "+1 239-458-6440"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-cape-coral/2361"
+street: Southwest 25th Lane
+housenumber: "285"
+phone: +1 239-458-6440
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-cape-coral/2361

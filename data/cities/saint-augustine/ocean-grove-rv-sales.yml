@@ -1,11 +1,11 @@
 id: 714958719
-type: way
+type: node
 latitude: 29.75691
 longitude: -81.31378
 postcode: "32086"
 city: Saint Augustine
-street: "US 1 South"
-housenumber: 6775
+street: US 1 South
+housenumber: "6775"
 phone: "+19047975732"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-17:00"
-website: "https://www.oceangrovervsales.com"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-17:00
+website: https://www.oceangrovervsales.com

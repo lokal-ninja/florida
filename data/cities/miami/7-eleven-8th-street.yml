@@ -4,8 +4,8 @@ latitude: 25.76567
 longitude: -80.20761
 postcode: "33130"
 city: Miami
-street: "8th Street"
-housenumber: 812
-phone: "+1 305-854-7011"
+street: 8th Street
+housenumber: "812"
+phone: +1 305-854-7011
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/fl/miami/812-8th-st-34566"
+website: https://www.7-eleven.com/locations/fl/miami/812-8th-st-34566

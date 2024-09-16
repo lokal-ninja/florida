@@ -1,11 +1,11 @@
 id: 361219176
-type: way
+type: node
 latitude: 29.20477
 longitude: -81.03615
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 907
-phone: "+1 386 258 0000"
+street: International Speedway Boulevard
+housenumber: "907"
+phone: +1 386 258 0000
 opening_hours: ""
 website: ""

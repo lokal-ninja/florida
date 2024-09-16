@@ -1,11 +1,11 @@
 id: 522664819
-type: way
+type: node
 latitude: 27.80766
 longitude: -82.65527
 postcode: "33703"
 city: Saint Petersburg
-street: "38th Avenue North"
-housenumber: 1601
+street: 38th Avenue North
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

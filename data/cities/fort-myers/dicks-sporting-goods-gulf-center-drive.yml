@@ -1,11 +1,11 @@
 id: 165610310
-type: way
+type: node
 latitude: 26.48609
 longitude: -81.78841
 postcode: "33913"
 city: Fort Myers
-street: "Gulf Center Drive"
-housenumber: 10011
-phone: "+1 239-433-0216"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/fort-myers/739/"
+street: Gulf Center Drive
+housenumber: "10011"
+phone: +1 239-433-0216
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/fort-myers/739/

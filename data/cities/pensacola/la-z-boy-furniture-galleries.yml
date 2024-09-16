@@ -1,11 +1,11 @@
 id: 353479317
-type: way
+type: node
 latitude: 30.47473
 longitude: -87.21419
 postcode: "32504"
 city: Pensacola
-street: "Bayou Boulevard"
-housenumber: 5078
-phone: "+1 850-479-9800"
+street: Bayou Boulevard
+housenumber: "5078"
+phone: +1 850-479-9800
 opening_hours: ""
-website: "https://www.la-z-boy.com/"
+website: https://www.la-z-boy.com/

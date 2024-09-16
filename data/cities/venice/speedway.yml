@@ -1,11 +1,11 @@
 id: 895248094
-type: way
+type: node
 latitude: 27.10671
 longitude: -82.3855
 postcode: "34292"
 city: Venice
-street: "Commercial Court"
-housenumber: 350
+street: Commercial Court
+housenumber: "350"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Venice/350-COMMERCIAL-CT"
+website: https://www.speedway.com/locations/FL/Venice/350-COMMERCIAL-CT

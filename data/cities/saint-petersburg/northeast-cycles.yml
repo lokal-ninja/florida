@@ -4,8 +4,8 @@ latitude: 27.78356
 longitude: -82.63833
 postcode: ""
 city: Saint Petersburg
-street: "4th Street North"
-housenumber: 1115
-phone: "+1 727-898-2453"
+street: 4th Street North
+housenumber: "1115"
+phone: +1 727-898-2453
 opening_hours: ""
-website: "http://northeastcycles.com/"
+website: http://northeastcycles.com/

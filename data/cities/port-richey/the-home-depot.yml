@@ -1,11 +1,11 @@
 id: 1016901475
-type: way
+type: node
 latitude: 28.30378
 longitude: -82.70626
 postcode: "34668"
 city: Port Richey
-street: "US Highway 19"
-housenumber: 10017
-phone: "+1 727-869-2711"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Port-Richey/FL/Port-Richey/34668/238"
+street: US Highway 19
+housenumber: "10017"
+phone: +1 727-869-2711
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Port-Richey/FL/Port-Richey/34668/238

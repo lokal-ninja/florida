@@ -1,11 +1,11 @@
 id: 711881655
-type: way
+type: node
 latitude: 30.76566
 longitude: -86.56941
 postcode: ""
 city: Crestview
-street: "East Hickory Avenue"
-housenumber: 568
+street: East Hickory Avenue
+housenumber: "568"
 phone: ""
 opening_hours: ""
 website: ""

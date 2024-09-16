@@ -1,11 +1,11 @@
 id: 485540069
-type: way
+type: node
 latitude: 29.55812
 longitude: -81.2094
 postcode: "32137"
 city: Palm Coast
-street: "Palm Coast Parkway Northeast"
-housenumber: 250
-phone: "+1 386-597-4776"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1493"
+street: Palm Coast Parkway Northeast
+housenumber: "250"
+phone: +1 386-597-4776
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1493

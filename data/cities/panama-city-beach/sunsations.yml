@@ -1,11 +1,11 @@
 id: 636641173
-type: way
+type: node
 latitude: 30.19194
 longitude: -85.83211
 postcode: "32407"
 city: Panama City Beach
-street: "Front Beach Road"
-housenumber: 12400
-phone: "+1-850-235-9876"
+street: Front Beach Road
+housenumber: "12400"
+phone: +1-850-235-9876
 opening_hours: ""
-website: "https://www.sunsationsfl.com/"
+website: https://www.sunsationsfl.com/

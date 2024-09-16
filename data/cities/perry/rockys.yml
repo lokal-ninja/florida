@@ -1,11 +1,11 @@
 id: 504104658
-type: way
+type: node
 latitude: 30.0857
 longitude: -83.65642
 postcode: "32347"
 city: Perry
-street: "W U.S 98"
-housenumber: 5075
-phone: "+1-850-584-6600"
-opening_hours: "Mo-Th 04:00-21:00, Fr-Sa 04:00-22:00, Su 04:00-21:00"
-website: "http://www.rockyscampground.com/"
+street: W U.S 98
+housenumber: "5075"
+phone: +1-850-584-6600
+opening_hours: Mo-Th 04:00-21:00, Fr-Sa 04:00-22:00, Su 04:00-21:00
+website: http://www.rockyscampground.com/

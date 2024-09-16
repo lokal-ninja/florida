@@ -1,11 +1,11 @@
 id: 65104109
-type: way
+type: node
 latitude: 30.43306
 longitude: -84.29113
 postcode: ""
 city: Tallahassee
-street: "Industrial Drive"
-housenumber: 565
+street: Industrial Drive
+housenumber: "565"
 phone: ""
 opening_hours: ""
 website: ""

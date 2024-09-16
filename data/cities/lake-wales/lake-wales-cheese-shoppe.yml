@@ -1,11 +1,11 @@
 id: 268625609
-type: way
+type: node
 latitude: 27.89763
 longitude: -81.58648
 postcode: "33853"
 city: Lake Wales
-street: "East Bullard Avenue"
-housenumber: 224
+street: East Bullard Avenue
+housenumber: "224"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
 website: ""

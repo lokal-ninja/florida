@@ -1,11 +1,11 @@
 id: 887595107
-type: way
+type: node
 latitude: 27.58304
 longitude: -80.37764
 postcode: "32962"
 city: Vero Beach
-street: "South US 1"
-housenumber: 1105
-phone: "+1-772-291-0624"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su 11:00-17:00"
-website: "https://www.kiaofverobeach.com/"
+street: South US 1
+housenumber: "1105"
+phone: +1-772-291-0624
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-18:00; Su 11:00-17:00
+website: https://www.kiaofverobeach.com/

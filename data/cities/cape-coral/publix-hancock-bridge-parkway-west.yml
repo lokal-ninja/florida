@@ -1,11 +1,11 @@
 id: 288458550
-type: way
+type: node
 latitude: 26.64869
 longitude: -81.97732
-postcode: "33991-2088"
+postcode: 33991-2088
 city: Cape Coral
-street: "Hancock Bridge Parkway West"
-housenumber: 100
-phone: "+1 239-458-8900"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/452"
+street: Hancock Bridge Parkway West
+housenumber: "100"
+phone: +1 239-458-8900
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/452

@@ -1,11 +1,11 @@
 id: 479615102
-type: way
+type: node
 latitude: 30.51766
 longitude: -86.46113
 postcode: "32578"
 city: Niceville
-street: "John Sims Parkway"
-housenumber: 1300
-phone: "+1 850-389-3013"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5845/niceville-fl/whats-new"
+street: John Sims Parkway
+housenumber: "1300"
+phone: +1 850-389-3013
+opening_hours: 24/7
+website: https://www.walmart.com/store/5845/niceville-fl/whats-new

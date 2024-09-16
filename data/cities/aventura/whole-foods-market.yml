@@ -4,8 +4,8 @@ latitude: 25.97116
 longitude: -80.14107
 postcode: "33180"
 city: Aventura
-street: "Biscayne Boulevard"
-housenumber: 21105
-phone: "+1 305-682-4400"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/aventura"
+street: Biscayne Boulevard
+housenumber: "21105"
+phone: +1 305-682-4400
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/aventura

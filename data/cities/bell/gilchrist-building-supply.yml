@@ -1,11 +1,11 @@
 id: 182261299
-type: way
+type: node
 latitude: 29.76697
 longitude: -82.86635
 postcode: "32619"
 city: Bell
-street: "N US Highway 129"
-housenumber: 1960
-phone: "+1 352 463 2738"
+street: N US Highway 129
+housenumber: "1960"
+phone: +1 352 463 2738
 opening_hours: ""
 website: ""

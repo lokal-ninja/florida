@@ -1,11 +1,11 @@
 id: 333179387
-type: way
+type: node
 latitude: 27.7528
 longitude: -82.73784
 postcode: ""
 city: Pasadena
-street: "Pasadena Avenue South"
-housenumber: 1500
+street: Pasadena Avenue South
+housenumber: "1500"
 phone: ""
 opening_hours: ""
 website: ""

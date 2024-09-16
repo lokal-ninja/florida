@@ -1,11 +1,11 @@
 id: 501469621
-type: way
+type: node
 latitude: 27.29508
 longitude: -82.53014
 postcode: "34231"
 city: Sarasota
-street: "South Tamiami Trail"
-housenumber: 4101
-phone: "+1 941-922-5727"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/fl/sarasota/761/"
+street: South Tamiami Trail
+housenumber: "4101"
+phone: +1 941-922-5727
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/fl/sarasota/761/

@@ -1,11 +1,11 @@
 id: 522746493
-type: way
+type: node
 latitude: 27.91709
 longitude: -82.77526
 postcode: "33770"
 city: Largo
-street: "East Bay Drive"
-housenumber: 1198
-phone: "(727) 584-1198"
+street: East Bay Drive
+housenumber: "1198"
+phone: (727) 584-1198
 opening_hours: ""
-website: "https://www.icecoldair.com/locations/1198-east-bay-drive/"
+website: https://www.icecoldair.com/locations/1198-east-bay-drive/

@@ -1,11 +1,11 @@
 id: 427552349
-type: way
+type: node
 latitude: 26.64104
 longitude: -81.86926
 postcode: "33901"
 city: Fort Myers
-street: "Broadway"
-housenumber: 1822
-phone: "1 239 332 0332"
+street: Broadway
+housenumber: "1822"
+phone: 1 239 332 0332
 opening_hours: ""
-website: "https://perkinsbail.com/"
+website: https://perkinsbail.com/

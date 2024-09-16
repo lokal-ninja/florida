@@ -1,11 +1,11 @@
 id: 598985167
-type: way
+type: node
 latitude: 27.58822
 longitude: -80.41633
 postcode: "32968"
 city: Vero Beach
-street: "9th Street Southwest"
-housenumber: 2950
-phone: "+1 772-562-4303"
-opening_hours: "07:00-22:00"
-website: "https://www.winndixie.com/storedetails/vero%20beach/fl?search=2366"
+street: 9th Street Southwest
+housenumber: "2950"
+phone: +1 772-562-4303
+opening_hours: 07:00-22:00
+website: https://www.winndixie.com/storedetails/vero%20beach/fl?search=2366

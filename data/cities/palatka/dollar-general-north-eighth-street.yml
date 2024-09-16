@@ -1,11 +1,11 @@
 id: 1029094393
-type: way
+type: node
 latitude: 29.64911
 longitude: -81.63577
 postcode: "32177"
 city: Palatka
-street: "North Eighth Street"
-housenumber: 201
+street: North Eighth Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/fl/palatka/11189"
+website: https://www.dollargeneral.com/store-directory/fl/palatka/11189

@@ -1,11 +1,11 @@
 id: 192510964
-type: way
+type: node
 latitude: 27.84139
 longitude: -82.73968
 postcode: "33777"
 city: Pinellas Park
-street: "Park Boulevard"
-housenumber: 7333
-phone: "+1 727-546-5866"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: Park Boulevard
+housenumber: "7333"
+phone: +1 727-546-5866
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

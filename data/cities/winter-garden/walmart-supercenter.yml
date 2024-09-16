@@ -1,11 +1,11 @@
 id: 554588728
-type: way
+type: node
 latitude: 28.47665
 longitude: -81.63032
 postcode: "34787"
 city: Winter Garden
-street: "New Independence Parkway;New Independence Parkway"
-housenumber: 16313
-phone: "+1 407-554-0182"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/110/winter-garden-fl/whats-new"
+street: New Independence Parkway;New Independence Parkway
+housenumber: "16313"
+phone: +1 407-554-0182
+opening_hours: 24/7
+website: https://www.walmart.com/store/110/winter-garden-fl/whats-new

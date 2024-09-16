@@ -1,11 +1,11 @@
 id: 255191911
-type: way
+type: node
 latitude: 25.82056
 longitude: -80.18792
 postcode: "33137"
 city: Miami
-street: "Biscayne Boulevard"
-housenumber: 4870
-phone: "+1 305-573-8601"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/714"
+street: Biscayne Boulevard
+housenumber: "4870"
+phone: +1 305-573-8601
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/714

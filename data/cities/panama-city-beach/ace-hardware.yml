@@ -1,11 +1,11 @@
 id: 447849933
-type: way
+type: node
 latitude: 30.23901
 longitude: -85.90869
 postcode: "32413"
 city: Panama City Beach
-street: "Panama City Beach Parkway"
-housenumber: 17760
-phone: "+1 850-234-0314"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-17:00"
+street: Panama City Beach Parkway
+housenumber: "17760"
+phone: +1 850-234-0314
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 829933800
-type: way
+type: node
 latitude: 27.79268
 longitude: -82.34091
 postcode: "33578"
 city: Riverview
-street: "Big Bend Road"
-housenumber: 10220
-phone: "+1 833-747-4078"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/riverview/10220-big-bend-rd"
+street: Big Bend Road
+housenumber: "10220"
+phone: +1 833-747-4078
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/riverview/10220-big-bend-rd

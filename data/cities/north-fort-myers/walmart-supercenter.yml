@@ -1,11 +1,11 @@
 id: 289693504
-type: way
+type: node
 latitude: 26.6799
 longitude: -81.8977
 postcode: "33903"
 city: North Fort Myers
-street: "Pine Island Road"
-housenumber: 545
-phone: "+1 239-997-9991"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/623/north-fort%20myers-fl/whats-new"
+street: Pine Island Road
+housenumber: "545"
+phone: +1 239-997-9991
+opening_hours: 24/7
+website: https://www.walmart.com/store/623/north-fort%20myers-fl/whats-new

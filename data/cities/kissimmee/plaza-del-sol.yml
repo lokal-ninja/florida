@@ -1,11 +1,11 @@
 id: 555005599
-type: way
+type: node
 latitude: 28.30643
 longitude: -81.44326
 postcode: "34741"
 city: Kissimmee
-street: "West Vine Street"
-housenumber: 3831
+street: West Vine Street
+housenumber: "3831"
 phone: ""
 opening_hours: ""
 website: ""

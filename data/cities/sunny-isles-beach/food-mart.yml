@@ -1,11 +1,11 @@
 id: 255236056
-type: way
+type: node
 latitude: 25.9315
 longitude: -80.12232
 postcode: "33160"
 city: Sunny Isles Beach
-street: "Collins Avenue"
-housenumber: 16750
+street: Collins Avenue
+housenumber: "16750"
 phone: ""
 opening_hours: ""
 website: ""

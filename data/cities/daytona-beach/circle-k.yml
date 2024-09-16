@@ -1,11 +1,11 @@
 id: 556117934
-type: way
+type: node
 latitude: 29.16633
 longitude: -81.02459
 postcode: "32119"
 city: Daytona Beach
-street: "South Nova Road"
-housenumber: 1800
-phone: "+1 386 322 8539"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/daytona-beach/1800-s-nova-rd/2700224"
+street: South Nova Road
+housenumber: "1800"
+phone: +1 386 322 8539
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/daytona-beach/1800-s-nova-rd/2700224

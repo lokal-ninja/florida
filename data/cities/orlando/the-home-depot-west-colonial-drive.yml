@@ -1,11 +1,11 @@
 id: 588225441
-type: way
+type: node
 latitude: 28.55064
 longitude: -81.47759
 postcode: "32818"
 city: Orlando
-street: "West Colonial Drive"
-housenumber: 7022
-phone: "+1 407-297-1151"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/W-Colonial/FL/Orlando/32818/261"
+street: West Colonial Drive
+housenumber: "7022"
+phone: +1 407-297-1151
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/W-Colonial/FL/Orlando/32818/261

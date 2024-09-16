@@ -1,11 +1,11 @@
 id: 1015593829
-type: way
+type: node
 latitude: 29.66058
 longitude: -82.32893
 postcode: "32601"
 city: Gainesville
-street: "Northwest 4th Street"
-housenumber: 910
+street: Northwest 4th Street
+housenumber: "910"
 phone: "+13524517041"
-opening_hours: "Appointment Only"
-website: "http://mosgaragesalonexperience.com/"
+opening_hours: Appointment Only
+website: http://mosgaragesalonexperience.com/

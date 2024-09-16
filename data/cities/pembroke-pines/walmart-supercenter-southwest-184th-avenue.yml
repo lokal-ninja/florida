@@ -1,11 +1,11 @@
 id: 504029886
-type: way
+type: node
 latitude: 26.00502
 longitude: -80.39
 postcode: "33029"
 city: Pembroke Pines
-street: "Southwest 184th Avenue"
-housenumber: 151
-phone: "+1 954-442-5822"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2591/pembroke-pines-fl/whats-new"
+street: Southwest 184th Avenue
+housenumber: "151"
+phone: +1 954-442-5822
+opening_hours: 24/7
+website: https://www.walmart.com/store/2591/pembroke-pines-fl/whats-new

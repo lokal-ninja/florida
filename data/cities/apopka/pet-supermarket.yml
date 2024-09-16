@@ -1,11 +1,11 @@
 id: 1088278386
-type: way
+type: node
 latitude: 28.67177
 longitude: -81.45145
 postcode: "32703"
 city: Apopka
-street: "S Hunt Club Boulevard"
-housenumber: 534
-phone: "+1-407-682-2020"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://storelocator.petsupermarket.com/fl-apopka-534-s-hunt-club-blvd-248"
+street: S Hunt Club Boulevard
+housenumber: "534"
+phone: +1-407-682-2020
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://storelocator.petsupermarket.com/fl-apopka-534-s-hunt-club-blvd-248

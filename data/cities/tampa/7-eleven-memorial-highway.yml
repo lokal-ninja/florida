@@ -1,11 +1,11 @@
 id: 522764006
-type: way
+type: node
 latitude: 27.99913
 longitude: -82.58375
 postcode: "33615"
 city: Tampa
-street: "Memorial Highway"
-housenumber: 8801
-phone: "+1-813-888-7535"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/fl/tampa/8801-memorial-hwy-25715"
+street: Memorial Highway
+housenumber: "8801"
+phone: +1-813-888-7535
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/fl/tampa/8801-memorial-hwy-25715

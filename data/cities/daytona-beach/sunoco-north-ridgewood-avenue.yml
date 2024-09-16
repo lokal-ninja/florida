@@ -1,11 +1,11 @@
 id: 960115674
-type: way
+type: node
 latitude: 29.21579
 longitude: -81.02584
 postcode: "32114"
 city: Daytona Beach
-street: "North Ridgewood Avenue"
-housenumber: 300
+street: North Ridgewood Avenue
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

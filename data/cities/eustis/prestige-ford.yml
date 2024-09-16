@@ -1,11 +1,11 @@
 id: 556360392
-type: way
+type: node
 latitude: 28.82376
 longitude: -81.66381
 postcode: "32757"
 city: Eustis
-street: "US Highway 441"
-housenumber: 17701
+street: US Highway 441
+housenumber: "17701"
 phone: ""
 opening_hours: ""
 website: ""

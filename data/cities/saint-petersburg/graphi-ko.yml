@@ -4,8 +4,8 @@ latitude: 27.77135
 longitude: -82.64301
 postcode: "33701"
 city: Saint Petersburg
-street: "Central Avenue"
-housenumber: 669
-phone: "+1 727-667-8126"
-opening_hours: "Mo-Sa 11:30-18:00"
-website: "https://www.graphi-ko.com/"
+street: Central Avenue
+housenumber: "669"
+phone: +1 727-667-8126
+opening_hours: Mo-Sa 11:30-18:00
+website: https://www.graphi-ko.com/

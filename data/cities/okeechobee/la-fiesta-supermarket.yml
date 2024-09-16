@@ -1,11 +1,11 @@
 id: 793413614
-type: way
+type: node
 latitude: 27.24331
 longitude: -80.84701
 postcode: "34974"
 city: Okeechobee
-street: "FL 70"
-housenumber: 1774
+street: FL 70
+housenumber: "1774"
 phone: ""
-opening_hours: "04:00-22:00"
+opening_hours: 04:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 232400904
-type: way
+type: node
 latitude: 30.50294
 longitude: -84.24995
 postcode: "32309"
 city: Tallahassee
-street: "Thomasville Road"
-housenumber: 3425
-phone: "+1 850-894-2538"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.traderjoes.com/"
+street: Thomasville Road
+housenumber: "3425"
+phone: +1 850-894-2538
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.traderjoes.com/

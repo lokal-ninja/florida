@@ -1,11 +1,11 @@
 id: 501256811
-type: way
+type: node
 latitude: 27.29857
 longitude: -82.5083
 postcode: "34239"
 city: Sarasota
-street: "Bee Ridge Road"
-housenumber: 3190
-phone: "+1 941-922-2232"
+street: Bee Ridge Road
+housenumber: "3190"
+phone: +1 941-922-2232
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/fl/sarasota/3190-bee-ridge-road-40360"
+website: https://www.7-eleven.com/locations/fl/sarasota/3190-bee-ridge-road-40360

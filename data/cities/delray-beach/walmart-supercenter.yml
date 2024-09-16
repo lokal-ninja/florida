@@ -1,11 +1,11 @@
 id: 325639024
-type: way
+type: node
 latitude: 26.43688
 longitude: -80.12492
 postcode: "33484"
 city: Delray Beach
-street: "South Military Trail"
-housenumber: 16205
-phone: "+1 561-495-8127"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1589/delray-beach-fl/whats-new"
+street: South Military Trail
+housenumber: "16205"
+phone: +1 561-495-8127
+opening_hours: 24/7
+website: https://www.walmart.com/store/1589/delray-beach-fl/whats-new

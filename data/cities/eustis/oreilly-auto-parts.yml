@@ -1,11 +1,11 @@
 id: 560228845
-type: way
+type: node
 latitude: 28.83903
 longitude: -81.68614
 postcode: "32726"
 city: Eustis
-street: "South Bay Street"
-housenumber: 1500
+street: South Bay Street
+housenumber: "1500"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/fl/eustis/autoparts-4924.html"
+website: https://locations.oreillyauto.com/fl/eustis/autoparts-4924.html

@@ -1,11 +1,11 @@
 id: 699457131
-type: way
+type: node
 latitude: 27.63835
 longitude: -80.39665
 postcode: "32960"
 city: Vero Beach
-street: "Commerce Avenue"
-housenumber: 2020
-phone: "+1-772-562-2453"
+street: Commerce Avenue
+housenumber: "2020"
+phone: +1-772-562-2453
 opening_hours: ""
-website: "https://www.alansbicyclecenter.com/"
+website: https://www.alansbicyclecenter.com/

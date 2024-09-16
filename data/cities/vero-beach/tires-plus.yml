@@ -1,11 +1,11 @@
 id: 464765488
-type: way
+type: node
 latitude: 27.63975
 longitude: -80.45317
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 6050
-phone: "+1-772-494-6702"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su 09:00-16:00"
-website: "https://www.tiresplus.com/"
+street: 20th Street
+housenumber: "6050"
+phone: +1-772-494-6702
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su 09:00-16:00
+website: https://www.tiresplus.com/

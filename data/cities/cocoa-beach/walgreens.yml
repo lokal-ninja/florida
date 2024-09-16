@@ -1,11 +1,11 @@
 id: 219576575
-type: way
+type: node
 latitude: 28.35686
 longitude: -80.60905
 postcode: "32931"
 city: Cocoa Beach
-street: "North Atlantic Avenue"
-housenumber: 4150
+street: North Atlantic Avenue
+housenumber: "4150"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-4150+n+atlantic+ave-cocoa+beach-fl-32931/id=2284"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-4150+n+atlantic+ave-cocoa+beach-fl-32931/id=2284

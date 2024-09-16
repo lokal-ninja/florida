@@ -1,11 +1,11 @@
 id: 776579671
-type: way
+type: node
 latitude: 28.18863
 longitude: -82.43954
 postcode: "34639"
 city: Land O' Lakes
-street: "Collier Parkway"
-housenumber: 2121
-phone: "+1 813-948-9819"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/877"
+street: Collier Parkway
+housenumber: "2121"
+phone: +1 813-948-9819
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/877

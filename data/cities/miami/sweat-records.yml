@@ -1,11 +1,11 @@
 id: 311489890
-type: way
+type: node
 latitude: 25.82632
 longitude: -80.19182
 postcode: "33137"
 city: Miami
-street: "Northeast 2nd Avenue"
-housenumber: 5505
+street: Northeast 2nd Avenue
+housenumber: "5505"
 phone: ""
 opening_hours: ""
-website: "https://www.sweatrecordsmiami.com/"
+website: https://www.sweatrecordsmiami.com/

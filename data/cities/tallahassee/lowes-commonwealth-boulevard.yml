@@ -1,11 +1,11 @@
 id: 145079168
-type: way
+type: node
 latitude: 30.47882
 longitude: -84.36667
 postcode: "32303"
 city: Tallahassee
-street: "Commonwealth Boulevard"
-housenumber: 5500
-phone: "+1 850-575-1435"
-opening_hours: "Mo-Sa 06:00-22:00, Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=0716"
+street: Commonwealth Boulevard
+housenumber: "5500"
+phone: +1 850-575-1435
+opening_hours: Mo-Sa 06:00-22:00, Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=0716

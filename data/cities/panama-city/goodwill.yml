@@ -1,11 +1,11 @@
 id: 637644530
-type: way
+type: node
 latitude: 30.19037
 longitude: -85.69779
 postcode: "32405"
 city: Panama City
-street: "West 23rd Street"
-housenumber: 2520
+street: West 23rd Street
+housenumber: "2520"
 phone: ""
 opening_hours: ""
 website: ""

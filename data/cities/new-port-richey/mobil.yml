@@ -1,11 +1,11 @@
 id: 330595138
-type: way
+type: node
 latitude: 28.20652
 longitude: -82.66704
 postcode: "34655"
 city: New Port Richey
-street: "Sr 54"
-housenumber: 8923
+street: Sr 54
+housenumber: "8923"
 phone: ""
 opening_hours: ""
 website: ""

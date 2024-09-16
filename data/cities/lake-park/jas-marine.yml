@@ -1,11 +1,11 @@
 id: 435404170
-type: way
+type: node
 latitude: 26.79517
 longitude: -80.07283
 postcode: "33403"
 city: Lake Park
-street: "Newman Road"
-housenumber: 1009
-phone: "561-844-3224"
+street: Newman Road
+housenumber: "1009"
+phone: 561-844-3224
 opening_hours: ""
-website: "https://www.jasmarine.com/"
+website: https://www.jasmarine.com/

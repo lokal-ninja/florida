@@ -1,11 +1,11 @@
 id: 941543569
-type: way
+type: node
 latitude: 28.44653
 longitude: -81.39426
 postcode: "32809"
 city: Orlando
-street: "S ORANGE BLOSSOM TRL"
-housenumber: 8001
-phone: "(407) 851-4441"
+street: S ORANGE BLOSSOM TRL
+housenumber: "8001"
+phone: (407) 851-4441
 opening_hours: ""
-website: "https://www.simon.com/mall/the-florida-mall/stores/sleep-number"
+website: https://www.simon.com/mall/the-florida-mall/stores/sleep-number

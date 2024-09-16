@@ -1,11 +1,11 @@
 id: 1111813279
-type: way
+type: node
 latitude: 30.28733
 longitude: -81.63551
 postcode: "32207"
 city: Jacksonville
-street: "Phillips Highway"
-housenumber: 3650
-phone: "+1 833-474-7141"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/jacksonville/3650-phillips-highway"
+street: Phillips Highway
+housenumber: "3650"
+phone: +1 833-474-7141
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/jacksonville/3650-phillips-highway

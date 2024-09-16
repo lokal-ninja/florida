@@ -1,11 +1,11 @@
 id: 731756527
-type: way
+type: node
 latitude: 27.01554
 longitude: -82.13674
 postcode: "33948"
 city: Port Charlotte
-street: "Cochran Boulevard"
-housenumber: 19690
-phone: "+1 941-625-0783"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/port-charlotte/fl/port-charlotte/33948/201"
+street: Cochran Boulevard
+housenumber: "19690"
+phone: +1 941-625-0783
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/port-charlotte/fl/port-charlotte/33948/201

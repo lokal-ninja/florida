@@ -1,11 +1,11 @@
 id: 557065377
-type: way
+type: node
 latitude: 30.44623
 longitude: -84.26005
 postcode: "32301"
 city: Tallahassee
-street: "Office Plaza Drive"
-housenumber: 354
+street: Office Plaza Drive
+housenumber: "354"
 phone: ""
 opening_hours: ""
 website: ""

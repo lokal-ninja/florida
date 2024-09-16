@@ -1,11 +1,11 @@
 id: 161794091
-type: way
+type: node
 latitude: 26.10695
 longitude: -80.25203
-postcode: "33324-3322"
+postcode: 33324-3322
 city: Plantation
-street: "South University Drive"
-housenumber: 1181
-phone: "+1 954-577-0542"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1345"
+street: South University Drive
+housenumber: "1181"
+phone: +1 954-577-0542
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1345

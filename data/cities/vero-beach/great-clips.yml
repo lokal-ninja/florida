@@ -4,8 +4,8 @@ latitude: 27.6357
 longitude: -80.44588
 postcode: "32966"
 city: Vero Beach
-street: "58th Avenue"
-housenumber: 1820
-phone: "+1-772-217-2344"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://www.greatclips.com"
+street: 58th Avenue
+housenumber: "1820"
+phone: +1-772-217-2344
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-17:00
+website: https://www.greatclips.com

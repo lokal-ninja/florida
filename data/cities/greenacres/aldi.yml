@@ -1,11 +1,11 @@
 id: 1043038233
-type: way
+type: node
 latitude: 26.62615
 longitude: -80.14743
 postcode: "33467"
 city: Greenacres
-street: "South Jog Road"
-housenumber: 3401
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:30"
-website: "https://stores.aldi.us/fl/greenacres/3401-s-jog-rd"
+street: South Jog Road
+housenumber: "3401"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:30
+website: https://stores.aldi.us/fl/greenacres/3401-s-jog-rd

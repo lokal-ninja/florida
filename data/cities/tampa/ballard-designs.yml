@@ -4,8 +4,8 @@ latitude: 27.95301
 longitude: -82.50215
 postcode: "33607"
 city: Tampa
-street: "Midtown Drive"
-housenumber: 3620
+street: Midtown Drive
+housenumber: "3620"
 phone: ""
 opening_hours: ""
-website: "https://www.ballarddesigns.com/webapp/wcs/stores/servlet/BallardDesigns/US/CustomerService/Tampa-RetailStore/content-path"
+website: https://www.ballarddesigns.com/webapp/wcs/stores/servlet/BallardDesigns/US/CustomerService/Tampa-RetailStore/content-path

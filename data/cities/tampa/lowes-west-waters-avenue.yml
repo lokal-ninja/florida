@@ -1,11 +1,11 @@
 id: 523980064
-type: way
+type: node
 latitude: 28.0278
 longitude: -82.54699
 postcode: "33634"
 city: Tampa
-street: "West Waters Avenue"
-housenumber: 6275
-phone: "+1 813-249-6001"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-tampa/0564"
+street: West Waters Avenue
+housenumber: "6275"
+phone: +1 813-249-6001
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-tampa/0564

@@ -1,11 +1,11 @@
 id: 603467361
-type: way
+type: node
 latitude: 28.18893
 longitude: -82.45689
 postcode: "33549"
 city: Lutz
-street: "FL 54"
-housenumber: 21731
-phone: "+1 (813) 235-4063"
-opening_hours: "24/7"
-website: "https://www.metrostorage.com/"
+street: FL 54
+housenumber: "21731"
+phone: +1 (813) 235-4063
+opening_hours: 24/7
+website: https://www.metrostorage.com/

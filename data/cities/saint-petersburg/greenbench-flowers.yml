@@ -4,8 +4,8 @@ latitude: 27.77153
 longitude: -82.63868
 postcode: ""
 city: Saint Petersburg
-street: "4th Street North"
-housenumber: 10
-phone: "+1 727-823-1414"
-opening_hours: "Mo-Fr 08:30-17:30;Sa 10:00-13:00"
-website: "https://greenbench.com/"
+street: 4th Street North
+housenumber: "10"
+phone: +1 727-823-1414
+opening_hours: Mo-Fr 08:30-17:30;Sa 10:00-13:00
+website: https://greenbench.com/

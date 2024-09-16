@@ -1,11 +1,11 @@
 id: 640742984
-type: way
+type: node
 latitude: 26.61544
 longitude: -80.05302
 postcode: "33460"
 city: Lake Worth
-street: "Lake Avenue"
-housenumber: 411
+street: Lake Avenue
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

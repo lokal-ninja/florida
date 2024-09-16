@@ -1,11 +1,11 @@
 id: 450869611
-type: way
+type: node
 latitude: 30.32327
 longitude: -81.40996
 postcode: ""
 city: Neptune Beach
-street: "Atlantic Boulevard"
-housenumber: 1209
-phone: "+1 904-241-4368"
+street: Atlantic Boulevard
+housenumber: "1209"
+phone: +1 904-241-4368
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/neptune%20beach/fl?search=18"
+website: https://www.winndixie.com/storedetails/neptune%20beach/fl?search=18

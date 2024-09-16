@@ -1,11 +1,11 @@
 id: 346626120
-type: way
+type: node
 latitude: 30.2531
 longitude: -81.53535
 postcode: "32246"
 city: Jacksonville
-street: "Gate Parkway"
-housenumber: 4887
+street: Gate Parkway
+housenumber: "4887"
 phone: ""
 opening_hours: ""
 website: ""

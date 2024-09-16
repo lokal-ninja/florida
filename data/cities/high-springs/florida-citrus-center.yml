@@ -1,11 +1,11 @@
 id: 538615336
-type: way
+type: node
 latitude: 29.87485
 longitude: -82.54077
 postcode: "32643"
 city: High Springs
-street: "CR 236"
-housenumber: 18603
+street: CR 236
+housenumber: "18603"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

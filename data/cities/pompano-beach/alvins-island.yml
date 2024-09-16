@@ -1,11 +1,11 @@
 id: 1005417072
-type: way
+type: node
 latitude: 26.23635
 longitude: -80.08937
 postcode: ""
 city: Pompano Beach
-street: "North Pompano Beach Boulevard"
-housenumber: 275
+street: North Pompano Beach Boulevard
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

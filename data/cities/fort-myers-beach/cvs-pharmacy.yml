@@ -1,11 +1,11 @@
 id: 613092663
-type: way
+type: node
 latitude: 26.41534
 longitude: -81.90076
 postcode: "33931"
 city: Fort Myers Beach
-street: "Estero Boulevard"
-housenumber: 7001
-phone: "+1 239-463-5746"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.cvs.com/store-locator/fort-myers-beach-fl-pharmacies/7001-estero-blvd-fort-myers-beach-fl-33931/storeid=3611"
+street: Estero Boulevard
+housenumber: "7001"
+phone: +1 239-463-5746
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.cvs.com/store-locator/fort-myers-beach-fl-pharmacies/7001-estero-blvd-fort-myers-beach-fl-33931/storeid=3611

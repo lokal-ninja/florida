@@ -1,11 +1,11 @@
 id: 560483449
-type: way
+type: node
 latitude: 27.75757
 longitude: -82.63127
 postcode: "33716"
 city: Saint Petersburg
-street: "Beach Drive Southeast"
-housenumber: 1301
+street: Beach Drive Southeast
+housenumber: "1301"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00,Sa 09:00-16:00, Su 11:00-16:00"
-website: "https://shopcgx.com/store-locations.html"
+opening_hours: Mo-Fr 07:00-17:00,Sa 09:00-16:00, Su 11:00-16:00
+website: https://shopcgx.com/store-locations.html

@@ -1,11 +1,11 @@
 id: 356861877
-type: way
+type: node
 latitude: 24.56159
 longitude: -81.79996
 postcode: "33040"
 city: Key West
-street: "Margaret Street"
-housenumber: 261
-phone: "+1 305 296 9737"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.lostreefadventures.com/"
+street: Margaret Street
+housenumber: "261"
+phone: +1 305 296 9737
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.lostreefadventures.com/

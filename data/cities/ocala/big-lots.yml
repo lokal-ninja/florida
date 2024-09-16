@@ -1,11 +1,11 @@
 id: 117148433
-type: way
+type: node
 latitude: 29.12925
 longitude: -82.03727
 postcode: "34472"
 city: Ocala
-street: "Southeast Maricamp Road"
-housenumber: 6851
-phone: "+1 352-687-4406"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://local.biglots.com/fl/ocala/6851-se-maricamp-rd"
+street: Southeast Maricamp Road
+housenumber: "6851"
+phone: +1 352-687-4406
+opening_hours: Mo-Su 07:00-22:00
+website: https://local.biglots.com/fl/ocala/6851-se-maricamp-rd

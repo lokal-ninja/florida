@@ -1,11 +1,11 @@
 id: 361219947
-type: way
+type: node
 latitude: 29.20946
 longitude: -81.02644
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 520
-phone: "+1 386 323 3777"
-opening_hours: "Mo-Sa 09:00-19:00, Su 11:00-18:00"
-website: "https://www.spanosmotors.com/"
+street: International Speedway Boulevard
+housenumber: "520"
+phone: +1 386 323 3777
+opening_hours: Mo-Sa 09:00-19:00, Su 11:00-18:00
+website: https://www.spanosmotors.com/

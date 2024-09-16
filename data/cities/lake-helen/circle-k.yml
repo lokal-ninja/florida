@@ -1,11 +1,11 @@
 id: 583588777
-type: way
+type: node
 latitude: 28.97815
 longitude: -81.23224
 postcode: "32744"
 city: Lake Helen
-street: "South Lakeview Drive"
-housenumber: 446
+street: South Lakeview Drive
+housenumber: "446"
 phone: ""
 opening_hours: ""
 website: ""

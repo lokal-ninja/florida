@@ -1,11 +1,11 @@
 id: 918283764
-type: way
+type: node
 latitude: 30.17928
 longitude: -82.66363
 postcode: "32055"
 city: Lake City
-street: "West US Highway 90"
-housenumber: 1912
+street: West US Highway 90
+housenumber: "1912"
 phone: ""
 opening_hours: ""
 website: ""

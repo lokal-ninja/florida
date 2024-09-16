@@ -1,11 +1,11 @@
 id: 644621074
-type: way
+type: node
 latitude: 27.52749
 longitude: -82.72164
 postcode: "34216"
 city: Anna Maria
-street: "South Bay Boulevard"
-housenumber: 900
-phone: "+1 (941) 778-0755"
+street: South Bay Boulevard
+housenumber: "900"
+phone: +1 (941) 778-0755
 opening_hours: ""
 website: ""

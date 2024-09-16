@@ -1,11 +1,11 @@
 id: 495561842
-type: way
+type: node
 latitude: 30.42352
 longitude: -84.28074
 postcode: "32301"
 city: Tallahassee
-street: "South Monroe Street"
-housenumber: 1910
+street: South Monroe Street
+housenumber: "1910"
 phone: ""
 opening_hours: ""
-website: "http://www.tallahasseetransmissionrepairs.com/"
+website: http://www.tallahasseetransmissionrepairs.com/

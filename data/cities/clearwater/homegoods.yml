@@ -1,11 +1,11 @@
 id: 227199835
-type: way
+type: node
 latitude: 28.0143
 longitude: -82.73176
 postcode: "33761"
 city: Clearwater
-street: "Countryside Boulevard"
-housenumber: 2567
-phone: "+1 727-793-9378"
-opening_hours: "09:00-22:00"
+street: Countryside Boulevard
+housenumber: "2567"
+phone: +1 727-793-9378
+opening_hours: 09:00-22:00
 website: ""

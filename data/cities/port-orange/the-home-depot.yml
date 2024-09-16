@@ -1,11 +1,11 @@
 id: 444581960
-type: way
+type: node
 latitude: 29.12019
 longitude: -81.02265
 postcode: "32127"
 city: Port Orange
-street: "Dunlawton Avenue"
-housenumber: 1551
-phone: "+1 386-760-6498"
-opening_hours: "Mo-Sa 06:00-22:00, Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Port-Orange/FL/Port-Orange/32127/6335"
+street: Dunlawton Avenue
+housenumber: "1551"
+phone: +1 386-760-6498
+opening_hours: Mo-Sa 06:00-22:00, Su 08:00-20:00
+website: https://www.homedepot.com/l/Port-Orange/FL/Port-Orange/32127/6335

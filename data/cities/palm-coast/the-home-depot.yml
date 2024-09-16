@@ -1,11 +1,11 @@
 id: 41838167
-type: way
+type: node
 latitude: 29.55579
 longitude: -81.22273
 postcode: "32164"
 city: Palm Coast
-street: "Garden Street North"
-housenumber: 10
-phone: "+1 386-445-2497"
-opening_hours: "Mo-Sa 06:00-22:00, Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Palm-Coast/FL/Palm-Coast/32137/6363"
+street: Garden Street North
+housenumber: "10"
+phone: +1 386-445-2497
+opening_hours: Mo-Sa 06:00-22:00, Su 08:00-20:00
+website: https://www.homedepot.com/l/Palm-Coast/FL/Palm-Coast/32137/6363

@@ -1,11 +1,11 @@
 id: 967193808
-type: way
+type: node
 latitude: 25.08905
 longitude: -80.44613
 postcode: "33037"
 city: Key Largo
-street: "Overseas Highway"
-housenumber: 99100
-phone: "+1-305-735-4368"
+street: Overseas Highway
+housenumber: "99100"
+phone: +1-305-735-4368
 opening_hours: ""
-website: "https://pinecrestbakery.com/"
+website: https://pinecrestbakery.com/

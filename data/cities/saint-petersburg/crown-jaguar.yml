@@ -1,11 +1,11 @@
 id: 149485268
-type: way
+type: node
 latitude: 27.82671
 longitude: -82.67908
 postcode: "33714"
 city: Saint Petersburg
-street: "34th Street North"
-housenumber: 6001
-phone: "+1-866-369-3751"
+street: 34th Street North
+housenumber: "6001"
+phone: +1-866-369-3751
 opening_hours: ""
-website: "https://www.crowneurocars.com/"
+website: https://www.crowneurocars.com/

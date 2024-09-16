@@ -1,11 +1,11 @@
 id: 230876616
-type: way
+type: node
 latitude: 27.95917
 longitude: -82.74484
 postcode: "33765"
 city: Clearwater
-street: "Belcher Road"
-housenumber: 525
-phone: "+1 727-791-0138"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1160"
+street: Belcher Road
+housenumber: "525"
+phone: +1 727-791-0138
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1160

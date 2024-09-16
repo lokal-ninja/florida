@@ -1,11 +1,11 @@
 id: 518026651
-type: way
+type: node
 latitude: 29.59525
 longitude: -82.08693
 postcode: "32640"
 city: Hawthorne
-street: "221st Street"
-housenumber: 6410
+street: 221st Street
+housenumber: "6410"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

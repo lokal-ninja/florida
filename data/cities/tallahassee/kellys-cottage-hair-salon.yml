@@ -1,11 +1,11 @@
 id: 211816893
-type: way
+type: node
 latitude: 30.46223
 longitude: -84.28131
 postcode: "32303"
 city: Tallahassee
-street: "Lake Ella Drive"
-housenumber: 207
+street: Lake Ella Drive
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

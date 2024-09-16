@@ -1,11 +1,11 @@
 id: 1178550294
-type: way
+type: node
 latitude: 25.77634
 longitude: -80.13274
 postcode: "33139"
 city: Miami Beach
-street: "Collins Avenue"
-housenumber: 640
+street: Collins Avenue
+housenumber: "640"
 phone: ""
 opening_hours: ""
 website: ""

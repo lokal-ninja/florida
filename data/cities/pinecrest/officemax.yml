@@ -1,11 +1,11 @@
 id: 435527484
-type: way
+type: node
 latitude: 25.64422
 longitude: -80.33142
 postcode: "33156"
 city: Pinecrest
-street: "South Dixie Highway"
-housenumber: 13575
-phone: "+1-305-971-4177"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 00:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/miami/officemax-6407"
+street: South Dixie Highway
+housenumber: "13575"
+phone: +1-305-971-4177
+opening_hours: Mo-Fr 08:00-21:00; Sa 00:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/miami/officemax-6407

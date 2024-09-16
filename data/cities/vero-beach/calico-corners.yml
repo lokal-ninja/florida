@@ -1,11 +1,11 @@
 id: 514313460
-type: way
+type: node
 latitude: 27.63923
 longitude: -80.43579
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 4800
-phone: "+1-772-562-7855"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://calicocornersfl.com/"
+street: 20th Street
+housenumber: "4800"
+phone: +1-772-562-7855
+opening_hours: Mo-Sa 10:00-18:00
+website: https://calicocornersfl.com/

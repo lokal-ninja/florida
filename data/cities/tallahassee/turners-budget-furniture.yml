@@ -1,11 +1,11 @@
 id: 263565282
-type: way
+type: node
 latitude: 30.42724
 longitude: -84.22313
 postcode: "32311"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 3209
+street: Apalachee Parkway
+housenumber: "3209"
 phone: ""
 opening_hours: ""
-website: "https://www.turnersbudgetfurniture.com/"
+website: https://www.turnersbudgetfurniture.com/

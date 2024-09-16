@@ -1,11 +1,11 @@
 id: 291798792
-type: way
+type: node
 latitude: 26.68005
 longitude: -80.05487
 postcode: ""
 city: West Palm Beach
-street: "South Dixie Highway"
-housenumber: 3515
-phone: "561-659-0900"
-opening_hours: "6:00 - 20:00"
+street: South Dixie Highway
+housenumber: "3515"
+phone: 561-659-0900
+opening_hours: 6:00 - 20:00
 website: ""

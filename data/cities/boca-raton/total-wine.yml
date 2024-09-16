@@ -4,8 +4,8 @@ latitude: 26.36358
 longitude: -80.1224
 postcode: "33486"
 city: Boca Raton
-street: "Town Center Circle"
-housenumber: 5050
-phone: "+1 561-391-1281"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://www.totalwine.com/store-info/905"
+street: Town Center Circle
+housenumber: "5050"
+phone: +1 561-391-1281
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://www.totalwine.com/store-info/905

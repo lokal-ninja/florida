@@ -4,8 +4,8 @@ latitude: 26.16463
 longitude: -81.76749
 postcode: "34104"
 city: Naples
-street: "1234 Airport Pulling Rd N"
-housenumber: 1234
-phone: "+1 239-262-0100"
+street: 1234 Airport Pulling Rd N
+housenumber: "1234"
+phone: +1 239-262-0100
 opening_hours: ""
-website: "https://houseofhighfidelity.com/"
+website: https://houseofhighfidelity.com/

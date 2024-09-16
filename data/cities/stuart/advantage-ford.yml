@@ -1,11 +1,11 @@
 id: 205870624
-type: way
+type: node
 latitude: 27.15536
 longitude: -80.22179
 postcode: "34997"
 city: Stuart
-street: "Southeast Federal Highway"
-housenumber: 4000
+street: Southeast Federal Highway
+housenumber: "4000"
 phone: ""
 opening_hours: ""
 website: ""

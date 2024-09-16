@@ -1,11 +1,11 @@
 id: 497276868
-type: way
+type: node
 latitude: 27.38937
 longitude: -82.51653
 postcode: "34243"
 city: Sarasota
-street: "37th Street East"
-housenumber: 8470
+street: 37th Street East
+housenumber: "8470"
 phone: ""
 opening_hours: ""
 website: ""

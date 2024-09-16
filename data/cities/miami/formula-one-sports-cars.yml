@@ -1,11 +1,11 @@
 id: 322994111
-type: way
+type: node
 latitude: 25.73472
 longitude: -80.25609
 postcode: "33146"
 city: Miami
-street: "Southwest 40th Street"
-housenumber: 3800
-phone: "+1 (305) 443 1515"
-opening_hours: "Mo-We 09:00-18:30; Fr 09:00-18:30; Sa 10:00-16:00"
-website: "https://formula-1-sport-cars.ebizautos.com/"
+street: Southwest 40th Street
+housenumber: "3800"
+phone: +1 (305) 443 1515
+opening_hours: Mo-We 09:00-18:30; Fr 09:00-18:30; Sa 10:00-16:00
+website: https://formula-1-sport-cars.ebizautos.com/

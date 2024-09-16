@@ -1,11 +1,11 @@
 id: 1116988876
-type: way
+type: node
 latitude: 30.77622
 longitude: -85.23644
 postcode: "32446"
 city: Marianna
-street: "Borden Street"
-housenumber: 2900
+street: Borden Street
+housenumber: "2900"
 phone: ""
 opening_hours: ""
 website: ""

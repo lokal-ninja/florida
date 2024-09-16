@@ -1,11 +1,11 @@
 id: 280522373
-type: way
+type: node
 latitude: 27.8602
 longitude: -82.78776
 postcode: "33772"
 city: Seminole
-street: "Seminole Boulevard"
-housenumber: 9686
-phone: "(727) 397-6817"
+street: Seminole Boulevard
+housenumber: "9686"
+phone: (727) 397-6817
 opening_hours: ""
-website: "https://pinchapenny.com/stores/seminole-fl-2"
+website: https://pinchapenny.com/stores/seminole-fl-2

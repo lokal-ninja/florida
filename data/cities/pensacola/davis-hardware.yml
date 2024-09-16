@@ -1,11 +1,11 @@
 id: 827673823
-type: way
+type: node
 latitude: 30.44659
 longitude: -87.23645
 postcode: "32505"
 city: Pensacola
-street: "North L Street"
-housenumber: 3225
+street: North L Street
+housenumber: "3225"
 phone: ""
-opening_hours: "Mo-We 08:00-18:00; Th,Fr 08:00-17:00"
+opening_hours: Mo-We 08:00-18:00; Th,Fr 08:00-17:00
 website: ""

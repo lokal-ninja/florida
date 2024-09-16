@@ -1,11 +1,11 @@
 id: 553898995
-type: way
+type: node
 latitude: 27.48846
 longitude: -81.4835
 postcode: "33870"
 city: Sebring
-street: "US 27 North"
-housenumber: 515
-phone: "+1 863-382-0068"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/515-us-highway-27-n-sebring-33870?number=538"
+street: US 27 North
+housenumber: "515"
+phone: +1 863-382-0068
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/515-us-highway-27-n-sebring-33870?number=538

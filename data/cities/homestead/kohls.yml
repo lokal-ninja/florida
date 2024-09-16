@@ -1,11 +1,11 @@
 id: 219137028
-type: way
+type: node
 latitude: 25.47988
 longitude: -80.44395
 postcode: "33033"
 city: Homestead
-street: "Northeast 10th Court"
-housenumber: 2455
-phone: "+1 305-245-2291"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/fl/homestead-1246.shtml"
+street: Northeast 10th Court
+housenumber: "2455"
+phone: +1 305-245-2291
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/fl/homestead-1246.shtml

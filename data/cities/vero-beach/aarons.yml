@@ -1,11 +1,11 @@
 id: 508247632
-type: way
+type: node
 latitude: 27.63829
 longitude: -80.43731
 postcode: "32960"
 city: Vero Beach
-street: "20th Street"
-housenumber: 4945
-phone: "+1-772-794-1645"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00"
-website: "https://www.aarons.com"
+street: 20th Street
+housenumber: "4945"
+phone: +1-772-794-1645
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00
+website: https://www.aarons.com

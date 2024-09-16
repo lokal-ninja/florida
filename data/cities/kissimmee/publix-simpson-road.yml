@@ -1,11 +1,11 @@
 id: 794597762
-type: way
+type: node
 latitude: 28.32052
 longitude: -81.33657
-postcode: "34744-4675"
+postcode: 34744-4675
 city: Kissimmee
-street: "Simpson Road"
-housenumber: 2625
-phone: "+1 407-962-0219"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1502"
+street: Simpson Road
+housenumber: "2625"
+phone: +1 407-962-0219
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1502

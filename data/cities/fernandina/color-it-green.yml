@@ -1,11 +1,11 @@
 id: 491979242
-type: way
+type: node
 latitude: 30.67157
 longitude: -81.46286
 postcode: "32034"
 city: Fernandina
-street: "Centre Street"
-housenumber: 301
+street: Centre Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

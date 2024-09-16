@@ -1,11 +1,11 @@
 id: 111828673
-type: way
+type: node
 latitude: 27.94175
 longitude: -82.46151
 postcode: "33606"
 city: Tampa
-street: "West Platt Street"
-housenumber: 203
+street: West Platt Street
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

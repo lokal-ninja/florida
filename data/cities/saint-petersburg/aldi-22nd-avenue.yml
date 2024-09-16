@@ -4,8 +4,8 @@ latitude: 27.79214
 longitude: -82.7305
 postcode: "33710"
 city: Saint Petersburg
-street: "22nd Avenue"
-housenumber: 6765
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/st.-petersburg/6765-22nd-ave"
+street: 22nd Avenue
+housenumber: "6765"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/st.-petersburg/6765-22nd-ave

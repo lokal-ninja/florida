@@ -1,11 +1,11 @@
 id: 435520631
-type: way
+type: node
 latitude: 25.81184
 longitude: -80.31356
 postcode: "33166"
 city: Miami Springs
-street: "Northwest 72nd Avenue"
-housenumber: 4100
+street: Northwest 72nd Avenue
+housenumber: "4100"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/miami/4100-nw-72nd-ave"
+website: https://stores.advanceautoparts.com/fl/miami/4100-nw-72nd-ave

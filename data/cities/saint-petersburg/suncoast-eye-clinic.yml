@@ -1,11 +1,11 @@
 id: 216803770
-type: way
+type: node
 latitude: 27.79135
 longitude: -82.65516
 postcode: "33703"
 city: Saint Petersburg
-street: "16th Street North"
-housenumber: 2200
+street: 16th Street North
+housenumber: "2200"
 phone: ""
 opening_hours: ""
 website: ""

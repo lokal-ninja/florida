@@ -1,11 +1,11 @@
 id: 524006673
-type: way
+type: node
 latitude: 28.05494
 longitude: -82.44377
 postcode: "33612"
 city: Tampa
-street: "E Fowler Ave"
-housenumber: 1430
+street: E Fowler Ave
+housenumber: "1430"
 phone: ""
 opening_hours: ""
 website: ""

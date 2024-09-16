@@ -1,11 +1,11 @@
 id: 696746227
-type: way
+type: node
 latitude: 30.09467
 longitude: -81.52094
 postcode: "32259"
 city: Saint Johns
-street: "Durbin Pavilion Drive"
-housenumber: 845
-phone: "+1 904-417-9688"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/928-saint-johns-fl"
+street: Durbin Pavilion Drive
+housenumber: "845"
+phone: +1 904-417-9688
+opening_hours: 24/7
+website: https://www.walmart.com/store/928-saint-johns-fl

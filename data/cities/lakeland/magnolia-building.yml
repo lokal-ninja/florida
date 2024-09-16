@@ -1,11 +1,11 @@
 id: 998768963
-type: way
+type: node
 latitude: 28.04246
 longitude: -81.95066
 postcode: "33801"
 city: Lakeland
-street: "East Orange Street"
-housenumber: 698
+street: East Orange Street
+housenumber: "698"
 phone: ""
 opening_hours: ""
 website: ""

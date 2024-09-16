@@ -1,11 +1,11 @@
 id: 1007415319
-type: way
+type: node
 latitude: 29.92381
 longitude: -81.41172
 postcode: "32084"
 city: Saint Augustine
-street: "Outlet Mall Boulevard"
-housenumber: 380
+street: Outlet Mall Boulevard
+housenumber: "380"
 phone: ""
 opening_hours: ""
 website: ""

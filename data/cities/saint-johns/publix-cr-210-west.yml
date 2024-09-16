@@ -1,11 +1,11 @@
 id: 1009206008
-type: way
+type: node
 latitude: 30.07897
 longitude: -81.47673
 postcode: "32259"
 city: Saint Johns
-street: "CR 210 West"
-housenumber: 835
-phone: "+1 904-824-3334"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1766"
+street: CR 210 West
+housenumber: "835"
+phone: +1 904-824-3334
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1766

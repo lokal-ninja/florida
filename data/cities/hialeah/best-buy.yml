@@ -1,11 +1,11 @@
 id: 208822150
-type: way
+type: node
 latitude: 25.85814
 longitude: -80.32124
 postcode: "33012"
 city: Hialeah
-street: "West 20th Avenue"
-housenumber: 4001
-phone: "+1 305-819-0722"
+street: West 20th Avenue
+housenumber: "4001"
+phone: +1 305-819-0722
 opening_hours: ""
-website: "https://stores.bestbuy.com/fl/hialeah/4001-w-20th-ave-555.html"
+website: https://stores.bestbuy.com/fl/hialeah/4001-w-20th-ave-555.html

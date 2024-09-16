@@ -1,11 +1,11 @@
 id: 528907132
-type: way
+type: node
 latitude: 28.669
 longitude: -82.14001
 postcode: "33513"
 city: Bushnell
-street: "West City Road"
-housenumber: 2192
+street: West City Road
+housenumber: "2192"
 phone: ""
 opening_hours: ""
 website: ""

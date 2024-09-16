@@ -1,11 +1,11 @@
 id: 165566600
-type: way
+type: node
 latitude: 25.53785
 longitude: -80.3713
 postcode: "33032"
 city: Miami
-street: "Southwest 112th Avenue"
-housenumber: 24799
-phone: "+1-305-257-3233"
-opening_hours: "Mo-Fr 07:00-11:00"
-website: "https://www.cvs.com/store-locator/homestead-fl-pharmacies/24799-sw-112th-ave-homestead-fl-33032/storeid=8000"
+street: Southwest 112th Avenue
+housenumber: "24799"
+phone: +1-305-257-3233
+opening_hours: Mo-Fr 07:00-11:00
+website: https://www.cvs.com/store-locator/homestead-fl-pharmacies/24799-sw-112th-ave-homestead-fl-33032/storeid=8000

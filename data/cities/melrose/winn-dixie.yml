@@ -1,11 +1,11 @@
 id: 749592490
-type: way
+type: node
 latitude: 29.76272
 longitude: -82.05603
 postcode: "32666"
 city: Melrose
-street: "State Road 21"
-housenumber: 3212
-phone: "+1 352-475-1115"
+street: State Road 21
+housenumber: "3212"
+phone: +1 352-475-1115
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/melrose/fl?search=1654"
+website: https://www.winndixie.com/storedetails/melrose/fl?search=1654

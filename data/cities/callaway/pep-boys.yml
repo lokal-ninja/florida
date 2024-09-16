@@ -1,11 +1,11 @@
 id: 254448904
-type: way
+type: node
 latitude: 30.14826
 longitude: -85.59149
 postcode: "32404"
 city: Callaway
-street: "North Tyndall Parkway"
-housenumber: 161
+street: North Tyndall Parkway
+housenumber: "161"
 phone: ""
 opening_hours: ""
 website: ""

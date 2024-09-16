@@ -1,11 +1,11 @@
 id: 622901700
-type: way
+type: node
 latitude: 28.66988
 longitude: -81.22158
 postcode: "32765"
 city: Oviedo
-street: "Broadway Street"
-housenumber: 800
-phone: "+1-407-542-2040"
+street: Broadway Street
+housenumber: "800"
+phone: +1-407-542-2040
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/fl/oviedo/13347"
+website: https://www.dollargeneral.com/store-directory/fl/oviedo/13347

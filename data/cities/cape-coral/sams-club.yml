@@ -1,11 +1,11 @@
 id: 361818220
-type: way
+type: node
 latitude: 26.65309
 longitude: -81.98038
 postcode: "33991"
 city: Cape Coral
-street: "Southwest Pine Island Road"
-housenumber: 301
-phone: "+1 239-800-6028"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/cape-coral-fl-sams-club/4857"
+street: Southwest Pine Island Road
+housenumber: "301"
+phone: +1 239-800-6028
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/cape-coral-fl-sams-club/4857

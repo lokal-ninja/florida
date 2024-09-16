@@ -1,11 +1,11 @@
 id: 1027226094
-type: way
+type: node
 latitude: 27.60412
 longitude: -80.43031
 postcode: "32968"
 city: Vero Beach
-street: "43rd Avenue"
-housenumber: 150
-phone: "+1-772-569-4714"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://donsimport.com/"
+street: 43rd Avenue
+housenumber: "150"
+phone: +1-772-569-4714
+opening_hours: Mo-Fr 07:30-17:30
+website: https://donsimport.com/

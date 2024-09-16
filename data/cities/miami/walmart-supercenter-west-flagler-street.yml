@@ -1,11 +1,11 @@
 id: 328639847
-type: way
+type: node
 latitude: 25.77098
 longitude: -80.34384
 postcode: "33174"
 city: Miami
-street: "West Flagler Street"
-housenumber: 9191
-phone: "+1 786-801-5704"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4161/miami-fl/whats-new"
+street: West Flagler Street
+housenumber: "9191"
+phone: +1 786-801-5704
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4161/miami-fl/whats-new

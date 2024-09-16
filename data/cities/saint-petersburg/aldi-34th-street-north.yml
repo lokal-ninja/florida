@@ -4,8 +4,8 @@ latitude: 27.78701
 longitude: -82.67884
 postcode: "33713"
 city: Saint Petersburg
-street: "34th Street North"
-housenumber: 1551
-phone: "+1 855-474-1116"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/st.-petersburg/1551-34th-street-north"
+street: 34th Street North
+housenumber: "1551"
+phone: +1 855-474-1116
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/st.-petersburg/1551-34th-street-north

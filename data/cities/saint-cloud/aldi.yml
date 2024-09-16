@@ -4,8 +4,8 @@ latitude: 28.25243
 longitude: -81.31154
 postcode: "34769"
 city: Saint Cloud
-street: "13th Street"
-housenumber: 4056
-phone: "+1 844-474-4030"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/st.-cloud/4056-13th-street"
+street: 13th Street
+housenumber: "4056"
+phone: +1 844-474-4030
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/st.-cloud/4056-13th-street

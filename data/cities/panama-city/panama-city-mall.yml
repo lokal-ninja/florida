@@ -1,11 +1,11 @@
 id: 191917919
-type: way
+type: node
 latitude: 30.18812
 longitude: -85.64748
 postcode: "32405"
 city: Panama City
-street: "Martin Luther King Jr"
-housenumber: 2298
+street: Martin Luther King Jr
+housenumber: "2298"
 phone: ""
-opening_hours: "NONE"
+opening_hours: NONE
 website: ""

@@ -1,11 +1,11 @@
 id: 1110587920
-type: way
+type: node
 latitude: 25.99468
 longitude: -80.28035
 postcode: "33025"
 city: Pembroke Pines
-street: "South Palm Avenue"
-housenumber: 1698
+street: South Palm Avenue
+housenumber: "1698"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/pembroke-pines-fl-pharmacies/1698-south-palm-ave-pembroke-pines-fl-33025/storeid=2849"
+website: https://www.cvs.com/store-locator/pembroke-pines-fl-pharmacies/1698-south-palm-ave-pembroke-pines-fl-33025/storeid=2849

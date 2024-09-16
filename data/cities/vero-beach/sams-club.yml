@@ -1,11 +1,11 @@
 id: 464770307
-type: way
+type: node
 latitude: 27.63579
 longitude: -80.44552
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 5565
-phone: "+1 772-978-9385"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:00-20:30; Su 10:00-18:00"
-website: "https://www.samsclub.com"
+street: 20th Street
+housenumber: "5565"
+phone: +1 772-978-9385
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:00-20:30; Su 10:00-18:00
+website: https://www.samsclub.com

@@ -1,11 +1,11 @@
 id: 549918256
-type: way
+type: node
 latitude: 29.16603
 longitude: -82.17108
 postcode: "34474"
 city: Ocala
-street: "Southwest College Road"
-housenumber: 2701
-phone: "+1 352-237-3866"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 10:00-19:00, Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/ocala/office-depot-264/"
+street: Southwest College Road
+housenumber: "2701"
+phone: +1 352-237-3866
+opening_hours: Mo-Fr 09:00-20:00, Sa 10:00-19:00, Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/ocala/office-depot-264/

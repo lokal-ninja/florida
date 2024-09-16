@@ -1,11 +1,11 @@
 id: 405941342
-type: way
+type: node
 latitude: 26.67703
 longitude: -80.20089
 postcode: "33411"
 city: West Palm Beach
-street: "South State Road 7"
-housenumber: 220
-phone: "+1 561-793-7048"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Royal-Palm/FL/West-Palm-Beach/33414/6379"
+street: South State Road 7
+housenumber: "220"
+phone: +1 561-793-7048
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Royal-Palm/FL/West-Palm-Beach/33414/6379

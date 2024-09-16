@@ -1,11 +1,11 @@
 id: 549055525
-type: way
+type: node
 latitude: 28.44956
 longitude: -81.46672
-postcode: "32819-8902"
+postcode: 32819-8902
 city: Orlando
-street: "West Sand Lake Road"
-housenumber: 6500
-phone: "+1 407 248 1213"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/5160"
+street: West Sand Lake Road
+housenumber: "6500"
+phone: +1 407 248 1213
+opening_hours: 24/7
+website: https://www.wawa.com/locations/5160

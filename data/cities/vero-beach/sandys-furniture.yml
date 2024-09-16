@@ -1,11 +1,11 @@
 id: 693972629
-type: way
+type: node
 latitude: 27.62666
 longitude: -80.38897
 postcode: "32960"
 city: Vero Beach
-street: "US 1"
-housenumber: 1396
-phone: "+1-772-562-2005"
-opening_hours: "Mo-Sa 10:00-17:00; Su 12:00-16:00"
-website: "https://www.sandysverobeach.com/"
+street: US 1
+housenumber: "1396"
+phone: +1-772-562-2005
+opening_hours: Mo-Sa 10:00-17:00; Su 12:00-16:00
+website: https://www.sandysverobeach.com/

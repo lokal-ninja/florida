@@ -1,11 +1,11 @@
 id: 608382114
-type: way
+type: node
 latitude: 26.41472
 longitude: -81.90112
-postcode: "33931-4706"
+postcode: 33931-4706
 city: Fort Myers Beach
-street: "Estero Boulevard"
-housenumber: 7120
-phone: "+1 239-560-7200"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/fl/fort-myers-beach/7120-estero-blvd-24141"
+street: Estero Boulevard
+housenumber: "7120"
+phone: +1 239-560-7200
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/fl/fort-myers-beach/7120-estero-blvd-24141

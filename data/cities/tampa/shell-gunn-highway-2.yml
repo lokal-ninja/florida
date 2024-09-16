@@ -1,11 +1,11 @@
 id: 1151372403
-type: way
+type: node
 latitude: 28.062
 longitude: -82.54236
 postcode: "33625"
 city: Tampa
-street: "Gunn Highway"
-housenumber: 5705
-phone: "+1-813-962-1558"
-opening_hours: "24/7"
-website: "https://find.shell.com/us/fuel/10047778-5705-gunn-hwy"
+street: Gunn Highway
+housenumber: "5705"
+phone: +1-813-962-1558
+opening_hours: 24/7
+website: https://find.shell.com/us/fuel/10047778-5705-gunn-hwy

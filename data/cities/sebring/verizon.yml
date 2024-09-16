@@ -1,11 +1,11 @@
 id: 553703620
-type: way
+type: node
 latitude: 27.51464
 longitude: -81.49359
 postcode: "33870"
 city: Sebring
-street: "Sebring Parkway"
-housenumber: 4223
+street: Sebring Parkway
+housenumber: "4223"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

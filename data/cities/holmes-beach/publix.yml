@@ -1,11 +1,11 @@
 id: 307992962
-type: way
+type: node
 latitude: 27.49594
 longitude: -82.70846
 postcode: "34217"
 city: Holmes Beach
-street: "East Bay Drive"
-housenumber: 3900
-phone: "+1 941-778-5422"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/681"
+street: East Bay Drive
+housenumber: "3900"
+phone: +1 941-778-5422
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/681

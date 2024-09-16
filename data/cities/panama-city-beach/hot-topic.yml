@@ -4,8 +4,8 @@ latitude: 30.21958
 longitude: -85.87005
 postcode: "32413"
 city: Panama City Beach
-street: "Bluefish Drive"
-housenumber: 201
+street: Bluefish Drive
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Th 11:00-20:00; Fr-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.hottopic.com/store-details?StoreId=0810"
+opening_hours: Mo-Th 11:00-20:00; Fr-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.hottopic.com/store-details?StoreId=0810

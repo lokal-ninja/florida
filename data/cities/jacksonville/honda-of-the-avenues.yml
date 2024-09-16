@@ -1,11 +1,11 @@
 id: 932928331
-type: way
+type: node
 latitude: 30.1636
 longitude: -81.53579
 postcode: "32256"
 city: Jacksonville
-street: "Philips Highway"
-housenumber: 11333
+street: Philips Highway
+housenumber: "11333"
 phone: ""
 opening_hours: ""
 website: ""

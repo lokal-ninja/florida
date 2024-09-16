@@ -1,11 +1,11 @@
 id: 523178978
-type: way
+type: node
 latitude: 28.06163
 longitude: -82.70903
-postcode: "34685-2428"
+postcode: 34685-2428
 city: Palm Harbor
-street: "East Lake Road"
-housenumber: 500
-phone: "+1 727-784-4180"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1341"
+street: East Lake Road
+housenumber: "500"
+phone: +1 727-784-4180
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1341

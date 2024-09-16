@@ -1,11 +1,11 @@
 id: 503613248
-type: way
+type: node
 latitude: 27.6383
 longitude: -80.43099
 postcode: "32960"
 city: Vero Beach
-street: "20th Street"
-housenumber: 4315
-phone: "+1-772-778-6872"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.mybpstation.com/"
+street: 20th Street
+housenumber: "4315"
+phone: +1-772-778-6872
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.mybpstation.com/

@@ -1,11 +1,11 @@
 id: 295556668
-type: way
+type: node
 latitude: 27.76917
 longitude: -82.66329
 postcode: "33712"
 city: Saint Petersburg
-street: "2nd Avenue South"
-housenumber: 2200
+street: 2nd Avenue South
+housenumber: "2200"
 phone: ""
 opening_hours: ""
-website: "http://www.brocantemarket.com/"
+website: http://www.brocantemarket.com/

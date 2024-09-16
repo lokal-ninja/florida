@@ -1,11 +1,11 @@
 id: 111996514
-type: way
+type: node
 latitude: 29.9443
 longitude: -82.11114
 postcode: "32091"
 city: Starke
-street: "West Madison Street"
-housenumber: 205
+street: West Madison Street
+housenumber: "205"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-205+w+madison+st-starke-fl-32091/id=9231"
+website: https://www.walgreens.com/locator/walgreens-205+w+madison+st-starke-fl-32091/id=9231

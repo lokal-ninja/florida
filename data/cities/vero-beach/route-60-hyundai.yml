@@ -1,11 +1,11 @@
 id: 706965852
-type: way
+type: node
 latitude: 27.63849
 longitude: -80.5035
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 8575
-phone: "+1-772-569-6004"
-opening_hours: "Mo-Sa 08:30-18:00; Su 11:00-17:00"
-website: "https://www.route60hyundai.com/"
+street: 20th Street
+housenumber: "8575"
+phone: +1-772-569-6004
+opening_hours: Mo-Sa 08:30-18:00; Su 11:00-17:00
+website: https://www.route60hyundai.com/

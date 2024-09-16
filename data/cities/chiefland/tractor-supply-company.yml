@@ -1,11 +1,11 @@
 id: 565840143
-type: way
+type: node
 latitude: 29.49987
 longitude: -82.8725
 postcode: "32626"
 city: Chiefland
-street: "North Young Boulevard"
-housenumber: 2202
-phone: "+1 352-493-4955"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Young Boulevard
+housenumber: "2202"
+phone: +1 352-493-4955
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 934442878
-type: way
+type: node
 latitude: 29.22817
 longitude: -81.03128
 postcode: "32117"
 city: Holly Hill
-street: "North Ridgewood Avenue"
-housenumber: 133
-phone: "+1 386 252 5566"
+street: North Ridgewood Avenue
+housenumber: "133"
+phone: +1 386 252 5566
 opening_hours: ""
-website: "http://find.cashamerica.us/#/stores"
+website: http://find.cashamerica.us/#/stores

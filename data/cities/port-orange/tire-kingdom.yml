@@ -1,11 +1,11 @@
 id: 926456614
-type: way
+type: node
 latitude: 29.13028
 longitude: -81.00302
 postcode: "32129"
 city: Port Orange
-street: "Dunlawton Avenue"
-housenumber: 899
-phone: "+1 386 868 0789"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.tirekingdom.com/store/6151/port-orange-fl-32127-9228"
+street: Dunlawton Avenue
+housenumber: "899"
+phone: +1 386 868 0789
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.tirekingdom.com/store/6151/port-orange-fl-32127-9228

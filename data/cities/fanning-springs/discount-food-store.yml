@@ -1,11 +1,11 @@
 id: 464453424
-type: way
+type: node
 latitude: 29.59167
 longitude: -82.93456
 postcode: "32693"
 city: Fanning Springs
-street: "US Hwy 19"
-housenumber: 7680
-phone: "352-463-6531"
+street: US Hwy 19
+housenumber: "7680"
+phone: 352-463-6531
 opening_hours: ""
 website: ""

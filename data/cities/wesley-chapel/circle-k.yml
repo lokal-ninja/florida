@@ -1,11 +1,11 @@
 id: 946528414
-type: way
+type: node
 latitude: 28.23812
 longitude: -82.35775
 postcode: "33544"
 city: Wesley Chapel
-street: "Wesley Chapel Boulevard"
-housenumber: 27707
-phone: "+1-813-991-5623"
+street: Wesley Chapel Boulevard
+housenumber: "27707"
+phone: +1-813-991-5623
 opening_hours: ""
 website: ""

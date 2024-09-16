@@ -4,8 +4,8 @@ latitude: 25.94489
 longitude: -80.16604
 postcode: "33179"
 city: Miami
-street: "Northeast Miami Gardens Drive"
-housenumber: 1700
-phone: "+1 305-945-7119"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/669"
+street: Northeast Miami Gardens Drive
+housenumber: "1700"
+phone: +1 305-945-7119
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/669

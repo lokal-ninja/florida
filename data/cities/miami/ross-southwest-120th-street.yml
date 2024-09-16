@@ -4,8 +4,8 @@ latitude: 25.65509
 longitude: -80.41457
 postcode: "33186"
 city: Miami
-street: "Southwest 120th Street"
-housenumber: 13600
-phone: "+1 786-293-8910"
-opening_hours: "Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 09:00-23:00"
+street: Southwest 120th Street
+housenumber: "13600"
+phone: +1 786-293-8910
+opening_hours: Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 09:00-23:00
 website: ""

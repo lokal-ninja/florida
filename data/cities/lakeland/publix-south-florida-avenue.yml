@@ -1,11 +1,11 @@
 id: 114768763
-type: way
+type: node
 latitude: 27.97905
 longitude: -81.95988
 postcode: "33813"
 city: Lakeland
-street: "South Florida Avenue"
-housenumber: 4747
-phone: "+1 863-413-0730"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.publix.com/locations/1659"
+street: South Florida Avenue
+housenumber: "4747"
+phone: +1 863-413-0730
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.publix.com/locations/1659

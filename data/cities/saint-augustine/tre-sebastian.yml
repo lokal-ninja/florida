@@ -1,11 +1,11 @@
 id: 405582681
-type: way
+type: node
 latitude: 29.89162
 longitude: -81.29885
 postcode: "32080"
 city: Saint Augustine
-street: "Anastasia Boulevard"
-housenumber: 304
+street: Anastasia Boulevard
+housenumber: "304"
 phone: ""
 opening_hours: ""
-website: "https://tresebastian.com/"
+website: https://tresebastian.com/

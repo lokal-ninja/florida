@@ -4,8 +4,8 @@ latitude: 28.59901
 longitude: -81.24282
 postcode: "32817"
 city: Orlando
-street: "University Boulevard"
-housenumber: 10115
-phone: "+1 407-681-0649"
-opening_hours: "closed temporarily closed"
-website: "https://www.publix.com/locations/1789"
+street: University Boulevard
+housenumber: "10115"
+phone: +1 407-681-0649
+opening_hours: closed "temporarily closed"
+website: https://www.publix.com/locations/1789

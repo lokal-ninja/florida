@@ -1,11 +1,11 @@
 id: 1180472154
-type: way
+type: node
 latitude: 25.78274
 longitude: -80.13222
 postcode: "33139"
 city: Miami Beach
-street: "Washington Avenue"
-housenumber: 1143
+street: Washington Avenue
+housenumber: "1143"
 phone: ""
 opening_hours: ""
 website: ""

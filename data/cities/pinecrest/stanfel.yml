@@ -1,11 +1,11 @@
 id: 435884378
-type: way
+type: node
 latitude: 25.67226
 longitude: -80.32036
 postcode: "33156"
 city: Pinecrest
-street: "South Dixie Highway"
-housenumber: 10545
+street: South Dixie Highway
+housenumber: "10545"
 phone: ""
 opening_hours: ""
 website: ""

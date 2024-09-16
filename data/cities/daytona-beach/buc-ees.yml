@@ -1,11 +1,11 @@
 id: 1092384508
-type: way
+type: node
 latitude: 29.22444
 longitude: -81.10143
 postcode: "32117"
 city: Daytona Beach
-street: "North Gateway Drive"
-housenumber: 2330
-phone: "+1 (979) 238-6390"
-opening_hours: "24/7"
-website: "https://buc-ees.com/"
+street: North Gateway Drive
+housenumber: "2330"
+phone: +1 (979) 238-6390
+opening_hours: 24/7
+website: https://buc-ees.com/

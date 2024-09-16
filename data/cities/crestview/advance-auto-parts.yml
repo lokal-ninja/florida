@@ -1,11 +1,11 @@
 id: 711881684
-type: way
+type: node
 latitude: 30.76895
 longitude: -86.56653
 postcode: ""
 city: Crestview
-street: "North Ferdon Boulevard"
-housenumber: 689
+street: North Ferdon Boulevard
+housenumber: "689"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/crestview/689-n-ferdon-blvd"
+website: https://stores.advanceautoparts.com/fl/crestview/689-n-ferdon-blvd

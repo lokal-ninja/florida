@@ -1,11 +1,11 @@
 id: 769502574
-type: way
+type: node
 latitude: 29.96324
 longitude: -81.4937
 postcode: "32092"
 city: Saint Augustine
-street: "FL 16"
-housenumber: 5465
+street: FL 16
+housenumber: "5465"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/st-augustine/5465-state-road-16.html"
+website: https://www.autozone.com/locations/fl/st-augustine/5465-state-road-16.html

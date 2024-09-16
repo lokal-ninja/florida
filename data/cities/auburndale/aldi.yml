@@ -1,11 +1,11 @@
 id: 686361668
-type: way
+type: node
 latitude: 28.0566
 longitude: -81.81521
 postcode: "33823"
 city: Auburndale
-street: "US Highway 92 West"
-housenumber: 2133
-phone: "+1 888-474-1009"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/auburndale/2133-us-highway-92-west"
+street: US Highway 92 West
+housenumber: "2133"
+phone: +1 888-474-1009
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/auburndale/2133-us-highway-92-west

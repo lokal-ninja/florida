@@ -1,11 +1,11 @@
 id: 697556834
-type: way
+type: node
 latitude: 29.21488
 longitude: -81.09436
 postcode: "32114"
 city: Daytona Beach
-street: "Cornerstone Boulevard"
-housenumber: 
+street: Cornerstone Boulevard
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-21:30, Su 11:00-20:00"
+opening_hours: Mo-Sa 09:30-21:30, Su 11:00-20:00
 website: ""

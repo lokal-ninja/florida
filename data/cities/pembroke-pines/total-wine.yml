@@ -1,11 +1,11 @@
 id: 287213448
-type: way
+type: node
 latitude: 26.00709
 longitude: -80.35771
 postcode: "33027"
 city: Pembroke Pines
-street: "Pines Boulevard"
-housenumber: 15980
-phone: "+1 954-437-5557"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://www.totalwine.com/store-info/915"
+street: Pines Boulevard
+housenumber: "15980"
+phone: +1 954-437-5557
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://www.totalwine.com/store-info/915

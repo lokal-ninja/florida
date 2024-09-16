@@ -1,11 +1,11 @@
 id: 143515397
-type: way
+type: node
 latitude: 28.55619
 longitude: -80.84312
 postcode: "32780"
 city: Titusville
-street: "Cheney Highway"
-housenumber: 3175
-phone: "+1 321-267-5825"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/649/titusville-fl/whats-new"
+street: Cheney Highway
+housenumber: "3175"
+phone: +1 321-267-5825
+opening_hours: 24/7
+website: https://www.walmart.com/store/649/titusville-fl/whats-new

@@ -1,11 +1,11 @@
 id: 524315790
-type: way
+type: node
 latitude: 27.94503
 longitude: -82.52048
 postcode: "33609"
 city: Tampa
-street: "West Kennedy Boulevard"
-housenumber: 4503
-phone: "+1-813-281-8053"
-opening_hours: "Mo-Fr 10:30-19:30; Sa 09:00-19:30; Su 10:30-18:00"
-website: "https://www.davidsbridal.com/stores/tampa-fl-336092013-0019"
+street: West Kennedy Boulevard
+housenumber: "4503"
+phone: +1-813-281-8053
+opening_hours: Mo-Fr 10:30-19:30; Sa 09:00-19:30; Su 10:30-18:00
+website: https://www.davidsbridal.com/stores/tampa-fl-336092013-0019

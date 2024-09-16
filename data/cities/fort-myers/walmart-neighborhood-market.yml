@@ -1,11 +1,11 @@
 id: 288435695
-type: way
+type: node
 latitude: 26.55526
 longitude: -81.90648
 postcode: "33919"
 city: Fort Myers
-street: "College Parkway"
-housenumber: 9131
-phone: "+1 239-267-2860"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5321-fort-myers-fl"
+street: College Parkway
+housenumber: "9131"
+phone: +1 239-267-2860
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5321-fort-myers-fl

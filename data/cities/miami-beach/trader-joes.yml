@@ -1,11 +1,11 @@
 id: 1178446532
-type: way
+type: node
 latitude: 25.79158
 longitude: -80.14238
 postcode: "33139"
 city: Miami Beach
-street: "West Avenue"
-housenumber: 1683
-phone: "+1 305-534-4951"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://locations.traderjoes.com/fl/miami-beach/779/"
+street: West Avenue
+housenumber: "1683"
+phone: +1 305-534-4951
+opening_hours: Mo-Su 09:00-21:00
+website: https://locations.traderjoes.com/fl/miami-beach/779/

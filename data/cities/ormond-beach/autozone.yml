@@ -1,11 +1,11 @@
 id: 795488276
-type: way
+type: node
 latitude: 29.27713
 longitude: -81.08245
 postcode: "32174"
 city: Ormond Beach
-street: "South Nova Road"
-housenumber: 155
+street: South Nova Road
+housenumber: "155"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/ormond-beach/155-s-nova-rd.html"
+website: https://www.autozone.com/locations/fl/ormond-beach/155-s-nova-rd.html

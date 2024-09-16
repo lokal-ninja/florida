@@ -1,11 +1,11 @@
 id: 626970758
-type: way
+type: node
 latitude: 30.42716
 longitude: -84.2797
 postcode: "32301"
 city: Tallahassee
-street: "East Palmer Avenue"
-housenumber: 227
-phone: "+1 850-320-6080"
+street: East Palmer Avenue
+housenumber: "227"
+phone: +1 850-320-6080
 opening_hours: ""
-website: "https://floattally.com/"
+website: https://floattally.com/

@@ -1,11 +1,11 @@
 id: 255979254
-type: way
+type: node
 latitude: 27.9634
 longitude: -81.62373
 postcode: "33853"
 city: Lake Wales
-street: "North US Highway 27"
-housenumber: 24201
-phone: "+1-863-679-8075"
+street: North US Highway 27
+housenumber: "24201"
+phone: +1-863-679-8075
 opening_hours: ""
-website: "https://www.homedepot.com/l/Lake-Wales/FL/Lake-Wales/33859/203"
+website: https://www.homedepot.com/l/Lake-Wales/FL/Lake-Wales/33859/203

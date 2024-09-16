@@ -1,11 +1,11 @@
 id: 706384665
-type: way
+type: node
 latitude: 27.6508
 longitude: -80.35664
 postcode: "32963"
 city: Vero Beach
-street: "Cardinal Drive"
-housenumber: 3106
-phone: "+1-772-231-6911"
+street: Cardinal Drive
+housenumber: "3106"
+phone: +1-772-231-6911
 opening_hours: ""
 website: ""

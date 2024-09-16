@@ -4,8 +4,8 @@ latitude: 25.8532
 longitude: -80.12077
 postcode: "33141"
 city: Miami Beach
-street: "Collins Avenue"
-housenumber: 6876
-phone: "+1 305-864-7405"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1382"
+street: Collins Avenue
+housenumber: "6876"
+phone: +1 305-864-7405
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1382

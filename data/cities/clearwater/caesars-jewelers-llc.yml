@@ -1,11 +1,11 @@
 id: 532409489
-type: way
+type: node
 latitude: 27.99079
 longitude: -82.73195
 postcode: "33765"
 city: Clearwater
-street: "Sunset Point Road"
-housenumber: 2530
+street: Sunset Point Road
+housenumber: "2530"
 phone: ""
 opening_hours: ""
 website: ""

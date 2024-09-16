@@ -1,11 +1,11 @@
 id: 435391086
-type: way
+type: node
 latitude: 25.77281
 longitude: -80.23552
 postcode: "33135"
 city: Miami
-street: "West Flagler Street"
-housenumber: 2445
+street: West Flagler Street
+housenumber: "2445"
 phone: ""
 opening_hours: ""
 website: ""

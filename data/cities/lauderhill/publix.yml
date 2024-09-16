@@ -1,11 +1,11 @@
 id: 48700432
-type: way
+type: node
 latitude: 26.16612
 longitude: -80.22977
 postcode: "33313"
 city: Lauderhill
-street: "West Oakland Park Boulevard"
-housenumber: 5855
-phone: "+1 954-735-1328"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "http://storedetail.publix.com/USA/FL/5855-W-Oakland-Park-Blvd-Ste-203.html"
+street: West Oakland Park Boulevard
+housenumber: "5855"
+phone: +1 954-735-1328
+opening_hours: Mo-Su 07:00-22:00
+website: http://storedetail.publix.com/USA/FL/5855-W-Oakland-Park-Blvd-Ste-203.html

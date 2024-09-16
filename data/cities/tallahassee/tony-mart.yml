@@ -1,11 +1,11 @@
 id: 1021257568
-type: way
+type: node
 latitude: 30.42596
 longitude: -84.30303
 postcode: "32310"
 city: Tallahassee
-street: "North Lake Bradford Road"
-housenumber: 1720
+street: North Lake Bradford Road
+housenumber: "1720"
 phone: ""
 opening_hours: ""
 website: ""

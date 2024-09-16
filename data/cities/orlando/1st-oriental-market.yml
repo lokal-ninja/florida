@@ -1,11 +1,11 @@
 id: 465253079
-type: way
+type: node
 latitude: 28.55027
 longitude: -81.45078
 postcode: "32808"
 city: Orlando
-street: "West Colonial Drive"
-housenumber: 5132
-phone: "+1-407-292-3668"
-opening_hours: "Mo-Su 07:00-23:00"
+street: West Colonial Drive
+housenumber: "5132"
+phone: +1-407-292-3668
+opening_hours: Mo-Su 07:00-23:00
 website: ""

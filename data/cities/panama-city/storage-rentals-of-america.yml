@@ -1,11 +1,11 @@
 id: 637686130
-type: way
+type: node
 latitude: 30.15249
 longitude: -85.58927
 postcode: "32404"
 city: Panama City
-street: "Highway 22"
-housenumber: 5628
+street: Highway 22
+housenumber: "5628"
 phone: ""
 opening_hours: ""
 website: ""

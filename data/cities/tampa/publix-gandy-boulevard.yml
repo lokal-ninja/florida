@@ -1,11 +1,11 @@
 id: 212101777
-type: way
+type: node
 latitude: 27.89511
 longitude: -82.50373
 postcode: "33611"
 city: Tampa
-street: "Gandy Boulevard"
-housenumber: 3617
-phone: "+1 813-832-1779"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1808"
+street: Gandy Boulevard
+housenumber: "3617"
+phone: +1 813-832-1779
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1808

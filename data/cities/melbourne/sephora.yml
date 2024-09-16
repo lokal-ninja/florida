@@ -4,8 +4,8 @@ latitude: 28.24423
 longitude: -80.72734
 postcode: "32940"
 city: Melbourne
-street: "Town Center Avenue"
-housenumber: 2271
-phone: "+1-321-622-9675"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://www.sephora.com/happening/stores/the-avenue-viera"
+street: Town Center Avenue
+housenumber: "2271"
+phone: +1-321-622-9675
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
+website: https://www.sephora.com/happening/stores/the-avenue-viera

@@ -1,11 +1,11 @@
 id: 1290030122
-type: way
+type: node
 latitude: 30.44364
 longitude: -84.27739
 postcode: "32301"
 city: Tallahassee
-street: "East Call Street"
-housenumber: 424
+street: East Call Street
+housenumber: "424"
 phone: ""
 opening_hours: ""
-website: "https://kknightmassagetherapy.blogspot.com/"
+website: https://kknightmassagetherapy.blogspot.com/

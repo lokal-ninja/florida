@@ -1,11 +1,11 @@
 id: 376245527
-type: way
+type: node
 latitude: 30.42739
 longitude: -84.22947
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 2962
+street: Apalachee Parkway
+housenumber: "2962"
 phone: ""
 opening_hours: ""
-website: "https://www.midas.com/"
+website: https://www.midas.com/

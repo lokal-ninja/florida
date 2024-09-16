@@ -4,8 +4,8 @@ latitude: 27.63751
 longitude: -80.44922
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 5915
-phone: "+1-772-569-2082"
-opening_hours: "Mo-Th 09:30-21:30; Fr-Sa 09:30-22:00; Su 11:00-20:00"
-website: "https://www.marshallsonline.com"
+street: 20th Street
+housenumber: "5915"
+phone: +1-772-569-2082
+opening_hours: Mo-Th 09:30-21:30; Fr-Sa 09:30-22:00; Su 11:00-20:00
+website: https://www.marshallsonline.com

@@ -1,11 +1,11 @@
 id: 885224056
-type: way
+type: node
 latitude: 28.3454
 longitude: -82.69679
 postcode: "34667"
 city: Hudson
-street: "US-19"
-housenumber: 12808
-phone: "727-697-1880"
+street: US-19
+housenumber: "12808"
+phone: 727-697-1880
 opening_hours: ""
-website: "http://drivefarrowmotors.com"
+website: http://drivefarrowmotors.com

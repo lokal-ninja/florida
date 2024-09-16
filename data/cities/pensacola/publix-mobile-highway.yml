@@ -1,11 +1,11 @@
 id: 821917209
-type: way
+type: node
 latitude: 30.45954
 longitude: -87.2987
-postcode: "32526-1873"
+postcode: 32526-1873
 city: Pensacola
-street: "Mobile Highway"
-housenumber: 5998
-phone: "+1 850-941-8101"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1318"
+street: Mobile Highway
+housenumber: "5998"
+phone: +1 850-941-8101
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1318

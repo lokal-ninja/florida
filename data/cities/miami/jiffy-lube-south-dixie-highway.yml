@@ -1,11 +1,11 @@
 id: 436109797
-type: way
+type: node
 latitude: 25.60037
 longitude: -80.35395
 postcode: "33157"
 city: Miami
-street: "South Dixie Highway"
-housenumber: 18250
+street: South Dixie Highway
+housenumber: "18250"
 phone: ""
 opening_hours: ""
 website: ""

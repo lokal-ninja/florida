@@ -1,11 +1,11 @@
 id: 520164911
-type: way
+type: node
 latitude: 28.66816
 longitude: -82.13797
 postcode: ""
 city: Bushnell
-street: "FL 48"
-housenumber: 2055
+street: FL 48
+housenumber: "2055"
 phone: ""
 opening_hours: ""
 website: ""

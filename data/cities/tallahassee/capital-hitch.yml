@@ -1,11 +1,11 @@
 id: 1008300447
-type: way
+type: node
 latitude: 30.46014
 longitude: -84.3865
 postcode: "32304"
 city: Tallahassee
-street: "West Tennessee Street"
-housenumber: 7596
+street: West Tennessee Street
+housenumber: "7596"
 phone: ""
 opening_hours: ""
-website: "https://capitalhitch.com/"
+website: https://capitalhitch.com/

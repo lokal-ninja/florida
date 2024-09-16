@@ -1,11 +1,11 @@
 id: 719012987
-type: way
+type: node
 latitude: 29.1931
 longitude: -81.06796
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 1808
-phone: "+1 386 252 9000"
-opening_hours: "Mo-Th 10:00-20:00, Fr 09:00-20:00"
-website: "https://www.att.com/stores/florida/daytona-beach/158362"
+street: International Speedway Boulevard
+housenumber: "1808"
+phone: +1 386 252 9000
+opening_hours: Mo-Th 10:00-20:00, Fr 09:00-20:00
+website: https://www.att.com/stores/florida/daytona-beach/158362

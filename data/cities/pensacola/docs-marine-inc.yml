@@ -1,11 +1,11 @@
 id: 361491466
-type: way
+type: node
 latitude: 30.47851
 longitude: -87.30736
 postcode: "32526"
 city: Pensacola
-street: "Pine Forest Road"
-housenumber: 6741
+street: Pine Forest Road
+housenumber: "6741"
 phone: ""
-opening_hours: "Mo,Tu 08:00-16:30; We-Fr 08:00-17:00"
+opening_hours: Mo,Tu 08:00-16:30; We-Fr 08:00-17:00
 website: ""

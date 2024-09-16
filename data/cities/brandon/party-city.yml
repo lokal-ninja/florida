@@ -1,11 +1,11 @@
 id: 524063512
-type: way
+type: node
 latitude: 27.9374
 longitude: -82.32325
 postcode: "33511"
 city: Brandon
-street: "Brandon Town Center Drive"
-housenumber: 145
-phone: "+1 813-578-8830"
+street: Brandon Town Center Drive
+housenumber: "145"
+phone: +1 813-578-8830
 opening_hours: ""
-website: "https://stores.partycity.com/us/fl/brandon/party-store-pc1106.html"
+website: https://stores.partycity.com/us/fl/brandon/party-store-pc1106.html

@@ -1,11 +1,11 @@
 id: 544835335
-type: way
+type: node
 latitude: 28.79057
 longitude: -81.31693
 postcode: "32771"
 city: Sanford
-street: "Upsala Road"
-housenumber: 300
+street: Upsala Road
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

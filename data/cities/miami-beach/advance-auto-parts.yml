@@ -1,11 +1,11 @@
 id: 1305549327
-type: way
+type: node
 latitude: 25.8559
 longitude: -80.12919
 postcode: "33141"
 city: Miami Beach
-street: "Normandy Drive"
-housenumber: 957
+street: Normandy Drive
+housenumber: "957"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/miami-beach/957-normandy-dr"
+website: https://stores.advanceautoparts.com/fl/miami-beach/957-normandy-dr

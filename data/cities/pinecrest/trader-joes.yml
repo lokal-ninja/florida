@@ -1,11 +1,11 @@
 id: 278805136
-type: way
+type: node
 latitude: 25.68457
 longitude: -80.31255
 postcode: "33156"
 city: Pinecrest
-street: "South Dixie Highway"
-housenumber: 9205
-phone: "+1 305-661-1432"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.traderjoes.com/stores?q=33157"
+street: South Dixie Highway
+housenumber: "9205"
+phone: +1 305-661-1432
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.traderjoes.com/stores?q=33157

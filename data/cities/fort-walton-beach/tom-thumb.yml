@@ -1,11 +1,11 @@
 id: 550565473
-type: way
+type: node
 latitude: 30.39792
 longitude: -86.59886
 postcode: "32548"
 city: Fort Walton Beach
-street: "Miracle Strip Parkway Southeast"
-housenumber: 1209
-phone: "+1-850-243-0213"
-opening_hours: "24/7"
-website: "https://www.tomthumbcstores.com/"
+street: Miracle Strip Parkway Southeast
+housenumber: "1209"
+phone: +1-850-243-0213
+opening_hours: 24/7
+website: https://www.tomthumbcstores.com/

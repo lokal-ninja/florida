@@ -1,11 +1,11 @@
 id: 80653057
-type: way
+type: node
 latitude: 28.55002
 longitude: -81.38039
 postcode: "32801"
 city: Orlando
-street: "Amelia Street"
-housenumber: 63
-phone: "+1-407-423-7654"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 07:00-16:00"
-website: "https://www.southeaststeel.net"
+street: Amelia Street
+housenumber: "63"
+phone: +1-407-423-7654
+opening_hours: Mo-Fr 07:00-17:30; Sa 07:00-16:00
+website: https://www.southeaststeel.net

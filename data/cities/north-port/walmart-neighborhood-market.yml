@@ -1,11 +1,11 @@
 id: 1043250635
-type: way
+type: node
 latitude: 27.06972
 longitude: -82.20636
 postcode: "34287"
 city: North Port
-street: "South Main Street"
-housenumber: 1100
-phone: "+1 941-240-3079"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/7221-north-port-fl"
+street: South Main Street
+housenumber: "1100"
+phone: +1 941-240-3079
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/7221-north-port-fl

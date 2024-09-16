@@ -1,11 +1,11 @@
 id: 326103920
-type: way
+type: node
 latitude: 29.87057
 longitude: -81.32082
 postcode: "32084"
 city: Saint Augustine
-street: "US Highway 1 South"
-housenumber: 1750
-phone: "+1 904-824-3657"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/st-augustine/fl/saint-augustine/32084/6334"
+street: US Highway 1 South
+housenumber: "1750"
+phone: +1 904-824-3657
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/st-augustine/fl/saint-augustine/32084/6334

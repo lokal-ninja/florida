@@ -1,11 +1,11 @@
 id: 452958657
-type: way
+type: node
 latitude: 30.44398
 longitude: -84.26268
 postcode: "32301"
 city: Tallahassee
-street: "North Magnolia Drive"
-housenumber: 212
+street: North Magnolia Drive
+housenumber: "212"
 phone: ""
 opening_hours: ""
-website: "https://www.discounttire.com/"
+website: https://www.discounttire.com/

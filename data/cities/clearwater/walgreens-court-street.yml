@@ -1,11 +1,11 @@
 id: 525433117
-type: way
+type: node
 latitude: 27.96149
 longitude: -82.79634
 postcode: "33756"
 city: Clearwater
-street: "Court Street"
-housenumber: 703
+street: Court Street
+housenumber: "703"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-703+court+st-clearwater-fl-33756/id=15518"
+website: https://www.walgreens.com/locator/walgreens-703+court+st-clearwater-fl-33756/id=15518

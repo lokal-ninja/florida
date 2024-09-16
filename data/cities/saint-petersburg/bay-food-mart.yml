@@ -1,11 +1,11 @@
 id: 192562234
-type: way
+type: node
 latitude: 27.77891
 longitude: -82.63845
 postcode: ""
 city: Saint Petersburg
-street: "4th Street North"
-housenumber: 631
+street: 4th Street North
+housenumber: "631"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 08:00-21:00"
+opening_hours: Mo-Sa 07:00-23:00; Su 08:00-21:00
 website: ""

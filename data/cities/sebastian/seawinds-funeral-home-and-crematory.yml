@@ -1,11 +1,11 @@
 id: 553176949
-type: way
+type: node
 latitude: 27.79137
 longitude: -80.48397
 postcode: "32958"
 city: Sebastian
-street: "South Fleming Street"
-housenumber: 735
-phone: "+1-772-589-1933"
-opening_hours: "24/7"
-website: "https://www.seawindsfh.com/"
+street: South Fleming Street
+housenumber: "735"
+phone: +1-772-589-1933
+opening_hours: 24/7
+website: https://www.seawindsfh.com/

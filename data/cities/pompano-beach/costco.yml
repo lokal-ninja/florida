@@ -1,11 +1,11 @@
 id: 262004327
-type: way
+type: node
 latitude: 26.27382
 longitude: -80.15067
-postcode: "33064-1324"
+postcode: 33064-1324
 city: Pompano Beach
-street: "West Sample Road"
-housenumber: 1800
-phone: "+1 954-968-7114"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/pompano-pompano-beach-fl-88.html"
+street: West Sample Road
+housenumber: "1800"
+phone: +1 954-968-7114
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/pompano-pompano-beach-fl-88.html

@@ -1,11 +1,11 @@
 id: 581407563
-type: way
+type: node
 latitude: 30.73163
 longitude: -86.56653
 postcode: "32536"
 city: Crestview
-street: "Ferdon Boulevard South"
-housenumber: 2821
+street: Ferdon Boulevard South
+housenumber: "2821"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/fl/crestview/2821-ferdon-blvd-south"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/fl/crestview/2821-ferdon-blvd-south

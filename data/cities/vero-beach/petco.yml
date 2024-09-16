@@ -1,11 +1,11 @@
 id: 505590846
-type: way
+type: node
 latitude: 27.63649
 longitude: -80.4502
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 5975
-phone: "+1 772-770-4180"
-opening_hours: "Mo 09:00-21:00; Tu 09:00-19:00; We-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petco.com"
+street: 20th Street
+housenumber: "5975"
+phone: +1 772-770-4180
+opening_hours: Mo 09:00-21:00; Tu 09:00-19:00; We-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petco.com

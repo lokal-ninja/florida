@@ -1,11 +1,11 @@
 id: 479928908
-type: way
+type: node
 latitude: 29.01576
 longitude: -80.94127
 postcode: "32168"
 city: New Smyrna Beach
-street: "SR 44"
-housenumber: 1701
-phone: "+1 386 428 2212"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su,PH off"
-website: "https://www.volusia-motorsports.com"
+street: SR 44
+housenumber: "1701"
+phone: +1 386 428 2212
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su,PH off
+website: https://www.volusia-motorsports.com

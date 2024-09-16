@@ -1,11 +1,11 @@
 id: 826551448
-type: way
+type: node
 latitude: 30.511
 longitude: -87.27187
 postcode: "32534"
 city: Pensacola
-street: "Broad Street"
-housenumber: 685
+street: Broad Street
+housenumber: "685"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 287211492
-type: way
+type: node
 latitude: 25.98171
 longitude: -80.2639
 postcode: "33025"
 city: Miramar
-street: "Miramar Parkway"
-housenumber: 8901
+street: Miramar Parkway
+housenumber: "8901"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/miramar-fl-pharmacies/8901-miramar-pkwy-miramar-fl-33025/storeid=5182"
+website: https://www.cvs.com/store-locator/miramar-fl-pharmacies/8901-miramar-pkwy-miramar-fl-33025/storeid=5182

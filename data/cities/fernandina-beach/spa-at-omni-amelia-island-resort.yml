@@ -1,11 +1,11 @@
 id: 670836348
-type: way
+type: node
 latitude: 30.55658
 longitude: -81.44839
 postcode: "32034"
 city: Fernandina Beach
-street: "Amelia Village Circle"
-housenumber: 60
-phone: "904-432-2220"
+street: Amelia Village Circle
+housenumber: "60"
+phone: 904-432-2220
 opening_hours: ""
-website: "https://www.omnihotels.com/hotels/amelia-island/spa"
+website: https://www.omnihotels.com/hotels/amelia-island/spa

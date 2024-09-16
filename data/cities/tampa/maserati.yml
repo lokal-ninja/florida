@@ -1,11 +1,11 @@
 id: 523817019
-type: way
+type: node
 latitude: 28.05256
 longitude: -82.45918
 postcode: "33612"
 city: Tampa
-street: "North Florida Avenue"
-housenumber: 11333
-phone: "+1 3813 933 2811"
+street: North Florida Avenue
+housenumber: "11333"
+phone: +1 3813 933 2811
 opening_hours: ""
-website: "https://www.maseratioftampa.com/"
+website: https://www.maseratioftampa.com/

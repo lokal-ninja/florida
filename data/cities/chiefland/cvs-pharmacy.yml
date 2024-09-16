@@ -1,11 +1,11 @@
 id: 565840146
-type: way
+type: node
 latitude: 29.50113
 longitude: -82.87021
 postcode: "32626"
 city: Chiefland
-street: "North Young Boulevard"
-housenumber: 2137
-phone: "+1-352-493-2592"
+street: North Young Boulevard
+housenumber: "2137"
+phone: +1-352-493-2592
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/chiefland-fl-pharmacies/2137-n-young-blvd-chiefland-fl-32626/storeid=3000"
+website: https://www.cvs.com/store-locator/chiefland-fl-pharmacies/2137-n-young-blvd-chiefland-fl-32626/storeid=3000

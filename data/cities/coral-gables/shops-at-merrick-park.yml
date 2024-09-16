@@ -1,11 +1,11 @@
 id: 291775638
-type: way
+type: node
 latitude: 25.73013
 longitude: -80.26173
 postcode: "33146"
 city: Coral Gables
-street: "San Lorenzo Avenue"
-housenumber: 358
+street: San Lorenzo Avenue
+housenumber: "358"
 phone: ""
 opening_hours: ""
-website: "https://www.villageofmerrickpark.com/"
+website: https://www.villageofmerrickpark.com/

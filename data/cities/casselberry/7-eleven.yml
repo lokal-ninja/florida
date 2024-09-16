@@ -1,11 +1,11 @@
 id: 826020008
-type: way
+type: node
 latitude: 28.65963
 longitude: -81.3412
 postcode: "32730"
 city: Casselberry
-street: "State Road 436"
-housenumber: 101
-phone: "+1-407-830-4488"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/fl/casselberry/101-state-road-436-34884"
+street: State Road 436
+housenumber: "101"
+phone: +1-407-830-4488
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/fl/casselberry/101-state-road-436-34884

@@ -1,11 +1,11 @@
 id: 743199354
-type: way
+type: node
 latitude: 30.31789
 longitude: -81.68287
 postcode: "32204"
 city: Jacksonville
-street: "Margaret Street"
-housenumber: 808
-phone: "(904) 683-9288"
-opening_hours: "Available 24 hours / 7 days a week"
-website: "https://www.neflfuneral.com/"
+street: Margaret Street
+housenumber: "808"
+phone: (904) 683-9288
+opening_hours: Available 24 hours / 7 days a week
+website: https://www.neflfuneral.com/

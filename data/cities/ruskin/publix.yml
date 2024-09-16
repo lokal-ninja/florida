@@ -1,11 +1,11 @@
 id: 1309496434
-type: way
+type: node
 latitude: 27.71419
 longitude: -82.33616
 postcode: "33573"
 city: Ruskin
-street: "Sun City Center Boulevard"
-housenumber: 4854
-phone: "+1 813-633-3440"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/732"
+street: Sun City Center Boulevard
+housenumber: "4854"
+phone: +1 813-633-3440
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/732

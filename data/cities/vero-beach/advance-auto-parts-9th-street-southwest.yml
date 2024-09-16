@@ -1,11 +1,11 @@
 id: 699492867
-type: way
+type: node
 latitude: 27.58798
 longitude: -80.41808
 postcode: "32968"
 city: Vero Beach
-street: "9th Street Southwest"
-housenumber: 2990
+street: 9th Street Southwest
+housenumber: "2990"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/vero-beach/2990-9th-st-sw"
+website: https://stores.advanceautoparts.com/fl/vero-beach/2990-9th-st-sw

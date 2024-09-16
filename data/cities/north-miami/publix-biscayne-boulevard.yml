@@ -1,11 +1,11 @@
 id: 736627161
-type: way
+type: node
 latitude: 25.89417
 longitude: -80.16409
 postcode: "33181"
 city: North Miami
-street: "Biscayne Boulevard"
-housenumber: 12800
-phone: "+1 305-893-6781"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1236"
+street: Biscayne Boulevard
+housenumber: "12800"
+phone: +1 305-893-6781
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1236

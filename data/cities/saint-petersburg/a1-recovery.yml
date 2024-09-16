@@ -1,11 +1,11 @@
 id: 295556644
-type: way
+type: node
 latitude: 27.76681
 longitude: -82.66324
 postcode: "33712"
 city: Saint Petersburg
-street: "5th Avenue South"
-housenumber: 2221
-phone: "727-323-8515"
+street: 5th Avenue South
+housenumber: "2221"
+phone: 727-323-8515
 opening_hours: ""
-website: "https://a-1recoveryinc.com/"
+website: https://a-1recoveryinc.com/

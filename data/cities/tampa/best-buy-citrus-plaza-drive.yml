@@ -1,11 +1,11 @@
 id: 1009538239
-type: way
+type: node
 latitude: 28.06364
 longitude: -82.57626
 postcode: "33625"
 city: Tampa
-street: "Citrus Plaza Drive"
-housenumber: 12675
-phone: "+1 813-792-1707"
+street: Citrus Plaza Drive
+housenumber: "12675"
+phone: +1 813-792-1707
 opening_hours: ""
-website: "https://stores.bestbuy.com/fl/tampa/12675-citrus-plaza-dr-462.html"
+website: https://stores.bestbuy.com/fl/tampa/12675-citrus-plaza-dr-462.html

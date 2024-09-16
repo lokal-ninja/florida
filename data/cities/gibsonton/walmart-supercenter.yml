@@ -1,11 +1,11 @@
 id: 292022831
-type: way
+type: node
 latitude: 27.84752
 longitude: -82.3534
 postcode: "33534"
 city: Gibsonton
-street: "Gibsonton Drive"
-housenumber: 9205
-phone: "+1 813-672-0739"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5300/gibsonton-fl/whats-new"
+street: Gibsonton Drive
+housenumber: "9205"
+phone: +1 813-672-0739
+opening_hours: 24/7
+website: https://www.walmart.com/store/5300/gibsonton-fl/whats-new

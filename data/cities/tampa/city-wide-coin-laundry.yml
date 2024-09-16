@@ -1,11 +1,11 @@
 id: 212099287
-type: way
+type: node
 latitude: 27.89402
 longitude: -82.50002
 postcode: "33611"
 city: Tampa
-street: "Gandy Boulevard"
-housenumber: 3333
-phone: "813-835-3725"
-opening_hours: "06:00-23:00"
+street: Gandy Boulevard
+housenumber: "3333"
+phone: 813-835-3725
+opening_hours: 06:00-23:00
 website: ""

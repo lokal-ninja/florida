@@ -1,11 +1,11 @@
 id: 263269044
-type: way
+type: node
 latitude: 28.66614
 longitude: -82.13999
 postcode: "33513"
 city: Bushnell
-street: "West C 48"
-housenumber: 2163
-phone: "+1 352-793-1300"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/959/bushnell-fl/whats-new"
+street: West C 48
+housenumber: "2163"
+phone: +1 352-793-1300
+opening_hours: 24/7
+website: https://www.walmart.com/store/959/bushnell-fl/whats-new

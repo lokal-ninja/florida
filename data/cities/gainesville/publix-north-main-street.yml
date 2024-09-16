@@ -1,11 +1,11 @@
 id: 260712961
-type: way
+type: node
 latitude: 29.66423
 longitude: -82.32604
 postcode: "32601"
 city: Gainesville
-street: "North Main Street"
-housenumber: 1302
-phone: "+1 352-375-2919"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://www.publix.com/locations/795"
+street: North Main Street
+housenumber: "1302"
+phone: +1 352-375-2919
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://www.publix.com/locations/795

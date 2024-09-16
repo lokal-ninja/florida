@@ -1,11 +1,11 @@
 id: 426938198
-type: way
+type: node
 latitude: 30.45788
 longitude: -84.35601
 postcode: "32304"
 city: Tallahassee
-street: "West Tennessee Street"
-housenumber: 3705
-phone: "+1 888 701 6470"
+street: West Tennessee Street
+housenumber: "3705"
+phone: +1 888 701 6470
 opening_hours: ""
 website: ""

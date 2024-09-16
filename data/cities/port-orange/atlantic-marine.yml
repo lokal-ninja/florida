@@ -1,11 +1,11 @@
 id: 926456586
-type: way
+type: node
 latitude: 29.14189
 longitude: -80.99313
 postcode: "32129"
 city: Port Orange
-street: "Dunlawton Avenue"
-housenumber: 520
-phone: "+1 386 788 1644"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 09:00-16:00, Su 11:00-16:00"
-website: "https://www.atlanticmarinefl.com/"
+street: Dunlawton Avenue
+housenumber: "520"
+phone: +1 386 788 1644
+opening_hours: Mo-Fr 08:30-18:00, Sa 09:00-16:00, Su 11:00-16:00
+website: https://www.atlanticmarinefl.com/

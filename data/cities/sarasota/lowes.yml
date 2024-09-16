@@ -1,11 +1,11 @@
 id: 332080482
-type: way
+type: node
 latitude: 27.2246
 longitude: -82.48885
 postcode: "34238"
 city: Sarasota
-street: "Central Sarasota Parkway"
-housenumber: 4020
-phone: "+1 941-918-4000"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-sarasota/2933"
+street: Central Sarasota Parkway
+housenumber: "4020"
+phone: +1 941-918-4000
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-sarasota/2933

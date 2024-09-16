@@ -1,11 +1,11 @@
 id: 571018088
-type: way
+type: node
 latitude: 30.27954
 longitude: -82.15284
-postcode: "32040-5053"
+postcode: 32040-5053
 city: Glen Saint Mary
-street: "Highway 90"
-housenumber: 6567
-phone: "+1 904-259-3451"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: Highway 90
+housenumber: "6567"
+phone: +1 904-259-3451
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

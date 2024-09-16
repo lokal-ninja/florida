@@ -4,8 +4,8 @@ latitude: 30.48
 longitude: -84.23465
 postcode: "32308"
 city: Tallahassee
-street: "Capital Circle Northeast"
-housenumber: 2111
-phone: "+1 850-523-9851"
-opening_hours: "07:00-22:00"
-website: "https://www.publix.com/locations/1427"
+street: Capital Circle Northeast
+housenumber: "2111"
+phone: +1 850-523-9851
+opening_hours: 07:00-22:00
+website: https://www.publix.com/locations/1427

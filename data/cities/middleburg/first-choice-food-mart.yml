@@ -1,11 +1,11 @@
 id: 768400598
-type: way
+type: node
 latitude: 30.12462
 longitude: -81.79739
 postcode: "32068"
 city: Middleburg
-street: "Blanding Boulevard"
-housenumber: 1312
+street: Blanding Boulevard
+housenumber: "1312"
 phone: ""
 opening_hours: ""
 website: ""

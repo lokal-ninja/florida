@@ -1,11 +1,11 @@
 id: 544171348
-type: way
+type: node
 latitude: 30.16748
 longitude: -81.60534
 postcode: "32223"
 city: Jacksonville
-street: "Oldfield Crossing Drive"
-housenumber: 4040
-phone: "+1 904-886-7112"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-jacksonville/0502"
+street: Oldfield Crossing Drive
+housenumber: "4040"
+phone: +1 904-886-7112
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-jacksonville/0502

@@ -1,11 +1,11 @@
 id: 960115680
-type: way
+type: node
 latitude: 29.21238
 longitude: -81.02399
 postcode: "32114"
 city: Daytona Beach
-street: "North Ridgewood Avenue"
-housenumber: 148
-phone: "+1 386 252 7661"
-opening_hours: "Mo-Fr 08:00-17:00, Su 08:30-13:00"
-website: "https://www.goodyear.com/en-US/tire-shop/Daytona+Beach+FL+32114+US/000138245"
+street: North Ridgewood Avenue
+housenumber: "148"
+phone: +1 386 252 7661
+opening_hours: Mo-Fr 08:00-17:00, Su 08:30-13:00
+website: https://www.goodyear.com/en-US/tire-shop/Daytona+Beach+FL+32114+US/000138245

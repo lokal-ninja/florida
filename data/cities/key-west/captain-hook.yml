@@ -1,11 +1,11 @@
 id: 302400638
-type: way
+type: node
 latitude: 24.56889
 longitude: -81.76717
 postcode: "33040"
 city: Key West
-street: "North Roosevelt Boulevard"
-housenumber: 3128
+street: North Roosevelt Boulevard
+housenumber: "3128"
 phone: ""
 opening_hours: ""
 website: ""

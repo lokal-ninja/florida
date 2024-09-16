@@ -1,11 +1,11 @@
 id: 817341616
-type: way
+type: node
 latitude: 29.18812
 longitude: -82.11281
 postcode: "34470"
 city: Ocala
-street: "East Silversprings Boulevard"
-housenumber: 1901
+street: East Silversprings Boulevard
+housenumber: "1901"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-19:00; Su 10:00-17:00"
-website: "https://stores.staples.com/fl/ocala/1901-east-silversprings-blvd"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-19:00; Su 10:00-17:00
+website: https://stores.staples.com/fl/ocala/1901-east-silversprings-blvd

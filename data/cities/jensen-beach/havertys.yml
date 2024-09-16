@@ -1,11 +1,11 @@
 id: 112929996
-type: way
+type: node
 latitude: 27.24396
 longitude: -80.27285
 postcode: "34957"
 city: Jensen Beach
-street: "Northwest Federal Highway"
-housenumber: 3534
+street: Northwest Federal Highway
+housenumber: "3534"
 phone: ""
 opening_hours: ""
 website: ""

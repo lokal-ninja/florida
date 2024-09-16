@@ -4,8 +4,8 @@ latitude: 27.63231
 longitude: -80.39056
 postcode: "32960"
 city: Vero Beach
-street: "17th Street"
-housenumber: 835
-phone: "+1-772-410-5773"
-opening_hours: "Tu-We 10:00-18:00; Fr 10:00-18:00; Sa 10:00-16:00 ; Su off || by appointment"
-website: "https://www.theblackswansalon.com/"
+street: 17th Street
+housenumber: "835"
+phone: +1-772-410-5773
+opening_hours: Tu-We 10:00-18:00; Fr 10:00-18:00; Sa 10:00-16:00 ; Su off || "by appointment"
+website: https://www.theblackswansalon.com/

@@ -1,11 +1,11 @@
 id: 430132370
-type: way
+type: node
 latitude: 30.45654
 longitude: -84.36594
 postcode: "32304"
 city: Tallahassee
-street: "West Tennessee Street"
-housenumber: 5339
+street: West Tennessee Street
+housenumber: "5339"
 phone: ""
 opening_hours: ""
-website: "https://www.openstreetmap.org/"
+website: https://www.openstreetmap.org/

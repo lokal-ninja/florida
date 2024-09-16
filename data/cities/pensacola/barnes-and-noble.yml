@@ -1,11 +1,11 @@
 id: 353740524
-type: way
+type: node
 latitude: 30.48064
 longitude: -87.21746
 postcode: "32504"
 city: Pensacola
-street: "Airport Boulevard"
-housenumber: 1200
-phone: "+1 850-969-9554"
+street: Airport Boulevard
+housenumber: "1200"
+phone: +1 850-969-9554
 opening_hours: ""
-website: "https://store-locator.barnesandnoble.com/store/2926"
+website: https://store-locator.barnesandnoble.com/store/2926

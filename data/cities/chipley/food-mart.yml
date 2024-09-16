@@ -1,11 +1,11 @@
 id: 396909370
-type: way
+type: node
 latitude: 30.75203
 longitude: -85.55025
 postcode: "32428"
 city: Chipley
-street: "Main Street"
-housenumber: 1699
+street: Main Street
+housenumber: "1699"
 phone: ""
 opening_hours: ""
 website: ""

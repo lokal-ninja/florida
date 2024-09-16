@@ -1,11 +1,11 @@
 id: 82632716
-type: way
+type: node
 latitude: 27.84402
 longitude: -82.79672
-postcode: "33772-4616"
+postcode: 33772-4616
 city: Seminole
-street: "113th Street"
-housenumber: 7880
-phone: "+1 727-393-9680"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1320"
+street: 113th Street
+housenumber: "7880"
+phone: +1 727-393-9680
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1320

@@ -4,8 +4,8 @@ latitude: 26.18586
 longitude: -80.25241
 postcode: "33351"
 city: Lauderhill
-street: "North University Drive #A"
-housenumber: 4897
-phone: "+1-954-578-5050"
+street: 'North University Drive #A'
+housenumber: "4897"
+phone: +1-954-578-5050
 opening_hours: ""
-website: "http://transctr.com"
+website: http://transctr.com

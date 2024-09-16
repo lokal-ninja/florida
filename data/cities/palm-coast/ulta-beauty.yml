@@ -1,11 +1,11 @@
 id: 133186088
-type: way
+type: node
 latitude: 29.47767
 longitude: -81.21684
 postcode: "32164"
 city: Palm Coast
-street: "East Moody Boulevard"
-housenumber: 5224
-phone: "+1 386-437-7239"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/palm-coast-fl-1099"
+street: East Moody Boulevard
+housenumber: "5224"
+phone: +1 386-437-7239
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/palm-coast-fl-1099

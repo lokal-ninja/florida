@@ -1,11 +1,11 @@
 id: 1000289262
-type: way
+type: node
 latitude: 29.2291
 longitude: -81.02711
 postcode: "32117"
 city: Daytona Beach
-street: "North Beach Street"
-housenumber: 919
+street: North Beach Street
+housenumber: "919"
 phone: ""
 opening_hours: ""
 website: ""

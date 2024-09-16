@@ -1,11 +1,11 @@
 id: 1039106648
-type: way
+type: node
 latitude: 27.32693
 longitude: -82.44953
 postcode: "34232"
 city: Sarasota
-street: "Palmer Boulevard"
-housenumber: 6001
-phone: "+1-941-377-7588"
+street: Palmer Boulevard
+housenumber: "6001"
+phone: +1-941-377-7588
 opening_hours: ""
-website: "https://www.shell.com/"
+website: https://www.shell.com/

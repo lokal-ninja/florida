@@ -1,11 +1,11 @@
 id: 774885291
-type: way
+type: node
 latitude: 27.31816
 longitude: -80.34917
 postcode: "34983"
 city: Port St. Lucie
-street: "Northeast Prima Vista Boulevard"
-housenumber: 100
+street: Northeast Prima Vista Boulevard
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/port-saint-lucie/101-ne-prima-vista-blvd.html"
+website: https://www.autozone.com/locations/fl/port-saint-lucie/101-ne-prima-vista-blvd.html

@@ -1,11 +1,11 @@
 id: 144849333
-type: way
+type: node
 latitude: 30.56264
 longitude: -84.21388
-postcode: "32312-3966"
+postcode: 32312-3966
 city: Tallahassee
-street: "Thomasville Road"
-housenumber: 6753
-phone: "+1 850-668-5702"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/533"
+street: Thomasville Road
+housenumber: "6753"
+phone: +1 850-668-5702
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/533

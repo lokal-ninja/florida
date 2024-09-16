@@ -1,11 +1,11 @@
 id: 490646708
-type: way
+type: node
 latitude: 26.64976
 longitude: -81.98695
 postcode: "33993"
 city: Cape Coral
-street: "SW Pine Islane RD"
-housenumber: 531
+street: SW Pine Islane RD
+housenumber: "531"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/fl/cape-coral/4917/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/fl/cape-coral/4917/

@@ -1,11 +1,11 @@
 id: 914954910
-type: way
+type: node
 latitude: 26.64057
 longitude: -82.00432
 postcode: "33991"
 city: Cape Coral
-street: "Southwest Pine Island Road"
-housenumber: 1481
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/cape-coral/1481-sw-pine-island-road"
+street: Southwest Pine Island Road
+housenumber: "1481"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/cape-coral/1481-sw-pine-island-road

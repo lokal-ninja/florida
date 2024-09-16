@@ -1,11 +1,11 @@
 id: 479928557
-type: way
+type: node
 latitude: 29.01498
 longitude: -80.94253
 postcode: "32168"
 city: New Smyrna Beach
-street: "State Road 44"
-housenumber: 1801
+street: State Road 44
+housenumber: "1801"
 phone: ""
 opening_hours: ""
 website: ""

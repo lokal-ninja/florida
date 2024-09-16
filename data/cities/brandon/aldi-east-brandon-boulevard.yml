@@ -1,11 +1,11 @@
 id: 940807526
-type: way
+type: node
 latitude: 27.93911
 longitude: -82.27647
-postcode: "33511-5421"
+postcode: 33511-5421
 city: Brandon
-street: "East Brandon Boulevard"
-housenumber: 620
-phone: "+1 833-747-4042"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/brandon/620-e-brandon-blvd"
+street: East Brandon Boulevard
+housenumber: "620"
+phone: +1 833-747-4042
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/brandon/620-e-brandon-blvd

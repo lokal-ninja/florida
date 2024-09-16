@@ -1,11 +1,11 @@
 id: 524922702
-type: way
+type: node
 latitude: 26.21838
 longitude: -81.77621
 postcode: "34109"
 city: Naples
-street: "Naples Boulevard"
-housenumber: 5955
-phone: "+1 239-325-6456"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/naples/1168/"
+street: Naples Boulevard
+housenumber: "5955"
+phone: +1 239-325-6456
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/naples/1168/

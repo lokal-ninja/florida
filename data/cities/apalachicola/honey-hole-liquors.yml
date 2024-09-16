@@ -1,11 +1,11 @@
 id: 636300190
-type: way
+type: node
 latitude: 29.72937
 longitude: -84.98512
 postcode: "32320"
 city: Apalachicola
-street: "Water Street"
-housenumber: 252
+street: Water Street
+housenumber: "252"
 phone: ""
 opening_hours: ""
 website: ""

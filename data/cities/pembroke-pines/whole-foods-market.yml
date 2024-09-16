@@ -1,11 +1,11 @@
 id: 623679858
-type: way
+type: node
 latitude: 26.00665
 longitude: -80.35005
 postcode: "33027"
 city: Pembroke Pines
-street: "Pines Boulevard"
-housenumber: 14956
-phone: "+1 954-392-3500"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/pembrokepines"
+street: Pines Boulevard
+housenumber: "14956"
+phone: +1 954-392-3500
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/pembrokepines

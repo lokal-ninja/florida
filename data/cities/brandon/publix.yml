@@ -1,11 +1,11 @@
 id: 374710984
-type: way
+type: node
 latitude: 27.93585
 longitude: -82.29789
 postcode: "33511"
 city: Brandon
-street: "West Brandon Boulevard"
-housenumber: 939
-phone: "+1 813-684-6562"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/532"
+street: West Brandon Boulevard
+housenumber: "939"
+phone: +1 813-684-6562
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/532

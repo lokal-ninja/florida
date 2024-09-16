@@ -4,8 +4,8 @@ latitude: 28.23378
 longitude: -80.72192
 postcode: "32940"
 city: Melbourne
-street: "Shoppes Drive"
-housenumber: 7201
-phone: "+1 321-637-0282"
-opening_hours: "Mo-We 09:00-20:00; Th-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/fl/melbourne/pet-supplies-melbourne-fl-1743.html"
+street: Shoppes Drive
+housenumber: "7201"
+phone: +1 321-637-0282
+opening_hours: Mo-We 09:00-20:00; Th-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/fl/melbourne/pet-supplies-melbourne-fl-1743.html

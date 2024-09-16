@@ -1,11 +1,11 @@
 id: 476112755
-type: way
+type: node
 latitude: 29.85051
 longitude: -84.66442
 postcode: "32322"
 city: Carrabelle
-street: "Avenue B South"
-housenumber: 710
+street: Avenue B South
+housenumber: "710"
 phone: ""
 opening_hours: ""
 website: ""

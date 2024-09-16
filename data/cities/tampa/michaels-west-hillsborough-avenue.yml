@@ -1,11 +1,11 @@
 id: 1009551091
-type: way
+type: node
 latitude: 28.01656
 longitude: -82.61394
 postcode: "33635"
 city: Tampa
-street: "West Hillsborough Avenue"
-housenumber: 11643
-phone: "+1 813-854-4509"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/fl/tampa/7776"
+street: West Hillsborough Avenue
+housenumber: "11643"
+phone: +1 813-854-4509
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/fl/tampa/7776

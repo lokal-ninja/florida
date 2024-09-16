@@ -1,11 +1,11 @@
 id: 827670672
-type: way
+type: node
 latitude: 30.45162
 longitude: -87.23334
 postcode: "32505"
 city: Pensacola
-street: "North Palafox Street"
-housenumber: 3873
+street: North Palafox Street
+housenumber: "3873"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:30-15:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:30-15:00
 website: ""

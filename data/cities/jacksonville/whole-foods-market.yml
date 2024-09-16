@@ -1,11 +1,11 @@
 id: 850313981
-type: way
+type: node
 latitude: 30.18511
 longitude: -81.626
 postcode: "32257"
 city: Jacksonville
-street: "San Jose Boulevard"
-housenumber: 10601
-phone: "+1 904-288-1100"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/jacksonville"
+street: San Jose Boulevard
+housenumber: "10601"
+phone: +1 904-288-1100
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/jacksonville

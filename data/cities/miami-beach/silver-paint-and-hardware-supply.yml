@@ -1,11 +1,11 @@
 id: 842822974
-type: way
+type: node
 latitude: 25.85558
 longitude: -80.13049
-postcode: "33141-2812"
+postcode: 33141-2812
 city: Miami Beach
-street: "Normandy Drive"
-housenumber: 1138
-phone: "+1 305-866-5929"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+street: Normandy Drive
+housenumber: "1138"
+phone: +1 305-866-5929
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
 website: ""

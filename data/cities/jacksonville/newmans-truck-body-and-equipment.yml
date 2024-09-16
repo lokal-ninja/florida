@@ -1,11 +1,11 @@
 id: 519129933
-type: way
+type: node
 latitude: 30.34914
 longitude: -81.76012
 postcode: "32254"
 city: Jacksonville
-street: "West 12th Street"
-housenumber: 6880
-phone: "+1-904-695-9589"
+street: West 12th Street
+housenumber: "6880"
+phone: +1-904-695-9589
 opening_hours: ""
-website: "https://newmanstruckbody.com/"
+website: https://newmanstruckbody.com/

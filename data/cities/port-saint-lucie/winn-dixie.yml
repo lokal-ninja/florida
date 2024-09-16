@@ -1,11 +1,11 @@
 id: 963292208
-type: way
+type: node
 latitude: 27.27556
 longitude: -80.35472
 postcode: "34984"
 city: Port Saint Lucie
-street: "Southwest Port Saint Lucie Boulevard"
-housenumber: 281
-phone: "+1 772-340-0446"
+street: Southwest Port Saint Lucie Boulevard
+housenumber: "281"
+phone: +1 772-340-0446
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/port%20saint%20lucie/fl?search=2348"
+website: https://www.winndixie.com/storedetails/port%20saint%20lucie/fl?search=2348

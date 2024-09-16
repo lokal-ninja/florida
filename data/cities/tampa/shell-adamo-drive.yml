@@ -1,11 +1,11 @@
 id: 524067288
-type: way
+type: node
 latitude: 27.94465
 longitude: -82.33546
 postcode: "33619"
 city: Tampa
-street: "Adamo Drive"
-housenumber: 10030
-phone: "813-685-8840"
-opening_hours: "24/7"
+street: Adamo Drive
+housenumber: "10030"
+phone: 813-685-8840
+opening_hours: 24/7
 website: ""

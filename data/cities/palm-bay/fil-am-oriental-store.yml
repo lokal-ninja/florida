@@ -4,8 +4,8 @@ latitude: 27.99796
 longitude: -80.61992
 postcode: "32907"
 city: Palm Bay
-street: "Malabar Road"
-housenumber: 1326 #1
+street: Malabar Road
+housenumber: '1326 #1'
 phone: ""
 opening_hours: ""
 website: ""

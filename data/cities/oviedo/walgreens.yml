@@ -1,11 +1,11 @@
 id: 610825202
-type: way
+type: node
 latitude: 28.65658
 longitude: -81.20774
 postcode: "32765"
 city: Oviedo
-street: "Mitchell Hammock Road"
-housenumber: 85
+street: Mitchell Hammock Road
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-85+e+mitchell+hammock+rd-oviedo-fl-32765/id=4251"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-85+e+mitchell+hammock+rd-oviedo-fl-32765/id=4251

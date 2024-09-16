@@ -1,11 +1,11 @@
 id: 1033030964
-type: way
+type: node
 latitude: 29.83722
 longitude: -81.32126
 postcode: "32086"
 city: Saint Augustine
-street: "Highway 1 South"
-housenumber: 3070
-phone: "+1 904-797-6400"
+street: Highway 1 South
+housenumber: "3070"
+phone: +1 904-797-6400
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/fl/st-augustine/016041/"
+website: https://www.mattressfirm.com/en-us/stores/fl/st-augustine/016041/

@@ -1,11 +1,11 @@
 id: 945725375
-type: way
+type: node
 latitude: 30.6167
 longitude: -84.41893
 postcode: "32333"
 city: Havana
-street: "Florida-Georgia Highway"
-housenumber: 702
+street: Florida-Georgia Highway
+housenumber: "702"
 phone: ""
 opening_hours: ""
 website: ""

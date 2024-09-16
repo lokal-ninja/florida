@@ -1,11 +1,11 @@
 id: 469415762
-type: way
+type: node
 latitude: 30.41869
 longitude: -84.28037
 postcode: ""
 city: Tallahassee
-street: "South Monroe Street"
-housenumber: 2245
+street: South Monroe Street
+housenumber: "2245"
 phone: ""
 opening_hours: ""
 website: ""

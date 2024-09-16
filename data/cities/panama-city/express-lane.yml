@@ -1,11 +1,11 @@
 id: 741371602
-type: way
+type: node
 latitude: 30.24767
 longitude: -85.55605
 postcode: "32404"
 city: Panama City
-street: "North Star Avenue"
-housenumber: 5500
+street: North Star Avenue
+housenumber: "5500"
 phone: ""
 opening_hours: ""
 website: ""

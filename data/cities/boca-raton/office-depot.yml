@@ -1,11 +1,11 @@
 id: 153222500
-type: way
+type: node
 latitude: 26.36959
 longitude: -80.17221
 postcode: "33434"
 city: Boca Raton
-street: "Glades Road"
-housenumber: 8095
-phone: "+1 561-451-2403"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/boca-raton/office-depot-91"
+street: Glades Road
+housenumber: "8095"
+phone: +1 561-451-2403
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/boca-raton/office-depot-91

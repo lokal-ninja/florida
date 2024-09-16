@@ -1,11 +1,11 @@
 id: 1021259952
-type: way
+type: node
 latitude: 30.28544
 longitude: -81.98228
 postcode: "32234"
 city: Jacksonville
-street: "US 301 Highway South"
-housenumber: 1081
+street: US 301 Highway South
+housenumber: "1081"
 phone: ""
 opening_hours: ""
 website: ""

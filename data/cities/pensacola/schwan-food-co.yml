@@ -1,11 +1,11 @@
 id: 825442114
-type: way
+type: node
 latitude: 30.47626
 longitude: -87.30928
 postcode: "32526"
 city: Pensacola
-street: "Godwin Lane"
-housenumber: 3230
+street: Godwin Lane
+housenumber: "3230"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

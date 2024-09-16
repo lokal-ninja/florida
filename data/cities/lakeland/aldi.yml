@@ -1,11 +1,11 @@
 id: 279192446
-type: way
+type: node
 latitude: 28.10353
 longitude: -81.97263
 postcode: "33809"
 city: Lakeland
-street: "US Highway 98 North"
-housenumber: 4745
-phone: "+1 877-474-1031"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/lakeland/4745-us-hwy-98-north"
+street: US Highway 98 North
+housenumber: "4745"
+phone: +1 877-474-1031
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/lakeland/4745-us-hwy-98-north

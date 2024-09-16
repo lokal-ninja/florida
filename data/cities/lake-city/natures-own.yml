@@ -1,11 +1,11 @@
 id: 918329173
-type: way
+type: node
 latitude: 30.1929
 longitude: -82.63971
 postcode: "32055"
 city: Lake City
-street: "Northwest Main Boulevard"
-housenumber: 342
+street: Northwest Main Boulevard
+housenumber: "342"
 phone: ""
 opening_hours: ""
 website: ""

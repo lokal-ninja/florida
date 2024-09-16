@@ -1,11 +1,11 @@
 id: 374223785
-type: way
+type: node
 latitude: 27.94267
 longitude: -82.33709
 postcode: "33619"
 city: Tampa
-street: "East Adamo Drive"
-housenumber: 10057
-phone: "+1 813-262-0047"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/tampa/office-depot-107"
+street: East Adamo Drive
+housenumber: "10057"
+phone: +1 813-262-0047
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/tampa/office-depot-107

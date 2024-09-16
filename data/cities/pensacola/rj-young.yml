@@ -1,11 +1,11 @@
 id: 354964210
-type: way
+type: node
 latitude: 30.46673
 longitude: -87.23847
 postcode: "32503"
 city: Pensacola
-street: "Brent Lane"
-housenumber: 33
+street: Brent Lane
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

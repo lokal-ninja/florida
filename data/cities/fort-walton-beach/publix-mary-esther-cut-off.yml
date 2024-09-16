@@ -1,11 +1,11 @@
 id: 758586945
-type: way
+type: node
 latitude: 30.42682
 longitude: -86.64483
 postcode: "32548"
 city: Fort Walton Beach
-street: "Mary Esther Cut Off"
-housenumber: 421
-phone: "+1 850-301-0033"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/383"
+street: Mary Esther Cut Off
+housenumber: "421"
+phone: +1 850-301-0033
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/383

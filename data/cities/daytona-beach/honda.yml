@@ -1,11 +1,11 @@
 id: 951826540
-type: way
+type: node
 latitude: 29.20792
 longitude: -81.0432
 postcode: "32114"
 city: Daytona Beach
-street: "North Nova Road"
-housenumber: 330
+street: North Nova Road
+housenumber: "330"
 phone: ""
 opening_hours: ""
-website: "https://www.garyyeomanshonda.com/searchnew.aspx"
+website: https://www.garyyeomanshonda.com/searchnew.aspx

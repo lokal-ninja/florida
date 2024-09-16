@@ -1,11 +1,11 @@
 id: 886771952
-type: way
+type: node
 latitude: 27.6403
 longitude: -80.38156
 postcode: "32960"
 city: Vero Beach
-street: "21st Street"
-housenumber: 392
-phone: "+1- 772-569-2050"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.verobeachbookcenter.com/"
+street: 21st Street
+housenumber: "392"
+phone: +1- 772-569-2050
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.verobeachbookcenter.com/

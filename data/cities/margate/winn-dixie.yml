@@ -1,11 +1,11 @@
 id: 457666587
-type: way
+type: node
 latitude: 26.27116
 longitude: -80.20035
 postcode: "33073"
 city: Margate
-street: "West Sample Road"
-housenumber: 5600
-phone: "+1 954-977-0902"
+street: West Sample Road
+housenumber: "5600"
+phone: +1 954-977-0902
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/margate/fl?search=349"
+website: https://www.winndixie.com/storedetails/margate/fl?search=349

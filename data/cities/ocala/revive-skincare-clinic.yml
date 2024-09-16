@@ -1,11 +1,11 @@
 id: 764547793
-type: way
+type: node
 latitude: 29.18734
 longitude: -82.13592
 postcode: "34471"
 city: Ocala
-street: "East Silver Springs Boulevard"
-housenumber: 101
+street: East Silver Springs Boulevard
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.reviveskincareclinic.com/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.reviveskincareclinic.com/

@@ -1,11 +1,11 @@
 id: 350959986
-type: way
+type: node
 latitude: 29.47862
 longitude: -81.12666
 postcode: "32136"
 city: Flagler Beach
-street: "South Ocean Shore Boulevard"
-housenumber: 408
-phone: "+1 386-439-9284"
+street: South Ocean Shore Boulevard
+housenumber: "408"
+phone: +1 386-439-9284
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/fl/flagler-beach/408-s-oceanshore-blvd-35479"
+website: https://www.7-eleven.com/locations/fl/flagler-beach/408-s-oceanshore-blvd-35479

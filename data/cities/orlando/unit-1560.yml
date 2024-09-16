@@ -1,11 +1,11 @@
 id: 933614229
-type: way
+type: node
 latitude: 28.44662
 longitude: -81.39431
 postcode: "32809"
 city: Orlando
-street: "S ORANGE BLOSSOM TRL"
-housenumber: 8001
-phone: "(407) 856-0770"
+street: S ORANGE BLOSSOM TRL
+housenumber: "8001"
+phone: (407) 856-0770
 opening_hours: ""
-website: "https://www.simon.com/mall/the-florida-mall/stores/pepper-palace"
+website: https://www.simon.com/mall/the-florida-mall/stores/pepper-palace

@@ -4,8 +4,8 @@ latitude: 27.96038
 longitude: -82.43999
 postcode: "33605"
 city: Tampa
-street: "East 7th Avenue"
-housenumber: 1712
+street: East 7th Avenue
+housenumber: "1712"
 phone: ""
-opening_hours: "Mo-We 11:00-12:00; Th 11:00-14:00; Su 12:00-00:00"
-website: "https://atomictattoos.com/"
+opening_hours: Mo-We 11:00-12:00; Th 11:00-14:00; Su 12:00-00:00
+website: https://atomictattoos.com/

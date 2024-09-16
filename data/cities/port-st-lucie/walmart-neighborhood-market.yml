@@ -1,11 +1,11 @@
 id: 621633338
-type: way
+type: node
 latitude: 27.31603
 longitude: -80.38045
 postcode: "34986"
 city: Port St Lucie
-street: "Southwest Saint Lucie West Boulevard"
-housenumber: 902
-phone: "+1 772-446-8740"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/7299/port-st%20lucie-fl/whats-new"
+street: Southwest Saint Lucie West Boulevard
+housenumber: "902"
+phone: +1 772-446-8740
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/7299/port-st%20lucie-fl/whats-new

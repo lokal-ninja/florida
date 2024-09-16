@@ -1,11 +1,11 @@
 id: 523903537
-type: way
+type: node
 latitude: 26.3294
 longitude: -81.75755
 postcode: "34135"
 city: Bonita Springs
-street: "Bonita Beach Road Southeast"
-housenumber: 11941
-phone: "+1 239-947-5868"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/bonita-springs/fl/bonita-springs/34135/6373"
+street: Bonita Beach Road Southeast
+housenumber: "11941"
+phone: +1 239-947-5868
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/bonita-springs/fl/bonita-springs/34135/6373

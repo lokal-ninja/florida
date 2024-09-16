@@ -1,11 +1,11 @@
 id: 244208561
-type: way
+type: node
 latitude: 27.43419
 longitude: -82.58689
 postcode: "34207"
 city: Bradenton
-street: "26th Street West"
-housenumber: 6015
+street: 26th Street West
+housenumber: "6015"
 phone: ""
 opening_hours: ""
-website: "https://superthrift.com/"
+website: https://superthrift.com/

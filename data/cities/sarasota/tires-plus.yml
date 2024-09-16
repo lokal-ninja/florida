@@ -1,11 +1,11 @@
 id: 850537922
-type: way
+type: node
 latitude: 27.2689
 longitude: -82.4846
 postcode: "34233"
 city: Sarasota
-street: "Derek Avenue"
-housenumber: 5812
+street: Derek Avenue
+housenumber: "5812"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00"
+opening_hours: Mo-Fr 07:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 254448913
-type: way
+type: node
 latitude: 30.15368
 longitude: -85.59206
 postcode: "32404"
 city: Callaway
-street: "North Tyndall Parkway"
-housenumber: 301
+street: North Tyndall Parkway
+housenumber: "301"
 phone: "+18505225321"
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-301+n+tyndall+pkwy-panama+city-fl-32404/id=9619"
+website: https://www.walgreens.com/locator/walgreens-301+n+tyndall+pkwy-panama+city-fl-32404/id=9619

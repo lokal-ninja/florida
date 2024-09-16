@@ -1,11 +1,11 @@
 id: 1029092085
-type: way
+type: node
 latitude: 29.6545
 longitude: -81.67148
 postcode: "32177"
 city: Palatka
-street: "FL-19"
-housenumber: 420
+street: FL-19
+housenumber: "420"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/fl/palatka/420-n-state-road-19"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/fl/palatka/420-n-state-road-19

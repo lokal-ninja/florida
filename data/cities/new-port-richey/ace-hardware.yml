@@ -1,11 +1,11 @@
 id: 457628315
-type: way
+type: node
 latitude: 28.21922
 longitude: -82.66544
-postcode: "34655-1721"
+postcode: 34655-1721
 city: New Port Richey
-street: "Little Road"
-housenumber: 4132
-phone: "+1 727-376-0440"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-17:00"
+street: Little Road
+housenumber: "4132"
+phone: +1 727-376-0440
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-17:00
 website: ""

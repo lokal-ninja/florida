@@ -1,11 +1,11 @@
 id: 873166661
-type: way
+type: node
 latitude: 29.06869
 longitude: -81.25504
 postcode: "32724"
 city: DeLand
-street: "International Speedway Boulevard"
-housenumber: 2484
-phone: "1-386-337-7252"
+street: International Speedway Boulevard
+housenumber: "2484"
+phone: 1-386-337-7252
 opening_hours: ""
-website: "https://www.brucesautosalesdeland.com/"
+website: https://www.brucesautosalesdeland.com/

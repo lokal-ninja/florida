@@ -4,8 +4,8 @@ latitude: 25.81056
 longitude: -80.35183
 postcode: "33178"
 city: Doral
-street: "Northwest 41st Street"
-housenumber: 9586
+street: Northwest 41st Street
+housenumber: "9586"
 phone: "+17866157928"
-opening_hours: "by appointment"
-website: "https://everafterdesignstudios.com"
+opening_hours: '"by appointment"'
+website: https://everafterdesignstudios.com

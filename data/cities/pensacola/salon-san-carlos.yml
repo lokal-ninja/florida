@@ -1,11 +1,11 @@
 id: 546877682
-type: way
+type: node
 latitude: 30.41212
 longitude: -87.22314
 postcode: "32502"
 city: Pensacola
-street: "West Garden Street"
-housenumber: 528
+street: West Garden Street
+housenumber: "528"
 phone: ""
 opening_hours: ""
 website: ""

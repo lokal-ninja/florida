@@ -1,11 +1,11 @@
 id: 1028387732
-type: way
+type: node
 latitude: 27.59992
 longitude: -80.38493
 postcode: "32962"
 city: Vero Beach
-street: "2nd Street Southwest"
-housenumber: 550
-phone: "+1-772-770-1650"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://jk4395.wixsite.com/jandjautoworks"
+street: 2nd Street Southwest
+housenumber: "550"
+phone: +1-772-770-1650
+opening_hours: Mo-Fr 08:00-18:00
+website: https://jk4395.wixsite.com/jandjautoworks

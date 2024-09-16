@@ -1,11 +1,11 @@
 id: 680166985
-type: way
+type: node
 latitude: 30.39369
 longitude: -86.49914
 postcode: "32541"
 city: Destin
-street: "Harbor Boulevard"
-housenumber: 503
-phone: "+1-850-837-0955"
+street: Harbor Boulevard
+housenumber: "503"
+phone: +1-850-837-0955
 opening_hours: ""
-website: "https://www.divedestin.net/"
+website: https://www.divedestin.net/

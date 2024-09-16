@@ -1,11 +1,11 @@
 id: 204433604
-type: way
+type: node
 latitude: 30.25417
 longitude: -81.53572
 postcode: ""
 city: Jacksonville
-street: "Town Center Parkway"
-housenumber: 4893
+street: Town Center Parkway
+housenumber: "4893"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/jacksonville-fl-pharmacies/4893-town-center-parkway-jacksonville-fl-32246/storeid=8902"
+website: https://www.cvs.com/store-locator/jacksonville-fl-pharmacies/4893-town-center-parkway-jacksonville-fl-32246/storeid=8902

@@ -1,11 +1,11 @@
 id: 435032949
-type: way
+type: node
 latitude: 29.61403
 longitude: -82.37325
 postcode: "32608"
 city: Gainesville
-street: "SW 42nd Avenue"
-housenumber: 3447
-phone: "+1-352-358-4151"
+street: SW 42nd Avenue
+housenumber: "3447"
+phone: +1-352-358-4151
 opening_hours: ""
-website: "https://34thstreetministorage.com/"
+website: https://34thstreetministorage.com/

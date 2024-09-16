@@ -1,11 +1,11 @@
 id: 525140264
-type: way
+type: node
 latitude: 26.15647
 longitude: -80.11724
 postcode: "33305"
 city: Fort Lauderdale
-street: "North Federal Highway"
-housenumber: 2420
-phone: "+1 954-566-1448"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/ft.-lauderdale/1019/"
+street: North Federal Highway
+housenumber: "2420"
+phone: +1 954-566-1448
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/ft.-lauderdale/1019/

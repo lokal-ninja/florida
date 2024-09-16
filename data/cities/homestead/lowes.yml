@@ -1,11 +1,11 @@
 id: 436110183
-type: way
+type: node
 latitude: 25.47629
 longitude: -80.45019
 postcode: "33033"
 city: Homestead
-street: "Northeast 8th Street"
-housenumber: 1850
-phone: "+1 305-508-3020"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/fl-homestead/2707"
+street: Northeast 8th Street
+housenumber: "1850"
+phone: +1 305-508-3020
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/fl-homestead/2707

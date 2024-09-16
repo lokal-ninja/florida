@@ -1,11 +1,11 @@
 id: 962266931
-type: way
+type: node
 latitude: 25.0015
 longitude: -80.53688
 postcode: "33070"
 city: Tavernier
-street: "Overseas Highway"
-housenumber: 90400
-phone: "+1-305-852-5424"
+street: Overseas Highway
+housenumber: "90400"
+phone: +1-305-852-5424
 opening_hours: ""
-website: "https://www.plantationboat.com/"
+website: https://www.plantationboat.com/

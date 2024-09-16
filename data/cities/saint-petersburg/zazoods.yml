@@ -4,8 +4,8 @@ latitude: 27.77136
 longitude: -82.64079
 postcode: ""
 city: Saint Petersburg
-street: "Central Avenue"
-housenumber: 531
-phone: "+1 727-344-9663"
-opening_hours: "Mo-Sa 11:00-18:00;Su 12:00-16:00"
-website: "https://zazood.com/"
+street: Central Avenue
+housenumber: "531"
+phone: +1 727-344-9663
+opening_hours: Mo-Sa 11:00-18:00;Su 12:00-16:00
+website: https://zazood.com/

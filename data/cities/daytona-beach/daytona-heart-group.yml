@@ -1,11 +1,11 @@
 id: 951775085
-type: way
+type: node
 latitude: 29.21092
 longitude: -81.06
 postcode: "32114"
 city: Daytona Beach
-street: "North Clyde Morris Boulevard"
-housenumber: 695
+street: North Clyde Morris Boulevard
+housenumber: "695"
 phone: ""
 opening_hours: ""
 website: ""

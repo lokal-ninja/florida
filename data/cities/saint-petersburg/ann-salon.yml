@@ -4,8 +4,8 @@ latitude: 27.79085
 longitude: -82.65534
 postcode: "33704"
 city: Saint Petersburg
-street: "16th Street North"
-housenumber: 2040
-phone: "+1-727-822-1383"
-opening_hours: "Mo-Sa 09:00-17:00"
+street: 16th Street North
+housenumber: "2040"
+phone: +1-727-822-1383
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

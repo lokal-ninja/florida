@@ -1,11 +1,11 @@
 id: 1110588256
-type: way
+type: node
 latitude: 25.9953
 longitude: -80.28045
 postcode: "33025"
 city: Pembroke Pines
-street: "South Palm Avenue"
-housenumber: 1696
+street: South Palm Avenue
+housenumber: "1696"
 phone: ""
 opening_hours: ""
 website: ""

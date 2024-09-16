@@ -1,11 +1,11 @@
 id: 227540489
-type: way
+type: node
 latitude: 27.94453
 longitude: -82.4705
 postcode: "33606"
 city: Tampa
-street: "West Kennedy Boulevard"
-housenumber: 1010
+street: West Kennedy Boulevard
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

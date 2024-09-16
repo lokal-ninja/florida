@@ -1,11 +1,11 @@
 id: 636318633
-type: way
+type: node
 latitude: 29.85016
 longitude: -84.66474
 postcode: "32322"
 city: Carrabelle
-street: "Marine Street"
-housenumber: 301
+street: Marine Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

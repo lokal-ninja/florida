@@ -1,11 +1,11 @@
 id: 522684152
-type: way
+type: node
 latitude: 27.90121
 longitude: -82.72837
 postcode: "33764"
 city: Largo
-street: "142nd Avenue North"
-housenumber: 6535
+street: 142nd Avenue North
+housenumber: "6535"
 phone: ""
 opening_hours: ""
 website: ""

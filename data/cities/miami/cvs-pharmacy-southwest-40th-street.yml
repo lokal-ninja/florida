@@ -1,11 +1,11 @@
 id: 790508627
-type: way
+type: node
 latitude: 25.73369
 longitude: -80.28784
 postcode: "33155"
 city: Miami
-street: "Southwest 40th Street"
-housenumber: 6748
+street: Southwest 40th Street
+housenumber: "6748"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/miami-fl-pharmacies/5748-sw-40th-st-miami-fl-33155/storeid=10111"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/miami-fl-pharmacies/5748-sw-40th-st-miami-fl-33155/storeid=10111

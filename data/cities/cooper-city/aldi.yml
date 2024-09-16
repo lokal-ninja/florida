@@ -1,11 +1,11 @@
 id: 1021461532
-type: way
+type: node
 latitude: 26.04457
 longitude: -80.25289
 postcode: "33024"
 city: Cooper City
-street: "North University Drive"
-housenumber: 4298
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://stores.aldi.us/fl/cooper-city/4298-n-university-drive"
+street: North University Drive
+housenumber: "4298"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:30
+website: https://stores.aldi.us/fl/cooper-city/4298-n-university-drive

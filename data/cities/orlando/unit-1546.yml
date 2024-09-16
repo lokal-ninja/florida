@@ -1,11 +1,11 @@
 id: 933614232
-type: way
+type: node
 latitude: 28.44701
 longitude: -81.39482
 postcode: "32809"
 city: Orlando
-street: "S Orange Blossom Trl"
-housenumber: 8001
+street: S Orange Blossom Trl
+housenumber: "8001"
 phone: ""
 opening_hours: ""
-website: "https://www.simon.com/mall/the-florida-mall/stores/selfie-wrld-orlando"
+website: https://www.simon.com/mall/the-florida-mall/stores/selfie-wrld-orlando

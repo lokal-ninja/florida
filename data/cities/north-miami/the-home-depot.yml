@@ -1,11 +1,11 @@
 id: 222360880
-type: way
+type: node
 latitude: 25.88746
 longitude: -80.16355
 postcode: "33181"
 city: North Miami
-street: "Biscayne Boulevard"
-housenumber: 12055
-phone: "+1 305-981-2959"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/n-miami-biscayne/fl/miami/33181/6322"
+street: Biscayne Boulevard
+housenumber: "12055"
+phone: +1 305-981-2959
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/n-miami-biscayne/fl/miami/33181/6322

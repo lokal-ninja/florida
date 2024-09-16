@@ -1,11 +1,11 @@
 id: 370719900
-type: way
+type: node
 latitude: 30.46875
 longitude: -84.28796
 postcode: "32303"
 city: Tallahassee
-street: "North Monroe Street"
-housenumber: 2110
+street: North Monroe Street
+housenumber: "2110"
 phone: ""
 opening_hours: ""
-website: "https://www.verizon.com/"
+website: https://www.verizon.com/

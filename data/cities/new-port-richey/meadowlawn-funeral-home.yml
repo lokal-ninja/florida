@@ -1,11 +1,11 @@
 id: 1012226431
-type: way
+type: node
 latitude: 28.22173
 longitude: -82.71467
 postcode: "34652"
 city: New Port Richey
-street: "Madison Street"
-housenumber: 4244
-phone: "+1 727 849 9281"
+street: Madison Street
+housenumber: "4244"
+phone: +1 727 849 9281
 opening_hours: ""
-website: "https://www.dignitymemorial.com/north-meadowlawn-funeral-home-cemetery/en-us/index.page"
+website: https://www.dignitymemorial.com/north-meadowlawn-funeral-home-cemetery/en-us/index.page

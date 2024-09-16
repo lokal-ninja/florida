@@ -1,11 +1,11 @@
 id: 361219175
-type: way
+type: node
 latitude: 29.20469
 longitude: -81.03632
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 909
-phone: "+1 386 898 0472"
-opening_hours: "Mo-Fr 10:30-19:00, Sa 09:00-18:00"
-website: "https://www.rentawheel.com/"
+street: International Speedway Boulevard
+housenumber: "909"
+phone: +1 386 898 0472
+opening_hours: Mo-Fr 10:30-19:00, Sa 09:00-18:00
+website: https://www.rentawheel.com/

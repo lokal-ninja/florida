@@ -1,11 +1,11 @@
 id: 766792849
-type: way
+type: node
 latitude: 28.5306
 longitude: -82.5067
 postcode: "34613"
 city: Brooksville
-street: "Cortez Boulevard"
-housenumber: 13300
-phone: "+1 352-597-3807"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1213/brooksville-fl/whats-new"
+street: Cortez Boulevard
+housenumber: "13300"
+phone: +1 352-597-3807
+opening_hours: 24/7
+website: https://www.walmart.com/store/1213/brooksville-fl/whats-new

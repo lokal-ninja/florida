@@ -1,11 +1,11 @@
 id: 290515365
-type: way
+type: node
 latitude: 25.65589
 longitude: -80.40075
-postcode: "33186-4663"
+postcode: 33186-4663
 city: Miami
-street: "Southwest 127th Avenue"
-housenumber: 12100
-phone: "+1 305-238-1019"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/835"
+street: Southwest 127th Avenue
+housenumber: "12100"
+phone: +1 305-238-1019
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/835

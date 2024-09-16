@@ -1,11 +1,11 @@
 id: 977899617
-type: way
+type: node
 latitude: 29.06269
 longitude: -81.3021
 postcode: "32720"
 city: Deland
-street: "North Woodland Boulevard"
-housenumber: 1699
-phone: "+1 386-734-4420"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/860-deland-fl"
+street: North Woodland Boulevard
+housenumber: "1699"
+phone: +1 386-734-4420
+opening_hours: 24/7
+website: https://www.walmart.com/store/860-deland-fl

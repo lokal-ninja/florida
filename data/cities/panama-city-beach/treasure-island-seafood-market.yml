@@ -1,11 +1,11 @@
 id: 148773700
-type: way
+type: node
 latitude: 30.14633
 longitude: -85.74891
 postcode: "32408"
 city: Panama City Beach
-street: "Thomas Drive"
-housenumber: 3605
+street: Thomas Drive
+housenumber: "3605"
 phone: ""
 opening_hours: ""
-website: "http://www.treasureislandmarina.net/services-at-a-glance/"
+website: http://www.treasureislandmarina.net/services-at-a-glance/

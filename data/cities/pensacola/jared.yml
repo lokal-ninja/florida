@@ -1,11 +1,11 @@
 id: 421674681
-type: way
+type: node
 latitude: 30.47756
 longitude: -87.20882
 postcode: "32504"
 city: Pensacola
-street: "North 9th Avenue"
-housenumber: 5410
-phone: "+1-850-473-9331"
+street: North 9th Avenue
+housenumber: "5410"
+phone: +1-850-473-9331
 opening_hours: ""
-website: "https://www.jared.com/en/jaredstore"
+website: https://www.jared.com/en/jaredstore

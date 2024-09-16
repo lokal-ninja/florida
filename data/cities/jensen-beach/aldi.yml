@@ -1,11 +1,11 @@
 id: 795479434
-type: way
+type: node
 latitude: 27.25772
 longitude: -80.28133
 postcode: "34957"
 city: Jensen Beach
-street: "Northwest Federal Highway"
-housenumber: 4300
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://stores.aldi.us/fl/jensen-beach/4300-nw-federal-highway"
+street: Northwest Federal Highway
+housenumber: "4300"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:30
+website: https://stores.aldi.us/fl/jensen-beach/4300-nw-federal-highway

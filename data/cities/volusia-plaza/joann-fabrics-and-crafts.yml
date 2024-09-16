@@ -1,11 +1,11 @@
 id: 477060452
-type: way
+type: node
 latitude: 29.18233
 longitude: -81.08171
-postcode: "32114-7248"
+postcode: 32114-7248
 city: Volusia Plaza
-street: "West International Spdwy Boulevard"
-housenumber: 2400
-phone: "+1 386-258-0566"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/fl/daytona-beach/1595/"
+street: West International Spdwy Boulevard
+housenumber: "2400"
+phone: +1 386-258-0566
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/fl/daytona-beach/1595/

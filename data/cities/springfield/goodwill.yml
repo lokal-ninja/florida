@@ -1,11 +1,11 @@
 id: 637950791
-type: way
+type: node
 latitude: 30.15414
 longitude: -85.61661
 postcode: "32401"
 city: Springfield
-street: "East Business Highway 98"
-housenumber: 3221
+street: East Business Highway 98
+housenumber: "3221"
 phone: ""
 opening_hours: ""
 website: ""

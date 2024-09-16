@@ -1,11 +1,11 @@
 id: 782546323
-type: way
+type: node
 latitude: 30.11505
 longitude: -81.59746
 postcode: "32259"
 city: St. Johns
-street: "Race Track Road"
-housenumber: 2550
+street: Race Track Road
+housenumber: "2550"
 phone: ""
-opening_hours: "Mo-Su 09:00-17:00"
-website: "https://www.dollartree.com/locations/fl/saint-johns/6093/"
+opening_hours: Mo-Su 09:00-17:00
+website: https://www.dollartree.com/locations/fl/saint-johns/6093/

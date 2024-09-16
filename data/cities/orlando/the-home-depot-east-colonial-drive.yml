@@ -1,11 +1,11 @@
 id: 604404549
-type: way
+type: node
 latitude: 28.55727
 longitude: -81.30516
 postcode: "32807"
 city: Orlando
-street: "East Colonial Drive"
-housenumber: 6130
-phone: "+1 407-275-5771"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/E-Colonial/FL/Orlando/32807/266"
+street: East Colonial Drive
+housenumber: "6130"
+phone: +1 407-275-5771
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/E-Colonial/FL/Orlando/32807/266

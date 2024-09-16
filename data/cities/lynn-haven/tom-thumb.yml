@@ -1,11 +1,11 @@
 id: 639221371
-type: way
+type: node
 latitude: 30.22213
 longitude: -85.66272
 postcode: "32405"
 city: Lynn Haven
-street: "West Highway 390"
-housenumber: 2301
+street: West Highway 390
+housenumber: "2301"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 25.69343
 longitude: -80.3058
 postcode: "33143"
 city: Miami
-street: "South Dixie Highway"
-housenumber: 8450
-phone: "+1 305-662-7073"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://stores.bestbuy.com/fl/miami/8450-s-dixie-hwy-557.html"
+street: South Dixie Highway
+housenumber: "8450"
+phone: +1 305-662-7073
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://stores.bestbuy.com/fl/miami/8450-s-dixie-hwy-557.html

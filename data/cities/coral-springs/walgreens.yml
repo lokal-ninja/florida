@@ -1,11 +1,11 @@
 id: 787329116
-type: way
+type: node
 latitude: 26.27237
 longitude: -80.28322
 postcode: "33065"
 city: Coral Springs
-street: "West Sample Road"
-housenumber: 11750
+street: West Sample Road
+housenumber: "11750"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-11750+w+sample+rd-coral+springs-fl-33065/id=3935"
+website: https://www.walgreens.com/locator/walgreens-11750+w+sample+rd-coral+springs-fl-33065/id=3935

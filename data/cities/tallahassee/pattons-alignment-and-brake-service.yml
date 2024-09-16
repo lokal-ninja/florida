@@ -1,11 +1,11 @@
 id: 1152717749
-type: way
+type: node
 latitude: 30.41773
 longitude: -84.28219
 postcode: "32301"
 city: Tallahassee
-street: "South Adams Street"
-housenumber: 2405
-phone: "+1-850-222-0142"
-opening_hours: "Mo-Th 07:30-17:30; Fr 07:00-16:00"
-website: "https://pattonsalignmenttally.com/"
+street: South Adams Street
+housenumber: "2405"
+phone: +1-850-222-0142
+opening_hours: Mo-Th 07:30-17:30; Fr 07:00-16:00
+website: https://pattonsalignmenttally.com/

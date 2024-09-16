@@ -1,11 +1,11 @@
 id: 944156143
-type: way
+type: node
 latitude: 30.58939
 longitude: -84.57729
 postcode: "32351"
 city: Quincy
-street: "West Washington Street"
-housenumber: 10
+street: West Washington Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

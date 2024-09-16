@@ -4,8 +4,8 @@ latitude: 30.2703
 longitude: -81.38996
 postcode: "32250"
 city: Jacksonville Beach
-street: "3rd Street South"
-housenumber: 2050
-phone: "+1 904-685-7370"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/jacksonvillebeach"
+street: 3rd Street South
+housenumber: "2050"
+phone: +1 904-685-7370
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/jacksonvillebeach

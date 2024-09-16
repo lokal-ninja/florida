@@ -1,11 +1,11 @@
 id: 488737435
-type: way
+type: node
 latitude: 29.14667
 longitude: -80.96462
 postcode: ""
 city: Daytona Beach
-street: "South Atlantic Avenue"
-housenumber: 3701
-phone: "+1-386-756-4219"
-opening_hours: "sunrise-22:00"
-website: "https://crabbyjoesdaytona.com"
+street: South Atlantic Avenue
+housenumber: "3701"
+phone: +1-386-756-4219
+opening_hours: sunrise-22:00
+website: https://crabbyjoesdaytona.com

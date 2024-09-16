@@ -1,11 +1,11 @@
 id: 583336291
-type: way
+type: node
 latitude: 30.57092
 longitude: -87.29043
 postcode: "32533"
 city: Cantonment
-street: "South Highway 29"
-housenumber: 2090
+street: South Highway 29
+housenumber: "2090"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cantonment-fl-pharmacies/2090-s-highway-29-cantonment-fl-32533/storeid=1055"
+website: https://www.cvs.com/store-locator/cantonment-fl-pharmacies/2090-s-highway-29-cantonment-fl-32533/storeid=1055

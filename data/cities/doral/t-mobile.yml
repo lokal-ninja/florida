@@ -1,11 +1,11 @@
 id: 308208495
-type: way
+type: node
 latitude: 25.78374
 longitude: -80.33726
 postcode: "33172"
 city: Doral
-street: "Northwest 87th Avenue"
-housenumber: 1200
+street: Northwest 87th Avenue
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

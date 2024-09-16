@@ -1,11 +1,11 @@
 id: 319425175
-type: way
+type: node
 latitude: 25.76795
 longitude: -80.19963
-postcode: "33130-2917"
+postcode: 33130-2917
 city: Miami
-street: "Southwest 7th Street"
-housenumber: 311
-phone: "+1 305-860-9477"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/54"
+street: Southwest 7th Street
+housenumber: "311"
+phone: +1 305-860-9477
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/54

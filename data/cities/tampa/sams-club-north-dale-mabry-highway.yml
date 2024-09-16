@@ -1,11 +1,11 @@
 id: 537301237
-type: way
+type: node
 latitude: 28.09692
 longitude: -82.50056
 postcode: "33618"
 city: Tampa
-street: "North Dale Mabry Highway"
-housenumber: 15835
-phone: "+1 813-960-2110"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/tampa-fl-sams-club/6401"
+street: North Dale Mabry Highway
+housenumber: "15835"
+phone: +1 813-960-2110
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/tampa-fl-sams-club/6401

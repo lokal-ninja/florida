@@ -1,11 +1,11 @@
 id: 354637131
-type: way
+type: node
 latitude: 30.49613
 longitude: -87.20921
 postcode: "32504"
 city: Pensacola
-street: "Creighton Road"
-housenumber: 1502
-phone: "+1 850-477-2210"
+street: Creighton Road
+housenumber: "1502"
+phone: +1 850-477-2210
 opening_hours: ""
-website: "https://www.tringas.com/"
+website: https://www.tringas.com/

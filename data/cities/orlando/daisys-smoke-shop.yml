@@ -1,11 +1,11 @@
 id: 960909854
-type: way
+type: node
 latitude: 28.56245
 longitude: -81.37301
 postcode: "32804"
 city: Orlando
-street: "North Orange Avenue"
-housenumber: 1231
+street: North Orange Avenue
+housenumber: "1231"
 phone: "+14074207033"
 opening_hours: ""
-website: "https://daisysmokeshop.com/"
+website: https://daisysmokeshop.com/

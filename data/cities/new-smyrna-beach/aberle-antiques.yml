@@ -1,11 +1,11 @@
 id: 764484889
-type: way
+type: node
 latitude: 29.02449
 longitude: -80.92473
 postcode: "32168"
 city: New Smyrna Beach
-street: "Canal Street"
-housenumber: 405
+street: Canal Street
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

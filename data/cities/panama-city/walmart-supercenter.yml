@@ -1,11 +1,11 @@
 id: 753539051
-type: way
+type: node
 latitude: 30.18784
 longitude: -85.6687
 postcode: "32405"
 city: Panama City
-street: "West 23 Street"
-housenumber: 513
-phone: "+1 850-691-0716"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/3075-panama-city-fl"
+street: West 23 Street
+housenumber: "513"
+phone: +1 850-691-0716
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/3075-panama-city-fl

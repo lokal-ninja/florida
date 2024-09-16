@@ -1,11 +1,11 @@
 id: 920549652
-type: way
+type: node
 latitude: 28.20471
 longitude: -82.66416
 postcode: "34655"
 city: New Port Richey
-street: "Little Road"
-housenumber: 3122
-phone: "+1 727-375-2615"
+street: Little Road
+housenumber: "3122"
+phone: +1 727-375-2615
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/fl/new-port-richey/025019/"
+website: https://www.mattressfirm.com/en-us/stores/fl/new-port-richey/025019/

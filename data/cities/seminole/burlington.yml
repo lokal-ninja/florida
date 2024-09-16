@@ -1,11 +1,11 @@
 id: 227003407
-type: way
+type: node
 latitude: 27.838
 longitude: -82.78582
-postcode: "33772-5939"
+postcode: 33772-5939
 city: Seminole
-street: "Seminole Boulevard"
-housenumber: 7351
-phone: "+1 727-319-8832"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/fl/seminole/353"
+street: Seminole Boulevard
+housenumber: "7351"
+phone: +1 727-319-8832
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/fl/seminole/353

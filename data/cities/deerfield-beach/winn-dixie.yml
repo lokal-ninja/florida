@@ -1,11 +1,11 @@
 id: 153999760
-type: way
+type: node
 latitude: 26.3042
 longitude: -80.09532
 postcode: "33441"
 city: Deerfield Beach
-street: "South Federal Highway"
-housenumber: 1019
-phone: "+1 954-426-4404"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.winndixie.com/storedetails/deerfield%20beach/fl?search=345"
+street: South Federal Highway
+housenumber: "1019"
+phone: +1 954-426-4404
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.winndixie.com/storedetails/deerfield%20beach/fl?search=345

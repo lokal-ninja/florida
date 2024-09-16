@@ -1,11 +1,11 @@
 id: 525424767
-type: way
+type: node
 latitude: 27.83032
 longitude: -82.6792
 postcode: "33781"
 city: Pinellas Park
-street: "US Highway 19 N"
-housenumber: 6401
-phone: "+1-727-525-1197"
+street: US Highway 19 N
+housenumber: "6401"
+phone: +1-727-525-1197
 opening_hours: ""
-website: "https://www.icecoldair.com/"
+website: https://www.icecoldair.com/

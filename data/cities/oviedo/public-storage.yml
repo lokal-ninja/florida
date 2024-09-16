@@ -1,11 +1,11 @@
 id: 622455871
-type: way
+type: node
 latitude: 28.6498
 longitude: -81.2094
 postcode: "32765"
 city: Oviedo
-street: "Alafaya Trail"
-housenumber: 1400
+street: Alafaya Trail
+housenumber: "1400"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00
 website: ""

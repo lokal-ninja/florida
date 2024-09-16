@@ -1,11 +1,11 @@
 id: 1041211239
-type: way
+type: node
 latitude: 30.15181
 longitude: -85.57905
 postcode: "32404"
 city: Panama City
-street: "Highway 22"
-housenumber: 6450
-phone: "+1 850-874-8700"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Highway 22
+housenumber: "6450"
+phone: +1 850-874-8700
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 327725063
-type: way
+type: node
 latitude: 30.3266
 longitude: -81.65633
 postcode: "32202"
 city: Jacksonville
-street: "East Forsyth Street"
-housenumber: 100
+street: East Forsyth Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

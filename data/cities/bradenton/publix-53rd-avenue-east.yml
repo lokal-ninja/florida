@@ -1,11 +1,11 @@
 id: 468302848
-type: way
+type: node
 latitude: 27.44378
 longitude: -82.50811
-postcode: "34203-8097"
+postcode: 34203-8097
 city: Bradenton
-street: "53rd Avenue East"
-housenumber: 4240
-phone: "+1 941-758-4093"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1447"
+street: 53rd Avenue East
+housenumber: "4240"
+phone: +1 941-758-4093
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1447

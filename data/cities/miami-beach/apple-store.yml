@@ -1,11 +1,11 @@
 id: 564772302
-type: way
+type: node
 latitude: 25.79062
 longitude: -80.13942
 postcode: "33139"
 city: Miami Beach
-street: "Lincoln Road"
-housenumber: 1021
-phone: "+1 305 421 0400"
-opening_hours: "Mo-Sa 10:00-23:00; Su 12:00-22:00"
-website: "https://www.apple.com/retail/lincolnroad/"
+street: Lincoln Road
+housenumber: "1021"
+phone: +1 305 421 0400
+opening_hours: Mo-Sa 10:00-23:00; Su 12:00-22:00
+website: https://www.apple.com/retail/lincolnroad/

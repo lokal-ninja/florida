@@ -1,11 +1,11 @@
 id: 435520514
-type: way
+type: node
 latitude: 25.73285
 longitude: -80.3268
 postcode: "33155"
 city: Miami
-street: "Southwest 40th Street;Bird Road"
-housenumber: 8190
+street: Southwest 40th Street;Bird Road
+housenumber: "8190"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Miami/8190-BIRD-RD"
+website: https://www.speedway.com/locations/FL/Miami/8190-BIRD-RD

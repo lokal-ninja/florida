@@ -1,11 +1,11 @@
 id: 538863956
-type: way
+type: node
 latitude: 28.76221
 longitude: -82.55035
 postcode: "34446"
 city: Homosassa Springs
-street: "South Suncoast Boulevard"
-housenumber: 6885
-phone: "+1 352-628-4161"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1029/homosassa-fl/whats-new"
+street: South Suncoast Boulevard
+housenumber: "6885"
+phone: +1 352-628-4161
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1029/homosassa-fl/whats-new

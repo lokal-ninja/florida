@@ -1,11 +1,11 @@
 id: 848672154
-type: way
+type: node
 latitude: 30.10121
 longitude: -81.52287
 postcode: "32259"
 city: Saint Johns
-street: "Bartram Market Drive"
-housenumber: 155
+street: Bartram Market Drive
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 26.35139
 longitude: -80.20103
 postcode: "33428"
 city: Boca Raton
-street: "State Road 7"
-housenumber: 21870
-phone: "+1 561-883-1215"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-18:00"
-website: "https://www.lowes.com/store/fl-boca-raton/1069"
+street: State Road 7
+housenumber: "21870"
+phone: +1 561-883-1215
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-18:00
+website: https://www.lowes.com/store/fl-boca-raton/1069

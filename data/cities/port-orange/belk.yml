@@ -4,8 +4,8 @@ latitude: 29.11138
 longitude: -81.03326
 postcode: "32128"
 city: Port Orange
-street: "South Williamson Boulevard"
-housenumber: 5519
-phone: "+1 386 304 3901"
+street: South Williamson Boulevard
+housenumber: "5519"
+phone: +1 386 304 3901
 opening_hours: ""
-website: "https://ocapi.belk.com/store/belk-port-orange-fl/?StoreID=392"
+website: https://ocapi.belk.com/store/belk-port-orange-fl/?StoreID=392

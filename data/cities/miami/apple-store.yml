@@ -1,11 +1,11 @@
 id: 1179066272
-type: way
+type: node
 latitude: 25.7666
 longitude: -80.19378
 postcode: "33130"
 city: Miami
-street: "South Miami Avenue"
-housenumber: 701
-phone: "+1-786-843-4350"
+street: South Miami Avenue
+housenumber: "701"
+phone: +1-786-843-4350
 opening_hours: ""
-website: "https://www.apple.com/retail/brickellcitycentre/"
+website: https://www.apple.com/retail/brickellcitycentre/

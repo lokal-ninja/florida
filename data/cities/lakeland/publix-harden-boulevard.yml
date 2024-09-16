@@ -1,11 +1,11 @@
 id: 114689500
-type: way
+type: node
 latitude: 27.99848
 longitude: -81.97223
 postcode: "33803"
 city: Lakeland
-street: "Harden Boulevard"
-housenumber: 3636
-phone: "+1 863-400-7873"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1854-oakbridge-centre"
+street: Harden Boulevard
+housenumber: "3636"
+phone: +1 863-400-7873
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1854-oakbridge-centre

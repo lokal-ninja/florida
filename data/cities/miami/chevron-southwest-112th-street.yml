@@ -1,11 +1,11 @@
 id: 435845271
-type: way
+type: node
 latitude: 25.66234
 longitude: -80.39348
 postcode: "33186"
 city: Miami
-street: "Southwest 112th Street"
-housenumber: 12201
+street: Southwest 112th Street
+housenumber: "12201"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

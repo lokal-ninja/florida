@@ -1,11 +1,11 @@
 id: 1016030345
-type: way
+type: node
 latitude: 28.37841
 longitude: -82.35553
 postcode: "33525"
 city: Dade City
-street: "St Joe Rd"
-housenumber: 27839
+street: St Joe Rd
+housenumber: "27839"
 phone: ""
 opening_hours: ""
 website: ""

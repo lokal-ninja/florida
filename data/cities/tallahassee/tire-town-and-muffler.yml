@@ -1,11 +1,11 @@
 id: 491386128
-type: way
+type: node
 latitude: 30.42998
 longitude: -84.28124
 postcode: "32301"
 city: Tallahassee
-street: "South Monroe Street"
-housenumber: 1406
+street: South Monroe Street
+housenumber: "1406"
 phone: ""
 opening_hours: ""
-website: "https://www.tiretownandmuffler.net/"
+website: https://www.tiretownandmuffler.net/

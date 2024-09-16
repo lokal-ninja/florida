@@ -1,11 +1,11 @@
 id: 1009538246
-type: way
+type: node
 latitude: 28.06409
 longitude: -82.5737
 postcode: "33625"
 city: Tampa
-street: "Citrus Plaza Drive"
-housenumber: 12835
-phone: "+1 813-926-7488"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/fl/tampa-store0319.html"
+street: Citrus Plaza Drive
+housenumber: "12835"
+phone: +1 813-926-7488
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/fl/tampa-store0319.html

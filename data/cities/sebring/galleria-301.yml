@@ -1,11 +1,11 @@
 id: 751644081
-type: way
+type: node
 latitude: 27.49551
 longitude: -81.44063
 postcode: "33870"
 city: Sebring
-street: "Circle Park Drive"
-housenumber: 301
+street: Circle Park Drive
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

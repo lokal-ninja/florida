@@ -1,11 +1,11 @@
 id: 1013492433
-type: way
+type: node
 latitude: 27.45807
 longitude: -82.57569
 postcode: "34207"
 city: Bradenton
-street: "14th Street West"
-housenumber: 4616
+street: 14th Street West
+housenumber: "4616"
 phone: ""
 opening_hours: ""
 website: ""

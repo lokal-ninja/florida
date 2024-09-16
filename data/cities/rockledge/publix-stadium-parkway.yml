@@ -1,11 +1,11 @@
 id: 784534489
-type: way
+type: node
 latitude: 28.26845
 longitude: -80.73922
-postcode: "32955-6001"
+postcode: 32955-6001
 city: Rockledge
-street: "Stadium Parkway"
-housenumber: 5380
-phone: "+1 321-433-0936"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1398"
+street: Stadium Parkway
+housenumber: "5380"
+phone: +1 321-433-0936
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1398

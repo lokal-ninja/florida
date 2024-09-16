@@ -1,11 +1,11 @@
 id: 826223795
-type: way
+type: node
 latitude: 30.52528
 longitude: -87.27531
 postcode: "32534"
 city: Pensacola
-street: "Pensacola Boulevard"
-housenumber: 8723
+street: Pensacola Boulevard
+housenumber: "8723"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-12:00
 website: ""

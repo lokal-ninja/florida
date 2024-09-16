@@ -1,11 +1,11 @@
 id: 845903859
-type: way
+type: node
 latitude: 30.63003
 longitude: -81.55557
 postcode: "32097"
 city: Yulee
-street: "State Road"
-housenumber: 463713
-phone: "+1 904-225-0014"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/fl/yulee/pet-supplies-yulee-fl-2772.html"
+street: State Road
+housenumber: "463713"
+phone: +1 904-225-0014
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/fl/yulee/pet-supplies-yulee-fl-2772.html

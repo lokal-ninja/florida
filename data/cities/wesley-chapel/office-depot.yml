@@ -1,11 +1,11 @@
 id: 587518692
-type: way
+type: node
 latitude: 28.18224
 longitude: -82.3519
 postcode: "33544"
 city: Wesley Chapel
-street: "Bruce B Downs Boulevard"
-housenumber: 1714
-phone: "+1 (813) 994-4131"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/wesley-chapel/office-depot-2603/"
+street: Bruce B Downs Boulevard
+housenumber: "1714"
+phone: +1 (813) 994-4131
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/wesley-chapel/office-depot-2603/

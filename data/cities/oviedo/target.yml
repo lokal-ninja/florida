@@ -1,11 +1,11 @@
 id: 556842638
-type: way
+type: node
 latitude: 28.65812
 longitude: -81.23561
-postcode: "32765-9348"
+postcode: 32765-9348
 city: Oviedo
-street: "Oviedo Mall Boulevard"
-housenumber: 820
-phone: "+1 407-366-5900"
-opening_hours: "Su 08:00-10:00; Mo-Sa 08:00-23:00"
-website: "https://www.target.com/sl/oviedo/897"
+street: Oviedo Mall Boulevard
+housenumber: "820"
+phone: +1 407-366-5900
+opening_hours: Su 08:00-10:00; Mo-Sa 08:00-23:00
+website: https://www.target.com/sl/oviedo/897

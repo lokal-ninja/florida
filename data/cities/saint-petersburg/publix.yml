@@ -2,10 +2,10 @@ id: 566437304
 type: node
 latitude: 27.80635
 longitude: -82.6353
-postcode: "33704-1416"
+postcode: 33704-1416
 city: Saint Petersburg
-street: "37th Avenue North"
-housenumber: 200
-phone: "+1 727-895-1670"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/640"
+street: 37th Avenue North
+housenumber: "200"
+phone: +1 727-895-1670
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/640

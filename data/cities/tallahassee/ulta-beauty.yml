@@ -1,11 +1,11 @@
 id: 5833709085
 type: node
-latitude: 30.44092
+latitude: 30.44084
 longitude: -84.25691
 postcode: "32301"
 city: Tallahassee
-street: "Governors Square Boulevard"
-housenumber: 1554
-phone: "+1 850-402-9527"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 10:00-18:00"
-website: "https://www.ulta.com/stores/tallahassee-fl-679"
+street: Governors Square Boulevard
+housenumber: "1554"
+phone: +1-850-402-9527
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 10:00-18:00
+website: https://www.ulta.com/stores/tallahassee-fl-679

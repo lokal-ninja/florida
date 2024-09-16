@@ -1,11 +1,11 @@
 id: 197703216
-type: way
+type: node
 latitude: 26.00673
 longitude: -80.28985
 postcode: "33025"
 city: Pembroke Pines
-street: "Pines Boulevard"
-housenumber: 10790
+street: Pines Boulevard
+housenumber: "10790"
 phone: ""
 opening_hours: ""
 website: ""

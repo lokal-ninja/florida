@@ -1,11 +1,11 @@
 id: 313780371
-type: way
+type: node
 latitude: 28.49788
 longitude: -81.39752
 postcode: "32839"
 city: Orlando
-street: "South Orange Blossom Trail"
-housenumber: 4502
-phone: "+1-407-851-6040"
-opening_hours: "Mo-Su 09:00-17:00"
+street: South Orange Blossom Trail
+housenumber: "4502"
+phone: +1-407-851-6040
+opening_hours: Mo-Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 295589847
-type: way
+type: node
 latitude: 30.45462
 longitude: -84.28184
 postcode: "32303"
 city: Tallahassee
-street: "North Adams Street"
-housenumber: 1125
+street: North Adams Street
+housenumber: "1125"
 phone: ""
 opening_hours: ""
 website: ""

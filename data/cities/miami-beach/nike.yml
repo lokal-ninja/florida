@@ -1,11 +1,11 @@
 id: 397665081
-type: way
+type: node
 latitude: 25.79064
 longitude: -80.13988
 postcode: "33139"
 city: Miami Beach
-street: "Lincoln Road"
-housenumber: 1035
+street: Lincoln Road
+housenumber: "1035"
 phone: ""
 opening_hours: ""
 website: ""

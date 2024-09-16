@@ -1,11 +1,11 @@
 id: 462359257
-type: way
+type: node
 latitude: 30.06194
 longitude: -84.49148
 postcode: ""
 city: Sopchoppy
-street: "Municipal Avenue"
-housenumber: 100
+street: Municipal Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

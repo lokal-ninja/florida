@@ -1,11 +1,11 @@
 id: 523430609
-type: way
+type: node
 latitude: 28.02645
 longitude: -82.58232
 postcode: "33615"
 city: Tampa
-street: "West Waters Avenue"
-housenumber: 8749
-phone: "+1-813-882-8899"
+street: West Waters Avenue
+housenumber: "8749"
+phone: +1-813-882-8899
 opening_hours: ""
-website: "https://find.shell.com/us/fuel/10048411-8749-w-waters-ave"
+website: https://find.shell.com/us/fuel/10048411-8749-w-waters-ave

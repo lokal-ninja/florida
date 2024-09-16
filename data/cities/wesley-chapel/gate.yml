@@ -1,11 +1,11 @@
 id: 587552688
-type: way
+type: node
 latitude: 28.1874
 longitude: -82.37328
 postcode: "33544"
 city: Wesley Chapel
-street: "FL 56"
-housenumber: 26699
+street: FL 56
+housenumber: "26699"
 phone: ""
 opening_hours: ""
 website: ""

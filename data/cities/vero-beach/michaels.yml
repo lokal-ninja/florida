@@ -4,8 +4,8 @@ latitude: 27.64123
 longitude: -80.45298
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 6140
-phone: "+1 772-770-0354"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/fl/vero-beach/3730"
+street: 20th Street
+housenumber: "6140"
+phone: +1 772-770-0354
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/fl/vero-beach/3730

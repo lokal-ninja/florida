@@ -1,11 +1,11 @@
 id: 422128058
-type: way
+type: node
 latitude: 30.44854
 longitude: -84.30573
 postcode: "32304"
 city: Tallahassee
-street: "West Tennessee Street"
-housenumber: 1411
+street: West Tennessee Street
+housenumber: "1411"
 phone: ""
 opening_hours: ""
-website: "https://www.hibbett.com/"
+website: https://www.hibbett.com/

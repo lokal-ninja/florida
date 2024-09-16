@@ -1,11 +1,11 @@
 id: 285606074
-type: way
+type: node
 latitude: 26.27621
 longitude: -80.20355
 postcode: "33067"
 city: Coral Springs
-street: "Turtle Creek Drive"
-housenumber: 3651
-phone: "+1 954-346-3993"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/fl-coral-springs/0704"
+street: Turtle Creek Drive
+housenumber: "3651"
+phone: +1 954-346-3993
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/fl-coral-springs/0704

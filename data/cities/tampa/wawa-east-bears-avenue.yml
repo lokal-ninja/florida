@@ -1,11 +1,11 @@
 id: 1030621322
-type: way
+type: node
 latitude: 28.08864
 longitude: -82.45225
 postcode: "33612"
 city: Tampa
-street: "East Bears Avenue"
-housenumber: 804
+street: East Bears Avenue
+housenumber: "804"
 phone: ""
 opening_hours: ""
 website: ""

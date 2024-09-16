@@ -1,11 +1,11 @@
 id: 761836784
-type: way
+type: node
 latitude: 30.71523
 longitude: -86.56935
 postcode: ""
 city: Crestview
-street: "South Ferdon Boulevard"
-housenumber: 4387
+street: South Ferdon Boulevard
+housenumber: "4387"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/fl/crestview/4387-s-ferdon-blvd"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/fl/crestview/4387-s-ferdon-blvd

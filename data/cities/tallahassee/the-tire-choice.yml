@@ -1,11 +1,11 @@
 id: 406432572
-type: way
+type: node
 latitude: 30.48453
 longitude: -84.23803
 postcode: "32308"
 city: Tallahassee
-street: "Capital Circle Northeast"
-housenumber: 2400
-phone: "+1-850-386-8473"
+street: Capital Circle Northeast
+housenumber: "2400"
+phone: +1-850-386-8473
 opening_hours: ""
-website: "https://thetirechoice.com/"
+website: https://thetirechoice.com/

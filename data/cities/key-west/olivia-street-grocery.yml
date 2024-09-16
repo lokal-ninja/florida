@@ -1,11 +1,11 @@
 id: 339418316
-type: way
+type: node
 latitude: 24.55441
 longitude: -81.79596
 postcode: "33040"
 city: Key West
-street: "Olivia Street"
-housenumber: 600
+street: Olivia Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

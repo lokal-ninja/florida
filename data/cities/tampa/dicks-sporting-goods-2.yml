@@ -1,11 +1,11 @@
 id: 1009538252
-type: way
+type: node
 latitude: 28.06961
 longitude: -82.57884
 postcode: "33625"
 city: Tampa
 street: ""
-housenumber: 
-phone: "+1 813-920-5700"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/tampa/288/"
+housenumber: ""
+phone: +1 813-920-5700
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/tampa/288/

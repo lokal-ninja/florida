@@ -1,11 +1,11 @@
 id: 1180991370
-type: way
+type: node
 latitude: 25.79037
 longitude: -80.13407
 postcode: "33139"
 city: Miami Beach
-street: "Lincoln Road"
-housenumber: 546
-phone: "+1-305-695-8883"
-opening_hours: "Mo-Th 10:00-23:00, Fr-Su 10:00-24:00"
-website: "https://shop.guess.com/en/StoreLocator/Details/5634"
+street: Lincoln Road
+housenumber: "546"
+phone: +1-305-695-8883
+opening_hours: Mo-Th 10:00-23:00, Fr-Su 10:00-24:00
+website: https://shop.guess.com/en/StoreLocator/Details/5634

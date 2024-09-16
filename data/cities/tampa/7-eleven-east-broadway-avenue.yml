@@ -1,11 +1,11 @@
 id: 523884119
-type: way
+type: node
 latitude: 27.96644
 longitude: -82.37277
 postcode: "33619"
 city: Tampa
-street: "East Broadway Avenue"
-housenumber: 7401
-phone: "+1 813-626-2596"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/fl/tampa/7401-e-broadway-ave-39500"
+street: East Broadway Avenue
+housenumber: "7401"
+phone: +1 813-626-2596
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/fl/tampa/7401-e-broadway-ave-39500

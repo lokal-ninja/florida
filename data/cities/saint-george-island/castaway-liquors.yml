@@ -1,11 +1,11 @@
 id: 318393583
-type: way
+type: node
 latitude: 29.66456
 longitude: -84.86449
 postcode: "32328"
 city: Saint George Island
-street: "Franklin Boulevard"
-housenumber: 224
+street: Franklin Boulevard
+housenumber: "224"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 315575008
-type: way
+type: node
 latitude: 26.15406
 longitude: -80.11774
 postcode: "33304"
 city: Fort Lauderdale
-street: "Federal Highway"
-housenumber: 2000
-phone: "+1 954-398-2000"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/fortlauderdale"
+street: Federal Highway
+housenumber: "2000"
+phone: +1 954-398-2000
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/fortlauderdale

@@ -4,8 +4,8 @@ latitude: 25.7743
 longitude: -80.19372
 postcode: "33128"
 city: Miami
-street: "West Flagler Street"
-housenumber: 1
-phone: "+1-305-377-9612"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/fl/miami/1-w-flagler-st-34689"
+street: West Flagler Street
+housenumber: "1"
+phone: +1-305-377-9612
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/fl/miami/1-w-flagler-st-34689

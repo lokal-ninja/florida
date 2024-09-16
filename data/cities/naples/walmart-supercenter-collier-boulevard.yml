@@ -1,11 +1,11 @@
 id: 317490551
-type: way
+type: node
 latitude: 26.05787
 longitude: -81.69759
 postcode: "34114"
 city: Naples
-street: "Collier Boulevard"
-housenumber: 6650
-phone: "+1 239-417-1252"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/3417/naples-fl/whats-new"
+street: Collier Boulevard
+housenumber: "6650"
+phone: +1 239-417-1252
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/3417/naples-fl/whats-new

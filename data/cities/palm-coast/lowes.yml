@@ -1,11 +1,11 @@
 id: 68630636
-type: way
+type: node
 latitude: 29.55159
 longitude: -81.21931
 postcode: "32164"
 city: Palm Coast
-street: "Cypress Edge Drive"
-housenumber: 315
-phone: "+1 386-585-6000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/FL-Palm-Coast/2241"
+street: Cypress Edge Drive
+housenumber: "315"
+phone: +1 386-585-6000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/FL-Palm-Coast/2241

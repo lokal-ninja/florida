@@ -1,11 +1,11 @@
 id: 388344809
-type: way
+type: node
 latitude: 27.4958
 longitude: -82.5698
 postcode: "34205"
 city: Bradenton
-street: "Manatee Avenue West"
-housenumber: 720
+street: Manatee Avenue West
+housenumber: "720"
 phone: ""
 opening_hours: ""
 website: ""

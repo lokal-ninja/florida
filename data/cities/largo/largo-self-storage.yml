@@ -1,11 +1,11 @@
 id: 523048079
-type: way
+type: node
 latitude: 27.92376
 longitude: -82.7918
 postcode: ""
 city: Largo
-street: "4th Street Northwest"
-housenumber: 750
+street: 4th Street Northwest
+housenumber: "750"
 phone: ""
 opening_hours: ""
 website: ""

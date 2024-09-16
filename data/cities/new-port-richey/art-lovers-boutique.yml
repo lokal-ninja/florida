@@ -1,11 +1,11 @@
 id: 1009785219
-type: way
+type: node
 latitude: 28.25043
 longitude: -82.72066
 postcode: "34652"
 city: New Port Richey
-street: "Main Street"
-housenumber: 5647
-phone: "727-312-4040"
+street: Main Street
+housenumber: "5647"
+phone: 727-312-4040
 opening_hours: ""
-website: "https://artgallerynpr.com/"
+website: https://artgallerynpr.com/

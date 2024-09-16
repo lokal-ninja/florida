@@ -1,11 +1,11 @@
 id: 784809304
-type: way
+type: node
 latitude: 29.21732
 longitude: -81.09518
 postcode: "32114"
 city: Daytona Beach
-street: "Cornerstone Boulevard"
-housenumber: 1511
+street: Cornerstone Boulevard
+housenumber: "1511"
 phone: ""
-opening_hours: "Su-Th 09:00-21:00, Fr 09:00-22:00, Sa 08:00-22:00"
-website: "https://www.academy.com/storelocator/florida/daytona-beach/store-0302"
+opening_hours: Su-Th 09:00-21:00, Fr 09:00-22:00, Sa 08:00-22:00
+website: https://www.academy.com/storelocator/florida/daytona-beach/store-0302

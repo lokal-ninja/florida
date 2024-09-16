@@ -1,11 +1,11 @@
 id: 347709084
-type: way
+type: node
 latitude: 30.25648
 longitude: -81.52464
 postcode: "32246"
 city: Jacksonville
-street: "Midtown Parkway"
-housenumber: 10390
-phone: "+1 904-642-4299"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/jacksonville/235/"
+street: Midtown Parkway
+housenumber: "10390"
+phone: +1 904-642-4299
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/jacksonville/235/

@@ -1,11 +1,11 @@
 id: 965278987
-type: way
+type: node
 latitude: 27.20999
 longitude: -80.32626
-postcode: "34984-6621"
+postcode: 34984-6621
 city: Port Saint Lucie
-street: "Southeast Becker Road"
-housenumber: 788
-phone: "+1 772-336-3182"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1128"
+street: Southeast Becker Road
+housenumber: "788"
+phone: +1 772-336-3182
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1128

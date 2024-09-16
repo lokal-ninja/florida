@@ -1,11 +1,11 @@
 id: 175724370
-type: way
+type: node
 latitude: 26.40143
 longitude: -81.8096
 postcode: "33928"
 city: Estero
-street: "Via Villagio"
-housenumber: 23210
+street: Via Villagio
+housenumber: "23210"
 phone: ""
 opening_hours: ""
 website: ""

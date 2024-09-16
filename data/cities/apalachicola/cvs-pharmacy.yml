@@ -1,11 +1,11 @@
 id: 332282947
-type: way
+type: node
 latitude: 29.72272
 longitude: -84.99079
 postcode: ""
 city: Apalachicola
 street: ""
-housenumber: 139
+housenumber: "139"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/apalachicola-fl-pharmacies/139-avenue-e-apalachicola-fl-32320/storeid=5165"
+website: https://www.cvs.com/store-locator/apalachicola-fl-pharmacies/139-avenue-e-apalachicola-fl-32320/storeid=5165

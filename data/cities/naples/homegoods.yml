@@ -4,8 +4,8 @@ latitude: 26.19943
 longitude: -81.8023
 postcode: "34103"
 city: Naples
-street: "9th Street North"
-housenumber: 4155
-phone: "+1 239-403-9211"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: 9th Street North
+housenumber: "4155"
+phone: +1 239-403-9211
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

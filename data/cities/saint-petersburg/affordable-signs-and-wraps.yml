@@ -1,11 +1,11 @@
 id: 161968427
-type: way
+type: node
 latitude: 27.83439
 longitude: -82.68007
 postcode: "33702"
 city: Saint Petersburg
-street: "Haines Road North"
-housenumber: 6859
-phone: "+1-727-498-8900"
+street: Haines Road North
+housenumber: "6859"
+phone: +1-727-498-8900
 opening_hours: ""
 website: ""

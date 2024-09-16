@@ -1,11 +1,11 @@
 id: 1024665828
-type: way
+type: node
 latitude: 29.64759
 longitude: -81.60137
 postcode: "32131"
 city: East Palatka
-street: "US-17"
-housenumber: 200
+street: US-17
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

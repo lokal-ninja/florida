@@ -1,11 +1,11 @@
 id: 435238611
-type: way
+type: node
 latitude: 25.83069
 longitude: -80.26572
 postcode: "33010"
 city: Hialeah
-street: "East 8th Avenue"
-housenumber: 960
+street: East 8th Avenue
+housenumber: "960"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/hialeah/960-e-8th-ave"
+website: https://stores.advanceautoparts.com/fl/hialeah/960-e-8th-ave

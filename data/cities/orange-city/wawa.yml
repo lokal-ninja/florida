@@ -1,11 +1,11 @@
 id: 451276268
-type: way
+type: node
 latitude: 28.91713
 longitude: -81.2961
 postcode: "32763"
 city: Orange City
-street: "Enterprise Road"
-housenumber: 2522
+street: Enterprise Road
+housenumber: "2522"
 phone: ""
 opening_hours: ""
 website: ""

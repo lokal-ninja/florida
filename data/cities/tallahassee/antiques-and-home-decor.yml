@@ -1,11 +1,11 @@
 id: 326533650
-type: way
+type: node
 latitude: 30.44833
 longitude: -84.28477
 postcode: "32301"
 city: Tallahassee
-street: "North Bronough Street"
-housenumber: 
+street: North Bronough Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

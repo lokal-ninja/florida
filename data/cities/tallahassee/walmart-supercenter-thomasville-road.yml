@@ -1,11 +1,11 @@
 id: 144823122
-type: way
+type: node
 latitude: 30.54615
 longitude: -84.22943
 postcode: "32312"
 city: Tallahassee
-street: "Thomasville Road"
-housenumber: 5500
-phone: "+1 850-668-2511"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1223/tallahassee-fl/whats-new"
+street: Thomasville Road
+housenumber: "5500"
+phone: +1 850-668-2511
+opening_hours: 24/7
+website: https://www.walmart.com/store/1223/tallahassee-fl/whats-new

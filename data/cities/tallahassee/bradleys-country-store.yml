@@ -1,11 +1,11 @@
 id: 949104152
-type: way
+type: node
 latitude: 30.59786
 longitude: -84.11587
 postcode: "32309"
 city: Tallahassee
-street: "Centerville Road"
-housenumber: 10655
+street: Centerville Road
+housenumber: "10655"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.bradleyscountrystore.com/"
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.bradleyscountrystore.com/

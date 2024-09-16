@@ -1,11 +1,11 @@
 id: 351689524
-type: way
+type: node
 latitude: 29.91806
 longitude: -81.29281
-postcode: "32084-2904"
+postcode: 32084-2904
 city: Saint Augustine
-street: "Ava Way"
-housenumber: 55
-phone: "+1 904-827-1448"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1231"
+street: Ava Way
+housenumber: "55"
+phone: +1 904-827-1448
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1231

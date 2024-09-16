@@ -1,11 +1,11 @@
 id: 1163892523
-type: way
+type: node
 latitude: 30.62358
 longitude: -81.63831
 postcode: "32097"
 city: Yulee
-street: "Homegrown Way"
-housenumber: 20
+street: Homegrown Way
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 09:00-20:00"
+opening_hours: Mo-Th 09:00-20:00
 website: ""

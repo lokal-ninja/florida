@@ -1,11 +1,11 @@
 id: 379286504
-type: way
+type: node
 latitude: 28.29755
 longitude: -80.74041
 postcode: "32955"
 city: Rockledge
-street: "South Fiske Boulevard"
-housenumber: 3790
-phone: "+1 321-631-0696"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/fl-rockledge/1506"
+street: South Fiske Boulevard
+housenumber: "3790"
+phone: +1 321-631-0696
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/fl-rockledge/1506

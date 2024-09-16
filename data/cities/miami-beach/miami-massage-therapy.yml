@@ -4,8 +4,8 @@ latitude: 25.7756
 longitude: -80.13754
 postcode: "33139"
 city: Miami Beach
-street: "6th Street"
-housenumber: 900
-phone: "+1 786-399-0048"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.miamimassagetherapy.com/"
+street: 6th Street
+housenumber: "900"
+phone: +1 786-399-0048
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.miamimassagetherapy.com/

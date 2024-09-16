@@ -1,11 +1,11 @@
 id: 707068998
-type: way
+type: node
 latitude: 30.15978
 longitude: -81.6343
 postcode: "32223"
 city: Jacksonville
-street: "San Jose Boulevard"
-housenumber: 11700
-phone: "+1 904-831-3466"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/fl/jacksonville-store2761.html"
+street: San Jose Boulevard
+housenumber: "11700"
+phone: +1 904-831-3466
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/fl/jacksonville-store2761.html

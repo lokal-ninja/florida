@@ -1,11 +1,11 @@
 id: 772595522
-type: way
+type: node
 latitude: 30.01648
 longitude: -81.39459
 postcode: "32095"
 city: Saint Augustine
-street: "Regalo Road"
-housenumber: 105
+street: Regalo Road
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

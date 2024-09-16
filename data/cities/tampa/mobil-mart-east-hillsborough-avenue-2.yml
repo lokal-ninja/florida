@@ -1,11 +1,11 @@
-id: 1153591333
-type: way
-latitude: 27.99574
-longitude: -82.45498
-postcode: "33604"
+id: 1151660469
+type: node
+latitude: 27.99581
+longitude: -82.3736
+postcode: "33610"
 city: Tampa
-street: "East Hillsborough Avenue"
-housenumber: 501
-phone: "+1-813-443-8341"
-opening_hours: "Mo-Fr 05:00-23:00, Sa 06:00-23:00, Su 07:00-23:00"
-website: "https://www.exxon.com/en/find-station/mobil-tampa-fl-centralmart-200322343"
+street: East Hillsborough Avenue
+housenumber: "7209"
+phone: +1-813-626-1008
+opening_hours: 24/7
+website: https://www.exxon.com/en/find-station/mobil-tampa-fl-orientmobil-200314793

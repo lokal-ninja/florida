@@ -1,11 +1,11 @@
 id: 777805630
-type: way
+type: node
 latitude: 27.85294
 longitude: -82.25697
 postcode: "33547"
 city: Lithia
-street: "Circa Fishhawk Boulevard"
-housenumber: 5637
-phone: "+1 813-654-0531"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1670"
+street: Circa Fishhawk Boulevard
+housenumber: "5637"
+phone: +1 813-654-0531
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1670

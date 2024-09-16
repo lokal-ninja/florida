@@ -1,11 +1,11 @@
 id: 318764835
-type: way
+type: node
 latitude: 27.92462
 longitude: -82.31815
 postcode: "33511"
 city: Brandon
-street: "Providence Road"
-housenumber: 930
-phone: "+1 813 684 7560"
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-930+providence+rd-brandon-fl-33511/id=4523"
+street: Providence Road
+housenumber: "930"
+phone: +1 813 684 7560
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-930+providence+rd-brandon-fl-33511/id=4523

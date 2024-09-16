@@ -1,11 +1,11 @@
 id: 980735993
-type: way
+type: node
 latitude: 27.84946
 longitude: -82.36509
 postcode: "33534"
 city: Gibsonton
-street: "Gibsonton Drive"
-housenumber: 8001
+street: Gibsonton Drive
+housenumber: "8001"
 phone: ""
 opening_hours: ""
 website: ""

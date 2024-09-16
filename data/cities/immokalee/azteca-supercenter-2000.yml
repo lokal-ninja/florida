@@ -1,11 +1,11 @@
 id: 814242655
-type: way
+type: node
 latitude: 26.41897
 longitude: -81.41891
 postcode: "34142"
 city: Immokalee
-street: "West Main Street"
-housenumber: 208
+street: West Main Street
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

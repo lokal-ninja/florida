@@ -1,11 +1,11 @@
 id: 429154931
-type: way
+type: node
 latitude: 29.53276
 longitude: -82.51903
-postcode: "32618-5540"
+postcode: 32618-5540
 city: Archer
-street: "Southwest State Road 45"
-housenumber: 13215
-phone: "+1 352-495-3999"
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-16:00"
+street: Southwest State Road 45
+housenumber: "13215"
+phone: +1 352-495-3999
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-16:00
 website: ""

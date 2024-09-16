@@ -1,11 +1,11 @@
 id: 218125711
-type: way
+type: node
 latitude: 27.87999
 longitude: -82.81686
 postcode: "33774"
 city: Largo
-street: "Walsingham Road"
-housenumber: 12850
-phone: "+1-727-450-2020"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-21:00"
-website: "https://locations.oreillyauto.com/fl/largo/autoparts-4855.html"
+street: Walsingham Road
+housenumber: "12850"
+phone: +1-727-450-2020
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-21:00
+website: https://locations.oreillyauto.com/fl/largo/autoparts-4855.html

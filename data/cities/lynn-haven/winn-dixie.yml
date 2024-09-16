@@ -1,11 +1,11 @@
 id: 1088306960
-type: way
+type: node
 latitude: 30.23053
 longitude: -85.65043
 postcode: "32444"
 city: Lynn Haven
-street: "Highway 77 South"
-housenumber: 1812
-phone: "+1 850-271-0066"
+street: Highway 77 South
+housenumber: "1812"
+phone: +1 850-271-0066
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/lynn%20haven/fl?search=436"
+website: https://www.winndixie.com/storedetails/lynn%20haven/fl?search=436

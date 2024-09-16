@@ -1,11 +1,11 @@
 id: 905474495
-type: way
+type: node
 latitude: 30.65123
 longitude: -81.45501
 postcode: "32034"
 city: Fernandina Beach
-street: "South 14th Street"
-housenumber: 1505
+street: South 14th Street
+housenumber: "1505"
 phone: ""
 opening_hours: ""
 website: ""

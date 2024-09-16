@@ -1,11 +1,11 @@
 id: 982240985
-type: way
+type: node
 latitude: 29.65771
 longitude: -82.32467
 postcode: "32601"
 city: Gainesville
-street: "North Main Street"
-housenumber: 627
-phone: "+1 352-872-5866"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://www.vinegainesville.com/"
+street: North Main Street
+housenumber: "627"
+phone: +1 352-872-5866
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.vinegainesville.com/

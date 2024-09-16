@@ -1,11 +1,11 @@
 id: 466545072
-type: way
+type: node
 latitude: 30.42675
 longitude: -84.28055
 postcode: "32301"
 city: Tallahassee
-street: "South Monroe Street"
-housenumber: 1603
+street: South Monroe Street
+housenumber: "1603"
 phone: ""
 opening_hours: ""
-website: "http://bobs-transmission.com/"
+website: http://bobs-transmission.com/

@@ -1,11 +1,11 @@
 id: 932274736
-type: way
+type: node
 latitude: 28.48168
 longitude: -81.32962
 postcode: "32812"
 city: Orlando
-street: "Hoffner Avenue"
-housenumber: 4501
-phone: "+1 407-850-1018"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/830-conway-crossing"
+street: Hoffner Avenue
+housenumber: "4501"
+phone: +1 407-850-1018
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/830-conway-crossing

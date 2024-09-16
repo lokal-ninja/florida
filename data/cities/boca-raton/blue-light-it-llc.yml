@@ -4,8 +4,8 @@ latitude: 26.3739
 longitude: -80.20448
 postcode: ""
 city: Boca Raton
-street: "State Road 7"
-housenumber: 20283
-phone: "561-282-2225"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.bluelightit.com/"
+street: State Road 7
+housenumber: "20283"
+phone: 561-282-2225
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.bluelightit.com/

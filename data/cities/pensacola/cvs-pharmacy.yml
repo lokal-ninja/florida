@@ -4,8 +4,8 @@ latitude: 30.42124
 longitude: -87.24171
 postcode: "32505"
 city: Pensacola
-street: "West Cervantes Street"
-housenumber: 2100
+street: West Cervantes Street
+housenumber: "2100"
 phone: ""
-opening_hours: "08:00-21:00"
-website: "https://www.cvs.com/store-locator/pensacola-fl-pharmacies/2100-west-cervantes-pensacola-fl-32505/storeid=4177"
+opening_hours: 08:00-21:00
+website: https://www.cvs.com/store-locator/pensacola-fl-pharmacies/2100-west-cervantes-pensacola-fl-32505/storeid=4177

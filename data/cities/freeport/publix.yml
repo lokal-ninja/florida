@@ -1,11 +1,11 @@
 id: 515979790
-type: way
+type: node
 latitude: 30.48794
 longitude: -86.12495
 postcode: "32439"
 city: Freeport
-street: "US Highway 331 South"
-housenumber: 16400
-phone: "+1 850-835-2296"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1351"
+street: US Highway 331 South
+housenumber: "16400"
+phone: +1 850-835-2296
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1351

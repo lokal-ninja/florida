@@ -1,11 +1,11 @@
 id: 435237555
-type: way
+type: node
 latitude: 25.8909
 longitude: -80.16989
 postcode: "33161"
 city: North Miami
-street: "Northeast 123rd Street"
-housenumber: 1401
+street: Northeast 123rd Street
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

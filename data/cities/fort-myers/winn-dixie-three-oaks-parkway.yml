@@ -1,11 +1,11 @@
 id: 491478786
-type: way
+type: node
 latitude: 26.46983
 longitude: -81.79191
 postcode: "33967"
 city: Fort Myers
-street: "Three Oaks Parkway"
-housenumber: 18731
-phone: "+1 239-267-0333"
-opening_hours: "07:00-23:00"
-website: "https://www.winndixie.com/"
+street: Three Oaks Parkway
+housenumber: "18731"
+phone: +1 239-267-0333
+opening_hours: 07:00-23:00
+website: https://www.winndixie.com/

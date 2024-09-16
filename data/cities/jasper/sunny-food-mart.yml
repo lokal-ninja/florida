@@ -1,11 +1,11 @@
 id: 398614199
-type: way
+type: node
 latitude: 30.52377
 longitude: -82.96044
 postcode: "32052"
 city: Jasper
-street: "US 41"
-housenumber: 1606
+street: US 41
+housenumber: "1606"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 295556677
-type: way
+type: node
 latitude: 27.76684
 longitude: -82.66319
 postcode: "33712"
 city: Saint Petersburg
-street: "22nd Street South"
-housenumber: 429
+street: 22nd Street South
+housenumber: "429"
 phone: ""
 opening_hours: ""
 website: ""

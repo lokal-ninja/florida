@@ -4,8 +4,8 @@ latitude: 28.55567
 longitude: -81.76845
 postcode: "34711"
 city: Clermont
-street: "8th Street"
-housenumber: 639
-phone: "321-806-0705"
-opening_hours: "Tu-Th 09:00-18:00, Fr-Sa 09:00-21:00"
-website: "https://www.luluscraftcreation.com/"
+street: 8th Street
+housenumber: "639"
+phone: 321-806-0705
+opening_hours: Tu-Th 09:00-18:00, Fr-Sa 09:00-21:00
+website: https://www.luluscraftcreation.com/

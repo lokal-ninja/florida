@@ -4,8 +4,8 @@ latitude: 30.21644
 longitude: -85.87602
 postcode: "32413"
 city: Panama City Beach
-street: "South Pier Park Drive"
-housenumber: 801
+street: South Pier Park Drive
+housenumber: "801"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.delsol.com/stores/panama-city"
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.delsol.com/stores/panama-city

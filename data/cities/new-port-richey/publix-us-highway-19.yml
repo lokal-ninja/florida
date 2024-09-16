@@ -1,11 +1,11 @@
 id: 833679697
-type: way
+type: node
 latitude: 28.23444
 longitude: -82.73082
-postcode: "34652-3966"
+postcode: 34652-3966
 city: New Port Richey
-street: "US Highway 19"
-housenumber: 5127
-phone: "+1 727-848-6521"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1020"
+street: US Highway 19
+housenumber: "5127"
+phone: +1 727-848-6521
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1020

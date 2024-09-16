@@ -1,11 +1,11 @@
 id: 987109860
-type: way
+type: node
 latitude: 29.22892
 longitude: -81.03187
 postcode: "32117"
 city: Holly Hill
-street: "North Ridgewood Avenue"
-housenumber: 167
-phone: "+1 386 253 7601"
+street: North Ridgewood Avenue
+housenumber: "167"
+phone: +1 386 253 7601
 opening_hours: ""
-website: "https://www.dalewoodwardfuneralhomes.com/"
+website: https://www.dalewoodwardfuneralhomes.com/

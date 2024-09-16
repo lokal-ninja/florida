@@ -1,11 +1,11 @@
 id: 278763611
-type: way
+type: node
 latitude: 25.58783
 longitude: -80.36119
 postcode: "33157"
 city: Cutler Bay
-street: "South Dixie Highway"
-housenumber: 19300
-phone: "+1-786-977-8684"
-opening_hours: "Mo-Fr 09:00-20:30; Sa 09:00-20:3; Su 11:00-20:00"
-website: "https://www.trulieve.com/dispensaries/cutler-bay-fl"
+street: South Dixie Highway
+housenumber: "19300"
+phone: +1-786-977-8684
+opening_hours: Mo-Fr 09:00-20:30; Sa 09:00-20:3; Su 11:00-20:00
+website: https://www.trulieve.com/dispensaries/cutler-bay-fl

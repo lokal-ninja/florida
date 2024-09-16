@@ -1,11 +1,11 @@
 id: 227003436
-type: way
+type: node
 latitude: 27.83771
 longitude: -82.78582
 postcode: "33772"
 city: Seminole
-street: "Seminole Boulevard"
-housenumber: 7263
-phone: "+1 727-655-9055"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/fl/seminole/seminole/"
+street: Seminole Boulevard
+housenumber: "7263"
+phone: +1 727-655-9055
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/fl/seminole/seminole/

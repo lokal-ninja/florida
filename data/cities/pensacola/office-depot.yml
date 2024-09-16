@@ -1,11 +1,11 @@
 id: 355031545
-type: way
+type: node
 latitude: 30.43342
 longitude: -87.2738
 postcode: "32505"
 city: Pensacola
-street: "West Fairfield Drive"
-housenumber: 4337
-phone: "+1 850-455-8770"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/pensacola/office-depot-2706"
+street: West Fairfield Drive
+housenumber: "4337"
+phone: +1 850-455-8770
+opening_hours: Mo-Fr 08:00-19:00; Sa 10:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/pensacola/office-depot-2706

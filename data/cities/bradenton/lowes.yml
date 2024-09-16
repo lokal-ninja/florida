@@ -1,11 +1,11 @@
 id: 307992979
-type: way
+type: node
 latitude: 27.46588
 longitude: -82.57823
 postcode: "34205"
 city: Bradenton
-street: "14th Street West"
-housenumber: 4012
-phone: "+1 941-526-1071"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-bradenton/1843"
+street: 14th Street West
+housenumber: "4012"
+phone: +1 941-526-1071
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-bradenton/1843

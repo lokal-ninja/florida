@@ -1,11 +1,11 @@
 id: 382738258
-type: way
+type: node
 latitude: 28.82744
 longitude: -81.64602
 postcode: "32757"
 city: Mount Dora
-street: "US 441"
-housenumber: 18795
-phone: "+1 352-385-3600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-mt.-dora/2577"
+street: US 441
+housenumber: "18795"
+phone: +1 352-385-3600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-mt.-dora/2577

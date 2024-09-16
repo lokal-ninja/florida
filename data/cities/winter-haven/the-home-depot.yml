@@ -1,11 +1,11 @@
 id: 460055799
-type: way
+type: node
 latitude: 28.04618
 longitude: -81.73357
 postcode: "33881"
 city: Winter Haven
-street: "8th Street Northwest"
-housenumber: 2000
-phone: "+1 863-293-6574"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Winter-Haven/FL/Winter-Haven/33881/6371"
+street: 8th Street Northwest
+housenumber: "2000"
+phone: +1 863-293-6574
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Winter-Haven/FL/Winter-Haven/33881/6371

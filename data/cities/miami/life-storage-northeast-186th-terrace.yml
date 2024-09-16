@@ -1,11 +1,11 @@
 id: 675560855
-type: way
+type: node
 latitude: 25.94858
 longitude: -80.14797
 postcode: "33180"
 city: Miami
-street: "Northeast 186th Terrace"
-housenumber: 2641
+street: Northeast 186th Terrace
+housenumber: "2641"
 phone: ""
 opening_hours: ""
 website: ""

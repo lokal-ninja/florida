@@ -1,11 +1,11 @@
 id: 469577734
-type: way
+type: node
 latitude: 27.77922
 longitude: -80.49581
 postcode: "32958"
 city: Sebastian
-street: "Sebastian Boulevard"
-housenumber: 995
-phone: "+1 772-388-4866"
-opening_hours: "07:00-22:00"
-website: "https://www.winndixie.com/storedetails/sebastian/fl?search=2354"
+street: Sebastian Boulevard
+housenumber: "995"
+phone: +1 772-388-4866
+opening_hours: 07:00-22:00
+website: https://www.winndixie.com/storedetails/sebastian/fl?search=2354

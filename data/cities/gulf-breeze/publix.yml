@@ -4,8 +4,8 @@ latitude: 30.35976
 longitude: -87.16424
 postcode: "32561"
 city: Gulf Breeze
-street: "Gulf Breeze Parkway"
-housenumber: 225
-phone: "+1 850-932-0113"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1189"
+street: Gulf Breeze Parkway
+housenumber: "225"
+phone: +1 850-932-0113
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1189

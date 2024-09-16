@@ -1,11 +1,13 @@
 id: 646448014
-type: way
+type: node
 latitude: 28.55281
 longitude: -81.35134
 postcode: "32803"
 city: Orlando
-street: "East Colonial Drive"
-housenumber: 2420
-phone: "+1-407-894-6781"
-opening_hours: "Mo-Su 07:00-24:00 open Store || Mo-Fr 08:00-13:30, 14:00-22:00 open Pharmacy; Sa 09:00-13:30, 14:00-18:00 open Pharmacy; Su 10:00-13:30, 14:00-18:00 open Pharmacy || Mo-Su 07:00-24:00 open Photo center"
-website: "https://www.walgreens.com/locator/walgreens-2420+e+colonial+dr-orlando-fl-32803/id=3650"
+street: East Colonial Drive
+housenumber: "2420"
+phone: +1-407-894-6781
+opening_hours: Mo-Su 07:00-24:00 open "Store" || Mo-Fr 08:00-13:30, 14:00-22:00 open
+    "Pharmacy"; Sa 09:00-13:30, 14:00-18:00 open "Pharmacy"; Su 10:00-13:30, 14:00-18:00
+    open "Pharmacy" || Mo-Su 07:00-24:00 open "Photo center"
+website: https://www.walgreens.com/locator/walgreens-2420+e+colonial+dr-orlando-fl-32803/id=3650

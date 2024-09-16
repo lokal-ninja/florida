@@ -1,11 +1,11 @@
 id: 379843083
-type: way
+type: node
 latitude: 26.00996
 longitude: -80.24921
 postcode: "33024"
 city: Pembroke Pines
-street: "North University Drive"
-housenumber: 70
+street: North University Drive
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/pembroke-pines-fl-pharmacies/70-n-university-dr-pembroke-pines-fl-33024/storeid=1147"
+website: https://www.cvs.com/store-locator/pembroke-pines-fl-pharmacies/70-n-university-dr-pembroke-pines-fl-33024/storeid=1147

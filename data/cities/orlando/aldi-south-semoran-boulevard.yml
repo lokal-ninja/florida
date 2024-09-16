@@ -1,11 +1,11 @@
 id: 569773224
-type: way
+type: node
 latitude: 28.5198
 longitude: -81.31274
 postcode: "32822"
 city: Orlando
-street: "South Semoran Boulevard"
-housenumber: 1900
-phone: "+1 888-474-7020"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/orlando/1900-s-semoran-blvd"
+street: South Semoran Boulevard
+housenumber: "1900"
+phone: +1 888-474-7020
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/orlando/1900-s-semoran-blvd

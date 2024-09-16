@@ -1,11 +1,11 @@
 id: 295729701
-type: way
+type: node
 latitude: 27.89214
 longitude: -82.78626
 postcode: "33778"
 city: Largo
-street: "Seminole Boulevard"
-housenumber: 10500
+street: Seminole Boulevard
+housenumber: "10500"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/fl/largo/13013-seminole-blvd"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/fl/largo/13013-seminole-blvd

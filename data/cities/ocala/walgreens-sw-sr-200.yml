@@ -1,11 +1,11 @@
 id: 718378958
-type: way
+type: node
 latitude: 29.08594
 longitude: -82.25161
 postcode: "34476"
 city: Ocala
-street: "SW SR 200"
-housenumber: 7921
+street: SW SR 200
+housenumber: "7921"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7921+sw+highway+200-ocala-fl-34476/id=13585"
+website: https://www.walgreens.com/locator/walgreens-7921+sw+highway+200-ocala-fl-34476/id=13585

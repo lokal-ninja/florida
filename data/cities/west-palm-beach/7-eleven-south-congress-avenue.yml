@@ -1,11 +1,11 @@
 id: 434009601
-type: way
+type: node
 latitude: 26.66606
 longitude: -80.08738
 postcode: "33406"
 city: West Palm Beach
-street: "South Congress Avenue"
-housenumber: 720
+street: South Congress Avenue
+housenumber: "720"
 phone: ""
 opening_hours: ""
 website: ""

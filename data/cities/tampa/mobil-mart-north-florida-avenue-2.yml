@@ -1,11 +1,11 @@
 id: 1155350187
-type: way
+type: node
 latitude: 28.06905
 longitude: -82.45995
 postcode: "33612"
 city: Tampa
-street: "North Florida Avenue"
-housenumber: 13164
+street: North Florida Avenue
+housenumber: "13164"
 phone: ""
-opening_hours: "05:00-23:00"
-website: "https://www.exxon.com/en/find-station/mobil-tampa-fl-fletchermobil-200312072"
+opening_hours: 05:00-23:00
+website: https://www.exxon.com/en/find-station/mobil-tampa-fl-fletchermobil-200312072

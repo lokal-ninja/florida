@@ -4,8 +4,8 @@ latitude: 26.54395
 longitude: -81.84178
 postcode: "33913"
 city: Fort Myers
-street: "Daniels Parkway"
-housenumber: 6900 #28
+street: Daniels Parkway
+housenumber: '6900 #28'
 phone: ""
 opening_hours: ""
-website: "https://therunshoppe.com/"
+website: https://therunshoppe.com/

@@ -1,11 +1,11 @@
 id: 130126775
-type: way
+type: node
 latitude: 30.4602
 longitude: -84.21421
 postcode: "32317"
 city: Tallahassee
-street: "Lagniappe Way"
-housenumber: 4059
+street: Lagniappe Way
+housenumber: "4059"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.basspro.com/us/fl/tallahassee/4059-lagniappe-way.html"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.basspro.com/us/fl/tallahassee/4059-lagniappe-way.html

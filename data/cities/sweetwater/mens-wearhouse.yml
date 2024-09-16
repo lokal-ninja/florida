@@ -1,11 +1,11 @@
 id: 255489367
-type: way
+type: node
 latitude: 25.78921
 longitude: -80.36935
 postcode: "33172"
 city: Sweetwater
-street: "Northwest 107th Avenue"
-housenumber: 1650
+street: Northwest 107th Avenue
+housenumber: "1650"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 930468203
-type: way
+type: node
 latitude: 30.38386
 longitude: -86.3598
 postcode: "32550"
 city: Miramar Beach
-street: "US Highway 98 West"
-housenumber: 11176
-phone: "+1 850-654-8848"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-17:00"
+street: US Highway 98 West
+housenumber: "11176"
+phone: +1 850-654-8848
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-17:00
 website: ""

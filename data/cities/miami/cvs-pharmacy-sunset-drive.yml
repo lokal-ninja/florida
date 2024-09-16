@@ -1,11 +1,11 @@
 id: 294606123
-type: way
+type: node
 latitude: 25.70223
 longitude: -80.35053
 postcode: "33173"
 city: Miami
-street: "Sunset Drive"
-housenumber: 9701
+street: Sunset Drive
+housenumber: "9701"
 phone: ""
-opening_hours: "07:00-24:00"
-website: "https://www.cvs.com/store-locator/miami-fl-pharmacies/9701-sw-72nd-st-miami-fl-33173/storeid=10644"
+opening_hours: 07:00-24:00
+website: https://www.cvs.com/store-locator/miami-fl-pharmacies/9701-sw-72nd-st-miami-fl-33173/storeid=10644

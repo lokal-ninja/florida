@@ -1,11 +1,11 @@
 id: 549918252
-type: way
+type: node
 latitude: 29.16748
 longitude: -82.17158
 postcode: "34474"
 city: Ocala
-street: "Southwest College Road"
-housenumber: 2701
-phone: "+1 352-291-5200"
-opening_hours: "08:00-00:00"
-website: "https://www.rossstores.com/"
+street: Southwest College Road
+housenumber: "2701"
+phone: +1 352-291-5200
+opening_hours: 08:00-00:00
+website: https://www.rossstores.com/

@@ -1,11 +1,11 @@
 id: 635356922
-type: way
+type: node
 latitude: 25.90401
 longitude: -80.12471
 postcode: "33154"
 city: Miami Beach
-street: "Collins Avenue"
-housenumber: 10800
+street: Collins Avenue
+housenumber: "10800"
 phone: ""
 opening_hours: ""
 website: ""

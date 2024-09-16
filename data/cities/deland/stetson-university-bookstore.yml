@@ -4,8 +4,8 @@ latitude: 29.03704
 longitude: -81.302
 postcode: "32720"
 city: DeLand
-street: "East Michigan Avenue"
-housenumber: 131
+street: East Michigan Avenue
+housenumber: "131"
 phone: ""
 opening_hours: ""
-website: "https://www.bkstr.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?catalogId=10001&langId=-1&demoKey=d&storeId=180905"
+website: https://www.bkstr.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?catalogId=10001&langId=-1&demoKey=d&storeId=180905

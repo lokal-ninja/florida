@@ -1,11 +1,11 @@
 id: 939331296
-type: way
+type: node
 latitude: 30.37237
 longitude: -86.22974
 postcode: "32459"
 city: Santa Rosa Beach
-street: "Shannon Lane"
-housenumber: 46
+street: Shannon Lane
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

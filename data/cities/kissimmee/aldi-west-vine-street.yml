@@ -1,11 +1,11 @@
 id: 309356627
-type: way
+type: node
 latitude: 28.305
 longitude: -81.45898
 postcode: "34746"
 city: Kissimmee
-street: "West Vine Street"
-housenumber: 4425
-phone: "+1 844-474-7028"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/kissimmee/4425-w-vine-st"
+street: West Vine Street
+housenumber: "4425"
+phone: +1 844-474-7028
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/kissimmee/4425-w-vine-st

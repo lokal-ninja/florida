@@ -1,11 +1,11 @@
 id: 1041232534
-type: way
+type: node
 latitude: 28.08517
 longitude: -82.5174
 postcode: "33624"
 city: Ehrlich Road
-street: "Ehrlich Road"
-housenumber: 4301
-phone: "+1-813-963-5728"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/fl/tampa/4301-ehrlich-rd-24059"
+street: Ehrlich Road
+housenumber: "4301"
+phone: +1-813-963-5728
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/fl/tampa/4301-ehrlich-rd-24059

@@ -1,11 +1,11 @@
 id: 572845558
-type: way
+type: node
 latitude: 27.31844
 longitude: -80.38892
 postcode: "34986"
 city: Port Saint Lucie
-street: "Northwest Saint Lucie West Boulevard"
-housenumber: 1537
-phone: "+1 772-878-7393"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1737"
+street: Northwest Saint Lucie West Boulevard
+housenumber: "1537"
+phone: +1 772-878-7393
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1737

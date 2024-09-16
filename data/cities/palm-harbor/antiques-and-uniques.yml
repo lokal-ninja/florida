@@ -1,11 +1,11 @@
 id: 523147911
-type: way
+type: node
 latitude: 28.07299
 longitude: -82.76686
 postcode: "34683"
 city: Palm Harbor
-street: "US-19 ALT"
-housenumber: 530
-phone: "+1-727-216-6216"
-opening_hours: "Mo-Su 10:00-18:00"
+street: US-19 ALT
+housenumber: "530"
+phone: +1-727-216-6216
+opening_hours: Mo-Su 10:00-18:00
 website: ""

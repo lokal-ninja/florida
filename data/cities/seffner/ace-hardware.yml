@@ -1,11 +1,11 @@
 id: 772515971
-type: way
+type: node
 latitude: 27.98275
 longitude: -82.28746
-postcode: "33584-4533"
+postcode: 33584-4533
 city: Seffner
-street: "West Martin Luther King Boulevard"
-housenumber: 747
-phone: "+1 813-571-1700"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-17:00"
+street: West Martin Luther King Boulevard
+housenumber: "747"
+phone: +1 813-571-1700
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-17:00
 website: ""

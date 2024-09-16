@@ -1,11 +1,11 @@
 id: 523493394
-type: way
+type: node
 latitude: 27.99029
 longitude: -82.78761
 postcode: ""
 city: Clearwater
-street: "Douglas Avenue"
-housenumber: 1903
+street: Douglas Avenue
+housenumber: "1903"
 phone: ""
 opening_hours: ""
 website: ""

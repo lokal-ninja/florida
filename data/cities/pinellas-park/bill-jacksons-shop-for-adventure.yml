@@ -1,11 +1,11 @@
 id: 162117844
-type: way
+type: node
 latitude: 27.85908
 longitude: -82.6962
 postcode: "33782"
 city: Pinellas Park
-street: "US Highway 19 N"
-housenumber: 9501
+street: US Highway 19 N
+housenumber: "9501"
 phone: ""
 opening_hours: ""
-website: "https://www.billjacksons.com/"
+website: https://www.billjacksons.com/

@@ -1,11 +1,11 @@
 id: 175721666
-type: way
+type: node
 latitude: 26.40462
 longitude: -81.80805
 postcode: "33928"
 city: Estero
-street: "Mediterranean Drive"
-housenumber: 8070
-phone: "+1 239-676-3001"
+street: Mediterranean Drive
+housenumber: "8070"
+phone: +1 239-676-3001
 opening_hours: ""
-website: "https://stores.partycity.com/us/fl/estero/party-store-pc348.html"
+website: https://stores.partycity.com/us/fl/estero/party-store-pc348.html

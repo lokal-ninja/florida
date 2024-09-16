@@ -1,11 +1,11 @@
 id: 796343633
-type: way
+type: node
 latitude: 28.0545
 longitude: -81.77662
 postcode: "33823"
 city: Auburndale
-street: "Havendale Boulevard"
-housenumber: 499
+street: Havendale Boulevard
+housenumber: "499"
 phone: ""
 opening_hours: ""
 website: ""

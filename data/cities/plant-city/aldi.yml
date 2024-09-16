@@ -1,11 +1,11 @@
 id: 772602826
-type: way
+type: node
 latitude: 27.97916
 longitude: -82.12345
-postcode: "33566-9466"
+postcode: 33566-9466
 city: Plant City
-street: "James L Redman Parkway"
-housenumber: 3021
-phone: "+1 888-474-7041"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/plant-city/3021-james-l-redman-pkwy"
+street: James L Redman Parkway
+housenumber: "3021"
+phone: +1 888-474-7041
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/plant-city/3021-james-l-redman-pkwy

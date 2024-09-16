@@ -1,11 +1,11 @@
 id: 622163262
-type: way
+type: node
 latitude: 28.9097
 longitude: -81.26673
 postcode: "32725"
 city: Deltona
-street: "Saxon Boulevard"
-housenumber: 2100
-phone: "+1 386-532-8584"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1330-publix-at-saxon-crossings"
+street: Saxon Boulevard
+housenumber: "2100"
+phone: +1 386-532-8584
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1330-publix-at-saxon-crossings

@@ -1,11 +1,11 @@
 id: 212101786
-type: way
+type: node
 latitude: 27.89337
 longitude: -82.50364
 postcode: ""
 city: Tampa
-street: "Gandy Boulevard"
-housenumber: 3630
+street: Gandy Boulevard
+housenumber: "3630"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:30;Su 10:00-19:00"
+opening_hours: Mo-Sa 09:00-20:30;Su 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 376245531
-type: way
+type: node
 latitude: 30.42715
 longitude: -84.23345
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 2880
+street: Apalachee Parkway
+housenumber: "2880"
 phone: ""
 opening_hours: ""
-website: "https://talcam.com/"
+website: https://talcam.com/

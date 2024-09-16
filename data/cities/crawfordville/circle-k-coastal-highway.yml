@@ -1,11 +1,11 @@
 id: 125883961
-type: way
+type: node
 latitude: 30.10609
 longitude: -84.38026
 postcode: "32327"
 city: Crawfordville
-street: "Coastal Highway"
-housenumber: 3180
+street: Coastal Highway
+housenumber: "3180"
 phone: ""
 opening_hours: ""
 website: ""

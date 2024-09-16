@@ -1,11 +1,11 @@
 id: 554327663
-type: way
+type: node
 latitude: 29.02849
 longitude: -80.89889
 postcode: ""
 city: New Smyrna Beach
-street: "3rd Avenue"
-housenumber: 557
+street: 3rd Avenue
+housenumber: "557"
 phone: ""
 opening_hours: ""
 website: ""

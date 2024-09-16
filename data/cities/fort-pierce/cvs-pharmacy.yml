@@ -1,11 +1,11 @@
 id: 211224955
-type: way
+type: node
 latitude: 27.42549
 longitude: -80.3254
 postcode: "34950"
 city: Fort Pierce
-street: "US 1"
-housenumber: 2220
+street: US 1
+housenumber: "2220"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/fort-pierce-fl-pharmacies/2220-s-us-hwy-1-fort-pierce-fl-34950/storeid=3487"
+website: https://www.cvs.com/store-locator/fort-pierce-fl-pharmacies/2220-s-us-hwy-1-fort-pierce-fl-34950/storeid=3487

@@ -1,11 +1,11 @@
 id: 354964218
-type: way
+type: node
 latitude: 30.46565
 longitude: -87.24333
 postcode: "32505"
 city: Pensacola
-street: "Beverly Parkway"
-housenumber: 85
+street: Beverly Parkway
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-85+beverly+pkwy-pensacola-fl-32505/id=10312"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.walgreens.com/locator/walgreens-85+beverly+pkwy-pensacola-fl-32505/id=10312

@@ -1,11 +1,11 @@
 id: 512933057
-type: way
+type: node
 latitude: 30.43095
 longitude: -84.24811
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 1881
+street: Apalachee Parkway
+housenumber: "1881"
 phone: ""
 opening_hours: ""
-website: "http://universitycollisioncenter.net"
+website: http://universitycollisioncenter.net

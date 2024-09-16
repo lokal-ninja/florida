@@ -1,11 +1,11 @@
 id: 396475617
-type: way
+type: node
 latitude: 25.79464
 longitude: -80.14177
 postcode: "33139"
 city: Miami Beach
-street: "Alton Road"
-housenumber: 1850
+street: Alton Road
+housenumber: "1850"
 phone: ""
 opening_hours: ""
 website: ""

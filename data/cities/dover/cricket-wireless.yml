@@ -1,11 +1,11 @@
 id: 1308020622
-type: way
+type: node
 latitude: 27.9985
 longitude: -82.20552
 postcode: "33527"
 city: Dover
-street: "East Martin Luther King Jr Boulevard"
-housenumber: 14760
+street: East Martin Luther King Jr Boulevard
+housenumber: "14760"
 phone: ""
 opening_hours: ""
 website: ""

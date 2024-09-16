@@ -1,11 +1,11 @@
 id: 348930473
-type: way
+type: node
 latitude: 26.7061
 longitude: -80.15072
 postcode: "33411"
 city: West Palm Beach
-street: "Okeechobee Boulevard"
-housenumber: 6820
-phone: "+1 561-684-3015"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/894"
+street: Okeechobee Boulevard
+housenumber: "6820"
+phone: +1 561-684-3015
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/894

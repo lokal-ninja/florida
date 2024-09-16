@@ -1,11 +1,11 @@
 id: 664317426
-type: way
+type: node
 latitude: 30.14095
 longitude: -81.55059
 postcode: ""
 city: Jacksonville
-street: "Old Saint Augustine Road"
-housenumber: 13820
-phone: "+1-904-454-8010"
+street: Old Saint Augustine Road
+housenumber: "13820"
+phone: +1-904-454-8010
 opening_hours: ""
-website: "https://www.viomedspa.com/"
+website: https://www.viomedspa.com/

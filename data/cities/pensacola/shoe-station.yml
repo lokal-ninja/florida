@@ -1,11 +1,11 @@
 id: 354655708
-type: way
+type: node
 latitude: 30.49235
 longitude: -87.22588
 postcode: "32504"
 city: Pensacola
-street: "North Davis Highway"
-housenumber: 6601
-phone: "+1 850-474-9311"
+street: North Davis Highway
+housenumber: "6601"
+phone: +1 850-474-9311
 opening_hours: ""
-website: "https://www.shoestation.com/"
+website: https://www.shoestation.com/

@@ -1,11 +1,11 @@
 id: 1254206347
-type: way
+type: node
 latitude: 27.39052
 longitude: -82.4602
 postcode: "34201"
 city: Bradenton
-street: "University Parkway"
-housenumber: 5475
-phone: "+1 941-358-3360"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/E-Bradenton/FL/Bradenton/34201/6319"
+street: University Parkway
+housenumber: "5475"
+phone: +1 941-358-3360
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/E-Bradenton/FL/Bradenton/34201/6319

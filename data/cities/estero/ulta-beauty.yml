@@ -1,11 +1,11 @@
 id: 175721667
-type: way
+type: node
 latitude: 26.4054
 longitude: -81.80693
 postcode: "33928"
 city: Estero
-street: "Mediterranean Drive"
-housenumber: 8054
-phone: "+1 239-992-0361"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/estero-fl-200"
+street: Mediterranean Drive
+housenumber: "8054"
+phone: +1 239-992-0361
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/estero-fl-200

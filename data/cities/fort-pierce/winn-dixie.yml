@@ -1,11 +1,11 @@
 id: 289450583
-type: way
+type: node
 latitude: 27.52276
 longitude: -80.39642
 postcode: "34951"
 city: Fort Pierce
-street: "North Kings Highway"
-housenumber: 4870
-phone: "+1 772-464-9341"
+street: North Kings Highway
+housenumber: "4870"
+phone: +1 772-464-9341
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/fort%20pierce/fl?search=2349"
+website: https://www.winndixie.com/storedetails/fort%20pierce/fl?search=2349

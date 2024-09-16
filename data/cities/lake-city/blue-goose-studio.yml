@@ -1,11 +1,11 @@
 id: 574523629
-type: way
+type: node
 latitude: 30.19049
 longitude: -82.63751
 postcode: "32055"
 city: Lake City
-street: "North Marion Avenue"
-housenumber: 174
+street: North Marion Avenue
+housenumber: "174"
 phone: ""
 opening_hours: ""
 website: ""

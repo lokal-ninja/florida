@@ -1,11 +1,11 @@
 id: 697610654
-type: way
+type: node
 latitude: 27.61426
 longitude: -80.38571
 postcode: "32962"
 city: Vero Beach
-street: "US 1"
-housenumber: 700
-phone: "+1-772-217-2400"
+street: US 1
+housenumber: "700"
+phone: +1-772-217-2400
 opening_hours: ""
-website: "https://www.vatlandhonda.com/"
+website: https://www.vatlandhonda.com/

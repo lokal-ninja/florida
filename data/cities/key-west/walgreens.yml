@@ -1,11 +1,11 @@
 id: 457771632
-type: way
+type: node
 latitude: 24.55517
 longitude: -81.80225
 postcode: "33040"
 city: Key West
-street: "Duval Street"
-housenumber: 527
+street: Duval Street
+housenumber: "527"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-527+duval+st-key+west-fl-33040/id=7089"
+website: https://www.walgreens.com/locator/walgreens-527+duval+st-key+west-fl-33040/id=7089

@@ -1,11 +1,11 @@
 id: 546924450
-type: way
+type: node
 latitude: 28.8002
 longitude: -81.63712
 postcode: "32757"
 city: Mount Dora
-street: "North Highland Street"
-housenumber: 405
+street: North Highland Street
+housenumber: "405"
 phone: ""
-opening_hours: "Mo-We 11:00-17:00; Th-Su 10:00-18:00"
+opening_hours: Mo-We 11:00-17:00; Th-Su 10:00-18:00
 website: ""

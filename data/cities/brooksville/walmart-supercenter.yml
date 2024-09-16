@@ -1,11 +1,11 @@
 id: 261137632
-type: way
+type: node
 latitude: 28.53771
 longitude: -82.40813
 postcode: "34601"
 city: Brooksville
-street: "Broad Street"
-housenumber: 7305
-phone: "+1 352-796-5996"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3526/brooksville-fl/whats-new"
+street: Broad Street
+housenumber: "7305"
+phone: +1 352-796-5996
+opening_hours: 24/7
+website: https://www.walmart.com/store/3526/brooksville-fl/whats-new

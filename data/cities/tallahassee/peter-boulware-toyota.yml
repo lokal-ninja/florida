@@ -1,11 +1,11 @@
 id: 427834150
-type: way
+type: node
 latitude: 30.4596
 longitude: -84.35623
 postcode: "32304"
 city: Tallahassee
-street: "West Tennessee Street"
-housenumber: 3800
-phone: "+1 850 688 9264"
+street: West Tennessee Street
+housenumber: "3800"
+phone: +1 850 688 9264
 opening_hours: ""
-website: "https://www.peterboulwaretoyota.com"
+website: https://www.peterboulwaretoyota.com

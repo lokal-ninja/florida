@@ -1,11 +1,11 @@
 id: 449455064
-type: way
+type: node
 latitude: 27.63853
 longitude: -80.40355
 postcode: "32960"
 city: Vero Beach
-street: "20th Street"
-housenumber: 1755
-phone: "+1-772-562-6576"
-opening_hours: "Mo-Fr 9:00-17:00; Sa 9:00-15:00; PH off"
-website: "https://www.theflowerboxfl.com/"
+street: 20th Street
+housenumber: "1755"
+phone: +1-772-562-6576
+opening_hours: Mo-Fr 9:00-17:00; Sa 9:00-15:00; PH off
+website: https://www.theflowerboxfl.com/

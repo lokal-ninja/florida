@@ -1,11 +1,11 @@
 id: 686722651
-type: way
+type: node
 latitude: 25.91361
 longitude: -80.15518
 postcode: "33181"
 city: North Miami
-street: "Sole Mia Way"
-housenumber: 14800
-phone: "+1 305-944-8711"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/n-miami-north-miami-fl-1332.html"
+street: Sole Mia Way
+housenumber: "14800"
+phone: +1 305-944-8711
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/n-miami-north-miami-fl-1332.html

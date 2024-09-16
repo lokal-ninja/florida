@@ -4,8 +4,8 @@ latitude: 28.55287
 longitude: -81.32435
 postcode: "32803"
 city: Orlando
-street: "East Colonial Drive"
-housenumber: 5032
-phone: "+1 321 299-9903"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://www.cyclegear.com/"
+street: East Colonial Drive
+housenumber: "5032"
+phone: +1 321 299-9903
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
+website: https://www.cyclegear.com/

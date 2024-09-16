@@ -1,11 +1,11 @@
 id: 886336175
-type: way
+type: node
 latitude: 27.67544
 longitude: -80.41029
 postcode: "32967"
 city: Vero Beach
-street: "45th Street"
-housenumber: 2416
+street: 45th Street
+housenumber: "2416"
 phone: ""
 opening_hours: ""
 website: ""

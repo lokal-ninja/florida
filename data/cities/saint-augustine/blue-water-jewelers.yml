@@ -1,11 +1,11 @@
 id: 335581740
-type: way
+type: node
 latitude: 29.89072
 longitude: -81.29475
 postcode: "32084"
 city: Saint Augustine
-street: "Anastasia Boulevard"
-housenumber: 500
+street: Anastasia Boulevard
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "https://www.bluewater-jewelers.com/"
+website: https://www.bluewater-jewelers.com/

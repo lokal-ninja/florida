@@ -1,11 +1,11 @@
 id: 993175574
-type: way
+type: node
 latitude: 26.36213
 longitude: -80.06964
 postcode: "33432"
 city: Boca Raton
-street: "North Ocean Boulevard"
-housenumber: 1400
+street: North Ocean Boulevard
+housenumber: "1400"
 phone: "+15613937974"
 opening_hours: ""
-website: "https://www.myboca.us/746/Red-Reef-Park"
+website: https://www.myboca.us/746/Red-Reef-Park

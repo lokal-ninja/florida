@@ -1,11 +1,11 @@
 id: 1281273339
-type: way
+type: node
 latitude: 27.48694
 longitude: -82.45498
 postcode: "34212"
 city: Bradenton
-street: "State Road 64 East"
-housenumber: 8347
-phone: "+1-941-289-0516"
+street: State Road 64 East
+housenumber: "8347"
+phone: +1-941-289-0516
 opening_hours: ""
-website: "https://www.mavis.com/locations/bradenton-fl-64-fl/"
+website: https://www.mavis.com/locations/bradenton-fl-64-fl/

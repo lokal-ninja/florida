@@ -1,11 +1,11 @@
 id: 361220037
-type: way
+type: node
 latitude: 29.21182
 longitude: -81.02079
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 140
-phone: "+1 386 252 3615"
-opening_hours: "Mo-Fr 09:00-17:30, Sa 09:00-12:00"
-website: "https://zahnsflowers.com/"
+street: International Speedway Boulevard
+housenumber: "140"
+phone: +1 386 252 3615
+opening_hours: Mo-Fr 09:00-17:30, Sa 09:00-12:00
+website: https://zahnsflowers.com/

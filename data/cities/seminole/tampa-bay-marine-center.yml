@@ -1,11 +1,11 @@
 id: 280618826
-type: way
+type: node
 latitude: 27.84958
 longitude: -82.7877
 postcode: "33772"
 city: Seminole
-street: "Seminole Boulevard"
-housenumber: 8478
+street: Seminole Boulevard
+housenumber: "8478"
 phone: ""
 opening_hours: ""
-website: "www.TBmarinecenter.com"
+website: www.TBmarinecenter.com

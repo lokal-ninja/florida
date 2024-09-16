@@ -1,11 +1,11 @@
 id: 506757727
-type: way
+type: node
 latitude: 28.33201
 longitude: -82.69363
 postcode: "34667"
 city: Hudson
-street: "SR 52"
-housenumber: 7329
-phone: "727-819-9510"
+street: SR 52
+housenumber: "7329"
+phone: 727-819-9510
 opening_hours: ""
 website: ""

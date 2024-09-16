@@ -1,11 +1,11 @@
 id: 419701380
-type: way
+type: node
 latitude: 30.43361
 longitude: -84.25693
 postcode: "32301"
 city: Tallahassee
-street: "East Lafayette Street"
-housenumber: 1433
+street: East Lafayette Street
+housenumber: "1433"
 phone: ""
 opening_hours: ""
-website: "http://www.thehourglasses.com/"
+website: http://www.thehourglasses.com/

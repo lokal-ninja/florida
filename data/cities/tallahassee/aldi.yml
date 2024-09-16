@@ -1,11 +1,11 @@
 id: 219612513
-type: way
+type: node
 latitude: 30.44186
 longitude: -84.318
 postcode: "32304"
 city: Tallahassee
-street: "West Pensacola Street"
-housenumber: 2020
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/tallahassee/2020-west-pensacola-street"
+street: West Pensacola Street
+housenumber: "2020"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/tallahassee/2020-west-pensacola-street

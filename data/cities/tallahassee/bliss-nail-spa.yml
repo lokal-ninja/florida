@@ -1,11 +1,11 @@
 id: 637549427
-type: way
+type: node
 latitude: 30.46264
 longitude: -84.22854
 postcode: ""
 city: Tallahassee
-street: "Capital Circle Northeast"
-housenumber: 1624
+street: Capital Circle Northeast
+housenumber: "1624"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 09:30-19:00; Su 11:00-17:00
 website: ""

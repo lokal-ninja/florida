@@ -1,11 +1,11 @@
 id: 295545861
-type: way
+type: node
 latitude: 27.92109
 longitude: -82.32107
 postcode: "33511"
 city: Brandon
-street: "Causeway Boulevard"
-housenumber: 11375
-phone: "+1 813-684-3008"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-brandon/0573"
+street: Causeway Boulevard
+housenumber: "11375"
+phone: +1 813-684-3008
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-brandon/0573

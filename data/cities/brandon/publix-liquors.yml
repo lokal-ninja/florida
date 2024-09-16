@@ -1,11 +1,11 @@
 id: 1009742165
-type: way
+type: node
 latitude: 27.89126
 longitude: -82.27056
 postcode: "33511"
 city: Brandon
-street: "East Bloomingdale Avenue"
-housenumber: 947
+street: East Bloomingdale Avenue
+housenumber: "947"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 25.7742
 longitude: -80.13574
 postcode: "33139"
 city: Miami Beach
-street: "5th Street"
-housenumber: 746
-phone: "+1-305-674-0150"
+street: 5th Street
+housenumber: "746"
+phone: +1-305-674-0150
 opening_hours: ""
 website: ""

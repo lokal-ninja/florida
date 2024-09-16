@@ -1,11 +1,11 @@
 id: 1009551093
-type: way
+type: node
 latitude: 28.01745
 longitude: -82.61434
 postcode: "33635"
 city: Tampa
-street: "West Hillsborough Avenue"
-housenumber: 11665
-phone: "+1 813-891-6371"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/fl/tampa-store1741.html"
+street: West Hillsborough Avenue
+housenumber: "11665"
+phone: +1 813-891-6371
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/fl/tampa-store1741.html

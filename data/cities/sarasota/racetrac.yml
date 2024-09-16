@@ -1,11 +1,11 @@
 id: 578705337
-type: way
+type: node
 latitude: 27.29978
 longitude: -82.43981
 postcode: "34240"
 city: Sarasota
-street: "Bee Ridge Road"
-housenumber: 6601
+street: Bee Ridge Road
+housenumber: "6601"
 phone: ""
 opening_hours: ""
 website: ""

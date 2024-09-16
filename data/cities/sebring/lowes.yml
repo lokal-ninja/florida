@@ -1,11 +1,11 @@
 id: 553708478
-type: way
+type: node
 latitude: 27.50218
 longitude: -81.48901
 postcode: "33870"
 city: Sebring
-street: "US 27 North"
-housenumber: 2050
-phone: "+1 863-451-4000"
-opening_hours: "Mo-Sa 06:00-21:00"
-website: "https://www.lowes.com/store/fl-sebring/2224"
+street: US 27 North
+housenumber: "2050"
+phone: +1 863-451-4000
+opening_hours: Mo-Sa 06:00-21:00
+website: https://www.lowes.com/store/fl-sebring/2224

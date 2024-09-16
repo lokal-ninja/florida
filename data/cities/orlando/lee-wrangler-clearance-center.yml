@@ -1,11 +1,11 @@
 id: 141017002
-type: way
+type: node
 latitude: 28.46795
 longitude: -81.45387
 postcode: "32819"
 city: Orlando
-street: "International Drive"
-housenumber: 5253
-phone: "+1 407 226 0300"
-opening_hours: "Mo-Th 11:00-20:00, Fr-Sa 10:00-21:00, Su 11:00-19:00"
+street: International Drive
+housenumber: "5253"
+phone: +1 407 226 0300
+opening_hours: Mo-Th 11:00-20:00, Fr-Sa 10:00-21:00, Su 11:00-19:00
 website: ""

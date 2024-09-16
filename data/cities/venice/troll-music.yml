@@ -1,11 +1,11 @@
 id: 955812326
-type: way
+type: node
 latitude: 27.09964
 longitude: -82.43473
 postcode: "34285"
 city: Venice
-street: "East Venice Avenue"
-housenumber: 628
+street: East Venice Avenue
+housenumber: "628"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1218434733
-type: way
+type: node
 latitude: 30.73123
 longitude: -86.56805
 postcode: "32536"
 city: Crestview
-street: "South Ferdon Boulevard"
-housenumber: 2680
-phone: "+1 833-482-4060"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/crestview/2680-s-ferdon-blvd"
+street: South Ferdon Boulevard
+housenumber: "2680"
+phone: +1 833-482-4060
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/crestview/2680-s-ferdon-blvd

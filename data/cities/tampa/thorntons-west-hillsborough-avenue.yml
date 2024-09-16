@@ -1,11 +1,11 @@
 id: 1009662088
-type: way
+type: node
 latitude: 27.99559
 longitude: -82.48389
 postcode: "33614"
 city: Tampa
-street: "West Hillsborough Avenue"
-housenumber: 2356
-phone: "+1-813-871-5940"
-opening_hours: "24/7"
-website: "https://www.mythorntons.com/"
+street: West Hillsborough Avenue
+housenumber: "2356"
+phone: +1-813-871-5940
+opening_hours: 24/7
+website: https://www.mythorntons.com/

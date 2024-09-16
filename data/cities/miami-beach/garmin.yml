@@ -4,8 +4,8 @@ latitude: 25.79078
 longitude: -80.13342
 postcode: "33139"
 city: Miami Beach
-street: "Lincoln Road"
-housenumber: 511
+street: Lincoln Road
+housenumber: "511"
 phone: ""
 opening_hours: ""
-website: "https://www.garmin.com/us/dealerlocator"
+website: https://www.garmin.com/us/dealerlocator

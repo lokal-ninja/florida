@@ -1,11 +1,11 @@
 id: 665135658
-type: way
+type: node
 latitude: 30.62528
 longitude: -84.41574
 postcode: "32333"
 city: Havana
-street: "North Main Street"
-housenumber: 215
+street: North Main Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

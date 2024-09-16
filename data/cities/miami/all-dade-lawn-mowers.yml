@@ -1,11 +1,11 @@
 id: 436124329
-type: way
+type: node
 latitude: 25.78838
 longitude: -80.37539
 postcode: "33172"
 city: Miami
-street: "Northwest 111th Avenue"
-housenumber: 1495
+street: Northwest 111th Avenue
+housenumber: "1495"
 phone: ""
 opening_hours: ""
 website: ""

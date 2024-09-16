@@ -1,11 +1,11 @@
 id: 983230679
-type: way
+type: node
 latitude: 27.98294
 longitude: -82.29923
-postcode: "33584-4923"
+postcode: 33584-4923
 city: Seffner
-street: "East Drive Martin Luther King Jr Boulevard"
-housenumber: 11782
-phone: "+1 813-684-6029"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/103"
+street: East Drive Martin Luther King Jr Boulevard
+housenumber: "11782"
+phone: +1 813-684-6029
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/103

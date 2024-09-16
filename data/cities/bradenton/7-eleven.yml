@@ -1,11 +1,11 @@
 id: 307882094
-type: way
+type: node
 latitude: 27.49644
 longitude: -82.62081
 postcode: "34209"
 city: Bradenton
-street: "59th Street West"
-housenumber: 5900
+street: 59th Street West
+housenumber: "5900"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 25.57263
 longitude: -80.37377
 postcode: "33189"
 city: Miami
-street: "Dixie Highway"
-housenumber: 20831
-phone: "+1 786-604-0739"
-opening_hours: "Mo-Th 10:00-20:00; Fr 09:00-21:00; Sa 08:00-20:00; Su 10:00-18:00"
-website: "https://stores.partycity.com/us/fl/miami/party-store-pc238.html"
+street: Dixie Highway
+housenumber: "20831"
+phone: +1 786-604-0739
+opening_hours: Mo-Th 10:00-20:00; Fr 09:00-21:00; Sa 08:00-20:00; Su 10:00-18:00
+website: https://stores.partycity.com/us/fl/miami/party-store-pc238.html

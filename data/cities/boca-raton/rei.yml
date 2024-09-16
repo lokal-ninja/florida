@@ -4,8 +4,8 @@ latitude: 26.3664
 longitude: -80.19654
 postcode: "33434"
 city: Boca Raton
-street: "Glades Road"
-housenumber: 9560
-phone: "+1 561 208-3705"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.rei.com/stores/boca-raton"
+street: Glades Road
+housenumber: "9560"
+phone: +1 561 208-3705
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://www.rei.com/stores/boca-raton

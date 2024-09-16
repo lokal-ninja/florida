@@ -1,11 +1,11 @@
 id: 524346454
-type: way
+type: node
 latitude: 27.95678
 longitude: -82.48241
 postcode: "33607"
 city: Tampa
-street: "West Green Street"
-housenumber: 2135
+street: West Green Street
+housenumber: "2135"
 phone: ""
 opening_hours: ""
 website: ""

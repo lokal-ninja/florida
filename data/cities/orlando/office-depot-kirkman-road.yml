@@ -1,11 +1,11 @@
 id: 141005325
-type: way
+type: node
 latitude: 28.46341
 longitude: -81.45708
 postcode: ""
 city: Orlando
-street: "Kirkman Road"
-housenumber: 6855
+street: Kirkman Road
+housenumber: "6855"
 phone: ""
 opening_hours: ""
 website: ""

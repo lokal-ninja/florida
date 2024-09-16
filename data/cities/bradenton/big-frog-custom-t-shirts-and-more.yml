@@ -4,8 +4,8 @@ latitude: 27.44133
 longitude: -82.46538
 postcode: "34203"
 city: Bradenton
-street: "55th Avenue East"
-housenumber: 7266
-phone: "+1-941-251-1200"
+street: 55th Avenue East
+housenumber: "7266"
+phone: +1-941-251-1200
 opening_hours: ""
-website: "https://www.bigfrog.com/bradenton/"
+website: https://www.bigfrog.com/bradenton/

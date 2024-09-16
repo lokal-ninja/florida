@@ -1,11 +1,11 @@
 id: 887595119
-type: way
+type: node
 latitude: 27.585
 longitude: -80.37628
 postcode: "32962"
 city: Vero Beach
-street: "South US 1"
-housenumber: 946
-phone: "+1-772-778-3600"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-20:00; Su 11:30-19:00"
-website: "https://www.veronissan.com/"
+street: South US 1
+housenumber: "946"
+phone: +1-772-778-3600
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:30-20:00; Su 11:30-19:00
+website: https://www.veronissan.com/

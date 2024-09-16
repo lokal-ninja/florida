@@ -1,11 +1,11 @@
 id: 775857675
-type: way
+type: node
 latitude: 25.46975
 longitude: -80.47891
 postcode: "33030"
 city: Homestead
-street: "S Krome Ave"
-housenumber: 4
+street: S Krome Ave
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

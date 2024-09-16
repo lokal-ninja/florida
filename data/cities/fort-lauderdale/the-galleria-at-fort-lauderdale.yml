@@ -1,11 +1,11 @@
 id: 272419039
-type: way
+type: node
 latitude: 26.13761
 longitude: -80.11099
 postcode: "33304"
 city: Fort Lauderdale
-street: "East Sunrise Boulevard"
-housenumber: 2414
+street: East Sunrise Boulevard
+housenumber: "2414"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.galleriamall-fl.com/"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.galleriamall-fl.com/

@@ -1,11 +1,11 @@
 id: 436123150
-type: way
+type: node
 latitude: 25.71858
 longitude: -80.30256
 postcode: "33155"
 city: Miami
-street: "Southwest 56th Street"
-housenumber: 6701
+street: Southwest 56th Street
+housenumber: "6701"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6701+miller+dr-miami-fl-33155/id=11880"
+website: https://www.walgreens.com/locator/walgreens-6701+miller+dr-miami-fl-33155/id=11880

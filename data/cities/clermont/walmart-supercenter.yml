@@ -1,11 +1,11 @@
 id: 156408058
-type: way
+type: node
 latitude: 28.53076
 longitude: -81.73072
 postcode: "34711"
 city: Clermont
-street: "Johns Lake Road"
-housenumber: 1450
-phone: "+1 352-243-6151"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2695/clermont-fl/whats-new"
+street: Johns Lake Road
+housenumber: "1450"
+phone: +1 352-243-6151
+opening_hours: 24/7
+website: https://www.walmart.com/store/2695/clermont-fl/whats-new

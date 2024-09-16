@@ -1,11 +1,11 @@
 id: 1026404597
-type: way
+type: node
 latitude: 25.62394
 longitude: -80.39712
 postcode: "33177"
 city: Miami
-street: "Southwest 127th Avenue"
-housenumber: 15601
-phone: "+1 305-964-3765"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/6397-miami-fl"
+street: Southwest 127th Avenue
+housenumber: "15601"
+phone: +1 305-964-3765
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/6397-miami-fl

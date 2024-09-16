@@ -1,11 +1,11 @@
 id: 755472370
-type: way
+type: node
 latitude: 30.19122
 longitude: -85.65259
 postcode: "32405"
 city: Panama City
-street: "E 23 rd St"
-housenumber: 427
+street: E 23 rd St
+housenumber: "427"
 phone: ""
 opening_hours: ""
 website: ""

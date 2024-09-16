@@ -1,11 +1,11 @@
 id: 887608275
-type: way
+type: node
 latitude: 27.63768
 longitude: -80.3961
 postcode: "32960"
 city: Vero Beach
-street: "Commerce Avenue"
-housenumber: 1966
-phone: "+1-772-473-2664"
+street: Commerce Avenue
+housenumber: "1966"
+phone: +1-772-473-2664
 opening_hours: ""
 website: ""

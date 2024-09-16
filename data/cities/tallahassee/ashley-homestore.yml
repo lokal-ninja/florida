@@ -1,11 +1,11 @@
 id: 232290151
-type: way
+type: node
 latitude: 30.43129
 longitude: -84.2281
 postcode: "32301"
 city: Tallahassee
-street: "Capital Circle Southeast"
-housenumber: 1190
-phone: "+1 850-878-3095"
+street: Capital Circle Southeast
+housenumber: "1190"
+phone: +1 850-878-3095
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/florida/tallahassee/7710000101/"
+website: https://stores.ashleyfurniture.com/store/us/florida/tallahassee/7710000101/

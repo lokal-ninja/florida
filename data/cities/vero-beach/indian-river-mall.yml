@@ -1,11 +1,11 @@
 id: 463485537
-type: way
+type: node
 latitude: 27.64193
 longitude: -80.46198
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 6200
-phone: "+1-772-770-9404"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.indianrivermall.com/"
+street: 20th Street
+housenumber: "6200"
+phone: +1-772-770-9404
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.indianrivermall.com/

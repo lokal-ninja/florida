@@ -1,11 +1,11 @@
 id: 1114746224
-type: way
+type: node
 latitude: 27.98224
 longitude: -82.56524
 postcode: "33615"
 city: Tampa
-street: "Memorial Highway"
-housenumber: 5701
+street: Memorial Highway
+housenumber: "5701"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 699698173
-type: way
+type: node
 latitude: 28.98413
 longitude: -81.26033
 postcode: "32724"
 city: DeLand
-street: "Victoria Commons Boulevard"
-housenumber: 111
+street: Victoria Commons Boulevard
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

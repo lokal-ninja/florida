@@ -1,11 +1,11 @@
 id: 493967566
-type: way
+type: node
 latitude: 26.21562
 longitude: -80.17175
-postcode: "33069-4835"
+postcode: 33069-4835
 city: Pompano Beach
-street: "Southwest 36th Avenue"
-housenumber: 1140
-phone: "+1 954-975-0119"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/748"
+street: Southwest 36th Avenue
+housenumber: "1140"
+phone: +1 954-975-0119
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/748

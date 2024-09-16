@@ -1,11 +1,11 @@
 id: 764434118
-type: way
+type: node
 latitude: 30.18636
 longitude: -81.7031
 postcode: "32073"
 city: Orange Park
-street: "Park Avenue"
-housenumber: 300
+street: Park Avenue
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

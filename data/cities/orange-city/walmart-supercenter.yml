@@ -1,11 +1,11 @@
 id: 451986924
-type: way
+type: node
 latitude: 28.91274
 longitude: -81.27956
 postcode: "32763"
 city: Orange City
-street: "Veterans Memorial Parkway"
-housenumber: 2400
-phone: "+1 386-775-1500"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/563/orange-city-fl/whats-new"
+street: Veterans Memorial Parkway
+housenumber: "2400"
+phone: +1 386-775-1500
+opening_hours: 24/7
+website: https://www.walmart.com/store/563/orange-city-fl/whats-new

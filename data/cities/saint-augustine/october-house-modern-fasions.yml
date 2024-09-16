@@ -1,11 +1,11 @@
 id: 364786211
-type: way
+type: node
 latitude: 29.89498
 longitude: -81.31185
 postcode: "32084"
 city: Saint Augustine
-street: "Charlotte Street"
-housenumber: 50
+street: Charlotte Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 471682709
-type: way
+type: node
 latitude: 28.08124
 longitude: -80.64922
 postcode: "32904"
 city: Melbourne
-street: "West New Haven Avenue"
-housenumber: 1700
-phone: "+1 321-984-4012"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/melbourne/264/"
+street: West New Haven Avenue
+housenumber: "1700"
+phone: +1 321-984-4012
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/melbourne/264/

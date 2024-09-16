@@ -1,11 +1,11 @@
 id: 818018738
-type: way
+type: node
 latitude: 28.032
 longitude: -80.61952
-postcode: "32905-2805"
+postcode: 32905-2805
 city: Palm Bay
-street: "Babcock Street Northeast"
-housenumber: 4711
-phone: "+1 321-724-4724"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://www.publix.com/locations/215"
+street: Babcock Street Northeast
+housenumber: "4711"
+phone: +1 321-724-4724
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://www.publix.com/locations/215

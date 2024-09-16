@@ -1,11 +1,11 @@
 id: 648327912
-type: way
+type: node
 latitude: 30.70655
 longitude: -86.12236
 postcode: "32435"
 city: DeFuniak Springs
-street: "US Hwy 331 South"
-housenumber: 1103
+street: US Hwy 331 South
+housenumber: "1103"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1103+us+highway+331+s-defuniak+springs-fl-32435/id=9914"
+website: https://www.walgreens.com/locator/walgreens-1103+us+highway+331+s-defuniak+springs-fl-32435/id=9914

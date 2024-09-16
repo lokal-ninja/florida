@@ -4,8 +4,8 @@ latitude: 25.79073
 longitude: -80.13577
 postcode: "33139"
 city: Miami Beach
-street: "Lincoln Road"
-housenumber: 701
-phone: "+1 786 235 9570"
+street: Lincoln Road
+housenumber: "701"
+phone: +1 786 235 9570
 opening_hours: ""
-website: "https://lik.com/galleries/miami.html"
+website: https://lik.com/galleries/miami.html

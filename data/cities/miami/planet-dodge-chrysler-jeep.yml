@@ -1,11 +1,11 @@
 id: 48998551
-type: way
+type: node
 latitude: 25.78443
 longitude: -80.35924
 postcode: "33172"
 city: Miami
-street: "Northwest 12th Street"
-housenumber: 9975
-phone: "+1 800 721 2066"
+street: Northwest 12th Street
+housenumber: "9975"
+phone: +1 800 721 2066
 opening_hours: ""
-website: "https://www.planetdodge.com/"
+website: https://www.planetdodge.com/

@@ -1,11 +1,11 @@
 id: 775315667
-type: way
+type: node
 latitude: 28.0134
 longitude: -82.73639
 postcode: "33761"
 city: Clearwater
-street: "US 19 North"
-housenumber: 26508
+street: US 19 North
+housenumber: "26508"
 phone: ""
 opening_hours: ""
 website: ""

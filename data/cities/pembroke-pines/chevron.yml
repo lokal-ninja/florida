@@ -1,11 +1,11 @@
 id: 958047171
-type: way
+type: node
 latitude: 26.00982
 longitude: -80.24848
 postcode: "33024"
 city: Pembroke Pines
-street: "North University Drive"
-housenumber: 50
+street: North University Drive
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

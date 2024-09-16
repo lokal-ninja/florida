@@ -1,11 +1,11 @@
 id: 216569032
-type: way
+type: node
 latitude: 28.60786
 longitude: -80.80741
 postcode: "32780"
 city: Titusville
-street: "South Washinton Avenue"
-housenumber: 701
+street: South Washinton Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

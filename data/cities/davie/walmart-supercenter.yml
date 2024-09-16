@@ -1,11 +1,11 @@
 id: 411400036
-type: way
+type: node
 latitude: 26.06706
 longitude: -80.25509
 postcode: "33328"
 city: Davie
-street: "South University Drive"
-housenumber: 4301
-phone: "+1 954-331-3612"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/2987/davie-fl/whats-new"
+street: South University Drive
+housenumber: "4301"
+phone: +1 954-331-3612
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/2987/davie-fl/whats-new

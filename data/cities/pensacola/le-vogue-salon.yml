@@ -1,11 +1,11 @@
 id: 546877689
-type: way
+type: node
 latitude: 30.41266
 longitude: -87.22422
 postcode: "32502"
 city: Pensacola
-street: "West Chase Street"
-housenumber: 609
+street: West Chase Street
+housenumber: "609"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 775357916
-type: way
+type: node
 latitude: 28.07782
 longitude: -82.76531
 postcode: "34683"
 city: Palm Harbor
-street: "Florida Avenue"
-housenumber: 1118
-phone: "+1-727-784-6381"
+street: Florida Avenue
+housenumber: "1118"
+phone: +1-727-784-6381
 opening_hours: ""
-website: "https://www.salonrawpalmharbor.com/"
+website: https://www.salonrawpalmharbor.com/

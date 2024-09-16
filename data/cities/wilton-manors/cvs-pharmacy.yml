@@ -1,11 +1,11 @@
 id: 553239319
-type: way
+type: node
 latitude: 26.15921
 longitude: -80.13177
 postcode: "33305"
 city: Wilton Manors
-street: "Northeast 26th Street"
-housenumber: 1150
+street: Northeast 26th Street
+housenumber: "1150"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/wilton-manors-fl-pharmacies/1150-ne-26th-st-wilton-manors-fl-33305/storeid=5174"
+website: https://www.cvs.com/store-locator/wilton-manors-fl-pharmacies/1150-ne-26th-st-wilton-manors-fl-33305/storeid=5174

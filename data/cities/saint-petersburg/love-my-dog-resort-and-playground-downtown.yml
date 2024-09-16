@@ -4,8 +4,8 @@ latitude: 27.7817
 longitude: -82.65825
 postcode: "33713"
 city: Saint Petersburg
-street: "18th Street North"
-housenumber: 928
-phone: "+1727-826-0102"
+street: 18th Street North
+housenumber: "928"
+phone: +1727-826-0102
 opening_hours: ""
-website: "https://lovemydogresort.com/"
+website: https://lovemydogresort.com/

@@ -1,11 +1,11 @@
 id: 646483946
-type: way
+type: node
 latitude: 27.91122
 longitude: -81.84281
 postcode: "33830"
 city: Bartow
-street: "Broadway Avenue"
-housenumber: 
+street: Broadway Avenue
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

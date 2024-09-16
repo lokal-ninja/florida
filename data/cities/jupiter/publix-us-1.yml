@@ -4,8 +4,8 @@ latitude: 26.93321
 longitude: -80.07731
 postcode: "33477"
 city: Jupiter
-street: "US 1"
-housenumber: 95
-phone: "+1 561-743-7400"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.publix.com/locations/401"
+street: US 1
+housenumber: "95"
+phone: +1 561-743-7400
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.publix.com/locations/401

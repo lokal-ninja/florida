@@ -1,11 +1,11 @@
 id: 604792702
-type: way
+type: node
 latitude: 27.27284
 longitude: -80.34119
 postcode: "34953"
 city: Port Saint Lucie
-street: "Southeast Port Saint Lucie Boulevard"
-housenumber: 400
+street: Southeast Port Saint Lucie Boulevard
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

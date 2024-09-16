@@ -1,11 +1,11 @@
 id: 524442128
-type: way
+type: node
 latitude: 27.96594
 longitude: -82.7827
 postcode: "33755"
 city: Clearwater
-street: "Cleveland Street"
-housenumber: 1314
+street: Cleveland Street
+housenumber: "1314"
 phone: "+17279533973"
-opening_hours: "Mo-Fr 05:30-23:00; Sa-Su 05:00-23:00"
-website: "https://yowash.com/"
+opening_hours: Mo-Fr 05:30-23:00; Sa-Su 05:00-23:00
+website: https://yowash.com/

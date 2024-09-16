@@ -1,11 +1,11 @@
 id: 495561837
-type: way
+type: node
 latitude: 30.42546
 longitude: -84.28128
 postcode: "32301"
 city: Tallahassee
-street: "South Monroe Street"
-housenumber: 1800
+street: South Monroe Street
+housenumber: "1800"
 phone: ""
 opening_hours: ""
-website: "https://gandyprinters.com/"
+website: https://gandyprinters.com/

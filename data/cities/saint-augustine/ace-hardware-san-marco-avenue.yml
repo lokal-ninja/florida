@@ -1,11 +1,11 @@
 id: 507040975
-type: way
+type: node
 latitude: 29.90685
 longitude: -81.31925
-postcode: "32084-3266"
+postcode: 32084-3266
 city: Saint Augustine
-street: "San Marco Avenue"
-housenumber: 150
-phone: "+1 904-547-2639"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-19:00; Su 09:00-17:00"
+street: San Marco Avenue
+housenumber: "150"
+phone: +1 904-547-2639
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-19:00; Su 09:00-17:00
 website: ""

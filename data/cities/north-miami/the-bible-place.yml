@@ -1,11 +1,11 @@
 id: 1305650158
-type: way
+type: node
 latitude: 25.89046
 longitude: -80.18479
 postcode: "33161"
 city: North Miami
-street: "Northeast 125th Street"
-housenumber: 685
+street: Northeast 125th Street
+housenumber: "685"
 phone: ""
 opening_hours: ""
 website: ""

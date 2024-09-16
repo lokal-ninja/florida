@@ -1,11 +1,11 @@
 id: 192566897
-type: way
+type: node
 latitude: 27.91698
 longitude: -82.74662
 postcode: "33764"
 city: Largo
-street: "East Bay Drive"
-housenumber: 3950
+street: East Bay Drive
+housenumber: "3950"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1153394910
-type: way
+type: node
 latitude: 28.07996
 longitude: -82.43506
 postcode: "33613"
 city: Tampa
-street: "North 22nd Street"
-housenumber: 14516
-phone: "+1-813-971-0327"
-opening_hours: "24/7"
-website: "https://www.exxon.com/en/find-station/mobil-tampa-fl-skippermart-200322946"
+street: North 22nd Street
+housenumber: "14516"
+phone: +1-813-971-0327
+opening_hours: 24/7
+website: https://www.exxon.com/en/find-station/mobil-tampa-fl-skippermart-200322946

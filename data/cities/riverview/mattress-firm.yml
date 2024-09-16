@@ -1,11 +1,11 @@
 id: 768284231
-type: way
+type: node
 latitude: 27.85669
 longitude: -82.33246
 postcode: "33578"
 city: Riverview
-street: "Gibsonton Drive"
-housenumber: 10411
-phone: "+1 813-672-6132"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.mattressfirm.com/stores/fl/riverview/mattress-stores-riverview-fl-33578-6957.html"
+street: Gibsonton Drive
+housenumber: "10411"
+phone: +1 813-672-6132
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.mattressfirm.com/stores/fl/riverview/mattress-stores-riverview-fl-33578-6957.html

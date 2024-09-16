@@ -1,11 +1,11 @@
 id: 1190440866
-type: way
+type: node
 latitude: 28.84493
 longitude: -82.57882
 postcode: "34448"
 city: Homosassa
-street: "South Suncoast Boulevard"
-housenumber: 1147
+street: South Suncoast Boulevard
+housenumber: "1147"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 26.21753
 longitude: -81.7703
 postcode: "34109"
 city: Naples
-street: "Naples Boulevard"
-housenumber: 6424
-phone: "+1 239-649-4979"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://www.totalwine.com/store-info/908"
+street: Naples Boulevard
+housenumber: "6424"
+phone: +1 239-649-4979
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://www.totalwine.com/store-info/908

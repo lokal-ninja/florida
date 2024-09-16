@@ -1,11 +1,11 @@
 id: 294766975
-type: way
+type: node
 latitude: 26.15994
 longitude: -80.25861
 postcode: "33322"
 city: Sunrise
-street: "North University Drive"
-housenumber: 2901
-phone: "+1-954-747-8226"
+street: North University Drive
+housenumber: "2901"
+phone: +1-954-747-8226
 opening_hours: ""
-website: "https://www.homedepot.com/l/Sunrise/FL/Sunrise/33322/258"
+website: https://www.homedepot.com/l/Sunrise/FL/Sunrise/33322/258

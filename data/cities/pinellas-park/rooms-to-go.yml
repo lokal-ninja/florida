@@ -1,11 +1,11 @@
 id: 128965483
-type: way
+type: node
 latitude: 27.83679
 longitude: -82.6816
 postcode: "33781"
 city: Pinellas Park
-street: "US Hwy 19 N"
-housenumber: 7035
-phone: "+1-727-527-4000"
+street: US Hwy 19 N
+housenumber: "7035"
+phone: +1-727-527-4000
 opening_hours: ""
 website: ""

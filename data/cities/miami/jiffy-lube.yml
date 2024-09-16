@@ -1,11 +1,11 @@
 id: 290631077
-type: way
+type: node
 latitude: 25.85592
 longitude: -80.18477
 postcode: "33138"
 city: Miami
-street: "Biscayne Boulevard"
-housenumber: 8787
+street: Biscayne Boulevard
+housenumber: "8787"
 phone: ""
 opening_hours: ""
 website: ""

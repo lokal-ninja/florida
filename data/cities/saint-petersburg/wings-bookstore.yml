@@ -1,11 +1,11 @@
 id: 135475985
-type: way
+type: node
 latitude: 27.81337
 longitude: -82.63884
 postcode: "33703"
 city: Saint Petersburg
-street: "4th Street North"
-housenumber: 
+street: 4th Street North
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 290535792
-type: way
+type: node
 latitude: 25.94632
 longitude: -80.14648
 postcode: "33160"
 city: Aventura
-street: "Biscayne Boulevard"
-housenumber: 18495
-phone: "+1 305-933-0098"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:30-23:00"
+street: Biscayne Boulevard
+housenumber: "18495"
+phone: +1 305-933-0098
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:30-23:00
 website: ""

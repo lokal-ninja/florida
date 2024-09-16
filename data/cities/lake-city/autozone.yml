@@ -1,11 +1,11 @@
 id: 918283439
-type: way
+type: node
 latitude: 30.17895
 longitude: -82.66458
 postcode: "32055"
 city: Lake City
-street: "West US Highway 90"
-housenumber: 1972
+street: West US Highway 90
+housenumber: "1972"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/lake-city/1972-w-hwy-90.html"
+website: https://www.autozone.com/locations/fl/lake-city/1972-w-hwy-90.html

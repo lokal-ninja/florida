@@ -1,11 +1,11 @@
 id: 61377343
-type: way
+type: node
 latitude: 28.5442
 longitude: -81.20507
 postcode: "32825"
 city: Orlando
-street: "Lake Underhill Road"
-housenumber: 12200
-phone: "+1 407-281-0177"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-orlando/1161"
+street: Lake Underhill Road
+housenumber: "12200"
+phone: +1 407-281-0177
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-orlando/1161

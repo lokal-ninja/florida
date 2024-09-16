@@ -1,11 +1,11 @@
 id: 404318022
-type: way
+type: node
 latitude: 28.19488
 longitude: -82.50258
-postcode: "33558-5268"
+postcode: 33558-5268
 city: Lutz
-street: "State Road 54"
-housenumber: 18901
-phone: "+1 813-948-1275"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1219"
+street: State Road 54
+housenumber: "18901"
+phone: +1 813-948-1275
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1219

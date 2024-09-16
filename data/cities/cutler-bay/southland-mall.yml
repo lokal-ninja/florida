@@ -1,11 +1,11 @@
 id: 138391092
-type: way
+type: node
 latitude: 25.57482
 longitude: -80.36854
 postcode: "33189"
 city: Cutler Bay
-street: "South Dixie Highway"
-housenumber: 20505
-phone: "+1-305-235-8880"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.mysouthlandmall.com/"
+street: South Dixie Highway
+housenumber: "20505"
+phone: +1-305-235-8880
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.mysouthlandmall.com/

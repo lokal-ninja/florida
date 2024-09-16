@@ -1,11 +1,11 @@
 id: 259287706
-type: way
+type: node
 latitude: 30.21881
 longitude: -85.87221
 postcode: "32413"
 city: Panama City Beach
-street: "Bluefish Drive"
-housenumber: 206
-phone: "(850) 233-8423"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://www.jcpenney.com/locations/fl/panamacitybeach/clothing-stores-panamacitybeach-fl-2997.html"
+street: Bluefish Drive
+housenumber: "206"
+phone: (850) 233-8423
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-18:00
+website: https://www.jcpenney.com/locations/fl/panamacitybeach/clothing-stores-panamacitybeach-fl-2997.html

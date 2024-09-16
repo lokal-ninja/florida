@@ -1,11 +1,11 @@
 id: 523681245
-type: way
+type: node
 latitude: 28.03226
 longitude: -82.41766
 postcode: "33612"
 city: Tampa
-street: "East Busch Boulevard"
-housenumber: 3701
+street: East Busch Boulevard
+housenumber: "3701"
 phone: ""
 opening_hours: ""
 website: ""

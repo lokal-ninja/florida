@@ -1,11 +1,11 @@
 id: 353726971
-type: way
+type: node
 latitude: 30.48076
 longitude: -87.20723
 postcode: "32504"
 city: Pensacola
-street: "Airport Boulevard"
-housenumber: 1670
-phone: "+1 850-477-0780"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petco.com/"
+street: Airport Boulevard
+housenumber: "1670"
+phone: +1 850-477-0780
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petco.com/

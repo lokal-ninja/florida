@@ -1,11 +1,11 @@
 id: 1263556787
-type: way
+type: node
 latitude: 27.79437
 longitude: -80.48304
 postcode: "32958"
 city: Sebastian
-street: "Sebastian Boulevard"
-housenumber: 695
-phone: "+1-772-589-9397"
+street: Sebastian Boulevard
+housenumber: "695"
+phone: +1-772-589-9397
 opening_hours: ""
 website: ""

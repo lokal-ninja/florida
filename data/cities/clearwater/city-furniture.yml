@@ -1,11 +1,11 @@
 id: 1308888721
-type: way
+type: node
 latitude: 27.92601
 longitude: -82.72984
 postcode: "33764"
 city: Clearwater
-street: "US Highway 19 North"
-housenumber: 17011
-phone: "+1-727-373-4596"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.cityfurniture.com/stores/clearwater"
+street: US Highway 19 North
+housenumber: "17011"
+phone: +1-727-373-4596
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.cityfurniture.com/stores/clearwater

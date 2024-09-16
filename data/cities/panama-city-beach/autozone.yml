@@ -1,11 +1,11 @@
 id: 637574031
-type: way
+type: node
 latitude: 30.19937
 longitude: -85.81638
 postcode: "32407"
 city: Panama City Beach
-street: "Panama City Beach Parkway"
-housenumber: 11600
+street: Panama City Beach Parkway
+housenumber: "11600"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/panama-city-beach/11600-panama-city-beach-pkwy.html"
+website: https://www.autozone.com/locations/fl/panama-city-beach/11600-panama-city-beach-pkwy.html

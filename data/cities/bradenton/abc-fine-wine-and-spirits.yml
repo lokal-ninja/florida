@@ -1,11 +1,11 @@
 id: 494804968
-type: way
+type: node
 latitude: 27.42915
 longitude: -82.57515
 postcode: "34207"
 city: Bradenton
-street: "14th Street West"
-housenumber: 6307
+street: 14th Street West
+housenumber: "6307"
 phone: ""
 opening_hours: ""
-website: "https://www.abcfws.com/product/143"
+website: https://www.abcfws.com/product/143

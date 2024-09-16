@@ -1,11 +1,11 @@
 id: 766791757
-type: way
+type: node
 latitude: 28.53108
 longitude: -82.50193
 postcode: "34613"
 city: Brooksville
-street: "Cortez Boulevard"
-housenumber: 13360
-phone: "+1 352-592-4737"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/brooksville-fl-sams-club/4818"
+street: Cortez Boulevard
+housenumber: "13360"
+phone: +1 352-592-4737
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/brooksville-fl-sams-club/4818

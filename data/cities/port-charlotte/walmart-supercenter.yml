@@ -1,11 +1,11 @@
 id: 205146002
-type: way
+type: node
 latitude: 27.02535
 longitude: -82.04887
 postcode: "33983"
 city: Port Charlotte
-street: "Kings Highway"
-housenumber: 375
-phone: "+1 941-625-1201"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3349/port-charlotte-fl/whats-new"
+street: Kings Highway
+housenumber: "375"
+phone: +1 941-625-1201
+opening_hours: 24/7
+website: https://www.walmart.com/store/3349/port-charlotte-fl/whats-new

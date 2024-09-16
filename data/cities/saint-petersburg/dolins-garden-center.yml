@@ -1,11 +1,11 @@
 id: 230588811
-type: way
+type: node
 latitude: 27.82882
 longitude: -82.64585
 postcode: "33702"
 city: Saint Petersburg
-street: "62nd Avenue North"
-housenumber: 801
+street: 62nd Avenue North
+housenumber: "801"
 phone: ""
-opening_hours: "Mo-Sa 08:30-17:30; Su 10:00-17:00"
+opening_hours: Mo-Sa 08:30-17:30; Su 10:00-17:00
 website: ""

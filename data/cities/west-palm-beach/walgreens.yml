@@ -1,11 +1,11 @@
 id: 472035218
-type: way
+type: node
 latitude: 26.6756
 longitude: -80.05529
 postcode: "33405"
 city: West Palm Beach
-street: "South Dixie Highway"
-housenumber: 4001
+street: South Dixie Highway
+housenumber: "4001"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4001+s+dixie+hwy-west+palm+beach-fl-33405/id=15209"
+website: https://www.walgreens.com/locator/walgreens-4001+s+dixie+hwy-west+palm+beach-fl-33405/id=15209

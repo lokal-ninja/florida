@@ -1,11 +1,11 @@
 id: 1032963803
-type: way
+type: node
 latitude: 25.96056
 longitude: -80.18684
 postcode: "33179"
 city: Miami
-street: "Ives Dairy Road"
-housenumber: 850
+street: Ives Dairy Road
+housenumber: "850"
 phone: ""
 opening_hours: ""
 website: ""

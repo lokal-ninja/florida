@@ -1,11 +1,11 @@
 id: 189269735
-type: way
+type: node
 latitude: 27.83339
 longitude: -82.72907
-postcode: "33781-5034"
+postcode: 33781-5034
 city: Pinellas Park
-street: "66th Street North"
-housenumber: 6700
-phone: "+1 877-474-1057"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/pinellas-park/6700-66th-st"
+street: 66th Street North
+housenumber: "6700"
+phone: +1 877-474-1057
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/pinellas-park/6700-66th-st

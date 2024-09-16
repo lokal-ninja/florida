@@ -1,11 +1,11 @@
 id: 343709680
-type: way
+type: node
 latitude: 25.9274
 longitude: -80.19648
 postcode: "33162"
 city: Miami
-street: "Northeast 2nd Avenue"
-housenumber: 16604
-phone: "+1 305 940 0927"
+street: Northeast 2nd Avenue
+housenumber: "16604"
+phone: +1 305 940 0927
 opening_hours: ""
-website: "https://www.northmiamidivers.com/"
+website: https://www.northmiamidivers.com/

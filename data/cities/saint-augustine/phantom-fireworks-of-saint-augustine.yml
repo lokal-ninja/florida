@@ -1,11 +1,11 @@
 id: 759246216
-type: way
+type: node
 latitude: 30.06419
 longitude: -81.49924
 postcode: "32092"
 city: Saint Augustine
-street: "Fireworks Alley"
-housenumber: 120
+street: Fireworks Alley
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 25.77506
 longitude: -80.19255
 postcode: "33132"
 city: Miami
-street: "NE 1st St"
-housenumber: 58
+street: NE 1st St
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.crmjewelers.com"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.crmjewelers.com

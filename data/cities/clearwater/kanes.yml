@@ -1,11 +1,11 @@
 id: 173664467
-type: way
+type: node
 latitude: 27.96877
 longitude: -82.7308
 postcode: "33765"
 city: Clearwater
-street: "US Hwy 19 N"
-housenumber: 21590
+street: US Hwy 19 N
+housenumber: "21590"
 phone: ""
 opening_hours: ""
 website: ""

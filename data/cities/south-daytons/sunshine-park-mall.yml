@@ -1,11 +1,11 @@
 id: 475172505
-type: way
+type: node
 latitude: 29.16581
 longitude: -81.00234
 postcode: "32119"
 city: South Daytons
-street: "S Ridgewood Ave"
-housenumber: 2400
-phone: "+1 386 763 2280"
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://goallaboard.com/properties/sunshine-park-mall/"
+street: S Ridgewood Ave
+housenumber: "2400"
+phone: +1 386 763 2280
+opening_hours: Mo-Su 07:00-19:00
+website: https://goallaboard.com/properties/sunshine-park-mall/

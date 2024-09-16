@@ -4,8 +4,8 @@ latitude: 30.48248
 longitude: -87.21166
 postcode: "32504"
 city: Pensacola
-street: "Airport Boulevard"
-housenumber: 1520
-phone: "+1 850-474-3796"
-opening_hours: "24/7"
-website: "https://local.fedex.com/fl/pensacola/office-0778/"
+street: Airport Boulevard
+housenumber: "1520"
+phone: +1 850-474-3796
+opening_hours: 24/7
+website: https://local.fedex.com/fl/pensacola/office-0778/

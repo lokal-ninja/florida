@@ -1,11 +1,11 @@
 id: 460574976
-type: way
+type: node
 latitude: 30.31918
 longitude: -81.47544
 postcode: "32225"
 city: Jacksonville
-street: "Atlantic Boulevard"
-housenumber: 12721
-phone: "+1-904-220-0822"
+street: Atlantic Boulevard
+housenumber: "12721"
+phone: +1-904-220-0822
 opening_hours: ""
-website: "https://www.homedepot.com/l/Atlantic-And-Girvin/FL/Jacksonville/32225/6365"
+website: https://www.homedepot.com/l/Atlantic-And-Girvin/FL/Jacksonville/32225/6365

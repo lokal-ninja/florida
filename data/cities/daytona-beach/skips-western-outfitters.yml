@@ -1,11 +1,11 @@
 id: 482332833
-type: way
+type: node
 latitude: 29.19247
 longitude: -81.07532
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 1900
-phone: "+1 386 255 0455"
-opening_hours: "Mo-Sa 09:30-20:00, Su 10:00-18:00"
-website: "https://www.skipsboots.com/pages/daytona-beach/"
+street: International Speedway Boulevard
+housenumber: "1900"
+phone: +1 386 255 0455
+opening_hours: Mo-Sa 09:30-20:00, Su 10:00-18:00
+website: https://www.skipsboots.com/pages/daytona-beach/

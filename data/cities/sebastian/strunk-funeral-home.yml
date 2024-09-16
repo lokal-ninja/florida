@@ -1,11 +1,11 @@
 id: 960766248
-type: way
+type: node
 latitude: 27.82505
 longitude: -80.47466
 postcode: "32958"
 city: Sebastian
-street: "North Central Avenue"
-housenumber: 1623
-phone: "+1-772-589-1000"
+street: North Central Avenue
+housenumber: "1623"
+phone: +1-772-589-1000
 opening_hours: ""
 website: ""

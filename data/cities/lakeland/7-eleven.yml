@@ -1,11 +1,11 @@
 id: 536069488
-type: way
+type: node
 latitude: 28.13603
 longitude: -82.0065
 postcode: "33810"
 city: Lakeland
-street: "Duff Road"
-housenumber: 2993
+street: Duff Road
+housenumber: "2993"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

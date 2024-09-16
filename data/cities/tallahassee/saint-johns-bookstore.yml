@@ -1,11 +1,11 @@
 id: 497465910
-type: way
+type: node
 latitude: 30.44331
 longitude: -84.2794
 postcode: ""
 city: Tallahassee
-street: "North Calhoun Street"
-housenumber: 131
+street: North Calhoun Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
-website: "https://www.saint-john.org/about-us/bookstore/"
+website: https://www.saint-john.org/about-us/bookstore/

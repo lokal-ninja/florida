@@ -1,11 +1,11 @@
 id: 521959250
-type: way
+type: node
 latitude: 30.43864
 longitude: -84.26147
 postcode: "32301"
 city: Tallahassee
-street: "South Magnolia Drive"
-housenumber: 349
-phone: "+1 850-309-0208"
+street: South Magnolia Drive
+housenumber: "349"
+phone: +1 850-309-0208
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/fl/tallahassee/065001/"
+website: https://www.mattressfirm.com/en-us/stores/fl/tallahassee/065001/

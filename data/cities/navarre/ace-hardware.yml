@@ -1,11 +1,11 @@
 id: 764234787
-type: way
+type: node
 latitude: 30.40231
 longitude: -86.88068
 postcode: "32566"
 city: Navarre
-street: "Navarre Parkway"
-housenumber: 8188
-phone: "+1 850-939-9800"
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-16:00"
+street: Navarre Parkway
+housenumber: "8188"
+phone: +1 850-939-9800
+opening_hours: Mo-Sa 07:00-19:00; Su 09:00-16:00
 website: ""

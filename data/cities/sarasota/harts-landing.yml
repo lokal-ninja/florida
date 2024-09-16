@@ -1,11 +1,11 @@
 id: 644666460
-type: way
+type: node
 latitude: 27.33409
 longitude: -82.55363
 postcode: "34236"
 city: Sarasota
-street: "John Ringling Boulevard"
-housenumber: 920
+street: John Ringling Boulevard
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

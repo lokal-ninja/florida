@@ -1,11 +1,11 @@
 id: 317485724
-type: way
+type: node
 latitude: 26.11974
 longitude: -80.12758
-postcode: "33301-2345"
+postcode: 33301-2345
 city: Fort Lauderdale
-street: "East Las Olas Boulevard"
-housenumber: 1529
-phone: "+1 954-463-9131"
+street: East Las Olas Boulevard
+housenumber: "1529"
+phone: +1 954-463-9131
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/fl/fort-lauderdale/1529-e-las-olas-blvd-10407"
+website: https://www.7-eleven.com/locations/fl/fort-lauderdale/1529-e-las-olas-blvd-10407

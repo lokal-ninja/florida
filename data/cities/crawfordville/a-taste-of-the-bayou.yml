@@ -1,11 +1,11 @@
 id: 900207246
-type: way
+type: node
 latitude: 30.17209
 longitude: -84.37552
 postcode: "32327"
 city: Crawfordville
-street: "Crawfordville Highway"
-housenumber: 3162
+street: Crawfordville Highway
+housenumber: "3162"
 phone: "+18507452029"
-opening_hours: "Th-Su 10:00-19:00"
-website: "https://www.atasteofthebayou.com/"
+opening_hours: Th-Su 10:00-19:00
+website: https://www.atasteofthebayou.com/

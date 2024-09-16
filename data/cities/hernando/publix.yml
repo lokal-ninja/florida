@@ -2,10 +2,10 @@ id: 8250515609
 type: node
 latitude: 28.9019
 longitude: -82.4461
-postcode: "34442-5123"
+postcode: 34442-5123
 city: Hernando
-street: "North Forest Ridge Boulevard"
-housenumber: 2685
-phone: "+1 352-527-6550"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/475"
+street: North Forest Ridge Boulevard
+housenumber: "2685"
+phone: +1 352-527-6550
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/475

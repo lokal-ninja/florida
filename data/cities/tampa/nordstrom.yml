@@ -1,11 +1,11 @@
 id: 524312550
-type: way
+type: node
 latitude: 27.96373
 longitude: -82.52176
 postcode: "33607"
 city: Tampa
-street: "International Plaza"
-housenumber: 
+street: International Plaza
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.nordstrom.com/store-details/nordstrom-international-plaza"
+opening_hours: Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.nordstrom.com/store-details/nordstrom-international-plaza

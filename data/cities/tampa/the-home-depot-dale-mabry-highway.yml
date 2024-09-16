@@ -1,11 +1,11 @@
 id: 524321865
-type: way
+type: node
 latitude: 27.95891
 longitude: -82.50789
 postcode: "33607"
 city: Tampa
-street: "Dale Mabry Highway"
-housenumber: 1712
-phone: "+1 813-879-1000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Stadium/FL/Tampa/33607/256"
+street: Dale Mabry Highway
+housenumber: "1712"
+phone: +1 813-879-1000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Stadium/FL/Tampa/33607/256

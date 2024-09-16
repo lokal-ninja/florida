@@ -1,11 +1,11 @@
 id: 301420711
-type: way
+type: node
 latitude: 25.78613
 longitude: -80.33359
 postcode: "33126"
 city: Doral
-street: "Northwest 13th Terrace"
-housenumber: 8425
-phone: "+1 305-463-9384"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:00-20:30; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/miami-fl-sams-club/6217"
+street: Northwest 13th Terrace
+housenumber: "8425"
+phone: +1 305-463-9384
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:00-20:30; Su 10:00-18:00
+website: https://www.samsclub.com/club/miami-fl-sams-club/6217

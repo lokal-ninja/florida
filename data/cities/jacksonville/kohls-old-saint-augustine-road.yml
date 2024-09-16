@@ -1,11 +1,11 @@
 id: 560490434
-type: way
+type: node
 latitude: 30.14132
 longitude: -81.55242
 postcode: "32258"
 city: Jacksonville
-street: "Old Saint Augustine Road"
-housenumber: 13760
-phone: "+1 904-260-2024"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/fl/jacksonville-787.shtml"
+street: Old Saint Augustine Road
+housenumber: "13760"
+phone: +1 904-260-2024
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/fl/jacksonville-787.shtml

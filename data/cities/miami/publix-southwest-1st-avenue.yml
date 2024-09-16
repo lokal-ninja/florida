@@ -1,11 +1,11 @@
 id: 319426353
-type: way
+type: node
 latitude: 25.76528
 longitude: -80.19509
 postcode: "33130"
 city: Miami
-street: "Southwest 1st Avenue"
-housenumber: 911
-phone: "+1 305-358-1575"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: Southwest 1st Avenue
+housenumber: "911"
+phone: +1 305-358-1575
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

@@ -1,11 +1,11 @@
 id: 281425739
-type: way
+type: node
 latitude: 27.5865
 longitude: -80.37872
 postcode: "32960"
 city: Vero Beach
-street: "US Highway 1"
-housenumber: 915
+street: US Highway 1
+housenumber: "915"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-915+s+us+highway+1-vero+beach-fl-32962/id=3607"
+website: https://www.walgreens.com/locator/walgreens-915+s+us+highway+1-vero+beach-fl-32962/id=3607

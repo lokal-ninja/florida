@@ -4,8 +4,8 @@ latitude: 25.73597
 longitude: -80.3225
 postcode: "33155"
 city: Miami
-street: "Southwest 40th Street"
-housenumber: 7805
-phone: "+1 305-266-1950"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/44"
+street: Southwest 40th Street
+housenumber: "7805"
+phone: +1 305-266-1950
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/44

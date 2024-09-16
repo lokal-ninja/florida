@@ -1,11 +1,11 @@
 id: 192566900
-type: way
+type: node
 latitude: 27.77096
 longitude: -82.65698
 postcode: ""
 city: Saint Petersburg
-street: "Central Avenue"
-housenumber: 1720
+street: Central Avenue
+housenumber: "1720"
 phone: ""
 opening_hours: ""
 website: ""

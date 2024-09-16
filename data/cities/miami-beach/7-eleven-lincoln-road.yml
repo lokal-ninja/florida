@@ -4,8 +4,8 @@ latitude: 25.7905
 longitude: -80.13153
 postcode: "33139"
 city: Miami Beach
-street: "Lincoln Road"
-housenumber: 350
-phone: "+1 305-534-3048"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/fl/miami-beach/350-lincoln-rd-35268"
+street: Lincoln Road
+housenumber: "350"
+phone: +1 305-534-3048
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/fl/miami-beach/350-lincoln-rd-35268

@@ -1,11 +1,11 @@
 id: 609349336
-type: way
+type: node
 latitude: 30.16156
 longitude: -81.63222
 postcode: "32223"
 city: Jacksonville
-street: "San Jose Boulevard"
-housenumber: 11633
+street: San Jose Boulevard
+housenumber: "11633"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/jacksonville/11633-san-jose-blvd"
+website: https://stores.advanceautoparts.com/fl/jacksonville/11633-san-jose-blvd

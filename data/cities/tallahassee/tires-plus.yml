@@ -1,11 +1,11 @@
 id: 194402010
-type: way
+type: node
 latitude: 30.42797
 longitude: -84.23654
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 2800
+street: Apalachee Parkway
+housenumber: "2800"
 phone: ""
 opening_hours: ""
-website: "https://www.tiresplus.com/"
+website: https://www.tiresplus.com/

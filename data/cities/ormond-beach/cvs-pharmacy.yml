@@ -1,11 +1,11 @@
 id: 795488281
-type: way
+type: node
 latitude: 29.27972
 longitude: -81.08334
 postcode: "32174"
 city: Ormond Beach
-street: "West Granada Boulevard"
-housenumber: 725
+street: West Granada Boulevard
+housenumber: "725"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/ormond-beach-fl-pharmacies/795-w-granada-blvd-ormond-beach-fl-32174/storeid=3227"
+website: https://www.cvs.com/store-locator/ormond-beach-fl-pharmacies/795-w-granada-blvd-ormond-beach-fl-32174/storeid=3227

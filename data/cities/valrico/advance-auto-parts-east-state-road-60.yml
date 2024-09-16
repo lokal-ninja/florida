@@ -1,11 +1,11 @@
 id: 599099155
-type: way
+type: node
 latitude: 27.93858
 longitude: -82.24424
 postcode: "33594"
 city: Valrico
-street: "East State Road 60"
-housenumber: 2502
+street: East State Road 60
+housenumber: "2502"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/valrico/2502-e-state-road-60"
+website: https://stores.advanceautoparts.com/fl/valrico/2502-e-state-road-60

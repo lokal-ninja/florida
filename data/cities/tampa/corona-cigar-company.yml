@@ -4,8 +4,8 @@ latitude: 27.96492
 longitude: -82.51264
 postcode: "33607"
 city: Tampa
-street: "West Boy Scout Boulevard"
-housenumber: 4142
-phone: "+1-813-513-7560"
-opening_hours: "Mo-Tu 09:00-00:00; We-Th 09:00-01:00; Fr-Sa 09:00-02:00; Su 10:00-00:00"
-website: "https://www.coronacigar.com/tampa-store/"
+street: West Boy Scout Boulevard
+housenumber: "4142"
+phone: +1-813-513-7560
+opening_hours: Mo-Tu 09:00-00:00; We-Th 09:00-01:00; Fr-Sa 09:00-02:00; Su 10:00-00:00
+website: https://www.coronacigar.com/tampa-store/

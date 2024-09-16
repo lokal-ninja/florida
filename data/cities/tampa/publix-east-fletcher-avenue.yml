@@ -1,11 +1,11 @@
 id: 835512400
-type: way
+type: node
 latitude: 28.06878
 longitude: -82.41174
 postcode: "33613"
 city: Tampa
-street: "East Fletcher Avenue"
-housenumber: 4425
-phone: "+1 813-631-1269"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1630"
+street: East Fletcher Avenue
+housenumber: "4425"
+phone: +1 813-631-1269
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1630

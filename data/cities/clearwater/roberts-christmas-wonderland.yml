@@ -1,11 +1,11 @@
 id: 524977070
-type: way
+type: node
 latitude: 27.96048
 longitude: -82.71524
 postcode: "33759"
 city: Clearwater
-street: "Gulf to Bay Boulevard"
-housenumber: 2951
-phone: "+1-727-797-1660"
-opening_hours: "Mo-Sa 10:00-17:30; Su 11:00-17:00"
-website: "http://www.robertscw.com/"
+street: Gulf to Bay Boulevard
+housenumber: "2951"
+phone: +1-727-797-1660
+opening_hours: Mo-Sa 10:00-17:30; Su 11:00-17:00
+website: http://www.robertscw.com/

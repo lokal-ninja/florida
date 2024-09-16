@@ -2,10 +2,10 @@ id: 2940399288
 type: node
 latitude: 25.66481
 longitude: -80.40669
-postcode: "33186-4601"
+postcode: 33186-4601
 city: Miami
-street: "Southwest 112th Street"
-housenumber: 13001
-phone: "+1 786-822-3966"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1803"
+street: Southwest 112th Street
+housenumber: "13001"
+phone: +1 786-822-3966
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1803

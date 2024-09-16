@@ -1,11 +1,11 @@
 id: 295556672
-type: way
+type: node
 latitude: 27.77004
 longitude: -82.66152
 postcode: "33701"
 city: Saint Petersburg
-street: "1st Avenue South"
-housenumber: 2060
+street: 1st Avenue South
+housenumber: "2060"
 phone: ""
 opening_hours: ""
 website: ""

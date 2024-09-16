@@ -1,11 +1,11 @@
 id: 520300251
-type: way
+type: node
 latitude: 26.7203
 longitude: -80.08936
 postcode: "33401"
 city: West Palm Beach
-street: "Palm Beach Lakes Boulevard"
-housenumber: 1845
-phone: "+1 561-471-3800"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/westpalmbeach"
+street: Palm Beach Lakes Boulevard
+housenumber: "1845"
+phone: +1 561-471-3800
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/westpalmbeach

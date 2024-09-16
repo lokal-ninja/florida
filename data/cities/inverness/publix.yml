@@ -1,11 +1,11 @@
 id: 306756958
-type: way
+type: node
 latitude: 28.83769
 longitude: -82.34295
 postcode: "34450"
 city: Inverness
-street: "West Main Street"
-housenumber: 1012
-phone: "+1 352-341-2581"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1448"
+street: West Main Street
+housenumber: "1012"
+phone: +1 352-341-2581
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1448

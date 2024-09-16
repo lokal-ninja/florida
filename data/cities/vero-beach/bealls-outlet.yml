@@ -1,11 +1,11 @@
 id: 504318025
-type: way
+type: node
 latitude: 27.64084
 longitude: -80.44496
 postcode: "32966"
 city: Vero Beach
-street: "58th Avenue"
-housenumber: 2110
+street: 58th Avenue
+housenumber: "2110"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
 website: ""

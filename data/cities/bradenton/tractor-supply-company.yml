@@ -1,11 +1,11 @@
 id: 892793817
-type: way
+type: node
 latitude: 27.49705
 longitude: -82.5071
 postcode: "34208"
 city: Bradenton
-street: "State Road 64 East"
-housenumber: 4404
-phone: "+1 941-748-2157"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: State Road 64 East
+housenumber: "4404"
+phone: +1 941-748-2157
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

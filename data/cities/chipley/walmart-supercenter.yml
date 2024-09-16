@@ -1,11 +1,11 @@
 id: 322172338
-type: way
+type: node
 latitude: 30.75322
 longitude: -85.54668
 postcode: "32428"
 city: Chipley
-street: "Main Street"
-housenumber: 1621
-phone: "+1 850-638-2243"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/2114/chipley-fl/whats-new"
+street: Main Street
+housenumber: "1621"
+phone: +1 850-638-2243
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/2114/chipley-fl/whats-new

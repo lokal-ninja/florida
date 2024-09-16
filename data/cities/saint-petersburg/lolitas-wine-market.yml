@@ -4,8 +4,8 @@ latitude: 27.7707
 longitude: -82.65764
 postcode: "33712"
 city: Saint Petersburg
-street: "18th Street South"
-housenumber: 16
-phone: "(727)-505-0503"
-opening_hours: "We-Th 17:00-22:00, Fr-Sa 17:00-23:00"
-website: "https://www.lolitaswinemarket.com/"
+street: 18th Street South
+housenumber: "16"
+phone: (727)-505-0503
+opening_hours: We-Th 17:00-22:00, Fr-Sa 17:00-23:00
+website: https://www.lolitaswinemarket.com/

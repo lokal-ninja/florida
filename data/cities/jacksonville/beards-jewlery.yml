@@ -1,11 +1,11 @@
 id: 346626144
-type: way
+type: node
 latitude: 30.25469
 longitude: -81.5311
 postcode: "32246"
 city: Jacksonville
-street: "Town Center Parkway"
-housenumber: 4845
+street: Town Center Parkway
+housenumber: "4845"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 355773051
-type: way
+type: node
 latitude: 30.59264
 longitude: -87.17551
 postcode: "32571"
 city: Pace
-street: "Caroline Street"
-housenumber: 3576
-phone: "+1 850-910-4098"
+street: Caroline Street
+housenumber: "3576"
+phone: +1 850-910-4098
 opening_hours: ""
-website: "https://www.racewaystores.com/"
+website: https://www.racewaystores.com/

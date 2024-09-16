@@ -1,11 +1,11 @@
 id: 376465275
-type: way
+type: node
 latitude: 30.26284
 longitude: -82.10993
 postcode: "32063"
 city: Macclenny
-street: "South State Road 228"
-housenumber: 9218
-phone: "+1 904-259-4760"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1205/macclenny-fl/whats-new"
+street: South State Road 228
+housenumber: "9218"
+phone: +1 904-259-4760
+opening_hours: 24/7
+website: https://www.walmart.com/store/1205/macclenny-fl/whats-new

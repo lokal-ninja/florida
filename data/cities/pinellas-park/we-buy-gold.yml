@@ -1,11 +1,11 @@
 id: 135837758
-type: way
+type: node
 latitude: 27.83856
 longitude: -82.68276
 postcode: "33781"
 city: Pinellas Park
-street: "34th Street North"
-housenumber: 7301
+street: 34th Street North
+housenumber: "7301"
 phone: ""
 opening_hours: ""
 website: ""

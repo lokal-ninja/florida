@@ -1,11 +1,11 @@
 id: 524341048
-type: way
+type: node
 latitude: 27.96644
 longitude: -82.48879
 postcode: "33607"
 city: Tampa
-street: "West Columbus Drive"
-housenumber: 2730
+street: West Columbus Drive
+housenumber: "2730"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 514329175
-type: way
+type: node
 latitude: 27.63917
 longitude: -80.43605
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 4850
-phone: "+1-772-778-3131"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-15:00"
-website: "http://keithsoilcan.com"
+street: 20th Street
+housenumber: "4850"
+phone: +1-772-778-3131
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-15:00
+website: http://keithsoilcan.com

@@ -1,11 +1,11 @@
 id: 637973935
-type: way
+type: node
 latitude: 30.18127
 longitude: -85.66696
 postcode: "32405"
 city: Panama City
-street: "Airport Road"
-housenumber: 517
+street: Airport Road
+housenumber: "517"
 phone: ""
 opening_hours: ""
 website: ""

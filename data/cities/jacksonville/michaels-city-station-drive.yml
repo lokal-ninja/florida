@@ -1,11 +1,11 @@
 id: 567590415
-type: way
+type: node
 latitude: 30.47976
 longitude: -81.64102
-postcode: "32218-7228"
+postcode: 32218-7228
 city: Jacksonville
-street: "City Station Drive"
-housenumber: 13281
-phone: "+1 904-714-9817"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/fl/jacksonville/6745"
+street: City Station Drive
+housenumber: "13281"
+phone: +1 904-714-9817
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/fl/jacksonville/6745

@@ -1,11 +1,11 @@
 id: 595972008
-type: way
+type: node
 latitude: 30.31847
 longitude: -82.96829
 postcode: "32064"
 city: Live Oak
-street: "72nd Trace Northeast"
-housenumber: 207
-phone: "+1 386-362-1515"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: 72nd Trace Northeast
+housenumber: "207"
+phone: +1 386-362-1515
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

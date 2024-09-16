@@ -1,11 +1,11 @@
 id: 555845432
-type: way
+type: node
 latitude: 24.5544
 longitude: -81.80324
 postcode: "33040"
 city: Key West
-street: "Whitehead Street"
-housenumber: 533
+street: Whitehead Street
+housenumber: "533"
 phone: ""
 opening_hours: ""
-website: "https://www.keywestohlala.com"
+website: https://www.keywestohlala.com

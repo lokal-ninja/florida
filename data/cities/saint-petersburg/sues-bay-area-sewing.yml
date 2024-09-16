@@ -1,11 +1,11 @@
 id: 523429319
-type: way
+type: node
 latitude: 27.82355
 longitude: -82.72902
 postcode: "33709"
 city: Saint Petersburg
-street: "66th Street North"
-housenumber: 5660
-phone: "727-547-5444"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-15:00"
-website: "https://suesbayareasewing.com"
+street: 66th Street North
+housenumber: "5660"
+phone: 727-547-5444
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-15:00
+website: https://suesbayareasewing.com

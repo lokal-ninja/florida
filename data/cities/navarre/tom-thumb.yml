@@ -1,11 +1,11 @@
 id: 322930432
-type: way
+type: node
 latitude: 30.41035
 longitude: -86.86982
 postcode: "32566"
 city: Navarre
-street: "Florida 87"
-housenumber: 2016
-phone: "+1 850 939 7866"
-opening_hours: "24/7"
+street: Florida 87
+housenumber: "2016"
+phone: +1 850 939 7866
+opening_hours: 24/7
 website: ""

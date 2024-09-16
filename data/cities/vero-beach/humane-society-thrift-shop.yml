@@ -1,11 +1,11 @@
 id: 508236553
-type: way
+type: node
 latitude: 27.63706
 longitude: -80.43195
 postcode: "32960"
 city: Vero Beach
-street: "20th Street"
-housenumber: 4425
-phone: "+1-772-567-2044"
-opening_hours: "Mo-Fr 10:00-16:00; Sa 09:00-16:00"
-website: "https://www.hsvb.org/"
+street: 20th Street
+housenumber: "4425"
+phone: +1-772-567-2044
+opening_hours: Mo-Fr 10:00-16:00; Sa 09:00-16:00
+website: https://www.hsvb.org/

@@ -1,11 +1,11 @@
 id: 254448941
-type: way
+type: node
 latitude: 30.16227
 longitude: -85.59359
 postcode: "32404"
 city: Callaway
-street: "North Tyndall Parkway"
-housenumber: 725
-phone: "+1 850-785-6011"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/1207-callaway-fl"
+street: North Tyndall Parkway
+housenumber: "725"
+phone: +1 850-785-6011
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/1207-callaway-fl

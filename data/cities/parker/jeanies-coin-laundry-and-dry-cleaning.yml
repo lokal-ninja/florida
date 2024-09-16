@@ -1,11 +1,11 @@
 id: 254448888
-type: way
+type: node
 latitude: 30.14307
 longitude: -85.59141
 postcode: "32404"
 city: Parker
-street: "South Tyndall Parkway"
-housenumber: 228
+street: South Tyndall Parkway
+housenumber: "228"
 phone: ""
 opening_hours: ""
 website: ""

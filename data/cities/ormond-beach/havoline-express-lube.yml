@@ -1,11 +1,11 @@
 id: 940170895
-type: way
+type: node
 latitude: 29.25976
 longitude: -81.1092
 postcode: "32174"
 city: Ormond Beach
-street: "West Granada Boulevard"
-housenumber: 1440
+street: West Granada Boulevard
+housenumber: "1440"
 phone: ""
 opening_hours: ""
 website: ""

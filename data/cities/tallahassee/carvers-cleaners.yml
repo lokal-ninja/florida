@@ -4,8 +4,8 @@ latitude: 30.45557
 longitude: -84.2801
 postcode: "32303"
 city: Tallahassee
-street: "North Monroe Street"
-housenumber: 1215
+street: North Monroe Street
+housenumber: "1215"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:40;Sa 08:00-15:30"
+opening_hours: Mo-Fr 07:00-18:40;Sa 08:00-15:30
 website: ""

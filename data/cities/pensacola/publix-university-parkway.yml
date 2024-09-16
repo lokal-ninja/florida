@@ -1,11 +1,11 @@
 id: 187337722
-type: way
+type: node
 latitude: 30.52988
 longitude: -87.22223
 postcode: "32514"
 city: Pensacola
-street: "University Parkway"
-housenumber: 9251
-phone: "+1 850-473-5000"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: University Parkway
+housenumber: "9251"
+phone: +1 850-473-5000
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

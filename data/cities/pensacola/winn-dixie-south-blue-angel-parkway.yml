@@ -1,11 +1,11 @@
 id: 319202763
-type: way
+type: node
 latitude: 30.40233
 longitude: -87.34069
 postcode: "32506"
 city: Pensacola
-street: "South Blue Angel Parkway"
-housenumber: 50
-phone: "+1 850-457-1395"
+street: South Blue Angel Parkway
+housenumber: "50"
+phone: +1 850-457-1395
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/pensacola/fl?search=535"
+website: https://www.winndixie.com/storedetails/pensacola/fl?search=535

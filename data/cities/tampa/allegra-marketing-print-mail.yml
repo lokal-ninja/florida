@@ -1,11 +1,11 @@
 id: 188795611
-type: way
+type: node
 latitude: 27.94752
 longitude: -82.45252
 postcode: "33602"
 city: Tampa
-street: "East Washington Street"
-housenumber: 801
+street: East Washington Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

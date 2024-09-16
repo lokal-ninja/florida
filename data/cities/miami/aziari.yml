@@ -4,8 +4,8 @@ latitude: 25.67916
 longitude: -80.31865
 postcode: "33156"
 city: Miami
-street: "Southwest 77th Avenue"
-housenumber: 9812
-phone: "+1 786-502-8998"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://aziari.miami/"
+street: Southwest 77th Avenue
+housenumber: "9812"
+phone: +1 786-502-8998
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://aziari.miami/

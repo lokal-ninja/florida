@@ -1,11 +1,11 @@
 id: 435566937
-type: way
+type: node
 latitude: 25.85698
 longitude: -80.12198
 postcode: "33141"
 city: Miami Beach
-street: "Abbott Avenue"
-housenumber: 7145
+street: Abbott Avenue
+housenumber: "7145"
 phone: ""
 opening_hours: ""
 website: ""

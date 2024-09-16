@@ -1,11 +1,11 @@
 id: 639823113
-type: way
+type: node
 latitude: 25.73364
 longitude: -80.30131
 postcode: "33155"
 city: Miami
-street: "Southwest 40th Street"
-housenumber: 6521
+street: Southwest 40th Street
+housenumber: "6521"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/miami/6521-bird-rd.html"
+website: https://www.autozone.com/locations/fl/miami/6521-bird-rd.html

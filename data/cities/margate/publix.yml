@@ -1,11 +1,11 @@
 id: 388769446
-type: way
+type: node
 latitude: 26.23374
 longitude: -80.22291
 postcode: "33063"
 city: Margate
-street: "West Atlantic Boulevard"
-housenumber: 7230
-phone: "+1 954-979-2555"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1895"
+street: West Atlantic Boulevard
+housenumber: "7230"
+phone: +1 954-979-2555
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1895

@@ -1,11 +1,13 @@
 id: 659528403
-type: way
+type: node
 latitude: 28.55352
 longitude: -81.36432
 postcode: "32803"
 city: Orlando
-street: "East Colonial Drive"
-housenumber: 1201
-phone: "+1-407-894-1521"
-opening_hours: "Su-Th 08:00-22:00, Fr-Sa 08:00-23:00 open Store || Mo-Fr 09:00-13:30, 14:00-18:00 open Pharmacy; Sa 10:00-13:30, 14:00-17:00 open Pharmacy; Su 10:00-13:30, 14:00-18:00 open Pharmacy"
-website: "https://www.cvs.com/store-locator/orlando-fl-pharmacies/1201-e-colonial-dr-orlando-fl-32803/storeid=1314"
+street: East Colonial Drive
+housenumber: "1201"
+phone: +1-407-894-1521
+opening_hours: Su-Th 08:00-22:00, Fr-Sa 08:00-23:00 open "Store" || Mo-Fr 09:00-13:30,
+    14:00-18:00 open "Pharmacy"; Sa 10:00-13:30, 14:00-17:00 open "Pharmacy"; Su 10:00-13:30,
+    14:00-18:00 open "Pharmacy"
+website: https://www.cvs.com/store-locator/orlando-fl-pharmacies/1201-e-colonial-dr-orlando-fl-32803/storeid=1314

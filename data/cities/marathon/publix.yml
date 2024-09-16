@@ -1,11 +1,11 @@
 id: 85111533
-type: way
+type: node
 latitude: 24.71463
 longitude: -81.07588
-postcode: "33050-2710"
+postcode: 33050-2710
 city: Marathon
-street: "Overseas Highway"
-housenumber: 5407
-phone: "+1 305-289-2920"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/575"
+street: Overseas Highway
+housenumber: "5407"
+phone: +1 305-289-2920
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/575

@@ -1,11 +1,11 @@
 id: 366227362
-type: way
+type: node
 latitude: 29.55379
 longitude: -81.25505
 postcode: "32137"
 city: Palm Coast
-street: "Palm Coast Parkway Northwest"
-housenumber: 5002
-phone: "+1 386 868 1281"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00, Su 08:00-17:00"
-website: "https://local.tiresplus.com/florida/palm-coast/5002-palm-coast-pkwy-nw/"
+street: Palm Coast Parkway Northwest
+housenumber: "5002"
+phone: +1 386 868 1281
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-18:00, Su 08:00-17:00
+website: https://local.tiresplus.com/florida/palm-coast/5002-palm-coast-pkwy-nw/

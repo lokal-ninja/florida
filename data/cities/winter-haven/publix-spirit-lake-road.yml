@@ -1,11 +1,11 @@
 id: 745044336
-type: way
+type: node
 latitude: 28.00602
 longitude: -81.77702
-postcode: "33880-1226"
+postcode: 33880-1226
 city: Winter Haven
-street: "Spirit Lake Road"
-housenumber: 1090
-phone: "+1 863-293-3804"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/425"
+street: Spirit Lake Road
+housenumber: "1090"
+phone: +1 863-293-3804
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/425

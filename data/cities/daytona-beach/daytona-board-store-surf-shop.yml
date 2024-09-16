@@ -1,11 +1,11 @@
 id: 925796394
-type: way
+type: node
 latitude: 29.2002
 longitude: -80.99533
 postcode: "32118"
 city: Daytona Beach
-street: "South Atlantic Avenue"
-housenumber: 2544
+street: South Atlantic Avenue
+housenumber: "2544"
 phone: ""
 opening_hours: ""
 website: ""

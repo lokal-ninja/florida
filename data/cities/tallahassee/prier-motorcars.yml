@@ -1,11 +1,11 @@
 id: 426851929
-type: way
+type: node
 latitude: 30.45744
 longitude: -84.34734
 postcode: ""
 city: Tallahassee
-street: "West Tennessee Street"
-housenumber: 3110
+street: West Tennessee Street
+housenumber: "3110"
 phone: ""
 opening_hours: ""
 website: ""

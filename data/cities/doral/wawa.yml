@@ -1,11 +1,11 @@
 id: 836521254
-type: way
+type: node
 latitude: 25.80605
 longitude: -80.33771
 postcode: "33172"
 city: Doral
-street: "Northwest 87th Avenue"
-housenumber: 3300
-phone: "+1-786-558-1041"
-opening_hours: "24/7"
-website: "https://www.wawa.com/about/locations/store-locator"
+street: Northwest 87th Avenue
+housenumber: "3300"
+phone: +1-786-558-1041
+opening_hours: 24/7
+website: https://www.wawa.com/about/locations/store-locator

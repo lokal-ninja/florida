@@ -1,11 +1,11 @@
 id: 212810818
-type: way
+type: node
 latitude: 28.25539
 longitude: -81.31471
 postcode: "34769"
 city: Saint Cloud
-street: "13th Street"
-housenumber: 4400
-phone: "+1 407-957-1300"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1086/saint-cloud-fl/whats-new"
+street: 13th Street
+housenumber: "4400"
+phone: +1 407-957-1300
+opening_hours: 24/7
+website: https://www.walmart.com/store/1086/saint-cloud-fl/whats-new

@@ -2,10 +2,10 @@ id: 8365512702
 type: node
 latitude: 26.05873
 longitude: -80.16137
-postcode: "33004-2200"
+postcode: 33004-2200
 city: Dania Beach
-street: "Griffin Road"
-housenumber: 1855
-phone: "+1-954.342.4009"
-opening_hours: "Mo-Fr 09:00-17:00; Sa by appointment"
-website: "https://eggersmannusa.com/florida-german-kitchen-showroom/"
+street: Griffin Road
+housenumber: "1855"
+phone: +1-954.342.4009
+opening_hours: Mo-Fr 09:00-17:00; Sa "by appointment"
+website: https://eggersmannusa.com/florida-german-kitchen-showroom/

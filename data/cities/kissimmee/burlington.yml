@@ -1,11 +1,11 @@
 id: 551561081
-type: way
+type: node
 latitude: 28.33797
 longitude: -81.41021
 postcode: "34741"
 city: Kissimmee
-street: "West Osceola Parkway"
-housenumber: 740
-phone: "+1 321-697-5021"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/fl/kissimmee/983"
+street: West Osceola Parkway
+housenumber: "740"
+phone: +1 321-697-5021
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/fl/kissimmee/983

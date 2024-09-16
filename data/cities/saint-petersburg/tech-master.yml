@@ -1,11 +1,11 @@
 id: 206039449
-type: way
+type: node
 latitude: 27.79427
 longitude: -82.64655
 postcode: "33704"
 city: Saint Petersburg
-street: "9th Street North"
-housenumber: 2401
+street: 9th Street North
+housenumber: "2401"
 phone: ""
 opening_hours: ""
 website: ""

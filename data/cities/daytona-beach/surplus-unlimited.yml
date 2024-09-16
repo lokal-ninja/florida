@@ -1,11 +1,11 @@
 id: 361219943
-type: way
+type: node
 latitude: 29.20779
 longitude: -81.02889
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 613
-phone: "+1 800 842 5403"
-opening_hours: "Mo-Fr 08:30-17:00, Sa 09:00-16:00"
-website: "https://www.surplusunlimited.com/"
+street: International Speedway Boulevard
+housenumber: "613"
+phone: +1 800 842 5403
+opening_hours: Mo-Fr 08:30-17:00, Sa 09:00-16:00
+website: https://www.surplusunlimited.com/

@@ -1,11 +1,11 @@
 id: 61407016
-type: way
+type: node
 latitude: 29.17912
 longitude: -81.08436
 postcode: "32114"
 city: Daytona Beach
-street: "West International Speedway Boulevard"
-housenumber: 2500
-phone: "+1 386-947-9310"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 10:00-21:00"
-website: "https://www.totalwine.com/store-info/923"
+street: West International Speedway Boulevard
+housenumber: "2500"
+phone: +1 386-947-9310
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 10:00-21:00
+website: https://www.totalwine.com/store-info/923

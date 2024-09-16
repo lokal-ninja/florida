@@ -1,11 +1,11 @@
 id: 1082083540
-type: way
+type: node
 latitude: 30.21048
 longitude: -84.3645
 postcode: "32327"
 city: Crawfordville
-street: "Crawfordville Highway"
-housenumber: 2219
+street: Crawfordville Highway
+housenumber: "2219"
 phone: "+18509266526"
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 524315721
-type: way
+type: node
 latitude: 27.95233
 longitude: -82.50851
 postcode: "33607"
 city: Tampa
-street: "West Cypress Street"
-housenumber: 3935
+street: West Cypress Street
+housenumber: "3935"
 phone: ""
 opening_hours: ""
 website: ""

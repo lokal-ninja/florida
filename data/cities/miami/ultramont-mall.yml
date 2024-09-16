@@ -1,11 +1,11 @@
 id: 435576204
-type: way
+type: node
 latitude: 25.77266
 longitude: -80.19104
 postcode: "33131"
 city: Miami
-street: "Southeast 1st Street"
-housenumber: 100
+street: Southeast 1st Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

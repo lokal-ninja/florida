@@ -1,11 +1,11 @@
 id: 554327726
-type: way
+type: node
 latitude: 29.02849
 longitude: -80.89318
 postcode: "32169"
 city: New Smyrna Beach
-street: "State Road A1a;State Road A1A"
-housenumber: 801
+street: State Road A1a;State Road A1A
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

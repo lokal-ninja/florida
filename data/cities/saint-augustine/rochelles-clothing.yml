@@ -1,11 +1,11 @@
 id: 291802522
-type: way
+type: node
 latitude: 29.89238
 longitude: -81.30202
 postcode: "32084"
 city: Saint Augustine
-street: "Anastasia Boulevard"
-housenumber: 104
+street: Anastasia Boulevard
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 640436907
-type: way
+type: node
 latitude: 30.15106
 longitude: -81.75347
 postcode: "32073"
 city: Orange Park
-street: "Blanding Boulevard"
-housenumber: 630
+street: Blanding Boulevard
+housenumber: "630"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-630+blanding+blvd-orange+park-fl-32073/id=4081"
+website: https://www.walgreens.com/locator/walgreens-630+blanding+blvd-orange+park-fl-32073/id=4081

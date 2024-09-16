@@ -1,11 +1,11 @@
 id: 435577315
-type: way
+type: node
 latitude: 25.74762
 longitude: -80.30372
 postcode: "33155"
 city: Miami
-street: "Southwest 67th Avenue"
-housenumber: 2440
+street: Southwest 67th Avenue
+housenumber: "2440"
 phone: ""
 opening_hours: ""
 website: ""

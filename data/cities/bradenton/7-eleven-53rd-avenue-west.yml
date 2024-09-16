@@ -1,11 +1,11 @@
 id: 494698993
-type: way
+type: node
 latitude: 27.44746
 longitude: -82.58823
 postcode: "34207"
 city: Bradenton
-street: "53rd Avenue West"
-housenumber: 2604
-phone: "+1 941-753-5269"
+street: 53rd Avenue West
+housenumber: "2604"
+phone: +1 941-753-5269
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/fl/bradenton/2604-53rd-ave-west-34328"
+website: https://www.7-eleven.com/locations/fl/bradenton/2604-53rd-ave-west-34328

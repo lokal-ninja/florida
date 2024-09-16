@@ -1,11 +1,11 @@
 id: 271041497
-type: way
+type: node
 latitude: 30.43202
 longitude: -84.2802
 postcode: "32301"
 city: Tallahassee
-street: "South Monroe Street"
-housenumber: 1215
+street: South Monroe Street
+housenumber: "1215"
 phone: ""
 opening_hours: ""
-website: "https://www.orionmotorsports.net/"
+website: https://www.orionmotorsports.net/

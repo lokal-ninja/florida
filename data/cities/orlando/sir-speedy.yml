@@ -1,11 +1,11 @@
 id: 80651869
-type: way
+type: node
 latitude: 28.54619
 longitude: -81.37898
 postcode: ""
 city: Orlando
-street: "North Orange Avenue"
-housenumber: 317
+street: North Orange Avenue
+housenumber: "317"
 phone: ""
 opening_hours: ""
 website: ""

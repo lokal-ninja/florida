@@ -1,11 +1,11 @@
 id: 384846815
-type: way
+type: node
 latitude: 27.91339
 longitude: -82.72806
 postcode: "33760"
 city: Clearwater
-street: "Roosevelt Boulevard"
-housenumber: 2677
-phone: "+1 727-431-5917"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3372/largo-fl/whats-new"
+street: Roosevelt Boulevard
+housenumber: "2677"
+phone: +1 727-431-5917
+opening_hours: 24/7
+website: https://www.walmart.com/store/3372/largo-fl/whats-new

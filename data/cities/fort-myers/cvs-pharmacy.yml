@@ -1,11 +1,11 @@
 id: 165929955
-type: way
+type: node
 latitude: 26.61868
 longitude: -81.76883
 postcode: "33905"
 city: Fort Myers
-street: "SR 82"
-housenumber: 11300
+street: SR 82
+housenumber: "11300"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/fort-myers-fl-pharmacies/11300-state-road-82-fort-myers-fl-33905/storeid=7983"
+website: https://www.cvs.com/store-locator/fort-myers-fl-pharmacies/11300-state-road-82-fort-myers-fl-33905/storeid=7983

@@ -1,11 +1,11 @@
 id: 518565737
-type: way
+type: node
 latitude: 30.43699
 longitude: -84.25758
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 1500
+street: Apalachee Parkway
+housenumber: "1500"
 phone: ""
 opening_hours: ""
-website: "https://www.governorssquare.com/"
+website: https://www.governorssquare.com/

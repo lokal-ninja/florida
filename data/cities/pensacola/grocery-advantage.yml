@@ -1,11 +1,11 @@
 id: 354346504
-type: way
+type: node
 latitude: 30.50851
 longitude: -87.21881
 postcode: "32514"
 city: Pensacola
-street: "North Davis Highway"
-housenumber: 8084
-phone: "+1 850-478-0032"
+street: North Davis Highway
+housenumber: "8084"
+phone: +1 850-478-0032
 opening_hours: ""
 website: ""

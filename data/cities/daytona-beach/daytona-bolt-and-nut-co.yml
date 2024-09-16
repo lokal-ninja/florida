@@ -1,11 +1,11 @@
 id: 1000385718
-type: way
+type: node
 latitude: 29.22798
 longitude: -81.02575
 postcode: "32114"
 city: Daytona Beach
-street: "North Beach Street"
-housenumber: 815
-phone: "+1 386 736 8257"
-opening_hours: "Mo-Fr 07:30-16:00"
-website: "https://www.daytonabolt.com/index.html"
+street: North Beach Street
+housenumber: "815"
+phone: +1 386 736 8257
+opening_hours: Mo-Fr 07:30-16:00
+website: https://www.daytonabolt.com/index.html

@@ -1,11 +1,11 @@
 id: 279141149
-type: way
+type: node
 latitude: 28.01181
 longitude: -81.72756
 postcode: "33880"
 city: Winter Haven
-street: "1st Street South"
-housenumber: 1099
+street: 1st Street South
+housenumber: "1099"
 phone: ""
 opening_hours: ""
 website: ""

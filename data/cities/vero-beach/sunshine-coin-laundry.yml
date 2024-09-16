@@ -1,11 +1,11 @@
 id: 701167242
-type: way
+type: node
 latitude: 27.63087
 longitude: -80.39905
 postcode: "32960"
 city: Vero Beach
-street: "16th Street"
-housenumber: 1405
-phone: "+1-772-567-8700"
-opening_hours: "24/7"
+street: 16th Street
+housenumber: "1405"
+phone: +1-772-567-8700
+opening_hours: 24/7
 website: ""

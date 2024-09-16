@@ -1,11 +1,11 @@
 id: 549444211
-type: way
+type: node
 latitude: 26.65054
 longitude: -80.08488
 postcode: "33406"
 city: West Palm Beach
-street: "Forest Hill Boulevard"
-housenumber: 2822
+street: Forest Hill Boulevard
+housenumber: "2822"
 phone: ""
 opening_hours: ""
 website: ""

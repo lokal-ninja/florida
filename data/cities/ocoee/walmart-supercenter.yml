@@ -1,11 +1,11 @@
 id: 138202967
-type: way
+type: node
 latitude: 28.55035
 longitude: -81.53318
 postcode: "34761"
 city: Ocoee
-street: "West Colonial Drive"
-housenumber: 10500
-phone: "+1-407-877-6900"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/942/ocoee-fl/whats-new"
+street: West Colonial Drive
+housenumber: "10500"
+phone: +1-407-877-6900
+opening_hours: 24/7
+website: https://www.walmart.com/store/942/ocoee-fl/whats-new

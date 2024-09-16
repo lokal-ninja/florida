@@ -1,11 +1,11 @@
 id: 814242654
-type: way
+type: node
 latitude: 26.41712
 longitude: -81.41977
 postcode: "34142"
 city: Immokalee
-street: "South 3rd Street"
-housenumber: 190
+street: South 3rd Street
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

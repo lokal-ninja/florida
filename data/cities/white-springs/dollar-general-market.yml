@@ -1,11 +1,11 @@
 id: 1065520431
-type: way
+type: node
 latitude: 30.32927
 longitude: -82.74682
 postcode: ""
 city: White Springs
-street: "Spring Street"
-housenumber: 16881
+street: Spring Street
+housenumber: "16881"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/fl/white-springs/6515"
+website: https://www.dollargeneral.com/store-directory/fl/white-springs/6515

@@ -1,11 +1,11 @@
 id: 312412118
-type: way
+type: node
 latitude: 28.52501
 longitude: -81.73388
 postcode: "34711"
 city: Clermont
-street: "South Highway 27"
-housenumber: 12305
-phone: "+1 352-394-0441"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://www.kohls.com/stores/fl/clermont-799.shtml"
+street: South Highway 27
+housenumber: "12305"
+phone: +1 352-394-0441
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://www.kohls.com/stores/fl/clermont-799.shtml

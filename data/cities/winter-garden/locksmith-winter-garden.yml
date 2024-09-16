@@ -1,11 +1,11 @@
 id: 737392478
-type: way
+type: node
 latitude: 28.55269
 longitude: -81.58472
 postcode: "34787"
 city: Winter Garden
-street: "South Dillard Street"
-housenumber: 1002
-phone: "+1-407-378-5205"
+street: South Dillard Street
+housenumber: "1002"
+phone: +1-407-378-5205
 opening_hours: ""
-website: "https://www.locksmithwintergarden.com/"
+website: https://www.locksmithwintergarden.com/

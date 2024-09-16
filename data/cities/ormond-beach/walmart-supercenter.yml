@@ -1,11 +1,11 @@
 id: 138988401
-type: way
+type: node
 latitude: 29.25962
 longitude: -81.11485
 postcode: "32174"
 city: Ormond Beach
-street: "West Granada Boulevard"
-housenumber: 1521
-phone: "+1 386-672-2104"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/613/ormond-beach-fl/whats-new"
+street: West Granada Boulevard
+housenumber: "1521"
+phone: +1 386-672-2104
+opening_hours: 24/7
+website: https://www.walmart.com/store/613/ormond-beach-fl/whats-new

@@ -1,11 +1,11 @@
 id: 509049329
-type: way
+type: node
 latitude: 30.44139
 longitude: -84.26226
 postcode: "32301"
 city: Tallahassee
-street: "South Magnolia Drive"
-housenumber: 214
+street: South Magnolia Drive
+housenumber: "214"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00;Su 12:00-17:00"
-website: "https://www.xfinity.com/"
+opening_hours: Mo-Sa 08:00-19:00;Su 12:00-17:00
+website: https://www.xfinity.com/

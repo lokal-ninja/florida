@@ -1,11 +1,11 @@
 id: 548048618
-type: way
+type: node
 latitude: 30.4042
 longitude: -87.2269
 postcode: "32502"
 city: Pensacola
-street: "South B Street"
-housenumber: 524
+street: South B Street
+housenumber: "524"
 phone: ""
 opening_hours: ""
 website: ""

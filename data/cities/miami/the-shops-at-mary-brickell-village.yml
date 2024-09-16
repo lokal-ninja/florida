@@ -1,11 +1,11 @@
 id: 436110281
-type: way
+type: node
 latitude: 25.76496
 longitude: -80.19352
 postcode: "33130"
 city: Miami
-street: "South Miami Avenue"
-housenumber: 901
+street: South Miami Avenue
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

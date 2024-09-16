@@ -1,11 +1,11 @@
 id: 842822978
-type: way
+type: node
 latitude: 25.85532
 longitude: -80.13054
 postcode: "33141"
 city: Miami Beach
-street: "Normandy Drive"
-housenumber: 1166
+street: Normandy Drive
+housenumber: "1166"
 phone: ""
 opening_hours: ""
 website: ""

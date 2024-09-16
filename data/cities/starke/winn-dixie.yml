@@ -1,11 +1,11 @@
 id: 111996511
-type: way
+type: node
 latitude: 29.94331
 longitude: -82.11477
 postcode: "32091"
 city: Starke
-street: "West Madison Street"
-housenumber: 470
-phone: "+1 904-964-8673"
+street: West Madison Street
+housenumber: "470"
+phone: +1 904-964-8673
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/starke/fl?search=85"
+website: https://www.winndixie.com/storedetails/starke/fl?search=85

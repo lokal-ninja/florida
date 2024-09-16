@@ -1,11 +1,11 @@
 id: 717425235
-type: way
+type: node
 latitude: 28.04172
 longitude: -82.58099
 postcode: "33625"
 city: Tampa
-street: "West Linebaugh Avenue"
-housenumber: 8712
-phone: "+1 813-616-7001"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/w-tampa-tampa-fl-1262.html"
+street: West Linebaugh Avenue
+housenumber: "8712"
+phone: +1 813-616-7001
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/w-tampa-tampa-fl-1262.html

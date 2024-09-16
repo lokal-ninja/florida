@@ -1,11 +1,11 @@
 id: 433529010
-type: way
+type: node
 latitude: 29.62804
 longitude: -82.38882
 postcode: "32608"
 city: Gainesville
-street: "Southwest 42nd Street"
-housenumber: 2900
-phone: "+1 352-371-3171"
-opening_hours: "24/7; Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/1081-gainesville-fl"
+street: Southwest 42nd Street
+housenumber: "2900"
+phone: +1 352-371-3171
+opening_hours: 24/7; Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/1081-gainesville-fl

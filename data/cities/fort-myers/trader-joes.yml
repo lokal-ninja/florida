@@ -1,11 +1,11 @@
 id: 953888354
-type: way
+type: node
 latitude: 26.58741
 longitude: -81.86946
 postcode: "33907"
 city: Fort Myers
-street: "South Cleveland Avenue"
-housenumber: 4983
-phone: "+1 239-275-1712"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://locations.traderjoes.com/fl/fort-myers/784/"
+street: South Cleveland Avenue
+housenumber: "4983"
+phone: +1 239-275-1712
+opening_hours: Mo-Su 09:00-21:00
+website: https://locations.traderjoes.com/fl/fort-myers/784/

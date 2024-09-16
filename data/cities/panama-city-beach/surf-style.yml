@@ -1,11 +1,11 @@
 id: 756342516
-type: way
+type: node
 latitude: 30.19354
 longitude: -85.83537
 postcode: "32407"
 city: Panama City Beach
-street: "Front Beach Road"
-housenumber: 12620
+street: Front Beach Road
+housenumber: "12620"
 phone: ""
 opening_hours: ""
-website: "https://www.surfstyle.com/"
+website: https://www.surfstyle.com/

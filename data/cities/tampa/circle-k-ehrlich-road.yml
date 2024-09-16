@@ -1,11 +1,11 @@
 id: 991608503
-type: way
+type: node
 latitude: 28.0849
 longitude: -82.53964
 postcode: "33624"
 city: Tampa
-street: "Ehrlich Road"
-housenumber: 5299
-phone: "+1-813-269-9575"
+street: Ehrlich Road
+housenumber: "5299"
+phone: +1-813-269-9575
 opening_hours: ""
-website: "https://www.circlek.com/store-locator/US/tampa/5299-ehrlich-rd/2707106"
+website: https://www.circlek.com/store-locator/US/tampa/5299-ehrlich-rd/2707106

@@ -1,11 +1,11 @@
 id: 523817217
-type: way
+type: node
 latitude: 28.05159
 longitude: -82.45855
 postcode: "33612"
 city: Tampa
-street: "North Florida Avenue"
-housenumber: 11111
+street: North Florida Avenue
+housenumber: "11111"
 phone: ""
 opening_hours: ""
 website: ""

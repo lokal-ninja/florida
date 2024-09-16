@@ -1,11 +1,11 @@
 id: 643925225
-type: way
+type: node
 latitude: 27.39
 longitude: -82.50252
 postcode: "34243"
 city: Sarasota
-street: "University Parkway"
-housenumber: 3265
+street: University Parkway
+housenumber: "3265"
 phone: ""
 opening_hours: ""
 website: ""

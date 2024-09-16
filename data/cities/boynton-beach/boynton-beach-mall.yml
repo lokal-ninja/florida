@@ -1,11 +1,11 @@
 id: 47003554
-type: way
+type: node
 latitude: 26.53886
 longitude: -80.09857
 postcode: "33426"
 city: Boynton Beach
-street: "Congress Avenue"
-housenumber: 801
+street: Congress Avenue
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

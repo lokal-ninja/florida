@@ -1,11 +1,11 @@
 id: 586316956
-type: way
+type: node
 latitude: 30.31712
 longitude: -81.56066
 postcode: "32211"
 city: Jacksonville
-street: "Mill Creek Road"
-housenumber: 142
+street: Mill Creek Road
+housenumber: "142"
 phone: "+19046347599"
 opening_hours: ""
-website: "https://www.unitedimportscars.com/"
+website: https://www.unitedimportscars.com/

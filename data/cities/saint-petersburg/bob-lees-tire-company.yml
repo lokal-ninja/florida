@@ -1,11 +1,11 @@
 id: 192562237
-type: way
+type: node
 latitude: 27.78801
 longitude: -82.63832
 postcode: "33704"
 city: Saint Petersburg
-street: "4th Street North"
-housenumber: 1631
-phone: "+1-727-822-3981"
+street: 4th Street North
+housenumber: "1631"
+phone: +1-727-822-3981
 opening_hours: ""
-website: "www.bobleestire.com"
+website: www.bobleestire.com

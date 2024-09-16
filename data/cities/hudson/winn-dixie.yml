@@ -1,11 +1,11 @@
 id: 922508055
-type: way
+type: node
 latitude: 28.36245
 longitude: -82.69215
 postcode: "34667"
 city: Hudson
-street: "US 19"
-housenumber: 14134
-phone: "+1 727-863-9298"
+street: US 19
+housenumber: "14134"
+phone: +1 727-863-9298
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/hudson/fl?search=710"
+website: https://www.winndixie.com/storedetails/hudson/fl?search=710

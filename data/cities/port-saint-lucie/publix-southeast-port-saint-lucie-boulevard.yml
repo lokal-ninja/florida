@@ -1,11 +1,11 @@
 id: 963292176
-type: way
+type: node
 latitude: 27.27261
 longitude: -80.31612
 postcode: "34952"
 city: Port Saint Lucie
-street: "Southeast Port Saint Lucie Boulevard"
-housenumber: 1125
-phone: "+1 772-335-8441"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1378"
+street: Southeast Port Saint Lucie Boulevard
+housenumber: "1125"
+phone: +1 772-335-8441
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1378

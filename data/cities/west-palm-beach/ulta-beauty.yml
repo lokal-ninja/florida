@@ -4,8 +4,8 @@ latitude: 26.72304
 longitude: -80.09021
 postcode: "33401"
 city: West Palm Beach
-street: "Palm Beach Lakes Boulevard"
-housenumber: 1855
-phone: "+1 561-471-5122"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/west-palm-beach-fl-781"
+street: Palm Beach Lakes Boulevard
+housenumber: "1855"
+phone: +1 561-471-5122
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/west-palm-beach-fl-781

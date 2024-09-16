@@ -1,11 +1,11 @@
 id: 192508094
-type: way
+type: node
 latitude: 27.8397
 longitude: -82.72559
 postcode: "33781"
 city: Pinellas Park
-street: "Park Boulevard"
-housenumber: 6465
+street: Park Boulevard
+housenumber: "6465"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/pinellas-park/6465-park-blvd.html"
+website: https://www.autozone.com/locations/fl/pinellas-park/6465-park-blvd.html

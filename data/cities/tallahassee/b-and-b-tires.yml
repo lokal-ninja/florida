@@ -1,11 +1,11 @@
 id: 931407973
-type: way
+type: node
 latitude: 30.44889
 longitude: -84.2899
 postcode: "32301"
 city: Tallahassee
-street: "West Brevard Street"
-housenumber: 537
+street: West Brevard Street
+housenumber: "537"
 phone: ""
 opening_hours: ""
-website: "https://b-b-tires-tallahassee.edan.io/"
+website: https://b-b-tires-tallahassee.edan.io/

@@ -1,11 +1,11 @@
 id: 710761412
-type: way
+type: node
 latitude: 30.76992
 longitude: -86.56683
-postcode: "32536-2114"
+postcode: 32536-2114
 city: Crestview
-street: "North Ferdon Boulevard"
-housenumber: 702
-phone: "+1 850-682-6148"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-17:00"
+street: North Ferdon Boulevard
+housenumber: "702"
+phone: +1 850-682-6148
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-17:00
 website: ""

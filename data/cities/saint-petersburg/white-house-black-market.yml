@@ -4,8 +4,8 @@ latitude: 27.77388
 longitude: -82.63447
 postcode: "33701"
 city: Saint Petersburg
-street: "2nd Avenue North"
-housenumber: 107
+street: 2nd Avenue North
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.whitehouseblackmarket.com"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.whitehouseblackmarket.com

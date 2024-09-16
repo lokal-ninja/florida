@@ -1,11 +1,11 @@
 id: 143515419
-type: way
+type: node
 latitude: 28.55205
 longitude: -80.84627
 postcode: "32780"
 city: Titusville
-street: "Columbia Boulevard"
-housenumber: 3373
-phone: "+1 321-383-8334"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Titusville/FL/Titusville/32780/6871"
+street: Columbia Boulevard
+housenumber: "3373"
+phone: +1 321-383-8334
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Titusville/FL/Titusville/32780/6871

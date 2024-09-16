@@ -1,11 +1,11 @@
 id: 287308515
-type: way
+type: node
 latitude: 29.7275
 longitude: -84.98456
 postcode: "32320"
 city: Apalachicola
-street: "Market Street"
-housenumber: 94
-phone: "+1 850-653-9595"
+street: Market Street
+housenumber: "94"
+phone: +1 850-653-9595
 opening_hours: ""
 website: ""

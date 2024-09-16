@@ -1,11 +1,11 @@
 id: 178405472
-type: way
+type: node
 latitude: 30.60131
 longitude: -87.10843
 postcode: "32571"
 city: Pace
-street: "Highway 90"
-housenumber: 5143
-phone: "+1 850-463-9000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-pace/2715"
+street: Highway 90
+housenumber: "5143"
+phone: +1 850-463-9000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-pace/2715

@@ -1,11 +1,11 @@
 id: 254448892
-type: way
+type: node
 latitude: 30.14466
 longitude: -85.59237
 postcode: "32404"
 city: Parker
-street: "South Tyndall Parkway"
-housenumber: 132
-phone: "+1 850-913-0086"
+street: South Tyndall Parkway
+housenumber: "132"
+phone: +1 850-913-0086
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/parker/fl?search=538"
+website: https://www.winndixie.com/storedetails/parker/fl?search=538

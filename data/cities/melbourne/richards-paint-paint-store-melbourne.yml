@@ -1,11 +1,11 @@
 id: 976154097
-type: way
+type: node
 latitude: 28.17251
 longitude: -80.67114
 postcode: "32935"
 city: Melbourne
-street: "Post Road"
-housenumber: 2900
-phone: "+1-321-242-1864"
+street: Post Road
+housenumber: "2900"
+phone: +1-321-242-1864
 opening_hours: ""
-website: "https://www.richardspaint.com/"
+website: https://www.richardspaint.com/

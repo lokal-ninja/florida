@@ -1,11 +1,11 @@
 id: 189269718
-type: way
+type: node
 latitude: 27.8347
 longitude: -82.72804
 postcode: "33709"
 city: Pinellas Park
-street: "66th Street North"
-housenumber: 
+street: 66th Street North
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

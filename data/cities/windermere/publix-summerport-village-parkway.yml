@@ -1,11 +1,11 @@
 id: 469237491
-type: way
+type: node
 latitude: 28.47677
 longitude: -81.58418
-postcode: "34786-7366"
+postcode: 34786-7366
 city: Windermere
-street: "Summerport Village Parkway"
-housenumber: 13450
-phone: "+1 407-905-0199"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1106"
+street: Summerport Village Parkway
+housenumber: "13450"
+phone: +1 407-905-0199
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1106

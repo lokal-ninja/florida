@@ -4,8 +4,8 @@ latitude: 27.79045
 longitude: -82.67271
 postcode: "33713"
 city: St. Petersburg
-street: "20th Avenue North"
-housenumber: 2869
-phone: "+1-727-224-2911"
-opening_hours: "We-Sa 12:00-17:00"
-website: "https://lindystearoom.com"
+street: 20th Avenue North
+housenumber: "2869"
+phone: +1-727-224-2911
+opening_hours: We-Sa 12:00-17:00
+website: https://lindystearoom.com

@@ -1,11 +1,11 @@
 id: 524527245
-type: way
+type: node
 latitude: 27.96057
 longitude: -82.43618
 postcode: "33605"
 city: Tampa
-street: "East 7th Avenue"
-housenumber: 2014
+street: East 7th Avenue
+housenumber: "2014"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-16:00
 website: ""

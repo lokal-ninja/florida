@@ -1,11 +1,11 @@
 id: 91990173
-type: way
+type: node
 latitude: 26.28567
 longitude: -80.23591
 postcode: "33067"
 city: Coral Springs
-street: "Wiles Road"
-housenumber: 8160
-phone: "+1 954-688-5340"
-opening_hours: "Mo-Sa 07:00-23:00;Su 07:00-22:00"
-website: "https://www.publix.com/locations/1719"
+street: Wiles Road
+housenumber: "8160"
+phone: +1 954-688-5340
+opening_hours: Mo-Sa 07:00-23:00;Su 07:00-22:00
+website: https://www.publix.com/locations/1719

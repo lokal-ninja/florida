@@ -1,11 +1,11 @@
 id: 705027757
-type: way
+type: node
 latitude: 30.75322
 longitude: -86.56377
 postcode: ""
 city: Crestview
-street: "South Ferdon Boulevard"
-housenumber: 701
+street: South Ferdon Boulevard
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

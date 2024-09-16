@@ -1,11 +1,11 @@
 id: 353326444
-type: way
+type: node
 latitude: 30.47869
 longitude: -87.20761
 postcode: "32504"
 city: Pensacola
-street: "North 9th Avenue"
-housenumber: 5600
-phone: "+1 850-478-1311"
+street: North 9th Avenue
+housenumber: "5600"
+phone: +1 850-478-1311
 opening_hours: ""
-website: "http://www.verizonwireless.com/"
+website: http://www.verizonwireless.com/

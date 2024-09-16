@@ -1,11 +1,11 @@
 id: 314672912
-type: way
+type: node
 latitude: 28.41265
 longitude: -81.24118
-postcode: "32832-6904"
+postcode: 32832-6904
 city: Orlando
-street: "Narcoossee Road"
-housenumber: 10615
-phone: "+1 407-277-1089"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/886"
+street: Narcoossee Road
+housenumber: "10615"
+phone: +1 407-277-1089
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/886

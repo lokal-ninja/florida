@@ -4,8 +4,8 @@ latitude: 26.92858
 longitude: -80.14214
 postcode: "33458"
 city: Jupiter
-street: "Capital Street"
-housenumber: 400
-phone: "+1 561-745-1719"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 09:00-16:00, Su 09:00-18:00"
-website: "https://lushpuppypetresort.com/"
+street: Capital Street
+housenumber: "400"
+phone: +1 561-745-1719
+opening_hours: Mo-Fr 07:00-19:00, Sa 09:00-16:00, Su 09:00-18:00
+website: https://lushpuppypetresort.com/

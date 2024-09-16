@@ -1,11 +1,11 @@
 id: 841971495
-type: way
+type: node
 latitude: 28.5427
 longitude: -81.15293
 postcode: "32828"
 city: Orlando
-street: "Avalon Park S Boulevard"
-housenumber: 333
+street: Avalon Park S Boulevard
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

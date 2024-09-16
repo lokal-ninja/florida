@@ -1,11 +1,11 @@
 id: 796671147
-type: way
+type: node
 latitude: 27.44456
 longitude: -82.50391
 postcode: "34203"
 city: Bradenton
-street: "53rd Avenue East"
-housenumber: 4536
-phone: "+1 941-213-6911"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/7307/bradenton-fl/whats-new"
+street: 53rd Avenue East
+housenumber: "4536"
+phone: +1 941-213-6911
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/7307/bradenton-fl/whats-new

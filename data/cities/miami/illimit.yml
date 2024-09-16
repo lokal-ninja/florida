@@ -4,8 +4,8 @@ latitude: 25.80203
 longitude: -80.19903
 postcode: "33127"
 city: Miami
-street: "Northwest 2nd Avenue"
-housenumber: 2699
-phone: "+1 786-558-7176"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 11:00-18:00"
-website: "http://www.illim.it/"
+street: Northwest 2nd Avenue
+housenumber: "2699"
+phone: +1 786-558-7176
+opening_hours: Mo-Fr 10:00-18:00; Sa 11:00-18:00
+website: http://www.illim.it/

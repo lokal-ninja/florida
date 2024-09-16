@@ -1,11 +1,11 @@
 id: 636393751
-type: way
+type: node
 latitude: 30.17516
 longitude: -85.6906
 postcode: "32401"
 city: Panama City
-street: "West 15th Street"
-housenumber: 2009
+street: West 15th Street
+housenumber: "2009"
 phone: ""
 opening_hours: ""
-website: "https://www.pcautoplaza.com/"
+website: https://www.pcautoplaza.com/

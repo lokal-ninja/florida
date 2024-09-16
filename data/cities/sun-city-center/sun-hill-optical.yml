@@ -1,11 +1,11 @@
 id: 589736077
-type: way
+type: node
 latitude: 27.71402
 longitude: -82.35617
 postcode: "33573"
 city: Sun City Center
-street: "Sun City Center Plaza"
-housenumber: 1647
-phone: "+1 813 634 6344"
+street: Sun City Center Plaza
+housenumber: "1647"
+phone: +1 813 634 6344
 opening_hours: ""
-website: "https://sunhilloptical.com/"
+website: https://sunhilloptical.com/

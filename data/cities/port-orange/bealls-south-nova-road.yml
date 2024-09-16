@@ -1,11 +1,11 @@
 id: 483077750
-type: way
+type: node
 latitude: 29.12744
 longitude: -81.003
 postcode: "32129"
 city: Port Orange
-street: "South Nova Road"
-housenumber: 3813
-phone: "+1 386 756 7940"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-20:00"
-website: "https://stores.beallsoutlet.com/fl/portorange/outlet-store-649.html"
+street: South Nova Road
+housenumber: "3813"
+phone: +1 386 756 7940
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-20:00
+website: https://stores.beallsoutlet.com/fl/portorange/outlet-store-649.html

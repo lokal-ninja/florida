@@ -1,11 +1,11 @@
 id: 375634750
-type: way
+type: node
 latitude: 26.64478
 longitude: -81.86768
 postcode: "33901"
 city: Fort Myers
-street: "First Street"
-housenumber: 2400
-phone: "877 434 3015"
+street: First Street
+housenumber: "2400"
+phone: 877 434 3015
 opening_hours: ""
-website: "https://www.articulturestudioz.com/"
+website: https://www.articulturestudioz.com/

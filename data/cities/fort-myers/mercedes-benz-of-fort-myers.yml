@@ -1,11 +1,11 @@
 id: 909821980
-type: way
+type: node
 latitude: 26.51848
 longitude: -81.86586
 postcode: "33908"
 city: Fort Myers
-street: "South Tamiami Trail"
-housenumber: 15461
-phone: "+1 800-351-7403"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.mercedesoffortmyers.com"
+street: South Tamiami Trail
+housenumber: "15461"
+phone: +1 800-351-7403
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.mercedesoffortmyers.com

@@ -1,11 +1,11 @@
 id: 212101774
-type: way
+type: node
 latitude: 27.89429
 longitude: -82.50595
 postcode: "33611"
 city: Tampa
-street: "West Gandy Boulevard"
-housenumber: 3699
-phone: "+1-813-839-4345"
-opening_hours: "05:00-23:00"
-website: "https://www.exxon.com/en/find-station/mobil-tampa-fl-crosstownmobil-200311082"
+street: West Gandy Boulevard
+housenumber: "3699"
+phone: +1-813-839-4345
+opening_hours: 05:00-23:00
+website: https://www.exxon.com/en/find-station/mobil-tampa-fl-crosstownmobil-200311082

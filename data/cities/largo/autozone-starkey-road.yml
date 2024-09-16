@@ -1,11 +1,11 @@
 id: 525012109
-type: way
+type: node
 latitude: 27.91536
 longitude: -82.76324
 postcode: "33771"
 city: Largo
-street: "Starkey Road"
-housenumber: 200
-phone: "(727) 518-0161"
+street: Starkey Road
+housenumber: "200"
+phone: (727) 518-0161
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/largo/200-starkey-rd.html"
+website: https://www.autozone.com/locations/fl/largo/200-starkey-rd.html

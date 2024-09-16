@@ -1,11 +1,11 @@
 id: 964154572
-type: way
+type: node
 latitude: 28.18833
 longitude: -82.74082
 postcode: "34691"
 city: Holiday
-street: "US Highway 19"
-housenumber: 2023
+street: US Highway 19
+housenumber: "2023"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Holiday/2023-US-HIGHWAY-19"
+website: https://www.speedway.com/locations/FL/Holiday/2023-US-HIGHWAY-19

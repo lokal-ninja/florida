@@ -1,11 +1,11 @@
 id: 61407004
-type: way
+type: node
 latitude: 29.17836
 longitude: -81.08378
 postcode: "32114"
 city: Daytona Beach
-street: "West International Speedway Boulevard"
-housenumber: 2500
+street: West International Speedway Boulevard
+housenumber: "2500"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-17:00"
-website: "https://stores.staples.com/fl/daytona-beach/2500-w-international-speedway-blvd-suite-900"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-17:00
+website: https://stores.staples.com/fl/daytona-beach/2500-w-international-speedway-blvd-suite-900

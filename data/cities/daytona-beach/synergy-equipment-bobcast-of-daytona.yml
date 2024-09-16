@@ -1,11 +1,11 @@
 id: 710311066
-type: way
+type: node
 latitude: 29.21089
 longitude: -81.07862
 postcode: "32117"
 city: Daytona Beach
-street: "Mason Avenue"
-housenumber: 1830
+street: Mason Avenue
+housenumber: "1830"
 phone: ""
 opening_hours: ""
 website: ""

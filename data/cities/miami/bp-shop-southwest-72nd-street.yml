@@ -1,11 +1,11 @@
 id: 435529024
-type: way
+type: node
 latitude: 25.70273
 longitude: -80.33656
 postcode: "33173"
 city: Miami
-street: "Southwest 72nd Street"
-housenumber: 8803
+street: Southwest 72nd Street
+housenumber: "8803"
 phone: ""
 opening_hours: ""
 website: ""

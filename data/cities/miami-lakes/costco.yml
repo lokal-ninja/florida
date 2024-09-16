@@ -1,11 +1,11 @@
 id: 287992898
-type: way
+type: node
 latitude: 25.92347
 longitude: -80.2985
 postcode: "33014"
 city: Miami Lakes
-street: "Northwest 59th Avenue"
-housenumber: 16580
-phone: "+1 305-825-9818"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/miami-lakes-fl-181.html"
+street: Northwest 59th Avenue
+housenumber: "16580"
+phone: +1 305-825-9818
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/miami-lakes-fl-181.html

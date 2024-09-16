@@ -1,11 +1,11 @@
 id: 637980823
-type: way
+type: node
 latitude: 30.1757
 longitude: -85.63202
 postcode: "32405"
 city: Cedar Grove
-street: "East 15th Street"
-housenumber: 2323
+street: East 15th Street
+housenumber: "2323"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/fl/panama-city/12144"
+website: https://www.dollargeneral.com/store-directory/fl/panama-city/12144

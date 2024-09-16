@@ -1,11 +1,11 @@
 id: 436107017
-type: way
+type: node
 latitude: 25.78966
 longitude: -80.37011
 postcode: "33172"
 city: Sweetwater
-street: "Northwest 17th Street"
-housenumber: 10760
-phone: "+1 786-845-2999"
+street: Northwest 17th Street
+housenumber: "10760"
+phone: +1 786-845-2999
 opening_hours: ""
-website: "https://stores.bestbuy.com/fl/miami/10760-nw-17th-st-1502.html"
+website: https://stores.bestbuy.com/fl/miami/10760-nw-17th-st-1502.html

@@ -1,11 +1,11 @@
 id: 846921418
-type: way
+type: node
 latitude: 30.39
 longitude: -87.27023
 postcode: "32507"
 city: Pensacola
-street: "Barrancas Avenue"
-housenumber: 3920
-phone: "+1-850-455-7702"
+street: Barrancas Avenue
+housenumber: "3920"
+phone: +1-850-455-7702
 opening_hours: ""
-website: "https://mbtdivers.com/"
+website: https://mbtdivers.com/

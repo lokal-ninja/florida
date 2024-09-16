@@ -1,11 +1,11 @@
 id: 259287711
-type: way
+type: node
 latitude: 30.22105
 longitude: -85.87249
 postcode: "32413"
 city: Panama City Beach
-street: "South Pier Park Drive"
-housenumber: 200
+street: South Pier Park Drive
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

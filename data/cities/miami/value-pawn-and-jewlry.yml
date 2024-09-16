@@ -1,11 +1,11 @@
 id: 278737600
-type: way
+type: node
 latitude: 25.87572
 longitude: -80.20998
 postcode: "33168"
 city: Miami
-street: "Northwest 7th Avenue"
-housenumber: 11051
+street: Northwest 7th Avenue
+housenumber: "11051"
 phone: ""
 opening_hours: ""
 website: ""

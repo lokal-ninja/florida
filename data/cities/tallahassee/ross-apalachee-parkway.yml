@@ -1,11 +1,11 @@
 id: 139563451
-type: way
+type: node
 latitude: 30.43637
 longitude: -84.26298
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 1233
-phone: "+1 850-656-2325"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 09:00-21:30"
-website: "https://www.rossstores.com/"
+street: Apalachee Parkway
+housenumber: "1233"
+phone: +1 850-656-2325
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 09:00-21:30
+website: https://www.rossstores.com/

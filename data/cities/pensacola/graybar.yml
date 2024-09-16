@@ -1,11 +1,11 @@
 id: 364279444
-type: way
+type: node
 latitude: 30.45184
 longitude: -87.22987
 postcode: "32505"
 city: Pensacola
-street: "Lurton Street"
-housenumber: 197
-phone: "+1-850-549-2600"
-opening_hours: "Mo-Fr 05:00-23:00; Sa-Su 09:00-18:00"
-website: "https://www.graybar.com/store/pnfl/fl/pensacola"
+street: Lurton Street
+housenumber: "197"
+phone: +1-850-549-2600
+opening_hours: Mo-Fr 05:00-23:00; Sa-Su 09:00-18:00
+website: https://www.graybar.com/store/pnfl/fl/pensacola

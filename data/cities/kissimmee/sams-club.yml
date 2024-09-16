@@ -1,11 +1,11 @@
 id: 309867286
-type: way
+type: node
 latitude: 28.32749
 longitude: -81.46837
 postcode: "34746"
 city: Kissimmee
-street: "West Irlo Bronson Mem Highway"
-housenumber: 4763
-phone: "+1 407-397-9910"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/kissimmee-fl-sams-club/4782"
+street: West Irlo Bronson Mem Highway
+housenumber: "4763"
+phone: +1 407-397-9910
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/kissimmee-fl-sams-club/4782

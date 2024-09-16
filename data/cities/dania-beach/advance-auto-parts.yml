@@ -1,11 +1,11 @@
 id: 661162172
-type: way
+type: node
 latitude: 26.04868
 longitude: -80.15732
 postcode: "33004"
 city: Dania Beach
-street: "Stirling Road"
-housenumber: 1750
+street: Stirling Road
+housenumber: "1750"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/dania-beach/1750-stirling-rd"
+website: https://stores.advanceautoparts.com/fl/dania-beach/1750-stirling-rd

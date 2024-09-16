@@ -1,11 +1,11 @@
 id: 822787267
-type: way
+type: node
 latitude: 28.71422
 longitude: -81.35804
 postcode: "32750"
 city: Longwood
-street: "Longwood Hills Road"
-housenumber: 675
-phone: "+1 321-207-3311"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1668-longwood-hills-market"
+street: Longwood Hills Road
+housenumber: "675"
+phone: +1 321-207-3311
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1668-longwood-hills-market

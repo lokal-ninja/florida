@@ -1,11 +1,11 @@
 id: 946516555
-type: way
+type: node
 latitude: 28.24318
 longitude: -82.35312
 postcode: "33544"
 city: Wesley Chapel
-street: "Wesley Grove Boulevard"
-housenumber: 5913
-phone: "+1 813-907-0842"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/fl/wesley-chapel/8778"
+street: Wesley Grove Boulevard
+housenumber: "5913"
+phone: +1 813-907-0842
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/fl/wesley-chapel/8778

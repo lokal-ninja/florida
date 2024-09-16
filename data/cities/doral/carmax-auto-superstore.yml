@@ -1,11 +1,11 @@
 id: 308196461
-type: way
+type: node
 latitude: 25.7851
 longitude: -80.35751
 postcode: "33172"
 city: Doral
-street: "Northwest 98th Court"
-housenumber: 1300
+street: Northwest 98th Court
+housenumber: "1300"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/7110"
+website: https://www.carmax.com/stores/7110

@@ -1,11 +1,11 @@
 id: 635049370
-type: way
+type: node
 latitude: 30.43373
 longitude: -84.30496
 postcode: "32304"
 city: Tallahassee
-street: "West Eppes Drive"
-housenumber: 815
+street: West Eppes Drive
+housenumber: "815"
 phone: ""
 opening_hours: ""
-website: "https://stricksautorepair.com/"
+website: https://stricksautorepair.com/

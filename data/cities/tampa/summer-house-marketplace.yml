@@ -1,11 +1,11 @@
 id: 523399052
-type: way
+type: node
 latitude: 27.91011
 longitude: -82.51754
 postcode: ""
 city: Tampa
-street: "South Manhattan Avenue"
-housenumber: 3620
-phone: "+1-(813) 831-4740"
+street: South Manhattan Avenue
+housenumber: "3620"
+phone: +1-(813) 831-4740
 opening_hours: ""
 website: ""

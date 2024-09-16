@@ -1,11 +1,11 @@
 id: 890009808
-type: way
+type: node
 latitude: 27.63501
 longitude: -80.38871
 postcode: "32960"
 city: Vero Beach
-street: "US 1"
-housenumber: 1826
-phone: "+1-772-778-2278"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:30-15:00"
-website: "https://www.golfcartsofverobeach.com/"
+street: US 1
+housenumber: "1826"
+phone: +1-772-778-2278
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:30-15:00
+website: https://www.golfcartsofverobeach.com/

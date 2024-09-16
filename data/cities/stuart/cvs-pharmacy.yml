@@ -1,11 +1,11 @@
 id: 112930154
-type: way
+type: node
 latitude: 27.23781
 longitude: -80.26886
 postcode: "34994"
 city: Stuart
-street: "Northwest Federal Highway"
-housenumber: 2651
-phone: "+1 (772) 692-1285"
-opening_hours: "Mo-Su 08:00-22:00"
+street: Northwest Federal Highway
+housenumber: "2651"
+phone: +1 (772) 692-1285
+opening_hours: Mo-Su 08:00-22:00
 website: ""

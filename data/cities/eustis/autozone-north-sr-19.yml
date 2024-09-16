@@ -1,11 +1,11 @@
 id: 794609357
-type: way
+type: node
 latitude: 28.87737
 longitude: -81.68855
 postcode: "32726"
 city: Eustis
-street: "North Sr 19"
-housenumber: 2312
-phone: "+1-352-800-5096"
+street: North Sr 19
+housenumber: "2312"
+phone: +1-352-800-5096
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/eustis/2312-n-state-rd-19.html"
+website: https://www.autozone.com/locations/fl/eustis/2312-n-state-rd-19.html

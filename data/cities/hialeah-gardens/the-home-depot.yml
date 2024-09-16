@@ -1,11 +1,11 @@
 id: 208822134
-type: way
+type: node
 latitude: 25.89691
 longitude: -80.376
 postcode: "33018"
 city: Hialeah Gardens
-street: "Okeechobee Road"
-housenumber: 13895
-phone: "+1 305-827-0338"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Hialeah-Gardens/FL/Hialeah-Gardens/33018/6872"
+street: Okeechobee Road
+housenumber: "13895"
+phone: +1 305-827-0338
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Hialeah-Gardens/FL/Hialeah-Gardens/33018/6872

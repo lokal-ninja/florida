@@ -1,11 +1,11 @@
 id: 643878568
-type: way
+type: node
 latitude: 27.44581
 longitude: -82.47121
 postcode: "34203"
 city: Bradenton
-street: "53rd Ave E / E State Rd 70"
-housenumber: 7115
+street: 53rd Ave E / E State Rd 70
+housenumber: "7115"
 phone: ""
 opening_hours: ""
 website: ""

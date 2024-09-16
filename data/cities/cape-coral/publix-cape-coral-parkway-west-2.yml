@@ -1,11 +1,11 @@
 id: 43791974
-type: way
+type: node
 latitude: 26.56367
 longitude: -81.97634
-postcode: "33914-8353"
+postcode: 33914-8353
 city: Cape Coral
-street: "Cape Coral Parkway West"
-housenumber: 127
-phone: "+1 239-540-0137"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1327"
+street: Cape Coral Parkway West
+housenumber: "127"
+phone: +1 239-540-0137
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1327

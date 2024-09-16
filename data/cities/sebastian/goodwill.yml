@@ -1,11 +1,11 @@
 id: 470106888
-type: way
+type: node
 latitude: 27.83776
 longitude: -80.48656
 postcode: "32958"
 city: Sebastian
-street: "US Highway 1"
-housenumber: 13415
-phone: "+1-772-228-9222"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://goggi.org/store-locations#sebastian"
+street: US Highway 1
+housenumber: "13415"
+phone: +1-772-228-9222
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-18:00
+website: https://goggi.org/store-locations#sebastian

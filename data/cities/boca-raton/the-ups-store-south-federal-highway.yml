@@ -1,11 +1,11 @@
 id: 873090941
-type: way
+type: node
 latitude: 26.33933
 longitude: -80.08671
 postcode: "33432"
 city: Boca Raton
-street: "South Federal Highway"
-housenumber: 1199
-phone: "(561) 395-6363"
+street: South Federal Highway
+housenumber: "1199"
+phone: (561) 395-6363
 opening_hours: ""
-website: "https://www.theupsstore.com"
+website: https://www.theupsstore.com

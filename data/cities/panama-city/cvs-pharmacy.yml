@@ -1,11 +1,11 @@
 id: 636948417
-type: way
+type: node
 latitude: 30.15741
 longitude: -85.6509
 postcode: "32401"
 city: Panama City
-street: "East Business Highway 98"
-housenumber: 660
+street: East Business Highway 98
+housenumber: "660"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/panama-city-fl-pharmacies/660-east-hwy-98-panama-city-fl-32401/storeid=5183"
+website: https://www.cvs.com/store-locator/panama-city-fl-pharmacies/660-east-hwy-98-panama-city-fl-32401/storeid=5183

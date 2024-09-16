@@ -1,11 +1,11 @@
 id: 154082425
-type: way
+type: node
 latitude: 28.48495
 longitude: -81.45639
 postcode: "32819"
 city: Orlando
-street: "Windhover Drive"
-housenumber: 5601
+street: Windhover Drive
+housenumber: "5601"
 phone: ""
 opening_hours: ""
 website: ""

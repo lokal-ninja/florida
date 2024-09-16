@@ -1,11 +1,11 @@
 id: 832293122
-type: way
+type: node
 latitude: 28.27357
 longitude: -82.62795
-postcode: "34654-5310"
+postcode: 34654-5310
 city: New Port Richey
-street: "Ridge Road"
-housenumber: 11400
-phone: "+1 727-848-4185"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/810"
+street: Ridge Road
+housenumber: "11400"
+phone: +1 727-848-4185
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/810

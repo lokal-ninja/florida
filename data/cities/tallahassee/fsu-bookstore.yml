@@ -1,11 +1,11 @@
 id: 137489142
-type: way
+type: node
 latitude: 30.44138
 longitude: -84.29069
-postcode: "32304-4301"
+postcode: 32304-4301
 city: Tallahassee
-street: "South Copeland Street"
-housenumber: 111
+street: South Copeland Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

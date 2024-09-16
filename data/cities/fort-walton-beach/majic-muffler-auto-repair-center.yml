@@ -1,11 +1,11 @@
 id: 696550064
-type: way
+type: node
 latitude: 30.41576
 longitude: -86.60602
 postcode: "32548"
 city: Fort Walton Beach
-street: "Eglin Parkway Northeast"
-housenumber: 59
+street: Eglin Parkway Northeast
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

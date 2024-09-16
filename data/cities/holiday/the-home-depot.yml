@@ -1,11 +1,11 @@
 id: 1190736056
-type: way
+type: node
 latitude: 28.17877
 longitude: -82.74286
 postcode: "34691"
 city: holiday
-street: "US 19"
-housenumber: 1315
-phone: "+1 727-943-5048"
-opening_hours: "Mo-Su 06:00-10:00"
-website: "https://www.homedepot.com/l/Holiday/FL/Holiday/34691/288"
+street: US 19
+housenumber: "1315"
+phone: +1 727-943-5048
+opening_hours: Mo-Su 06:00-10:00
+website: https://www.homedepot.com/l/Holiday/FL/Holiday/34691/288

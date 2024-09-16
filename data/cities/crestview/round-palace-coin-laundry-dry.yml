@@ -1,11 +1,11 @@
 id: 611395737
-type: way
+type: node
 latitude: 30.75981
 longitude: -86.57228
 postcode: ""
 city: Crestview
-street: "Wilson Street North"
-housenumber: 401
+street: Wilson Street North
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

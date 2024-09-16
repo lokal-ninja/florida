@@ -1,11 +1,11 @@
 id: 914954913
-type: way
+type: node
 latitude: 26.64442
 longitude: -81.99408
 postcode: "33991"
 city: Cape Coral
-street: "Southwest Pine Island Road"
-housenumber: 1011
+street: Southwest Pine Island Road
+housenumber: "1011"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 09:00-17:00
 website: ""

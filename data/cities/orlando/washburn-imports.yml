@@ -1,11 +1,11 @@
 id: 960900928
-type: way
+type: node
 latitude: 28.56779
 longitude: -81.37299
 postcode: "32804"
 city: Orlando
-street: "North Orange Avenue"
-housenumber: 1800
+street: North Orange Avenue
+housenumber: "1800"
 phone: "+14072284403"
 opening_hours: ""
-website: "https://www.washburnimports.com/"
+website: https://www.washburnimports.com/

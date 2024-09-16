@@ -1,11 +1,11 @@
 id: 508698822
-type: way
+type: node
 latitude: 30.44191
 longitude: -84.26975
 postcode: "32301"
 city: Tallahassee
-street: "East Park Avenue"
-housenumber: 820
+street: East Park Avenue
+housenumber: "820"
 phone: ""
 opening_hours: ""
 website: ""

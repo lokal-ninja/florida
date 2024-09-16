@@ -1,11 +1,11 @@
 id: 360973667
-type: way
+type: node
 latitude: 28.37535
 longitude: -81.53684
 postcode: "32830"
 city: Lake Buena Vista
-street: "Miller's Road"
-housenumber: 1284
+street: Miller's Road
+housenumber: "1284"
 phone: ""
 opening_hours: ""
-website: "https://disneyworld.disney.go.com/guest-services/laundry-services/"
+website: https://disneyworld.disney.go.com/guest-services/laundry-services/

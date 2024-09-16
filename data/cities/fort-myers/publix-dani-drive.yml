@@ -1,11 +1,11 @@
 id: 186986696
-type: way
+type: node
 latitude: 26.60448
 longitude: -81.80857
 postcode: "33966"
 city: Fort Myers
-street: "Dani Drive"
-housenumber: 7950
-phone: "+1 239-274-1226"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1280"
+street: Dani Drive
+housenumber: "7950"
+phone: +1 239-274-1226
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1280

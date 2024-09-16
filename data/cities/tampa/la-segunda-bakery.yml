@@ -1,11 +1,11 @@
 id: 522985681
-type: way
+type: node
 latitude: 27.96594
 longitude: -82.4434
 postcode: "33629"
 city: Tampa
-street: "North 15th Street"
-housenumber: 2512
+street: North 15th Street
+housenumber: "2512"
 phone: ""
-opening_hours: "Mo-Su 06:30-15:00"
-website: "https://www.lasegundabakery.com"
+opening_hours: Mo-Su 06:30-15:00
+website: https://www.lasegundabakery.com

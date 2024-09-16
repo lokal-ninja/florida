@@ -1,11 +1,11 @@
 id: 898577448
-type: way
+type: node
 latitude: 27.33771
 longitude: -82.42633
 postcode: "34240"
 city: Sarasota
-street: "East Road"
-housenumber: 19
+street: East Road
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 28.75674
 longitude: -81.3479
 postcode: "32746"
 city: Lake Mary
-street: "Lake Mary Boulevard"
-housenumber: 4000
-phone: "+1 407 333 0898"
-opening_hours: "24/7"
+street: Lake Mary Boulevard
+housenumber: "4000"
+phone: +1 407 333 0898
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 303728694
-type: way
+type: node
 latitude: 24.7095
 longitude: -81.09992
 postcode: "33050"
 city: Marathon
-street: "Overseas Highway"
-housenumber: 2565
+street: Overseas Highway
+housenumber: "2565"
 phone: ""
 opening_hours: ""
 website: ""

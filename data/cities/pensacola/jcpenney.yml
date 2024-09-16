@@ -1,11 +1,11 @@
 id: 354150741
-type: way
+type: node
 latitude: 30.49985
 longitude: -87.22502
 postcode: "32504"
 city: Pensacola
-street: "North Davis Highway"
-housenumber: 7171
-phone: "+1 850-478-4500"
+street: North Davis Highway
+housenumber: "7171"
+phone: +1 850-478-4500
 opening_hours: ""
-website: "https://stores.jcpenney.com/fl/pensacola/clothing-stores-pensacola-fl-0424.html"
+website: https://stores.jcpenney.com/fl/pensacola/clothing-stores-pensacola-fl-0424.html

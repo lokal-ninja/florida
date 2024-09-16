@@ -1,11 +1,11 @@
 id: 449467126
-type: way
+type: node
 latitude: 27.63697
 longitude: -80.38896
 postcode: "32960"
 city: Vero Beach
-street: "8th Avenue"
-housenumber: 1918
-phone: "+1-772-226-5615"
-opening_hours: "Mo-Fr 7:00-17:30; Sa 7:00-10:00; PH off"
-website: "https://leadersfurniture.com/"
+street: 8th Avenue
+housenumber: "1918"
+phone: +1-772-226-5615
+opening_hours: Mo-Fr 7:00-17:30; Sa 7:00-10:00; PH off
+website: https://leadersfurniture.com/

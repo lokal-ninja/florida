@@ -1,11 +1,11 @@
 id: 104944485
-type: way
+type: node
 latitude: 30.4354
 longitude: -84.28924
 postcode: ""
 city: Tallahassee
-street: "West Gaines Street"
-housenumber: 519
+street: West Gaines Street
+housenumber: "519"
 phone: ""
 opening_hours: ""
 website: ""

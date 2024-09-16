@@ -1,11 +1,11 @@
 id: 637649819
-type: way
+type: node
 latitude: 30.14297
 longitude: -85.59207
 postcode: "32404"
 city: Parker
-street: "South Sudduth Place"
-housenumber: 225
+street: South Sudduth Place
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

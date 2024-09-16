@@ -1,11 +1,11 @@
 id: 287992863
-type: way
+type: node
 latitude: 25.92425
 longitude: -80.29094
 postcode: "33014"
 city: Miami Gardens
-street: "Northwest 167th Street"
-housenumber: 5660
-phone: "+1 305-624-1900"
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Nw-Dade/FL/Hialeah/33014/209"
+street: Northwest 167th Street
+housenumber: "5660"
+phone: +1 305-624-1900
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Nw-Dade/FL/Hialeah/33014/209

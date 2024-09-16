@@ -1,11 +1,11 @@
 id: 287671100
-type: way
+type: node
 latitude: 26.62154
 longitude: -81.93755
 postcode: "33990"
 city: Cape Coral
-street: "Del Prado Boulevard South"
-housenumber: 1619
-phone: "+1 239-772-9220"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/819/cape-coral-fl/whats-new"
+street: Del Prado Boulevard South
+housenumber: "1619"
+phone: +1 239-772-9220
+opening_hours: 24/7
+website: https://www.walmart.com/store/819/cape-coral-fl/whats-new

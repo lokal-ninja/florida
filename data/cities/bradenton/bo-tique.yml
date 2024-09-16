@@ -1,11 +1,11 @@
 id: 450103461
-type: way
+type: node
 latitude: 27.43644
 longitude: -82.45063
 postcode: "34202"
 city: Bradenton
-street: "E FL 70"
-housenumber: 8734
+street: E FL 70
+housenumber: "8734"
 phone: ""
 opening_hours: ""
 website: ""

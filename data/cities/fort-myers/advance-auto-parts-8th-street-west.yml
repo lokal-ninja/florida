@@ -1,11 +1,11 @@
 id: 322421580
-type: way
+type: node
 latitude: 26.62056
 longitude: -81.75662
 postcode: "33971"
 city: Fort Myers
-street: "8th Street West"
-housenumber: 5640
+street: 8th Street West
+housenumber: "5640"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/lehigh-acres/5640-8th-st-w"
+website: https://stores.advanceautoparts.com/fl/lehigh-acres/5640-8th-st-w

@@ -1,11 +1,11 @@
 id: 832046038
-type: way
+type: node
 latitude: 25.65713
 longitude: -80.4177
 postcode: "33186"
 city: Miami
-street: "Southwest 120th Street"
-housenumber: 13801
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/miami/13801-sw-120th-st"
+street: Southwest 120th Street
+housenumber: "13801"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/miami/13801-sw-120th-st

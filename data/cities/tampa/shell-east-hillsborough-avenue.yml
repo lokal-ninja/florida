@@ -1,11 +1,11 @@
 id: 522987811
-type: way
+type: node
 latitude: 27.99573
 longitude: -82.3929
 postcode: "33610"
 city: Tampa
-street: "East Hillsborough Avenue"
-housenumber: 5601
-phone: "+1-813-621-4300"
-opening_hours: "06:00-23:00"
-website: "https://find.shell.com/us/fuel/12399859-5601-e-hillsborough-ave"
+street: East Hillsborough Avenue
+housenumber: "5601"
+phone: +1-813-621-4300
+opening_hours: 06:00-23:00
+website: https://find.shell.com/us/fuel/12399859-5601-e-hillsborough-ave

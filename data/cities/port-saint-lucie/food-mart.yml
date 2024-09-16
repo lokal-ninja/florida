@@ -1,11 +1,11 @@
 id: 770781249
-type: way
+type: node
 latitude: 27.27452
 longitude: -80.35545
 postcode: "34984"
 city: Port Saint Lucie
-street: "Southwest Port Saint Lucie Boulevard"
-housenumber: 299
+street: Southwest Port Saint Lucie Boulevard
+housenumber: "299"
 phone: ""
 opening_hours: ""
 website: ""

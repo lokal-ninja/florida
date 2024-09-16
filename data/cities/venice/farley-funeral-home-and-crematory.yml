@@ -1,11 +1,11 @@
 id: 911341040
-type: way
+type: node
 latitude: 27.09683
 longitude: -82.44539
 postcode: "34285"
 city: Venice
-street: "Nokomis Avenue South"
-housenumber: 265
+street: Nokomis Avenue South
+housenumber: "265"
 phone: ""
 opening_hours: ""
-website: "https://farleyfuneralhome.com/"
+website: https://farleyfuneralhome.com/

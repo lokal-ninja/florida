@@ -1,11 +1,11 @@
 id: 554292162
-type: way
+type: node
 latitude: 29.02837
 longitude: -80.92808
 postcode: ""
 city: New Smyrna Beach
-street: "Mary Avenue"
-housenumber: 403
+street: Mary Avenue
+housenumber: "403"
 phone: ""
 opening_hours: ""
 website: ""

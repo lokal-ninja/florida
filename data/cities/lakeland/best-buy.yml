@@ -1,11 +1,11 @@
 id: 753351111
-type: way
+type: node
 latitude: 28.0954
 longitude: -81.97264
 postcode: "33809"
 city: Lakeland
-street: "Highway 98 North"
-housenumber: 4215
-phone: "+1 863-859-0622"
+street: Highway 98 North
+housenumber: "4215"
+phone: +1 863-859-0622
 opening_hours: ""
-website: "https://stores.bestbuy.com/fl/lakeland/4215-us-highway-98-n-563.html"
+website: https://stores.bestbuy.com/fl/lakeland/4215-us-highway-98-n-563.html

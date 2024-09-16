@@ -1,11 +1,11 @@
 id: 774868047
-type: way
+type: node
 latitude: 27.31741
 longitude: -80.37113
 postcode: "34983"
 city: Port Saint Lucie
-street: "Southwest Prima Vista Boulevard"
-housenumber: 692
+street: Southwest Prima Vista Boulevard
+housenumber: "692"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-692+sw+prima+vista+blvd-port+saint+lucie-fl-34983/id=3110"
+website: https://www.walgreens.com/locator/walgreens-692+sw+prima+vista+blvd-port+saint+lucie-fl-34983/id=3110

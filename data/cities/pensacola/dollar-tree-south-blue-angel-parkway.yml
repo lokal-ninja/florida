@@ -1,11 +1,11 @@
 id: 1123472713
-type: way
+type: node
 latitude: 30.36217
 longitude: -87.35741
 postcode: "32506"
 city: Pensacola
-street: "South Blue Angel Parkway"
-housenumber: 2950
+street: South Blue Angel Parkway
+housenumber: "2950"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/fl/pensacola/8725/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.dollartree.com/locations/fl/pensacola/8725/

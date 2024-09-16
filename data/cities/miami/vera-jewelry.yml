@@ -1,11 +1,11 @@
 id: 435748426
-type: way
+type: node
 latitude: 25.73369
 longitude: -80.301
 postcode: "33155"
 city: Miami
-street: "Southwest 40th Street"
-housenumber: 6505
+street: Southwest 40th Street
+housenumber: "6505"
 phone: ""
 opening_hours: ""
 website: ""

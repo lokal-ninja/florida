@@ -1,11 +1,11 @@
 id: 941766550
-type: way
+type: node
 latitude: 27.52303
 longitude: -82.54645
 postcode: "34221"
 city: Palmetto
-street: "US-301"
-housenumber: 1800
+street: US-301
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

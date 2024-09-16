@@ -1,11 +1,11 @@
 id: 523818617
-type: way
+type: node
 latitude: 28.04066
 longitude: -82.45877
 postcode: "33612"
 city: Tampa
-street: "North Florida Avenue"
-housenumber: 10001
+street: North Florida Avenue
+housenumber: "10001"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Tampa/10001-N-FLORIDA-AVE"
+website: https://www.speedway.com/locations/FL/Tampa/10001-N-FLORIDA-AVE

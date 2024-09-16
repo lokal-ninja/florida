@@ -1,11 +1,11 @@
 id: 751325598
-type: way
+type: node
 latitude: 29.18708
 longitude: -82.17663
 postcode: "34475"
 city: Ocala
-street: "West Silver Springs Boulevard"
-housenumber: 3211
+street: West Silver Springs Boulevard
+housenumber: "3211"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

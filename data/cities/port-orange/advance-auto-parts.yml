@@ -1,11 +1,11 @@
 id: 482947749
-type: way
+type: node
 latitude: 29.13119
 longitude: -81.00666
 postcode: "32129"
 city: Port Orange
-street: "South Nova Road"
-housenumber: 3759
-phone: "+1 386 788 2995"
-opening_hours: "Mo-Th 07:30-21:00, Fr-Sa 07:30-18:00, Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/fl/port-orange/3759-s-nova-rd"
+street: South Nova Road
+housenumber: "3759"
+phone: +1 386 788 2995
+opening_hours: Mo-Th 07:30-21:00, Fr-Sa 07:30-18:00, Su 09:00-20:00
+website: https://stores.advanceautoparts.com/fl/port-orange/3759-s-nova-rd

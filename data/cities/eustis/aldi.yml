@@ -1,11 +1,11 @@
 id: 942924216
-type: way
+type: node
 latitude: 28.82166
 longitude: -81.66949
 postcode: "32726"
 city: Eustis
-street: "US Highway 441"
-housenumber: 17395
-phone: "+1 855-474-1118"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/eustis/17395-u-s-highway-441"
+street: US Highway 441
+housenumber: "17395"
+phone: +1 855-474-1118
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/eustis/17395-u-s-highway-441

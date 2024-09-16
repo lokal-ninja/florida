@@ -1,11 +1,11 @@
 id: 191623882
-type: way
+type: node
 latitude: 27.79515
 longitude: -82.7307
 postcode: "33710"
 city: Saint Petersburg
-street: "Tyrone Boulevard North"
-housenumber: 2501
+street: Tyrone Boulevard North
+housenumber: "2501"
 phone: ""
 opening_hours: ""
 website: ""

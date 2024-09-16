@@ -1,11 +1,11 @@
 id: 58074004
-type: way
+type: node
 latitude: 27.88071
 longitude: -82.32879
 postcode: "33569"
 city: Riverview
-street: "US Highway 301"
-housenumber: 6929
-phone: "+1 813-672-8455"
+street: US Highway 301
+housenumber: "6929"
+phone: +1 813-672-8455
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/riverview/fl?search=2475"
+website: https://www.winndixie.com/storedetails/riverview/fl?search=2475

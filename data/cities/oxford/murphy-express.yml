@@ -1,11 +1,11 @@
 id: 896844325
-type: way
+type: node
 latitude: 28.92689
 longitude: -82.03261
 postcode: "34484"
 city: Oxford
-street: "East C 466"
-housenumber: 4279
+street: East C 466
+housenumber: "4279"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 940213472
-type: way
+type: node
 latitude: 29.27829
 longitude: -81.0831
 postcode: "32174"
 city: Ormond Beach
-street: "South Nova Road"
-housenumber: 20
+street: South Nova Road
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

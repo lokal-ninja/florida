@@ -1,11 +1,11 @@
 id: 270021559
-type: way
+type: node
 latitude: 25.73297
 longitude: -80.33267
 postcode: "33155"
 city: Miami
-street: "Southwest 40th Street"
-housenumber: 8476
-phone: "+1 (305) 221-2123"
+street: Southwest 40th Street
+housenumber: "8476"
+phone: +1 (305) 221-2123
 opening_hours: ""
 website: ""

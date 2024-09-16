@@ -1,11 +1,11 @@
 id: 640436885
-type: way
+type: node
 latitude: 30.13201
 longitude: -81.78564
 postcode: "32065"
 city: Orange Park
-street: "Blanding Boulevard"
-housenumber: 1120
+street: Blanding Boulevard
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

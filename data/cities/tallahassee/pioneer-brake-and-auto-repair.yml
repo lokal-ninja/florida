@@ -1,11 +1,11 @@
 id: 931407972
-type: way
+type: node
 latitude: 30.44886
 longitude: -84.2902
 postcode: "32301"
 city: Tallahassee
-street: "West Brevard Street"
-housenumber: 539
+street: West Brevard Street
+housenumber: "539"
 phone: ""
 opening_hours: ""
 website: ""

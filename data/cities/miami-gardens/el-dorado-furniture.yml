@@ -1,11 +1,11 @@
 id: 435747700
-type: way
+type: node
 latitude: 25.92433
 longitude: -80.27002
 postcode: "33054"
 city: Miami Gardens
-street: "Northwest 167th Street"
-housenumber: 4200
+street: Northwest 167th Street
+housenumber: "4200"
 phone: ""
 opening_hours: ""
 website: ""

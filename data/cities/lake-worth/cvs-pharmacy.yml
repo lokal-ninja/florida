@@ -1,11 +1,11 @@
 id: 895112982
-type: way
+type: node
 latitude: 26.59023
 longitude: -80.18875
 postcode: "33467"
 city: Lake Worth
-street: "Lantana Road"
-housenumber: 8954
-phone: "561-434-4776"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/lake-worth-fl-pharmacies/8954-lantana-rd-lake-worth-fl-33467/storeid=7891"
+street: Lantana Road
+housenumber: "8954"
+phone: 561-434-4776
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/lake-worth-fl-pharmacies/8954-lantana-rd-lake-worth-fl-33467/storeid=7891

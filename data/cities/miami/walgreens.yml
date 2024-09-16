@@ -1,11 +1,11 @@
 id: 290490858
-type: way
+type: node
 latitude: 25.68352
 longitude: -80.46167
 postcode: "33196"
 city: Miami
-street: "Southwest 88th Street"
-housenumber: 16690
+street: Southwest 88th Street
+housenumber: "16690"
 phone: ""
 opening_hours: ""
 website: ""

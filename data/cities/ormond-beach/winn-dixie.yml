@@ -1,11 +1,11 @@
 id: 960819429
-type: way
+type: node
 latitude: 29.28286
 longitude: -81.06831
 postcode: "32174"
 city: Ormond Beach
-street: "West Granada Boulevard"
-housenumber: 353
-phone: "+1 386-677-4070"
+street: West Granada Boulevard
+housenumber: "353"
+phone: +1 386-677-4070
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/ormond%20beach/fl?search=2309"
+website: https://www.winndixie.com/storedetails/ormond%20beach/fl?search=2309

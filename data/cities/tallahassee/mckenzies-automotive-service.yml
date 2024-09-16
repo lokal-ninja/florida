@@ -1,11 +1,11 @@
 id: 860774212
-type: way
+type: node
 latitude: 30.4289
 longitude: -84.27928
 postcode: ""
 city: Tallahassee
-street: "East Jennings Street"
-housenumber: 244
+street: East Jennings Street
+housenumber: "244"
 phone: ""
 opening_hours: ""
 website: ""

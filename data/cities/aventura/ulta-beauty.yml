@@ -4,8 +4,8 @@ latitude: 25.97064
 longitude: -80.1415
 postcode: "33180"
 city: Aventura
-street: "Biscayne Boulevard"
-housenumber: 21065
-phone: "+1 305-466-1478"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/aventura-fl-448"
+street: Biscayne Boulevard
+housenumber: "21065"
+phone: +1 305-466-1478
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/aventura-fl-448

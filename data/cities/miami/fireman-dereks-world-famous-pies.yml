@@ -1,11 +1,11 @@
 id: 316621086
-type: way
+type: node
 latitude: 25.80346
 longitude: -80.19521
 postcode: ""
 city: Miami
-street: "North Miami Avenue"
-housenumber: 2818
+street: North Miami Avenue
+housenumber: "2818"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 260713293
-type: way
+type: node
 latitude: 29.1123
 longitude: -81.02763
 postcode: "32127"
 city: Port Orange
-street: "Dunlawton Avenue"
-housenumber: 1751
-phone: "+1 386-788-8566"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-port-orange/0741"
+street: Dunlawton Avenue
+housenumber: "1751"
+phone: +1 386-788-8566
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-port-orange/0741

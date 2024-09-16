@@ -1,11 +1,11 @@
 id: 623689278
-type: way
+type: node
 latitude: 26.97019
 longitude: -80.08799
 postcode: "33469"
 city: Tequesta
-street: "US-1"
-housenumber: 764
+street: US-1
+housenumber: "764"
 phone: ""
 opening_hours: ""
 website: ""

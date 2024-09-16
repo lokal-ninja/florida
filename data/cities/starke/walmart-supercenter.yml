@@ -1,11 +1,11 @@
 id: 95941887
-type: way
+type: node
 latitude: 29.92145
 longitude: -82.13018
 postcode: "32091"
 city: Starke
-street: "Us Highway 301 South"
-housenumber: 14500
-phone: "+1 904-964-3286"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1283/starke-fl/whats-new"
+street: Us Highway 301 South
+housenumber: "14500"
+phone: +1 904-964-3286
+opening_hours: 24/7
+website: https://www.walmart.com/store/1283/starke-fl/whats-new

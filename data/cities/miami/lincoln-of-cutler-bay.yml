@@ -1,11 +1,11 @@
 id: 972039948
-type: way
+type: node
 latitude: 25.59517
 longitude: -80.37027
 postcode: "33157"
 city: Miami
-street: "Southwest 186th Street"
-housenumber: 10902
+street: Southwest 186th Street
+housenumber: "10902"
 phone: ""
 opening_hours: ""
-website: "https://www.lincolnofcutlerbay.com/"
+website: https://www.lincolnofcutlerbay.com/

@@ -1,11 +1,11 @@
 id: 367432080
-type: way
+type: node
 latitude: 27.84269
 longitude: -82.78682
-postcode: "33772-4886"
+postcode: 33772-4886
 city: Seminole
-street: "Seminole Boulevard"
-housenumber: 7777
-phone: "+1 877-474-1060"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/seminole/7777-seminole-blvd"
+street: Seminole Boulevard
+housenumber: "7777"
+phone: +1 877-474-1060
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/seminole/7777-seminole-blvd

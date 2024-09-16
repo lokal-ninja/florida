@@ -1,11 +1,11 @@
 id: 932201993
-type: way
+type: node
 latitude: 28.29321
 longitude: -82.71169
 postcode: "34668"
 city: Port Richey
-street: "Highway 19"
-housenumber: 9409
-phone: "+1 727-847-9338"
+street: Highway 19
+housenumber: "9409"
+phone: +1 727-847-9338
 opening_hours: ""
-website: "https://stores.bestbuy.com/fl/port-richey/9409-us-highway-19-885.html"
+website: https://stores.bestbuy.com/fl/port-richey/9409-us-highway-19-885.html

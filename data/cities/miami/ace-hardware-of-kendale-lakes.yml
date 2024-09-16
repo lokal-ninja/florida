@@ -2,10 +2,10 @@ id: 12058198635
 type: node
 latitude: 25.71379
 longitude: -80.41856
-postcode: "33175-6021"
+postcode: 33175-6021
 city: Miami
-street: "Southwest 56th Street"
-housenumber: 13898
-phone: "+1 305-387-2333"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 07:30-20:00; Su 08:30-19:00"
+street: Southwest 56th Street
+housenumber: "13898"
+phone: +1 305-387-2333
+opening_hours: Mo-Fr 08:30-19:00; Sa 07:30-20:00; Su 08:30-19:00
 website: ""

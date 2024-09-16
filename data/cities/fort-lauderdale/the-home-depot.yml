@@ -1,11 +1,11 @@
 id: 469220437
-type: way
+type: node
 latitude: 26.13835
 longitude: -80.13962
 postcode: "33304"
 city: Fort Lauderdale
-street: "Northeast 4th Avenue"
-housenumber: 1000
-phone: "+1 954-763-1932"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/E-Fort-Lauderdale/FL/Fort-Lauderdale/33304/6372"
+street: Northeast 4th Avenue
+housenumber: "1000"
+phone: +1 954-763-1932
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/E-Fort-Lauderdale/FL/Fort-Lauderdale/33304/6372

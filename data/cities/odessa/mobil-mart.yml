@@ -1,11 +1,11 @@
 id: 524718643
-type: way
+type: node
 latitude: 28.19341
 longitude: -82.59187
 postcode: "33556"
 city: Odessa
-street: "State Road 54"
-housenumber: 13508
+street: State Road 54
+housenumber: "13508"
 phone: ""
 opening_hours: ""
 website: ""

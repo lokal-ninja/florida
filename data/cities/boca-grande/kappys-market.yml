@@ -1,11 +1,11 @@
 id: 964050066
-type: way
+type: node
 latitude: 26.80182
 longitude: -82.2757
 postcode: "33921"
 city: Boca Grande
-street: "Gasparilla Road"
-housenumber: 5800
+street: Gasparilla Road
+housenumber: "5800"
 phone: "+19419642506"
-opening_hours: "Mo-Su 08:00-17:00"
-website: "https://kappysmarket.com/"
+opening_hours: Mo-Su 08:00-17:00
+website: https://kappysmarket.com/

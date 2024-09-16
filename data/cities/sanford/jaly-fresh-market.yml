@@ -1,11 +1,11 @@
 id: 903529122
-type: way
+type: node
 latitude: 28.8091
 longitude: -81.26403
 postcode: "32771"
 city: Sanford
-street: "Sanford Avenue"
-housenumber: 329
+street: Sanford Avenue
+housenumber: "329"
 phone: "4073219599"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
-website: "https://www.facebook.com/jalyfreshsupermarket/"
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
+website: https://www.facebook.com/jalyfreshsupermarket/

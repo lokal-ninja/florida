@@ -1,11 +1,11 @@
 id: 230784242
-type: way
+type: node
 latitude: 28.68574
 longitude: -81.5404
 postcode: "32712"
 city: Apopka
-street: "West Orange Blossom Trail"
-housenumber: 1670
-phone: "+1 407-880-4778"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Apopka/FL/Apopka/32712/8926"
+street: West Orange Blossom Trail
+housenumber: "1670"
+phone: +1 407-880-4778
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Apopka/FL/Apopka/32712/8926

@@ -1,11 +1,11 @@
 id: 1026538063
-type: way
+type: node
 latitude: 27.64034
 longitude: -80.50093
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 8428
-phone: "+1 772 696-2523"
+street: 20th Street
+housenumber: "8428"
+phone: +1 772 696-2523
 opening_hours: ""
-website: "http://coolcoastalcartz.com/"
+website: http://coolcoastalcartz.com/

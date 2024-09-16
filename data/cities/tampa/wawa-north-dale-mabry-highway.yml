@@ -1,11 +1,11 @@
 id: 203752371
-type: way
+type: node
 latitude: 27.94911
 longitude: -82.50493
 postcode: "33609"
 city: Tampa
-street: "North Dale Mabry Highway"
-housenumber: 401
+street: North Dale Mabry Highway
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

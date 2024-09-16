@@ -1,11 +1,11 @@
 id: 455504745
-type: way
+type: node
 latitude: 26.10385
 longitude: -80.19374
-postcode: "33312-3438"
+postcode: 33312-3438
 city: Fort Lauderdale
-street: "Davie Boulevard"
-housenumber: 3500
-phone: "+1 954-791-2180"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1124"
+street: Davie Boulevard
+housenumber: "3500"
+phone: +1 954-791-2180
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1124

@@ -1,11 +1,11 @@
 id: 779476639
-type: way
+type: node
 latitude: 30.44432
 longitude: -87.28573
 postcode: "32506"
 city: Pensacola
-street: "Mobile Highway"
-housenumber: 4970
+street: Mobile Highway
+housenumber: "4970"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00, Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/fl/pensacola/autoparts-1623.html"
+opening_hours: Mo-Sa 07:00-21:00, Su 08:00-20:00
+website: https://locations.oreillyauto.com/fl/pensacola/autoparts-1623.html

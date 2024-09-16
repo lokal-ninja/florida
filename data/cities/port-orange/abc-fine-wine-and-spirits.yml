@@ -1,11 +1,11 @@
 id: 620763466
-type: way
+type: node
 latitude: 29.1234
 longitude: -81.01097
 postcode: "32127"
 city: Port Orange
-street: "Dunlawton Avenue"
-housenumber: 1198
-phone: "+1 386 756 6728"
-opening_hours: "Mo-Th 09:00-21:00,Fr-Sa 09:00-22:00, Su 11:00-19:00"
-website: "https://www.abcfws.com/abc-142-port-orange/142"
+street: Dunlawton Avenue
+housenumber: "1198"
+phone: +1 386 756 6728
+opening_hours: Mo-Th 09:00-21:00,Fr-Sa 09:00-22:00, Su 11:00-19:00
+website: https://www.abcfws.com/abc-142-port-orange/142

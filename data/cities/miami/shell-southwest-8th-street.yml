@@ -1,11 +1,11 @@
 id: 1150595852
-type: way
+type: node
 latitude: 25.76072
 longitude: -80.36799
 postcode: "33174"
 city: Miami
-street: "Southwest 8th Street"
-housenumber: 10690
-phone: "+1-786-615-4495"
-opening_hours: "24/7"
+street: Southwest 8th Street
+housenumber: "10690"
+phone: +1-786-615-4495
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 1010102729
-type: way
+type: node
 latitude: 26.67015
 longitude: -81.93439
 postcode: "33909"
 city: Cape Coral
-street: "Northeast Pine Island Road"
-housenumber: 1830
-phone: "+1 239-458-4162"
-opening_hours: "Mo-Th 06:00-21:00; Fr-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://locations.panerabread.com/fl/cape-coral/1830-ne-pine-island-rd.html"
+street: Northeast Pine Island Road
+housenumber: "1830"
+phone: +1 239-458-4162
+opening_hours: Mo-Th 06:00-21:00; Fr-Sa 06:00-22:00; Su 07:00-21:00
+website: https://locations.panerabread.com/fl/cape-coral/1830-ne-pine-island-rd.html

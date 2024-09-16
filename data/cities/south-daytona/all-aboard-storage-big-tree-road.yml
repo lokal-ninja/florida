@@ -1,11 +1,11 @@
 id: 929020270
-type: way
+type: node
 latitude: 29.17285
 longitude: -81.00607
 postcode: "32119"
 city: South Daytona
-street: "Big Tree Road"
-housenumber: 409
-phone: "+1 386 788 6068"
+street: Big Tree Road
+housenumber: "409"
+phone: +1 386 788 6068
 opening_hours: ""
 website: ""

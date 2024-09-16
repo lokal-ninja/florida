@@ -1,11 +1,11 @@
 id: 493317443
-type: way
+type: node
 latitude: 24.5604
 longitude: -81.80605
 postcode: "33040"
 city: Key West
-street: "Front Street"
-housenumber: 501
+street: Front Street
+housenumber: "501"
 phone: "+13057075775"
 opening_hours: ""
-website: "https://www.conchtourtrain.com/"
+website: https://www.conchtourtrain.com/

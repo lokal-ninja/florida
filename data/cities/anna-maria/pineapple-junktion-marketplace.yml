@@ -1,11 +1,11 @@
 id: 835528169
-type: way
+type: node
 latitude: 27.53064
 longitude: -82.73332
 postcode: "34216"
 city: Anna Maria
-street: "Pine Avenue"
-housenumber: 425
+street: Pine Avenue
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

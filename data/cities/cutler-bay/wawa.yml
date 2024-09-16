@@ -1,11 +1,11 @@
 id: 1061790852
-type: way
+type: node
 latitude: 25.59874
 longitude: -80.37226
 postcode: "33157"
 city: Cutler Bay
-street: "Southwest 184th Street"
-housenumber: 11101
-phone: "(786) 408-6620"
-opening_hours: "24/7"
-website: "https://www.wawa.com/store/5243/fl/fl-miami-11101-sw-184-street"
+street: Southwest 184th Street
+housenumber: "11101"
+phone: (786) 408-6620
+opening_hours: 24/7
+website: https://www.wawa.com/store/5243/fl/fl-miami-11101-sw-184-street

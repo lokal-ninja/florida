@@ -1,11 +1,11 @@
 id: 906722374
-type: way
+type: node
 latitude: 27.71722
 longitude: -82.33426
 postcode: "33598"
 city: Wimauma
-street: "South Highway 301"
-housenumber: 16440
-phone: "+1 813-634-5363"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-18:00"
+street: South Highway 301
+housenumber: "16440"
+phone: +1 813-634-5363
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 637980827
-type: way
+type: node
 latitude: 30.17571
 longitude: -85.62918
 postcode: "32405"
 city: Cedar Grove
-street: "East 15th Street"
-housenumber: 2435
+street: East 15th Street
+housenumber: "2435"
 phone: ""
 opening_hours: ""
-website: "https://www.billbyrdkiapanamacity.com/"
+website: https://www.billbyrdkiapanamacity.com/

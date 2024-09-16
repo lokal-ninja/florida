@@ -1,11 +1,11 @@
 id: 940036106
-type: way
+type: node
 latitude: 29.25422
 longitude: -81.12964
 postcode: "32174"
 city: Ormond Beach
-street: "West Granada Boulevard"
-housenumber: 2001
+street: West Granada Boulevard
+housenumber: "2001"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2001+w+granada+blvd-ormond+beach-fl-32174/id=3814"
+website: https://www.walgreens.com/locator/walgreens-2001+w+granada+blvd-ormond+beach-fl-32174/id=3814

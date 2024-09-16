@@ -1,11 +1,11 @@
 id: 315400333
-type: way
+type: node
 latitude: 29.89133
 longitude: -81.31903
 postcode: "32084"
 city: Saint Augustine
-street: "King Street"
-housenumber: 131
+street: King Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
-website: "https://www.rembrandtz.com/"
+website: https://www.rembrandtz.com/

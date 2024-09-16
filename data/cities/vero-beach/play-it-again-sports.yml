@@ -4,8 +4,8 @@ latitude: 27.64107
 longitude: -80.45406
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 6160
-phone: "+1-772-563-0026"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.playitagainsports.com/locations/vero-beach-fl"
+street: 20th Street
+housenumber: "6160"
+phone: +1-772-563-0026
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.playitagainsports.com/locations/vero-beach-fl

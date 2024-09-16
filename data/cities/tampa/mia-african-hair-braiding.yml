@@ -1,11 +1,11 @@
 id: 1012088934
-type: way
+type: node
 latitude: 27.96046
 longitude: -82.43451
 postcode: "33605"
 city: Tampa
-street: "North 22nd Street"
-housenumber: 1803
+street: North 22nd Street
+housenumber: "1803"
 phone: ""
-opening_hours: "09:00-19:00"
+opening_hours: 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 206479350
-type: way
+type: node
 latitude: 28.35877
 longitude: -80.69986
 postcode: "32953"
 city: Merritt Island
-street: "North Courtenay Parkway"
-housenumber: 200
-phone: "+1 321-453-5855"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/merritt-island/fl/merritt-island/32953/234"
+street: North Courtenay Parkway
+housenumber: "200"
+phone: +1 321-453-5855
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/merritt-island/fl/merritt-island/32953/234

@@ -1,11 +1,11 @@
 id: 611700155
-type: way
+type: node
 latitude: 30.76368
 longitude: -86.56892
 postcode: ""
 city: Crestview
-street: "East Pine Avenue"
-housenumber: 492
+street: East Pine Avenue
+housenumber: "492"
 phone: ""
 opening_hours: ""
 website: ""

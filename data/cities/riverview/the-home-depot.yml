@@ -1,11 +1,11 @@
 id: 56143896
-type: way
+type: node
 latitude: 27.89162
 longitude: -82.33382
 postcode: "33578"
 city: Riverview
-street: "Bloomingdale Avenue"
-housenumber: 10151
-phone: "+1 813-246-5714"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Riverview/FL/Riverview/33578/6380"
+street: Bloomingdale Avenue
+housenumber: "10151"
+phone: +1 813-246-5714
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Riverview/FL/Riverview/33578/6380

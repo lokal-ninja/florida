@@ -1,11 +1,11 @@
 id: 544449998
-type: way
+type: node
 latitude: 30.19748
 longitude: -81.74626
 postcode: "32244"
 city: Jacksonville
-street: "Youngerman Circle"
-housenumber: 6373
-phone: "+1 904-573-9702"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/jacksonville-fl-sams-club/6363"
+street: Youngerman Circle
+housenumber: "6373"
+phone: +1 904-573-9702
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/jacksonville-fl-sams-club/6363

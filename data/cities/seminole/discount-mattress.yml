@@ -3,9 +3,9 @@ type: node
 latitude: 27.89368
 longitude: -82.75256
 postcode: ""
-city: Seminole 
-street: "Ulmerton Road"
-housenumber: 
+city: 'Seminole '
+street: Ulmerton Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

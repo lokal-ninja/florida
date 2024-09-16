@@ -1,11 +1,11 @@
 id: 165614223
-type: way
+type: node
 latitude: 26.48378
 longitude: -81.78828
 postcode: "33913"
 city: Fort Myers
-street: "Gulf Center Drive"
-housenumber: 10002
+street: Gulf Center Drive
+housenumber: "10002"
 phone: ""
 opening_hours: ""
 website: ""

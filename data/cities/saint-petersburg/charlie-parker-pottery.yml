@@ -1,11 +1,11 @@
 id: 987665409
-type: way
+type: node
 latitude: 27.76459
 longitude: -82.6706
 postcode: "33712"
 city: Saint Petersburg
-street: "6th Avenue South"
-housenumber: 2724
+street: 6th Avenue South
+housenumber: "2724"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 162040177
-type: way
+type: node
 latitude: 27.88935
 longitude: -82.71995
 postcode: "33773"
 city: Largo
-street: "62nd St"
-housenumber: 12897
+street: 62nd St
+housenumber: "12897"
 phone: ""
 opening_hours: ""
 website: ""

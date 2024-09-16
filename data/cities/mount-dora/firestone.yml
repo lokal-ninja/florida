@@ -1,11 +1,11 @@
 id: 382738233
-type: way
+type: node
 latitude: 28.82569
 longitude: -81.64335
 postcode: "32757"
 city: Mount Dora
-street: "FL 44"
-housenumber: 3106
+street: FL 44
+housenumber: "3106"
 phone: ""
 opening_hours: ""
 website: ""

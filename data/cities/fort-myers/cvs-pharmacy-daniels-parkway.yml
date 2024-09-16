@@ -1,11 +1,11 @@
 id: 288607162
-type: way
+type: node
 latitude: 26.54677
 longitude: -81.8038
 postcode: "33912"
 city: Fort Myers
-street: "Daniels Parkway"
-housenumber: 9170
+street: Daniels Parkway
+housenumber: "9170"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/fort-myers-fl-pharmacies/9170-daniels-pkwy-fort-myers-fl-33912/storeid=5236"
+website: https://www.cvs.com/store-locator/fort-myers-fl-pharmacies/9170-daniels-pkwy-fort-myers-fl-33912/storeid=5236

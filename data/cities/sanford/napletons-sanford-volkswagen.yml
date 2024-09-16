@@ -1,11 +1,11 @@
 id: 406801671
-type: way
+type: node
 latitude: 28.74822
 longitude: -81.29216
 postcode: "32773"
 city: Sanford
-street: "S. Orlando Drive"
-housenumber: 4175
-phone: "855-743-7423"
+street: S. Orlando Drive
+housenumber: "4175"
+phone: 855-743-7423
 opening_hours: ""
-website: "https://www.sanfordvw.com/"
+website: https://www.sanfordvw.com/

@@ -4,8 +4,8 @@ latitude: 28.5421
 longitude: -81.37272
 postcode: "32801"
 city: Orlando
-street: "Central Boulevard"
-housenumber: 400
-phone: "+1 407-872-7201"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1131"
+street: Central Boulevard
+housenumber: "400"
+phone: +1 407-872-7201
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1131

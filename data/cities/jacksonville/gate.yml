@@ -1,11 +1,11 @@
 id: 292180544
-type: way
+type: node
 latitude: 30.21915
 longitude: -81.55111
 postcode: "32256"
 city: Jacksonville
-street: "Southside Boulevard"
-housenumber: 8251
+street: Southside Boulevard
+housenumber: "8251"
 phone: ""
 opening_hours: ""
 website: ""

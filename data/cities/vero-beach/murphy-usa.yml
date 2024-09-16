@@ -1,11 +1,11 @@
 id: 884148115
-type: way
+type: node
 latitude: 27.63786
 longitude: -80.43991
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 5175
+street: 20th Street
+housenumber: "5175"
 phone: ""
 opening_hours: ""
 website: ""

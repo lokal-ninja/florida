@@ -1,11 +1,11 @@
 id: 549924810
-type: way
+type: node
 latitude: 30.14083
 longitude: -81.54989
-postcode: "32258-2448"
+postcode: 32258-2448
 city: Jacksonville
-street: "Old Saint Augustine Road"
-housenumber: 13820
-phone: "+1 904-262-5415"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1105"
+street: Old Saint Augustine Road
+housenumber: "13820"
+phone: +1 904-262-5415
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1105

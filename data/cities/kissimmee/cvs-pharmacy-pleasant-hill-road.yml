@@ -1,11 +1,11 @@
 id: 824830312
-type: way
+type: node
 latitude: 28.15532
 longitude: -81.4406
 postcode: "34746"
 city: Kissimmee
-street: "Pleasant Hill Road"
-housenumber: 4500
+street: Pleasant Hill Road
+housenumber: "4500"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kissimmee-fl-pharmacies/4500-pleasant-hill-rd-kissimmee-fl-34746/storeid=7973"
+website: https://www.cvs.com/store-locator/kissimmee-fl-pharmacies/4500-pleasant-hill-rd-kissimmee-fl-34746/storeid=7973

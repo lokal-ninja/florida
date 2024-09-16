@@ -1,11 +1,11 @@
 id: 426252634
-type: way
+type: node
 latitude: 30.45293
 longitude: -84.34067
 postcode: "32304"
 city: Tallahassee
-street: "West Tennessee Street"
-housenumber: 2751
+street: West Tennessee Street
+housenumber: "2751"
 phone: ""
 opening_hours: ""
-website: "https://www.gerbercollision.com/"
+website: https://www.gerbercollision.com/

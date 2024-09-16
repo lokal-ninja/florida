@@ -1,11 +1,11 @@
 id: 317343471
-type: way
+type: node
 latitude: 26.16317
 longitude: -80.20596
 postcode: "33313"
 city: Lauderdale Lakes
-street: "North State Road"
-housenumber: 3001
-phone: "+1 954-733-7473"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3625/lauderdale-lakes-fl/whats-new"
+street: North State Road
+housenumber: "3001"
+phone: +1 954-733-7473
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3625/lauderdale-lakes-fl/whats-new

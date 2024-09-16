@@ -1,11 +1,11 @@
 id: 547115408
-type: way
+type: node
 latitude: 28.72354
 longitude: -82.55139
 postcode: "34446"
 city: Homosassa
-street: "Suncoast Boulevard"
-housenumber: 9525
-phone: "+1 352-382-1149"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1193"
+street: Suncoast Boulevard
+housenumber: "9525"
+phone: +1 352-382-1149
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1193

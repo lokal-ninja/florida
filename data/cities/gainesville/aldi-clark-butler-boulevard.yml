@@ -1,11 +1,11 @@
 id: 531814908
-type: way
+type: node
 latitude: 29.62629
 longitude: -82.38215
 postcode: "32608"
 city: Gainesville
-street: "Clark Butler Boulevard"
-housenumber: 3003
-phone: "+1 833-474-7109"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/gainesville/3003-clark-butler-blvd"
+street: Clark Butler Boulevard
+housenumber: "3003"
+phone: +1 833-474-7109
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/gainesville/3003-clark-butler-blvd

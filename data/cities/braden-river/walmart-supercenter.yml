@@ -1,11 +1,11 @@
 id: 620432899
-type: way
+type: node
 latitude: 27.45056
 longitude: -82.52754
 postcode: "34203"
 city: Braden River
-street: "53rd Avenue East"
-housenumber: 2911
-phone: "+1 941-753-6751"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/528/braden-river-fl/whats-new"
+street: 53rd Avenue East
+housenumber: "2911"
+phone: +1 941-753-6751
+opening_hours: 24/7
+website: https://www.walmart.com/store/528/braden-river-fl/whats-new

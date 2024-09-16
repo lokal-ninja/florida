@@ -1,11 +1,11 @@
 id: 141032274
-type: way
+type: node
 latitude: 28.46214
 longitude: -81.45176
 postcode: ""
 city: Orlando
-street: "International Drive"
-housenumber: 5368
+street: International Drive
+housenumber: "5368"
 phone: ""
 opening_hours: ""
 website: ""

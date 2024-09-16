@@ -1,11 +1,11 @@
 id: 743348046
-type: way
+type: node
 latitude: 25.73461
 longitude: -80.38063
 postcode: "33165"
 city: Miami
-street: "Bird Road"
-housenumber: 11495
-phone: "+1 305-553-5392"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1748"
+street: Bird Road
+housenumber: "11495"
+phone: +1 305-553-5392
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1748

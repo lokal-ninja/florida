@@ -1,11 +1,11 @@
 id: 202995940
-type: way
+type: node
 latitude: 27.7938
 longitude: -82.33371
 postcode: "33578"
 city: Riverview
-street: "US Highway 301 South"
-housenumber: 13154
-phone: "+1 813-741-0693"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1032"
+street: US Highway 301 South
+housenumber: "13154"
+phone: +1 813-741-0693
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1032

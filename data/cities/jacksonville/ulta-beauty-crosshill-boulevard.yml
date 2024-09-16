@@ -1,11 +1,11 @@
 id: 229730205
-type: way
+type: node
 latitude: 30.1995
 longitude: -81.82668
 postcode: "32222"
 city: Jacksonville
-street: "Crosshill Boulevard"
-housenumber: 9625
-phone: "+1 904-771-1162"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/jacksonville-fl-295"
+street: Crosshill Boulevard
+housenumber: "9625"
+phone: +1 904-771-1162
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/jacksonville-fl-295

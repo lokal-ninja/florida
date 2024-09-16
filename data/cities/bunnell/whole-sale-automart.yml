@@ -1,11 +1,11 @@
 id: 53412711
-type: way
+type: node
 latitude: 29.46774
 longitude: -81.25976
 postcode: "32110"
 city: Bunnell
-street: "US 1"
-housenumber: 306
+street: US 1
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

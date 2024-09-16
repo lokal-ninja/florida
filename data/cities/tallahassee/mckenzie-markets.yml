@@ -1,11 +1,11 @@
 id: 459925902
-type: way
+type: node
 latitude: 30.48659
 longitude: -84.31708
 postcode: ""
 city: Tallahassee
-street: "North Monroe Street"
-housenumber: 3220
+street: North Monroe Street
+housenumber: "3220"
 phone: ""
 opening_hours: ""
 website: ""

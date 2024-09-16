@@ -2,10 +2,10 @@ id: 1099905047
 type: node
 latitude: 26.191
 longitude: -80.13441
-postcode: "33334-3957"
+postcode: 33334-3957
 city: Oakland Park
-street: "East Commercial Boulevard"
-housenumber: 1003
-phone: "+1 954-491-9330"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/750"
+street: East Commercial Boulevard
+housenumber: "1003"
+phone: +1 954-491-9330
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/750

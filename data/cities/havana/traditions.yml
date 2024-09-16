@@ -1,11 +1,11 @@
 id: 665135654
-type: way
+type: node
 latitude: 30.62493
 longitude: -84.41573
 postcode: "32333"
 city: Havana
-street: "North Main Street"
-housenumber: 206
+street: North Main Street
+housenumber: "206"
 phone: ""
 opening_hours: ""
-website: "http://traditionsantiquesandgifts.com/"
+website: http://traditionsantiquesandgifts.com/

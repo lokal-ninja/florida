@@ -1,11 +1,11 @@
 id: 435532419
-type: way
+type: node
 latitude: 25.61928
 longitude: -80.34685
 postcode: "33157"
 city: Miami
-street: "Colonial Drive"
-housenumber: 9500
+street: Colonial Drive
+housenumber: "9500"
 phone: ""
 opening_hours: ""
 website: ""

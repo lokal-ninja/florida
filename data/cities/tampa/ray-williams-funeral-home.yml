@@ -1,11 +1,11 @@
 id: 1199277213
-type: way
+type: node
 latitude: 27.94704
 longitude: -82.48245
 postcode: "33606"
 city: Tampa
-street: "North Howard Avenue"
-housenumber: 301
+street: North Howard Avenue
+housenumber: "301"
 phone: ""
 opening_hours: ""
-website: "https://www.raywilliamsfuneralhome.com/"
+website: https://www.raywilliamsfuneralhome.com/

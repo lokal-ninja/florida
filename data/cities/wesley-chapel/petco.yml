@@ -1,11 +1,11 @@
 id: 952149264
-type: way
+type: node
 latitude: 28.17472
 longitude: -82.35581
 postcode: "33544"
 city: Wesley Chapel
-street: "Bruce B Downs Boulevard"
-housenumber: 1231
-phone: "+1 813-973-9067"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/fl/wesleychapel/pet-supplies-wesleychapel-fl-1733.html"
+street: Bruce B Downs Boulevard
+housenumber: "1231"
+phone: +1 813-973-9067
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/fl/wesleychapel/pet-supplies-wesleychapel-fl-1733.html

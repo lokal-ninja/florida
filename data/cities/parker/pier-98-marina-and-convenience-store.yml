@@ -1,11 +1,11 @@
 id: 636694594
-type: way
+type: node
 latitude: 30.11816
 longitude: -85.59646
 postcode: "32404"
 city: Parker
-street: "East Highway 98"
-housenumber: 5904
+street: East Highway 98
+housenumber: "5904"
 phone: ""
 opening_hours: ""
 website: ""

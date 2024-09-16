@@ -1,11 +1,11 @@
 id: 943320394
-type: way
+type: node
 latitude: 28.8317
 longitude: -81.81192
 postcode: "34788"
 city: Leesburg
-street: "US Highway 441"
-housenumber: 
+street: US Highway 441
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

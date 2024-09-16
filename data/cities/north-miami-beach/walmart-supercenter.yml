@@ -1,11 +1,11 @@
 id: 279460457
-type: way
+type: node
 latitude: 25.92903
 longitude: -80.17049
 postcode: "33162"
 city: North Miami Beach
-street: "Northeast 163rd Street"
-housenumber: 1425
-phone: "+1 305-949-5881"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/3235/north-miami%20beach-fl/whats-new"
+street: Northeast 163rd Street
+housenumber: "1425"
+phone: +1 305-949-5881
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/3235/north-miami%20beach-fl/whats-new

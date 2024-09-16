@@ -1,11 +1,11 @@
 id: 700233659
-type: way
+type: node
 latitude: 27.63458
 longitude: -80.38902
 postcode: "32960"
 city: Vero Beach
-street: "US 1"
-housenumber: 1800
-phone: "+1-772-918-8855"
+street: US 1
+housenumber: "1800"
+phone: +1-772-918-8855
 opening_hours: ""
-website: "https://joeyandkimmys.com/"
+website: https://joeyandkimmys.com/

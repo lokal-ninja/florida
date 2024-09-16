@@ -1,11 +1,11 @@
 id: 192545365
-type: way
+type: node
 latitude: 27.8045
 longitude: -82.67914
 postcode: "33713"
 city: Saint Petersburg
-street: "34th Street North"
-housenumber: 3535
+street: 34th Street North
+housenumber: "3535"
 phone: ""
 opening_hours: ""
 website: ""

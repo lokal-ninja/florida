@@ -1,11 +1,11 @@
 id: 123622086
-type: way
+type: node
 latitude: 30.46229
 longitude: -84.36019
 postcode: "32304"
 city: Tallahassee
-street: "West Tennessee Street"
-housenumber: 4400
-phone: "+1 850-574-3588"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1408-tallahassee-fl"
+street: West Tennessee Street
+housenumber: "4400"
+phone: +1 850-574-3588
+opening_hours: 24/7
+website: https://www.walmart.com/store/1408-tallahassee-fl

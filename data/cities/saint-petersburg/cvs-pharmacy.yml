@@ -1,11 +1,11 @@
 id: 172455359
-type: way
+type: node
 latitude: 27.79032
 longitude: -82.72895
 postcode: "33710"
 city: Saint Petersburg
-street: "22nd Avenue North"
-housenumber: 
+street: 22nd Avenue North
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/saint-petersburg-fl-pharmacies/2100-66th-st-n-saint-petersburg-fl-33710/storeid=3547"
+website: https://www.cvs.com/store-locator/saint-petersburg-fl-pharmacies/2100-66th-st-n-saint-petersburg-fl-33710/storeid=3547

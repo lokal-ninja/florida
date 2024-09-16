@@ -1,11 +1,11 @@
 id: 298111882
-type: way
+type: node
 latitude: 25.74841
 longitude: -80.26145
-postcode: "33134-5805"
+postcode: 33134-5805
 city: Coral Gables
-street: "South Le Jeune Road"
-housenumber: 2551
-phone: "+1 305-445-2641"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/84"
+street: South Le Jeune Road
+housenumber: "2551"
+phone: +1 305-445-2641
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/84

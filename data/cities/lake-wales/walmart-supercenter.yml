@@ -1,11 +1,11 @@
 id: 246094991
-type: way
+type: node
 latitude: 27.89253
 longitude: -81.55346
 postcode: "33898"
 city: Lake Wales
-street: "State Road 60 East"
-housenumber: 2000
-phone: "+1 863-676-9425"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/859/lake-wales-fl/whats-new"
+street: State Road 60 East
+housenumber: "2000"
+phone: +1 863-676-9425
+opening_hours: 24/7
+website: https://www.walmart.com/store/859/lake-wales-fl/whats-new

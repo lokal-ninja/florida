@@ -1,11 +1,11 @@
 id: 363341578
-type: way
+type: node
 latitude: 30.21814
 longitude: -85.86687
 postcode: "32413"
 city: Panama City Beach
-street: "Panama City Beach Parkway"
-housenumber: 15495
-phone: "+1 850-708-6968"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3119/panama-city%20beach-fl/whats-new"
+street: Panama City Beach Parkway
+housenumber: "15495"
+phone: +1 850-708-6968
+opening_hours: 24/7
+website: https://www.walmart.com/store/3119/panama-city%20beach-fl/whats-new

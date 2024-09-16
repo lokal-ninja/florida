@@ -1,11 +1,11 @@
 id: 361219168
-type: way
+type: node
 latitude: 29.20415
 longitude: -81.03765
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 945
-phone: "+1 386 258 6188"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-17:00, Su 09:00-16:00"
-website: "https://www.napaonline.com/stores/fl/daytona-beach/945-w-int'l-speedway-blvd?__cf_chl_jschl_tk__=xzc2vnZcu7p9ANDqVSXCu_Sqf6UXyCbQWfgxVdkhl1M-1637151621-0-gaNycGzNB2U"
+street: International Speedway Boulevard
+housenumber: "945"
+phone: +1 386 258 6188
+opening_hours: Mo-Fr 07:30-18:00, Sa 07:30-17:00, Su 09:00-16:00
+website: https://www.napaonline.com/stores/fl/daytona-beach/945-w-int'l-speedway-blvd?__cf_chl_jschl_tk__=xzc2vnZcu7p9ANDqVSXCu_Sqf6UXyCbQWfgxVdkhl1M-1637151621-0-gaNycGzNB2U

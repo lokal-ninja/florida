@@ -1,11 +1,11 @@
 id: 858721554
-type: way
+type: node
 latitude: 28.46569
 longitude: -81.30449
 postcode: "32822"
 city: Orlando
-street: "Eagle Watch Drive"
-housenumber: 6677
-phone: "+1 407-438-3358"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:00-22:30"
+street: Eagle Watch Drive
+housenumber: "6677"
+phone: +1 407-438-3358
+opening_hours: Mo-Sa 09:00-23:00; Su 09:00-22:30
 website: ""

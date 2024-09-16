@@ -1,11 +1,11 @@
 id: 315262787
-type: way
+type: node
 latitude: 26.13701
 longitude: -80.11808
 postcode: "33304"
 city: Fort Lauderdale
-street: "East Sunrise Boulevard"
-housenumber: 2240
+street: East Sunrise Boulevard
+housenumber: "2240"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/fort-lauderdale-fl-pharmacies/2240-e-sunrise-blvd-fort-lauderdale-fl-33304/storeid=4201"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/fort-lauderdale-fl-pharmacies/2240-e-sunrise-blvd-fort-lauderdale-fl-33304/storeid=4201

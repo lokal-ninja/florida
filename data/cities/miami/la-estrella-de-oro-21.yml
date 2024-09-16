@@ -1,11 +1,11 @@
 id: 435748422
-type: way
+type: node
 latitude: 25.80815
 longitude: -80.25898
 postcode: "33142"
 city: Miami
-street: "Northwest 36th Street"
-housenumber: 3838
+street: Northwest 36th Street
+housenumber: "3838"
 phone: ""
 opening_hours: ""
 website: ""

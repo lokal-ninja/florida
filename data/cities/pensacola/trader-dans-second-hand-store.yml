@@ -1,11 +1,11 @@
 id: 361476570
-type: way
+type: node
 latitude: 30.52622
 longitude: -87.27096
 postcode: "32534"
 city: Pensacola
-street: "West Hood Drive"
-housenumber: 85
+street: West Hood Drive
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

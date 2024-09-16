@@ -1,11 +1,11 @@
 id: 135454750
-type: way
+type: node
 latitude: 29.55385
 longitude: -81.23007
 postcode: "32137"
 city: Palm Coast
-street: "Palm Coast Parkway West"
-housenumber: 1050
-phone: "+1 386 597 0616"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-17:00"
-website: "https://www.tirekingdom.com/store/6159/palm-coast-fl-32137-4705#!"
+street: Palm Coast Parkway West
+housenumber: "1050"
+phone: +1 386 597 0616
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-17:00
+website: https://www.tirekingdom.com/store/6159/palm-coast-fl-32137-4705#!

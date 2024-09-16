@@ -1,11 +1,11 @@
 id: 636393665
-type: way
+type: node
 latitude: 30.1753
 longitude: -85.69825
 postcode: "32401"
 city: Panama City
-street: "Drake Avenue"
-housenumber: 1415
+street: Drake Avenue
+housenumber: "1415"
 phone: ""
 opening_hours: ""
 website: ""

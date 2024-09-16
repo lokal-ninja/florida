@@ -1,11 +1,11 @@
 id: 1178446535
-type: way
+type: node
 latitude: 25.79174
 longitude: -80.14141
 postcode: "33139"
 city: Miami Beach
-street: "17th Street"
-housenumber: 1220
+street: 17th Street
+housenumber: "1220"
 phone: ""
 opening_hours: ""
 website: ""

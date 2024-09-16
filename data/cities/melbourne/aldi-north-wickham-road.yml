@@ -1,11 +1,11 @@
 id: 1132348582
-type: way
+type: node
 latitude: 28.21769
 longitude: -80.67583
 postcode: "32940"
 city: Melbourne
-street: "North Wickham Road"
-housenumber: 6460
-phone: "+1-877-474-1085"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/melbourne/6460-n-wickham-road"
+street: North Wickham Road
+housenumber: "6460"
+phone: +1-877-474-1085
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/melbourne/6460-n-wickham-road

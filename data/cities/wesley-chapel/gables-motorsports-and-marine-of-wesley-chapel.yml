@@ -1,11 +1,11 @@
 id: 1061144120
-type: way
+type: node
 latitude: 28.23746
 longitude: -82.3528
 postcode: "33543"
 city: Wesley Chapel
-street: "Wesley Chapel Boulevard"
-housenumber: 28009
+street: Wesley Chapel Boulevard
+housenumber: "28009"
 phone: ""
 opening_hours: ""
 website: ""

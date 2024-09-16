@@ -1,11 +1,11 @@
 id: 43649586
-type: way
+type: node
 latitude: 29.55398
 longitude: -81.21353
 postcode: ""
 city: Palm Coast
-street: "Kingswood Drive"
-housenumber: 4
-phone: "+1-386-445-2127"
-opening_hours: "Mo-Th, Su 06:00-22:00; Fr, Sa 06:00-23:00"
+street: Kingswood Drive
+housenumber: "4"
+phone: +1-386-445-2127
+opening_hours: Mo-Th, Su 06:00-22:00; Fr, Sa 06:00-23:00
 website: ""

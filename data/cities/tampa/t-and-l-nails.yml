@@ -4,8 +4,8 @@ latitude: 27.92553
 longitude: -82.45303
 postcode: "33606"
 city: Tampa
-street: "East Davis Boulevard"
-housenumber: 304
-phone: "+1 (813) 259-9920"
-opening_hours: "Tu-Th 10:00-19:30; Fr-Sa 09:00-19:30; Su 11:00-17:00"
+street: East Davis Boulevard
+housenumber: "304"
+phone: +1 (813) 259-9920
+opening_hours: Tu-Th 10:00-19:30; Fr-Sa 09:00-19:30; Su 11:00-17:00
 website: ""

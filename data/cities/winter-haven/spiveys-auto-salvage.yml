@@ -1,11 +1,11 @@
 id: 734294819
-type: way
+type: node
 latitude: 28.02853
 longitude: -81.77912
 postcode: "33880"
 city: Winter Haven
-street: "Recker Highway"
-housenumber: 4201
+street: Recker Highway
+housenumber: "4201"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

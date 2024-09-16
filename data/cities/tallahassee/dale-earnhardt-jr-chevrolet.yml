@@ -1,11 +1,11 @@
 id: 426697131
-type: way
+type: node
 latitude: 30.45708
 longitude: -84.34953
 postcode: "32304"
 city: Tallahassee
-street: "West Tennessee Street"
-housenumber: 3127
-phone: "+1 850 270 1463"
+street: West Tennessee Street
+housenumber: "3127"
+phone: +1 850 270 1463
 opening_hours: ""
-website: "https://www.daleearnhardtjrchevy.com"
+website: https://www.daleearnhardtjrchevy.com

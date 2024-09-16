@@ -1,11 +1,11 @@
 id: 99027809
-type: way
+type: node
 latitude: 28.04213
 longitude: -82.56106
 postcode: "33625"
 city: Tampa
-street: "West Linebaugh Avenue"
-housenumber: 7201
+street: West Linebaugh Avenue
+housenumber: "7201"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 25.79071
 longitude: -80.14071
 postcode: "33139"
 city: Miami Beach
-street: "Lincoln Road"
-housenumber: 1111
-phone: "+1 305 531 4815"
+street: Lincoln Road
+housenumber: "1111"
+phone: +1 305 531 4815
 opening_hours: ""
-website: "http://alchemist.miami"
+website: http://alchemist.miami

@@ -1,11 +1,11 @@
 id: 48870829
-type: way
+type: node
 latitude: 26.43591
 longitude: -80.08766
 postcode: "33444"
 city: Delray Beach
-street: "Waterford Place"
-housenumber: 1400
-phone: "+1 561-272-5127"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/e-delray-beach/fl/delray-beach/33444/6315"
+street: Waterford Place
+housenumber: "1400"
+phone: +1 561-272-5127
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/e-delray-beach/fl/delray-beach/33444/6315

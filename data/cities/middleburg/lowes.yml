@@ -1,11 +1,11 @@
 id: 260865129
-type: way
+type: node
 latitude: 30.11006
 longitude: -81.82418
 postcode: "32068"
 city: Middleburg
-street: "Blanding Boulevard"
-housenumber: 1700
-phone: "+1 904-589-3022"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/"
+street: Blanding Boulevard
+housenumber: "1700"
+phone: +1 904-589-3022
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/

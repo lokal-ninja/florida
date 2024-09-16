@@ -4,8 +4,8 @@ latitude: 27.76616
 longitude: -82.70008
 postcode: "33707"
 city: Saint Petersburg
-street: "49th Street South"
-housenumber: 501
-phone: "+1-727-498-8766"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 09:00-13:00"
-website: "https://www.stpetegaragefl.com/"
+street: 49th Street South
+housenumber: "501"
+phone: +1-727-498-8766
+opening_hours: Mo-Fr 08:00-17:00, Sa 09:00-13:00
+website: https://www.stpetegaragefl.com/

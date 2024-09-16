@@ -1,11 +1,11 @@
 id: 169001177
-type: way
+type: node
 latitude: 29.664
 longitude: -82.30212
 postcode: "32641"
 city: Gainesville
-street: "Northeast 12th Avenue"
-housenumber: 1800
-phone: "+1 352-372-3191"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3877/gainesville-fl/whats-new"
+street: Northeast 12th Avenue
+housenumber: "1800"
+phone: +1 352-372-3191
+opening_hours: 24/7
+website: https://www.walmart.com/store/3877/gainesville-fl/whats-new

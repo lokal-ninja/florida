@@ -1,11 +1,11 @@
 id: 960607130
-type: way
+type: node
 latitude: 27.48454
 longitude: -82.43309
 postcode: "34212"
 city: Bradenton
-street: "East State Road 64"
-housenumber: 11002
+street: East State Road 64
+housenumber: "11002"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Bradenton/11002-E-STATE-ROAD-64"
+website: https://www.speedway.com/locations/FL/Bradenton/11002-E-STATE-ROAD-64

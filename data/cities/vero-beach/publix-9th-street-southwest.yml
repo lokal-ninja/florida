@@ -1,11 +1,11 @@
 id: 698090955
-type: way
+type: node
 latitude: 27.58608
 longitude: -80.42859
 postcode: "32968"
 city: Vero Beach
-street: "9th Street Southwest"
-housenumber: 4145
-phone: "+1 772-299-6235"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: 9th Street Southwest
+housenumber: "4145"
+phone: +1 772-299-6235
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

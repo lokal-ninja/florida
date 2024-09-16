@@ -1,11 +1,11 @@
 id: 1029092821
-type: way
+type: node
 latitude: 29.65617
 longitude: -81.6616
 postcode: "32177"
 city: Palatka
-street: "Reid Street"
-housenumber: 3001
+street: Reid Street
+housenumber: "3001"
 phone: ""
 opening_hours: ""
 website: ""

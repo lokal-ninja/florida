@@ -1,11 +1,11 @@
 id: 405788552
-type: way
+type: node
 latitude: 29.80221
 longitude: -82.50096
 postcode: "32615"
 city: Alachua
-street: "Northwest 144 Terrace"
-housenumber: 15910
-phone: "+1 386-418-6060"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-alachua/2984"
+street: Northwest 144 Terrace
+housenumber: "15910"
+phone: +1 386-418-6060
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-alachua/2984

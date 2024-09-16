@@ -1,11 +1,11 @@
 id: 140789645
-type: way
+type: node
 latitude: 28.45048
 longitude: -81.47264
 postcode: ""
 city: Orlando
-street: "Sand Lake Road"
-housenumber: 6941
+street: Sand Lake Road
+housenumber: "6941"
 phone: ""
 opening_hours: ""
 website: ""

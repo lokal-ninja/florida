@@ -1,11 +1,11 @@
 id: 824926125
-type: way
+type: node
 latitude: 30.44053
 longitude: -87.28069
 postcode: "32506"
 city: Pensacola
-street: "Mobile Highway"
-housenumber: 4818
+street: Mobile Highway
+housenumber: "4818"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/fl/pensacola/772"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/fl/pensacola/772

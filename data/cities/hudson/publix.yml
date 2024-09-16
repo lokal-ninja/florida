@@ -1,11 +1,11 @@
 id: 506760166
-type: way
+type: node
 latitude: 28.35779
 longitude: -82.66495
 postcode: "34667"
 city: Hudson
-street: "Little Road"
-housenumber: 13752
-phone: "+1 727-861-1990"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/487"
+street: Little Road
+housenumber: "13752"
+phone: +1 727-861-1990
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/487

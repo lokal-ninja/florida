@@ -1,11 +1,11 @@
 id: 587280435
-type: way
+type: node
 latitude: 28.18681
 longitude: -82.40514
 postcode: ""
 city: Lutz
-street: "FL 54"
-housenumber: 24905
-phone: "+1 (813) 949-3905"
-opening_hours: "24/7"
+street: FL 54
+housenumber: "24905"
+phone: +1 (813) 949-3905
+opening_hours: 24/7
 website: ""

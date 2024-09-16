@@ -1,11 +1,11 @@
 id: 534034371
-type: way
+type: node
 latitude: 27.07172
 longitude: -82.42173
 postcode: "34293"
 city: Venice
-street: "Tamiami Trail South"
-housenumber: 1745
-phone: "+1 941-525-1000"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-venice/1683"
+street: Tamiami Trail South
+housenumber: "1745"
+phone: +1 941-525-1000
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-venice/1683

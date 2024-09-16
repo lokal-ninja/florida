@@ -1,11 +1,11 @@
 id: 566352905
-type: way
+type: node
 latitude: 29.13649
 longitude: -83.0314
 postcode: ""
 city: Cedar Key
-street: "1st Street"
-housenumber: 409
+street: 1st Street
+housenumber: "409"
 phone: ""
 opening_hours: ""
 website: ""

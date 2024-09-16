@@ -1,11 +1,11 @@
 id: 135837772
-type: way
+type: node
 latitude: 27.83621
 longitude: -82.68337
-postcode: "33781-4601"
+postcode: 33781-4601
 city: Pinellas Park
-street: "34th Street North"
-housenumber: 7050
-phone: "+1 727-527-8460"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/fl/pinellaspark/pet-supplies-pinellaspark-fl-2788.html"
+street: 34th Street North
+housenumber: "7050"
+phone: +1 727-527-8460
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/fl/pinellaspark/pet-supplies-pinellaspark-fl-2788.html

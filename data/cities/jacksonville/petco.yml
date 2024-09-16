@@ -4,8 +4,8 @@ latitude: 30.1721
 longitude: -81.6267
 postcode: "32223"
 city: Jacksonville
-street: "San Jose Boulevard"
-housenumber: 11111
-phone: "+1 904-260-3225"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/fl/jacksonville/pet-supplies-jacksonville-fl-2789.html"
+street: San Jose Boulevard
+housenumber: "11111"
+phone: +1 904-260-3225
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/fl/jacksonville/pet-supplies-jacksonville-fl-2789.html

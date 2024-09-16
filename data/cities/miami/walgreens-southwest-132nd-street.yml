@@ -1,11 +1,11 @@
 id: 436035047
-type: way
+type: node
 latitude: 25.64685
 longitude: -80.33348
 postcode: "33156"
 city: Miami
-street: "Southwest 132nd Street"
-housenumber: 8650
+street: Southwest 132nd Street
+housenumber: "8650"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-8650+sw+132nd+st-miami-fl-33156/id=9206"
+website: https://www.walgreens.com/locator/walgreens-8650+sw+132nd+st-miami-fl-33156/id=9206

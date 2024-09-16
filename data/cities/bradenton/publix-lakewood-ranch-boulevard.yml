@@ -1,11 +1,11 @@
 id: 101889962
-type: way
+type: node
 latitude: 27.48295
 longitude: -82.43202
-postcode: "34211-4906"
+postcode: 34211-4906
 city: Bradenton
-street: "Lakewood Ranch Boulevard"
-housenumber: 1755
-phone: "+1 941-745-5677"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/798"
+street: Lakewood Ranch Boulevard
+housenumber: "1755"
+phone: +1 941-745-5677
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/798

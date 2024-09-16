@@ -1,11 +1,11 @@
 id: 868467444
-type: way
+type: node
 latitude: 25.99424
 longitude: -80.25001
 postcode: "33025"
 city: Miramar
-street: "South University Drive"
-housenumber: 1800
-phone: "+1 954-433-9300"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1511/miramar-fl/whats-new"
+street: South University Drive
+housenumber: "1800"
+phone: +1 954-433-9300
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1511/miramar-fl/whats-new

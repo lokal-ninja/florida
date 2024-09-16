@@ -1,11 +1,11 @@
 id: 361049973
-type: way
+type: node
 latitude: 29.19703
 longitude: -81.06528
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 1700
-phone: "+1 386 253 6783"
-opening_hours: "Mo-We 10:00-21:00, Fr 07:00-21:00, Sa 10:00-22:00, Su 12:00-18:00"
-website: "https://volusiamall.net/"
+street: International Speedway Boulevard
+housenumber: "1700"
+phone: +1 386 253 6783
+opening_hours: Mo-We 10:00-21:00, Fr 07:00-21:00, Sa 10:00-22:00, Su 12:00-18:00
+website: https://volusiamall.net/

@@ -1,11 +1,11 @@
 id: 406528099
-type: way
+type: node
 latitude: 27.8944
 longitude: -82.24368
 postcode: "33596"
 city: Valrico
-street: "Lithia Pinecrest Road"
-housenumber: 3353
+street: Lithia Pinecrest Road
+housenumber: "3353"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/FL/Valrico/3353-LITHIA-PINECREST-RD"
+opening_hours: 24/7
+website: https://www.speedway.com/locations/FL/Valrico/3353-LITHIA-PINECREST-RD

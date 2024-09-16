@@ -1,11 +1,11 @@
 id: 311223659
-type: way
+type: node
 latitude: 28.36985
 longitude: -81.68258
 postcode: "34714"
 city: Clermont
-street: "US Highway 27"
-housenumber: 1600
+street: US Highway 27
+housenumber: "1600"
 phone: ""
-opening_hours: "07:00 - 22:00"
-website: "https://www.walgreens.com/locator/walgreens-1600+highway+27-clermont-fl-34714/id=6218"
+opening_hours: 07:00 - 22:00
+website: https://www.walgreens.com/locator/walgreens-1600+highway+27-clermont-fl-34714/id=6218

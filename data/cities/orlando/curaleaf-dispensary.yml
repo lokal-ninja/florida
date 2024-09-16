@@ -1,11 +1,11 @@
 id: 921527413
-type: way
+type: node
 latitude: 28.55463
 longitude: -81.31033
 postcode: "32807"
 city: Orlando
-street: "North Semoran Boulevard"
-housenumber: 775
+street: North Semoran Boulevard
+housenumber: "775"
 phone: "+14079882122"
 opening_hours: ""
-website: "https://curaleaf.com/"
+website: https://curaleaf.com/

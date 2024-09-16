@@ -1,11 +1,11 @@
 id: 83304389
-type: way
+type: node
 latitude: 30.25382
 longitude: -81.39172
-postcode: "32250-5850"
+postcode: 32250-5850
 city: Jacksonville Beach
-street: "Marsh Landing Parkway"
-housenumber: 670
-phone: "+1 904-273-7600"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/552"
+street: Marsh Landing Parkway
+housenumber: "670"
+phone: +1 904-273-7600
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/552

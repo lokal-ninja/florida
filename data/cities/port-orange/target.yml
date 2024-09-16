@@ -1,11 +1,11 @@
 id: 260713292
-type: way
+type: node
 latitude: 29.11099
 longitude: -81.02893
 postcode: "32127"
 city: Port Orange
-street: "Dunlawton Avenue"
-housenumber: 1771
-phone: "+1 386-322-1348"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/port-orange/1795"
+street: Dunlawton Avenue
+housenumber: "1771"
+phone: +1 386-322-1348
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/port-orange/1795

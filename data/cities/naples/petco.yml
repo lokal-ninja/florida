@@ -2,10 +2,10 @@ id: 6578967247
 type: node
 latitude: 26.21834
 longitude: -81.77031
-postcode: "34109-2013"
+postcode: 34109-2013
 city: Naples
-street: "Naples Boulevard"
-housenumber: 6424
-phone: "+1 239-254-0263"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/fl/naples/pet-supplies-naples-fl-1758.html"
+street: Naples Boulevard
+housenumber: "6424"
+phone: +1 239-254-0263
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/fl/naples/pet-supplies-naples-fl-1758.html

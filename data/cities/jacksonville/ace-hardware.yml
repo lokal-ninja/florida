@@ -1,11 +1,11 @@
 id: 608444575
-type: way
+type: node
 latitude: 30.14029
 longitude: -81.63174
-postcode: "32223-2644"
+postcode: 32223-2644
 city: Jacksonville
-street: "San Jose Boulevard"
-housenumber: 12501
-phone: "+1 904-268-9597"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-19:00; Su 09:00-17:00"
+street: San Jose Boulevard
+housenumber: "12501"
+phone: +1 904-268-9597
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-19:00; Su 09:00-17:00
 website: ""

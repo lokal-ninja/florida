@@ -1,11 +1,11 @@
 id: 645144375
-type: way
+type: node
 latitude: 30.18143
 longitude: -82.66832
 postcode: "32055"
 city: Lake City
-street: "Northwest Hutton Drive"
-housenumber: 233
-phone: "+1 386-269-3250"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/fl/lake-city/1326/"
+street: Northwest Hutton Drive
+housenumber: "233"
+phone: +1 386-269-3250
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/fl/lake-city/1326/

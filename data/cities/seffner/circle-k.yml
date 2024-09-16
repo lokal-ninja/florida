@@ -1,11 +1,11 @@
 id: 992053595
-type: way
+type: node
 latitude: 28.00247
 longitude: -82.30186
 postcode: "33584"
 city: Seffner
-street: "CR 579"
-housenumber: 6009
-phone: "+1-813-612-5460"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/seffner/6009-cr-579/2709780"
+street: CR 579
+housenumber: "6009"
+phone: +1-813-612-5460
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/seffner/6009-cr-579/2709780

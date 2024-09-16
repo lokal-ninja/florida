@@ -1,11 +1,11 @@
 id: 583483873
-type: way
+type: node
 latitude: 30.33335
 longitude: -81.60078
 postcode: "32211"
 city: Jacksonville
-street: "Arlington Road"
-housenumber: 5748
-phone: "904-743-3857"
+street: Arlington Road
+housenumber: "5748"
+phone: 904-743-3857
 opening_hours: ""
-website: "http://autoacrepairjax.com"
+website: http://autoacrepairjax.com

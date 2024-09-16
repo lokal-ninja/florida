@@ -1,11 +1,11 @@
 id: 948243338
-type: way
+type: node
 latitude: 30.57155
 longitude: -87.29068
 postcode: "32533"
 city: Cantonment
-street: "South Highway 29"
-housenumber: 2050
+street: South Highway 29
+housenumber: "2050"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/fl/cantonment/autoparts-5303.html"
+website: https://locations.oreillyauto.com/fl/cantonment/autoparts-5303.html

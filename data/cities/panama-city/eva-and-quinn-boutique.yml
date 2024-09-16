@@ -1,11 +1,11 @@
 id: 636393947
-type: way
+type: node
 latitude: 30.16759
 longitude: -85.70125
 postcode: "32401"
 city: Panama City
-street: "Beck Avenue"
-housenumber: 1000
+street: Beck Avenue
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

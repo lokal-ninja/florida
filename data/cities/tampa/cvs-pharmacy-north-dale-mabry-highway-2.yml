@@ -1,11 +1,11 @@
 id: 523803467
-type: way
+type: node
 latitude: 28.05068
 longitude: -82.50525
 postcode: ""
 city: Tampa
-street: "North Dale Mabry Highway"
-housenumber: 11212
+street: North Dale Mabry Highway
+housenumber: "11212"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/tampa-fl-pharmacies/11212-n-dale-mabry-highway-tampa-fl-33618/storeid=2875"
+website: https://www.cvs.com/store-locator/tampa-fl-pharmacies/11212-n-dale-mabry-highway-tampa-fl-33618/storeid=2875

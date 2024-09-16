@@ -3,9 +3,9 @@ type: node
 latitude: 27.93803
 longitude: -82.45121
 postcode: "33602"
-city: Tampa 
-street: "Knights Run Avenue"
-housenumber: 450
-phone: "813 228 7225"
-opening_hours: "07:00-18:00"
+city: 'Tampa '
+street: Knights Run Avenue
+housenumber: "450"
+phone: 813 228 7225
+opening_hours: 07:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 101802988
-type: way
+type: node
 latitude: 27.89335
 longitude: -82.66175
-postcode: "33716-1201"
+postcode: 33716-1201
 city: Saint Petersburg
-street: "Carillon Parkway"
-housenumber: 120
-phone: "+1 727-540-1660"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/140"
+street: Carillon Parkway
+housenumber: "120"
+phone: +1 727-540-1660
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/140

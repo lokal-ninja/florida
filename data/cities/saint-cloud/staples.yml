@@ -4,8 +4,8 @@ latitude: 28.25254
 longitude: -81.31179
 postcode: "34769"
 city: Saint Cloud
-street: "13th Street"
-housenumber: 4058
+street: 13th Street
+housenumber: "4058"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/fl/st-cloud/4058-13th-street"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/fl/st-cloud/4058-13th-street

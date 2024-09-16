@@ -1,11 +1,11 @@
 id: 637025678
-type: way
+type: node
 latitude: 30.17451
 longitude: -85.66175
 postcode: "32401"
 city: Panama City
-street: "Jenks Avenue"
-housenumber: 1450
+street: Jenks Avenue
+housenumber: "1450"
 phone: ""
 opening_hours: ""
 website: ""

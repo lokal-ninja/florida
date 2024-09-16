@@ -1,11 +1,11 @@
 id: 643878569
-type: way
+type: node
 latitude: 27.4457
 longitude: -82.47168
 postcode: "34203"
 city: Bradenton
-street: "53rd Ave E / E State Rd 70"
-housenumber: 7105
+street: 53rd Ave E / E State Rd 70
+housenumber: "7105"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/fl/bradenton/oil-change-gq0044.html"
+website: https://store.vioc.com/fl/bradenton/oil-change-gq0044.html

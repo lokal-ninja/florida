@@ -1,11 +1,11 @@
 id: 523031789
-type: way
+type: node
 latitude: 28.00036
 longitude: -82.3892
 postcode: "33610"
 city: Tampa
-street: "North 59th Street"
-housenumber: 5453
-phone: "813-374-6930"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.fourroux.com"
+street: North 59th Street
+housenumber: "5453"
+phone: 813-374-6930
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.fourroux.com

@@ -1,11 +1,11 @@
 id: 524124239
-type: way
+type: node
 latitude: 27.90383
 longitude: -82.76131
 postcode: "33771"
 city: Largo
-street: "Starkey Road"
-housenumber: 1385
-phone: "727-216-7910"
+street: Starkey Road
+housenumber: "1385"
+phone: 727-216-7910
 opening_hours: ""
-website: "https://www.kiosgroupusa.com/contact/"
+website: https://www.kiosgroupusa.com/contact/

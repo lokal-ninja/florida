@@ -4,8 +4,8 @@ latitude: 30.44035
 longitude: -84.26216
 postcode: "32301"
 city: Tallahassee
-street: "South Magnolia Drive"
-housenumber: 220
+street: South Magnolia Drive
+housenumber: "220"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00;Fr-Sa 10:00-20:00;Su 12:00-18:00"
-website: "https://www.buffcitysoap.com/"
+opening_hours: Mo-Th 10:00-19:00;Fr-Sa 10:00-20:00;Su 12:00-18:00
+website: https://www.buffcitysoap.com/

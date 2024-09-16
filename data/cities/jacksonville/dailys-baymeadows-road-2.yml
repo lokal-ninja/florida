@@ -1,11 +1,11 @@
 id: 657973685
-type: way
+type: node
 latitude: 30.2217
 longitude: -81.56832
 postcode: "32256"
 city: Jacksonville
-street: "Baymeadows Road"
-housenumber: 9143
+street: Baymeadows Road
+housenumber: "9143"
 phone: ""
 opening_hours: ""
 website: ""

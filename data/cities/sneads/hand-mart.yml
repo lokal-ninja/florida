@@ -1,11 +1,11 @@
 id: 862894894
-type: way
+type: node
 latitude: 30.71007
 longitude: -84.93187
 postcode: "32460"
 city: Sneads
-street: "River Road"
-housenumber: 2022
+street: River Road
+housenumber: "2022"
 phone: ""
 opening_hours: ""
 website: ""

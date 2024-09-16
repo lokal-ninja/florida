@@ -4,8 +4,8 @@ latitude: 25.77528
 longitude: -80.13964
 postcode: "33139"
 city: Miami Beach
-street: "5th Street"
-housenumber: 1131
-phone: "+1 305 535 8539"
-opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-20:00"
-website: "https://stores.bestbuy.com/fl/miami-beach/1131-5th-street-1498.html"
+street: 5th Street
+housenumber: "1131"
+phone: +1 305 535 8539
+opening_hours: Mo-Sa 10:00-21:00, Su 11:00-20:00
+website: https://stores.bestbuy.com/fl/miami-beach/1131-5th-street-1498.html

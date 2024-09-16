@@ -1,11 +1,11 @@
 id: 920549639
-type: way
+type: node
 latitude: 28.2019
 longitude: -82.66385
 postcode: "34655"
 city: Trinity
-street: "Little Road"
-housenumber: 2920
-phone: "+1 727-375-9973"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/fl/trinity-store0322.html"
+street: Little Road
+housenumber: "2920"
+phone: +1 727-375-9973
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/fl/trinity-store0322.html

@@ -1,11 +1,11 @@
 id: 1188520049
-type: way
+type: node
 latitude: 27.95391
 longitude: -82.48287
 postcode: "33607"
 city: Tampa
-street: "West Arch Street"
-housenumber: 2138
+street: West Arch Street
+housenumber: "2138"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-15:30"
-website: "https://hyde-park-auto-collision-and-repairs.business.site/"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-15:30
+website: https://hyde-park-auto-collision-and-repairs.business.site/

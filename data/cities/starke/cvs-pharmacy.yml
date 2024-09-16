@@ -1,11 +1,11 @@
 id: 111996512
-type: way
+type: node
 latitude: 29.94383
 longitude: -82.11269
 postcode: "32091"
 city: Starke
-street: "South Temple Avenue"
-housenumber: 209
+street: South Temple Avenue
+housenumber: "209"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/starke-fl-pharmacies/209-s-temple-st-starke-fl-32091/storeid=2188"
+website: https://www.cvs.com/store-locator/starke-fl-pharmacies/209-s-temple-st-starke-fl-32091/storeid=2188

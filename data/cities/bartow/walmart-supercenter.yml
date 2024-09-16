@@ -1,11 +1,11 @@
 id: 410923339
-type: way
+type: node
 latitude: 27.90731
 longitude: -81.83431
 postcode: "33830"
 city: Bartow
-street: "East Van Fleet Drive"
-housenumber: 1050
-phone: "+1 863-533-5400"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/580/bartow-fl/whats-new"
+street: East Van Fleet Drive
+housenumber: "1050"
+phone: +1 863-533-5400
+opening_hours: 24/7
+website: https://www.walmart.com/store/580/bartow-fl/whats-new

@@ -4,8 +4,8 @@ latitude: 27.96059
 longitude: -82.46112
 postcode: "33602"
 city: Tampa
-street: "West 7th Avenue"
-housenumber: 101
-phone: "+1 813-807-3146"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/fl/tampa/636-tampa-heights/"
+street: West 7th Avenue
+housenumber: "101"
+phone: +1 813-807-3146
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/fl/tampa/636-tampa-heights/

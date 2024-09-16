@@ -1,11 +1,11 @@
 id: 316478540
-type: way
+type: node
 latitude: 26.20769
 longitude: -80.22377
-postcode: "33068-5481"
+postcode: 33068-5481
 city: North Lauderdale
-street: "McNab Road"
-housenumber: 7300
-phone: "+1 954-721-2398"
-opening_hours: "Mo-Th 09:30-22:30; Fr-Sa 09:00-23:00; Su 09:00-22:30"
+street: McNab Road
+housenumber: "7300"
+phone: +1 954-721-2398
+opening_hours: Mo-Th 09:30-22:30; Fr-Sa 09:00-23:00; Su 09:00-22:30
 website: ""

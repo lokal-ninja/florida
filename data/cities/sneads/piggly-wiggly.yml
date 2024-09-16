@@ -1,11 +1,11 @@
 id: 327029494
-type: way
+type: node
 latitude: 30.71021
 longitude: -84.9127
 postcode: "32460"
 city: Sneads
-street: "Highway 90"
-housenumber: 8166
-phone: "+1 850-593-6836"
+street: Highway 90
+housenumber: "8166"
+phone: +1 850-593-6836
 opening_hours: ""
 website: ""

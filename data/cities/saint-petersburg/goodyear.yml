@@ -1,11 +1,11 @@
 id: 192564543
-type: way
+type: node
 latitude: 27.77729
 longitude: -82.64709
 postcode: "33701"
 city: Saint Petersburg
-street: "5th Avenue North"
-housenumber: 456
+street: 5th Avenue North
+housenumber: "456"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 525613148
-type: way
+type: node
 latitude: 26.31602
 longitude: -80.11756
 postcode: "33442"
 city: Deerfield Beach
-street: "Southwest 12th Avenue"
-housenumber: 60
-phone: "+1 954-427-0028"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Deerfield-Beach/FL/Deerfield-Beach/33442/218"
+street: Southwest 12th Avenue
+housenumber: "60"
+phone: +1 954-427-0028
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Deerfield-Beach/FL/Deerfield-Beach/33442/218

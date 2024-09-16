@@ -1,11 +1,11 @@
 id: 832403321
-type: way
+type: node
 latitude: 28.33121
 longitude: -82.57121
-postcode: "34669-4061"
+postcode: 34669-4061
 city: Hudson
-street: "State Road 52"
-housenumber: 14851
-phone: "+1 727-856-0293"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1271"
+street: State Road 52
+housenumber: "14851"
+phone: +1 727-856-0293
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1271

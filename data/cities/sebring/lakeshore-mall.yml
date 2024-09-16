@@ -1,11 +1,11 @@
 id: 144452482
-type: way
+type: node
 latitude: 27.49193
 longitude: -81.4882
 postcode: "33870"
 city: Sebring
-street: "US Highway 27 North"
-housenumber: 901
+street: US Highway 27 North
+housenumber: "901"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.lakeshoremall.com/"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.lakeshoremall.com/

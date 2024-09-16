@@ -4,8 +4,8 @@ latitude: 26.00609
 longitude: -80.30925
 postcode: "33026"
 city: Pembroke Pines
-street: "Pines Boulevard"
-housenumber: 11850
-phone: "+1 954-438-6330"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/pembroke-pines-fl-161"
+street: Pines Boulevard
+housenumber: "11850"
+phone: +1 954-438-6330
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/pembroke-pines-fl-161

@@ -1,11 +1,11 @@
 id: 136997532
-type: way
+type: node
 latitude: 28.48318
 longitude: -81.42792
 postcode: "32839"
 city: Orlando
-street: "Eastgate Drive"
-housenumber: 4092
-phone: "+1-888-888-4532"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://ikea.com"
+street: Eastgate Drive
+housenumber: "4092"
+phone: +1-888-888-4532
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://ikea.com

@@ -1,11 +1,11 @@
 id: 1009500947
-type: way
+type: node
 latitude: 27.99635
 longitude: -82.58102
 postcode: "33635"
 city: Tampa
-street: "West Hillsborough Avenue"
-housenumber: 
+street: West Hillsborough Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/fl/tampa/3636/hillsborough-avenue-tampa-gamestop"
+website: https://www.gamestop.com/store/us/fl/tampa/3636/hillsborough-avenue-tampa-gamestop

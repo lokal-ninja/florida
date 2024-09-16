@@ -1,11 +1,11 @@
 id: 827669806
-type: way
+type: node
 latitude: 30.45462
 longitude: -87.23682
 postcode: "32505"
 city: Pensacola
-street: "West 41st Lane"
-housenumber: 6
+street: West 41st Lane
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

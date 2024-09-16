@@ -1,11 +1,11 @@
 id: 208822163
-type: way
+type: node
 latitude: 25.85776
 longitude: -80.325
 postcode: "33016"
 city: Miami Lakes
-street: "Northwest 77th Avenue"
-housenumber: 9300
-phone: "+1 305-819-0672"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2814/hialeah-fl/whats-new"
+street: Northwest 77th Avenue
+housenumber: "9300"
+phone: +1 305-819-0672
+opening_hours: 24/7
+website: https://www.walmart.com/store/2814/hialeah-fl/whats-new

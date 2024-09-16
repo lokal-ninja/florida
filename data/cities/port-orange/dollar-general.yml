@@ -1,11 +1,11 @@
 id: 623090979
-type: way
+type: node
 latitude: 29.14524
 longitude: -81.03455
 postcode: "32129"
 city: Port Orange
-street: "South Clyde Morris Boulevard"
-housenumber: 3741
+street: South Clyde Morris Boulevard
+housenumber: "3741"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/fl/port-orange/11887"
+website: https://www.dollargeneral.com/store-directory/fl/port-orange/11887

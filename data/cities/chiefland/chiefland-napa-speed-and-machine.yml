@@ -1,11 +1,11 @@
 id: 565840171
-type: way
+type: node
 latitude: 29.49417
 longitude: -82.86547
 postcode: "32626"
 city: Chiefland
-street: "Northwest 5th Street"
-housenumber: 1512
-phone: "+1 352-493-2532"
+street: Northwest 5th Street
+housenumber: "1512"
+phone: +1 352-493-2532
 opening_hours: ""
 website: ""

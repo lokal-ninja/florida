@@ -4,8 +4,8 @@ latitude: 25.77477
 longitude: -80.13977
 postcode: "33139"
 city: Miami Beach
-street: "5th Street"
-housenumber: 1141
-phone: "+1 305-538-1857"
-opening_hours: "Mo-Su 08:30-23:30"
-website: "https://www.rossstores.com/"
+street: 5th Street
+housenumber: "1141"
+phone: +1 305-538-1857
+opening_hours: Mo-Su 08:30-23:30
+website: https://www.rossstores.com/

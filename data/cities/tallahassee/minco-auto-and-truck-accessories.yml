@@ -1,11 +1,11 @@
 id: 452958660
-type: way
+type: node
 latitude: 30.44278
 longitude: -84.26195
 postcode: "32301"
 city: Tallahassee
-street: "North Magnolia Drive"
-housenumber: 200
+street: North Magnolia Drive
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "http://www.mincoautoandtruck.com/"
+website: http://www.mincoautoandtruck.com/

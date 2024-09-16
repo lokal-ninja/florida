@@ -1,11 +1,11 @@
 id: 313780340
-type: way
+type: node
 latitude: 28.4722
 longitude: -81.39617
 postcode: "32809"
 city: Orlando
-street: "South Orange Blossom Trail"
-housenumber: 5903
+street: South Orange Blossom Trail
+housenumber: "5903"
 phone: ""
-opening_hours: "Mo-Su 07:00-00:00"
-website: "https://www.walgreens.com/locator/walgreens-5903+s+orange+blossom+trl-orlando-fl-32809/id=10556"
+opening_hours: Mo-Su 07:00-00:00
+website: https://www.walgreens.com/locator/walgreens-5903+s+orange+blossom+trl-orlando-fl-32809/id=10556

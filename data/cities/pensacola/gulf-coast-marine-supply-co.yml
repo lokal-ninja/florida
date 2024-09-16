@@ -4,8 +4,8 @@ latitude: 30.50923
 longitude: -87.2703
 postcode: "32534"
 city: Pensacola
-street: "Pensacola Boulevard"
-housenumber: 7885
+street: Pensacola Boulevard
+housenumber: "7885"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://www.gulfcoastmarine.com/pensacola.htm"
+opening_hours: Mo-Fr 07:30-16:30
+website: https://www.gulfcoastmarine.com/pensacola.htm

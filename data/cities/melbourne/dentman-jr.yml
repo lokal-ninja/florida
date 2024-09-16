@@ -1,11 +1,11 @@
 id: 1032632338
-type: way
+type: node
 latitude: 28.09585
 longitude: -80.66674
 postcode: "32904"
 city: Melbourne
-street: "Atlantis Road"
-housenumber: 700
-phone: "(321)652-4904"
+street: Atlantis Road
+housenumber: "700"
+phone: (321)652-4904
 opening_hours: ""
-website: "https://dentmanjr.com/"
+website: https://dentmanjr.com/

@@ -1,11 +1,11 @@
 id: 479911872
-type: way
+type: node
 latitude: 29.01551
 longitude: -80.9661
 postcode: "32168"
 city: New Smyrna Beach
-street: "State Road 44"
-housenumber: 2359
-phone: "+1 386-423-0394"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/new-smyrna-beach/fl/new-smyrna-beach/32168/6936"
+street: State Road 44
+housenumber: "2359"
+phone: +1 386-423-0394
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/new-smyrna-beach/fl/new-smyrna-beach/32168/6936

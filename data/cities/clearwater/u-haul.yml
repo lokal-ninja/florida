@@ -1,11 +1,11 @@
 id: 523875181
-type: way
+type: node
 latitude: 27.98993
 longitude: -82.72909
 postcode: "33765"
 city: Clearwater
-street: "US 19 Northbound Frontage Road"
-housenumber: 23917
+street: US 19 Northbound Frontage Road
+housenumber: "23917"
 phone: ""
 opening_hours: ""
 website: ""

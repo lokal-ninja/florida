@@ -1,11 +1,11 @@
 id: 830160424
-type: way
+type: node
 latitude: 25.55081
 longitude: -80.3717
 postcode: "33032"
 city: Miami
-street: "Southwest 112th Avenue"
-housenumber: 23271
-phone: "+1-786-572-6569"
-opening_hours: "Mo-Sa 08:00-20:00; Su 07:30-20:00"
-website: "https://www.autozone.com/locations/fl/homestead/23271-sw-112th-ave.html"
+street: Southwest 112th Avenue
+housenumber: "23271"
+phone: +1-786-572-6569
+opening_hours: Mo-Sa 08:00-20:00; Su 07:30-20:00
+website: https://www.autozone.com/locations/fl/homestead/23271-sw-112th-ave.html

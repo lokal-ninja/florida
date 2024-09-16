@@ -1,11 +1,11 @@
 id: 636642536
-type: way
+type: node
 latitude: 30.18864
 longitude: -85.8265
 postcode: "32407"
 city: Panama City Beach
-street: "Front Beach Road"
-housenumber: 11930
+street: Front Beach Road
+housenumber: "11930"
 phone: ""
 opening_hours: ""
-website: "https://www.saltydogsurfshop.com/"
+website: https://www.saltydogsurfshop.com/

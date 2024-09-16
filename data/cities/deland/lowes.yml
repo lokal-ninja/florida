@@ -1,11 +1,11 @@
 id: 543149463
-type: way
+type: node
 latitude: 29.05711
 longitude: -81.29849
 postcode: "32724"
 city: Deland
-street: "International Speedway Boulevard"
-housenumber: 303
-phone: "+1 386-785-2430"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/FL-Deland/1945"
+street: International Speedway Boulevard
+housenumber: "303"
+phone: +1 386-785-2430
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/FL-Deland/1945

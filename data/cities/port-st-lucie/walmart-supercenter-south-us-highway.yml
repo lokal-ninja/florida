@@ -1,11 +1,11 @@
 id: 252400546
-type: way
+type: node
 latitude: 27.26635
 longitude: -80.28753
 postcode: "34952"
 city: Port St Lucie
-street: "South Us Highway"
-housenumber: 10855
-phone: "+1 772-335-5359"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/929/port-st%20lucie-fl/whats-new"
+street: South Us Highway
+housenumber: "10855"
+phone: +1 772-335-5359
+opening_hours: 24/7
+website: https://www.walmart.com/store/929/port-st%20lucie-fl/whats-new

@@ -1,11 +1,11 @@
 id: 637652036
-type: way
+type: node
 latitude: 30.13808
 longitude: -85.59184
 postcode: "32404"
 city: Parker
-street: "South Tyndall Parkway"
-housenumber: 504
+street: South Tyndall Parkway
+housenumber: "504"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/fl/parker/autoparts-1161.html"
+website: https://locations.oreillyauto.com/fl/parker/autoparts-1161.html

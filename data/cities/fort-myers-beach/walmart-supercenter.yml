@@ -1,11 +1,11 @@
 id: 449036839
-type: way
+type: node
 latitude: 26.49271
 longitude: -81.94093
 postcode: "33931"
 city: Fort Myers Beach
-street: "San Carlos Boulevard"
-housenumber: 17105
+street: San Carlos Boulevard
+housenumber: "17105"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

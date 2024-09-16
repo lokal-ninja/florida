@@ -1,11 +1,11 @@
 id: 424947050
-type: way
+type: node
 latitude: 28.39638
 longitude: -80.6042
 postcode: "32920"
 city: Cape Canaveral
-street: "East Central Boulevard"
-housenumber: 100
-phone: "+1 321 7833133"
-opening_hours: "10:00-17:30"
+street: East Central Boulevard
+housenumber: "100"
+phone: +1 321 7833133
+opening_hours: 10:00-17:30
 website: ""

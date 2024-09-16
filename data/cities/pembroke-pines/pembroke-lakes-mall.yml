@@ -1,11 +1,11 @@
 id: 197618897
-type: way
+type: node
 latitude: 26.01034
 longitude: -80.30733
 postcode: "33026"
 city: Pembroke Pines
-street: "Pines Boulevard"
-housenumber: 11401
+street: Pines Boulevard
+housenumber: "11401"
 phone: ""
-opening_hours: "10:00-21:00"
+opening_hours: 10:00-21:00
 website: ""

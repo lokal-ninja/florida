@@ -1,11 +1,11 @@
 id: 974188484
-type: way
+type: node
 latitude: 26.78018
 longitude: -80.23835
 postcode: "33412"
 city: West Palm Beach
-street: "Orange Boulevard"
-housenumber: 12528
+street: Orange Boulevard
+housenumber: "12528"
 phone: ""
-opening_hours: "Mo-Su 08:00-17:30"
+opening_hours: Mo-Su 08:00-17:30
 website: ""

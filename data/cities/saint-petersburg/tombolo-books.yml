@@ -4,8 +4,8 @@ latitude: 27.77034
 longitude: -82.66269
 postcode: "33712"
 city: Saint Petersburg
-street: "1st Avenue South"
-housenumber: 2153
-phone: "+1-727-755-9456"
+street: 1st Avenue South
+housenumber: "2153"
+phone: +1-727-755-9456
 opening_hours: ""
-website: "https://www.tombolobooks.com/"
+website: https://www.tombolobooks.com/

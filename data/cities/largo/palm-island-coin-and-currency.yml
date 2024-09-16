@@ -1,11 +1,11 @@
 id: 525250748
-type: way
+type: node
 latitude: 27.91614
 longitude: -82.75626
 postcode: "33771"
 city: Largo
-street: "East Bay Drive"
-housenumber: 2965
+street: East Bay Drive
+housenumber: "2965"
 phone: ""
 opening_hours: ""
-website: "https://palmislandcoin.com/"
+website: https://palmislandcoin.com/

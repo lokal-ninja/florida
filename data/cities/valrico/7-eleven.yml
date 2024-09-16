@@ -1,11 +1,11 @@
 id: 865524689
-type: way
+type: node
 latitude: 27.93708
 longitude: -82.22013
 postcode: "33527"
 city: Valrico
-street: "East State Road 60"
-housenumber: 3629
+street: East State Road 60
+housenumber: "3629"
 phone: ""
 opening_hours: ""
 website: ""

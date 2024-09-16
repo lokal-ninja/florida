@@ -1,11 +1,11 @@
 id: 435880196
-type: way
+type: node
 latitude: 25.8106
 longitude: -80.31419
 postcode: "33166"
 city: Miami Springs
-street: "Northwest 36th Street"
-housenumber: 7245
+street: Northwest 36th Street
+housenumber: "7245"
 phone: ""
 opening_hours: ""
 website: ""

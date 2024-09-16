@@ -1,11 +1,11 @@
 id: 544020564
-type: way
+type: node
 latitude: 26.14151
 longitude: -80.14045
 postcode: "33304"
 city: Fort Lauderdale
-street: "Northeast 4th Avenue"
-housenumber: 1226
+street: Northeast 4th Avenue
+housenumber: "1226"
 phone: ""
 opening_hours: ""
 website: ""

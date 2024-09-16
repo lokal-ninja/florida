@@ -1,11 +1,11 @@
 id: 229622817
-type: way
+type: node
 latitude: 30.19371
 longitude: -81.82589
-postcode: "32222-2800"
+postcode: 32222-2800
 city: Jacksonville
-street: "Argyle Forest Boulevard"
-housenumber: 9518
-phone: "+1 904-317-5755"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/128"
+street: Argyle Forest Boulevard
+housenumber: "9518"
+phone: +1 904-317-5755
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/128

@@ -1,11 +1,11 @@
 id: 294888201
-type: way
+type: node
 latitude: 25.86776
 longitude: -80.26405
 postcode: "33013"
 city: Hialeah
-street: "East 49th Street"
-housenumber: 955
+street: East 49th Street
+housenumber: "955"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Hialeah/955-E-49TH-ST"
+website: https://www.speedway.com/locations/FL/Hialeah/955-E-49TH-ST

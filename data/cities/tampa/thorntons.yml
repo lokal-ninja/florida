@@ -1,11 +1,11 @@
 id: 523069513
-type: way
+type: node
 latitude: 27.99718
 longitude: -82.55099
 postcode: "33634"
 city: Tampa
-street: "Hillsborough Avenue"
-housenumber: 6405
-phone: "+1-813-882-8444"
+street: Hillsborough Avenue
+housenumber: "6405"
+phone: +1-813-882-8444
 opening_hours: ""
 website: ""

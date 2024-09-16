@@ -1,11 +1,11 @@
 id: 904582276
-type: way
+type: node
 latitude: 26.61783
 longitude: -81.73112
 postcode: "33971"
 city: Lehigh Acres
-street: "Lee Boulevard"
-housenumber: 5003
+street: Lee Boulevard
+housenumber: "5003"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/fl/lehighacres/autoparts-5312.html"
+website: https://locations.oreillyauto.com/fl/lehighacres/autoparts-5312.html

@@ -1,11 +1,11 @@
 id: 405204147
-type: way
+type: node
 latitude: 26.6413
 longitude: -81.86657
 postcode: "33901"
 city: Fort Myers
-street: "Dr Martin Luther King Boulevard"
-housenumber: 2315
-phone: "800 749 5296"
+street: Dr Martin Luther King Boulevard
+housenumber: "2315"
+phone: 800 749 5296
 opening_hours: ""
-website: "https://sarlomower.com/"
+website: https://sarlomower.com/

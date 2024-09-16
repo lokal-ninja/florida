@@ -1,11 +1,11 @@
 id: 435882740
-type: way
+type: node
 latitude: 25.64712
 longitude: -80.33125
 postcode: "33156"
 city: Pinecrest
-street: "South Dixie Highway"
-housenumber: 13251
+street: South Dixie Highway
+housenumber: "13251"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/fl/miami/south-dade-furniture-and-mattress-gallery_780.html"
+website: https://www.macys.com/stores/fl/miami/south-dade-furniture-and-mattress-gallery_780.html

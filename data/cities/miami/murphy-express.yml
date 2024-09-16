@@ -1,11 +1,11 @@
 id: 1058013492
-type: way
+type: node
 latitude: 25.60515
 longitude: -80.35163
 postcode: "33157"
 city: Miami
-street: "South Dixie Highway"
-housenumber: 17700
-phone: "+1-786-687-1994"
-opening_hours: "Mo-Su 05:30-23:00"
-website: "https://www.murphyusa.com/murphyusa/find-a-store"
+street: South Dixie Highway
+housenumber: "17700"
+phone: +1-786-687-1994
+opening_hours: Mo-Su 05:30-23:00
+website: https://www.murphyusa.com/murphyusa/find-a-store

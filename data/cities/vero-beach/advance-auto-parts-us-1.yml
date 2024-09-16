@@ -1,11 +1,11 @@
 id: 693972635
-type: way
+type: node
 latitude: 27.62515
 longitude: -80.38898
 postcode: "32960"
 city: Vero Beach
-street: "US 1"
-housenumber: 1266
-phone: "+1-772-778-5617"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://stores.advanceautoparts.com/fl/vero-beach/1266-us-highway-1"
+street: US 1
+housenumber: "1266"
+phone: +1-772-778-5617
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://stores.advanceautoparts.com/fl/vero-beach/1266-us-highway-1

@@ -1,11 +1,11 @@
 id: 791121955
-type: way
+type: node
 latitude: 29.554
 longitude: -81.22342
 postcode: "32164"
 city: Palm Coast
-street: "Cypress Edge Drive"
-housenumber: 140
-phone: "+1 386 627 7108"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.discounttire.com/store/fl/palm-coast/s/2164"
+street: Cypress Edge Drive
+housenumber: "140"
+phone: +1 386 627 7108
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.discounttire.com/store/fl/palm-coast/s/2164

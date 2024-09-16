@@ -1,11 +1,11 @@
 id: 721046130
-type: way
+type: node
 latitude: 28.36402
 longitude: -81.42628
 postcode: "32837"
 city: Orlando
-street: "Town Center Boulevard"
-housenumber: 4161
-phone: "+1 407-812-5855"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/orlando/office-depot-2634/"
+street: Town Center Boulevard
+housenumber: "4161"
+phone: +1 407-812-5855
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/orlando/office-depot-2634/

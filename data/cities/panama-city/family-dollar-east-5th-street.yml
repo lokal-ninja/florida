@@ -1,11 +1,11 @@
 id: 637347998
-type: way
+type: node
 latitude: 30.15652
 longitude: -85.62577
 postcode: "32401"
 city: Panama City
-street: "East 5th Street"
-housenumber: 2600
+street: East 5th Street
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 230876615
-type: way
+type: node
 latitude: 27.95916
 longitude: -82.74436
 postcode: "33765"
 city: Clearwater
-street: "3rd Street"
-housenumber: 529
-phone: "+1 727-791-6393"
-opening_hours: "Mo-Fr 08:30-19:30; Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/fl/clearwater/office-depot-2675"
+street: 3rd Street
+housenumber: "529"
+phone: +1 727-791-6393
+opening_hours: Mo-Fr 08:30-19:30; Sa 10:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/fl/clearwater/office-depot-2675

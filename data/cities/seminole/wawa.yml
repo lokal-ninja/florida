@@ -1,11 +1,11 @@
 id: 523583940
-type: way
+type: node
 latitude: 27.83868
 longitude: -82.76087
 postcode: "33777"
 city: Seminole
-street: "Park Boulevard North"
-housenumber: 8800
-phone: "+1-727-452-6467"
-opening_hours: "24/7"
+street: Park Boulevard North
+housenumber: "8800"
+phone: +1-727-452-6467
+opening_hours: 24/7
 website: ""

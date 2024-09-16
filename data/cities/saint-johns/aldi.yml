@@ -1,11 +1,11 @@
 id: 922188866
-type: way
+type: node
 latitude: 30.104
 longitude: -81.5452
 postcode: "32259"
 city: Saint Johns
-street: "Harper Lane"
-housenumber: 145
-phone: "+1 833-474-7140"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/st.-johns/145-harper-lane"
+street: Harper Lane
+housenumber: "145"
+phone: +1 833-474-7140
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/st.-johns/145-harper-lane

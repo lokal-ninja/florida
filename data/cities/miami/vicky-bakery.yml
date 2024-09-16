@@ -4,8 +4,8 @@ latitude: 25.73269
 longitude: -80.32939
 postcode: "33155"
 city: Miami
-street: "Bird Rd"
-housenumber: 8290
+street: Bird Rd
+housenumber: "8290"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:00"
-website: "https://www.vickybakery.com"
+opening_hours: Mo-Sa 06:30-19:00
+website: https://www.vickybakery.com

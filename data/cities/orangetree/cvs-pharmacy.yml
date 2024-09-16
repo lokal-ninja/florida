@@ -1,11 +1,11 @@
 id: 833051896
-type: way
+type: node
 latitude: 26.27824
 longitude: -81.59793
 postcode: "34120"
 city: Orangetree
-street: "Immokalee Road"
-housenumber: 13400
-phone: "+1 239 213 0306"
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/naples-fl-pharmacies/13400-immokalee-rd-naples-fl-34120/storeid=4738"
+street: Immokalee Road
+housenumber: "13400"
+phone: +1 239 213 0306
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/naples-fl-pharmacies/13400-immokalee-rd-naples-fl-34120/storeid=4738

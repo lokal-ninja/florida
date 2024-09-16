@@ -1,11 +1,11 @@
 id: 292012264
-type: way
+type: node
 latitude: 27.85582
 longitude: -82.32764
 postcode: "33578"
 city: Riverview
-street: "US 301"
-housenumber: 9817
+street: US 301
+housenumber: "9817"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

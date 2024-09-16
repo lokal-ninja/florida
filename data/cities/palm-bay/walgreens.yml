@@ -1,11 +1,11 @@
 id: 503366059
-type: way
+type: node
 latitude: 27.99978
 longitude: -80.67461
 postcode: "32907"
 city: Palm Bay
-street: "Malabar Road Southwest"
-housenumber: 175
+street: Malabar Road Southwest
+housenumber: "175"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-175+malabar+rd+nw-palm+bay-fl-32907/id=6704"
+website: https://www.walgreens.com/locator/walgreens-175+malabar+rd+nw-palm+bay-fl-32907/id=6704

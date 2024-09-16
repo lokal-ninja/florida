@@ -1,11 +1,11 @@
 id: 309172642
-type: way
+type: node
 latitude: 28.30525
 longitude: -81.41535
 postcode: "34741"
 city: Kissimmee
-street: "West Vine Street"
-housenumber: 1111
+street: West Vine Street
+housenumber: "1111"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-1111+w+vine+st-kissimmee-fl-34741/id=6486"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-1111+w+vine+st-kissimmee-fl-34741/id=6486

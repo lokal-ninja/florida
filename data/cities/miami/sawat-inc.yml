@@ -1,11 +1,11 @@
 id: 311838835
-type: way
+type: node
 latitude: 25.80121
 longitude: -80.20208
 postcode: "33127"
 city: Miami
-street: "Northwest 26th Street"
-housenumber: 380
-phone: "+1 305 576 1722"
+street: Northwest 26th Street
+housenumber: "380"
+phone: +1 305 576 1722
 opening_hours: ""
 website: ""

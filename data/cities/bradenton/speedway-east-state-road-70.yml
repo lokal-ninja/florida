@@ -1,11 +1,11 @@
 id: 450026332
-type: way
+type: node
 latitude: 27.43806
 longitude: -82.45223
 postcode: "34202"
 city: Bradenton
-street: "East State Road 70"
-housenumber: 8604
+street: East State Road 70
+housenumber: "8604"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Bradenton/8604-E-STATE-ROAD-70"
+website: https://www.speedway.com/locations/FL/Bradenton/8604-E-STATE-ROAD-70

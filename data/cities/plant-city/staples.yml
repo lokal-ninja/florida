@@ -4,8 +4,8 @@ latitude: 27.99403
 longitude: -82.12001
 postcode: "33563"
 city: Plant City
-street: "Jim Redman Parkway"
-housenumber: 1866
+street: Jim Redman Parkway
+housenumber: "1866"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://stores.staples.com/fl/plant-city/1866-jim-redman-pkwy"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://stores.staples.com/fl/plant-city/1866-jim-redman-pkwy

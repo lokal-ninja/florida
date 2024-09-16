@@ -1,11 +1,11 @@
 id: 624622784
-type: way
+type: node
 latitude: 30.37512
 longitude: -86.25181
 postcode: "32459"
 city: Santa Rosa Beach
-street: "US Highway 98 West"
-housenumber: 4444
+street: US Highway 98 West
+housenumber: "4444"
 phone: ""
 opening_hours: ""
-website: "http://www.shrimpersseafood.com/"
+website: http://www.shrimpersseafood.com/

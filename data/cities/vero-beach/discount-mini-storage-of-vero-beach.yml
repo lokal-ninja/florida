@@ -4,8 +4,8 @@ latitude: 27.6359
 longitude: -80.51269
 postcode: "32966"
 city: Vero Beach
-street: "90th Avenue"
-housenumber: 1803
-phone: "+1-772-569-2723"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su 10:00-15:00"
-website: "https://www.dmsverobeach.com/"
+street: 90th Avenue
+housenumber: "1803"
+phone: +1-772-569-2723
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su 10:00-15:00
+website: https://www.dmsverobeach.com/

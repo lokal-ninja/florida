@@ -1,11 +1,11 @@
 id: 327324481
-type: way
+type: node
 latitude: 29.21654
 longitude: -81.04652
 postcode: ""
 city: Daytona Beach
-street: "Nova Road"
-housenumber: 650
-phone: "+1 888 804 1945"
+street: Nova Road
+housenumber: "650"
+phone: +1 888 804 1945
 opening_hours: ""
-website: "https://www.subaruofdaytona.com/"
+website: https://www.subaruofdaytona.com/

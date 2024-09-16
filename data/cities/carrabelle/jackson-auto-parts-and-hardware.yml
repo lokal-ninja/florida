@@ -1,11 +1,11 @@
 id: 476161615
-type: way
+type: node
 latitude: 29.85319
 longitude: -84.67096
 postcode: "32322"
 city: Carrabelle
-street: "Avenue A North"
-housenumber: 712
+street: Avenue A North
+housenumber: "712"
 phone: ""
 opening_hours: ""
 website: ""

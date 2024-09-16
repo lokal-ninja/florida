@@ -1,11 +1,11 @@
 id: 398601521
-type: way
+type: node
 latitude: 30.51674
 longitude: -82.9449
 postcode: "32052"
 city: Jasper
-street: "2nd Avenue Southeast"
-housenumber: 205
-phone: "+1 (386) 792-1316"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "http://myhitchcocks.com/"
+street: 2nd Avenue Southeast
+housenumber: "205"
+phone: +1 (386) 792-1316
+opening_hours: Mo-Su 07:00-22:00
+website: http://myhitchcocks.com/

@@ -1,11 +1,11 @@
 id: 829933760
-type: way
+type: node
 latitude: 27.76963
 longitude: -82.33652
 postcode: "33598"
 city: Wimauma
-street: "South US Highway 301"
-housenumber: 14323
-phone: "+1 813-634-2117"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1711"
+street: South US Highway 301
+housenumber: "14323"
+phone: +1 813-634-2117
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1711

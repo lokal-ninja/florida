@@ -1,11 +1,11 @@
 id: 394444818
-type: way
+type: node
 latitude: 30.46496
 longitude: -84.26905
 postcode: ""
 city: Tallahassee
-street: "Thomasville Road"
-housenumber: 1909
+street: Thomasville Road
+housenumber: "1909"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00;Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-18:00;Sa 10:00-17:00
 website: ""

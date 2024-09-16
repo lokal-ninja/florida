@@ -1,11 +1,11 @@
 id: 621633339
-type: way
+type: node
 latitude: 27.32004
 longitude: -80.37651
 postcode: "34986"
 city: Port Saint Lucie
-street: "Northwest Saint Lucie Boulevard"
-housenumber: 701
-phone: "+1 772-204-7160"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/fl-port-st.-lucie/2349"
+street: Northwest Saint Lucie Boulevard
+housenumber: "701"
+phone: +1 772-204-7160
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/fl-port-st.-lucie/2349

@@ -1,11 +1,11 @@
 id: 142560758
-type: way
+type: node
 latitude: 27.93427
 longitude: -81.97101
 postcode: "33860"
 city: Mulberry
-street: "North Church Avenue"
-housenumber: 6745
-phone: "+1 863-701-2232"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5035/mulberry-fl/whats-new"
+street: North Church Avenue
+housenumber: "6745"
+phone: +1 863-701-2232
+opening_hours: 24/7
+website: https://www.walmart.com/store/5035/mulberry-fl/whats-new

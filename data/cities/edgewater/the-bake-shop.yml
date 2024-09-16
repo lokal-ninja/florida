@@ -1,11 +1,11 @@
 id: 993391352
-type: way
+type: node
 latitude: 28.99254
 longitude: -80.90814
 postcode: "32132"
 city: Edgewater
-street: "North Ridgewood Avenue"
-housenumber: 111
+street: North Ridgewood Avenue
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

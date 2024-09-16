@@ -4,8 +4,8 @@ latitude: 30.54634
 longitude: -83.86917
 postcode: "32344"
 city: Monticello
-street: "North Cherry Street"
-housenumber: 262
+street: North Cherry Street
+housenumber: "262"
 phone: ""
-opening_hours: "Tu-Fr 10:00-15:00; Sa 10:00-14:00"
-website: "https://www.theappelshop.com/"
+opening_hours: Tu-Fr 10:00-15:00; Sa 10:00-14:00
+website: https://www.theappelshop.com/

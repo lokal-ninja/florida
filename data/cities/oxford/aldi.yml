@@ -1,11 +1,11 @@
 id: 1125217640
-type: way
+type: node
 latitude: 28.92706
 longitude: -82.0386
 postcode: "34484"
 city: Oxford
-street: "East County Road 466"
-housenumber: 3915
-phone: "+1 866-474-4053"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/oxford/3915-e-county-rd-466"
+street: East County Road 466
+housenumber: "3915"
+phone: +1 866-474-4053
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/oxford/3915-e-county-rd-466

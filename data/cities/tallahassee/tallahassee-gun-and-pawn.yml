@@ -1,11 +1,11 @@
 id: 401417676
-type: way
+type: node
 latitude: 30.42905
 longitude: -84.28047
 postcode: "32301"
 city: Tallahassee
-street: "South Monroe Street"
-housenumber: 1435
+street: South Monroe Street
+housenumber: "1435"
 phone: ""
 opening_hours: ""
-website: "http://tallahasseegunandpawn.net/"
+website: http://tallahasseegunandpawn.net/

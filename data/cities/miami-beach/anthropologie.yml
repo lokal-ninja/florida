@@ -4,8 +4,8 @@ latitude: 25.79102
 longitude: -80.13671
 postcode: "33139"
 city: Miami Beach
-street: "Meridian Avenue"
-housenumber: 1654
+street: Meridian Avenue
+housenumber: "1654"
 phone: ""
-opening_hours: "Su-Th 11:00-21:00;Fr-Sa 11:00-22:00"
-website: "https://www.anthropologie.com/stores/lincoln-road-mall-miami-beach"
+opening_hours: Su-Th 11:00-21:00;Fr-Sa 11:00-22:00
+website: https://www.anthropologie.com/stores/lincoln-road-mall-miami-beach

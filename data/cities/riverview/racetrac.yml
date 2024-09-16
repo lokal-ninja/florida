@@ -1,11 +1,11 @@
 id: 291263028
-type: way
+type: node
 latitude: 27.89305
 longitude: -82.33028
 postcode: "33569"
 city: Riverview
-street: "Bloomingdale Avenue"
-housenumber: 10311
+street: Bloomingdale Avenue
+housenumber: "10311"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 680167112
-type: way
+type: node
 latitude: 30.39448
 longitude: -86.50503
 postcode: "32541"
 city: Destin
-street: "Harbor Boulevard"
-housenumber: 301
-phone: "+1-850-837-2822"
-opening_hours: "Mo-Su 08:00-17:00"
-website: "http://www.scubatechnwfl.com/"
+street: Harbor Boulevard
+housenumber: "301"
+phone: +1-850-837-2822
+opening_hours: Mo-Su 08:00-17:00
+website: http://www.scubatechnwfl.com/

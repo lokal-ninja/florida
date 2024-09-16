@@ -1,11 +1,11 @@
 id: 1000289259
-type: way
+type: node
 latitude: 29.22837
 longitude: -81.02837
 postcode: "32117"
 city: Holly Hill
-street: "Mason Avenue"
-housenumber: 134
+street: Mason Avenue
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

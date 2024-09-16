@@ -1,11 +1,11 @@
 id: 547725995
-type: way
+type: node
 latitude: 30.44107
 longitude: -84.3177
 postcode: ""
 city: Tallahassee
-street: "West Pensacola Street"
-housenumber: 2008
+street: West Pensacola Street
+housenumber: "2008"
 phone: ""
 opening_hours: ""
 website: ""

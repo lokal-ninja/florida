@@ -1,11 +1,11 @@
 id: 799527439
-type: way
+type: node
 latitude: 28.47616
 longitude: -82.48678
 postcode: "34609"
 city: Spring Hill
-street: "Anderson Snow Road"
-housenumber: 3124
+street: Anderson Snow Road
+housenumber: "3124"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/fl/spring-hill/3124-anderson-snow-rd.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/fl/spring-hill/3124-anderson-snow-rd.html

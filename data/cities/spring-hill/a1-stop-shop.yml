@@ -1,11 +1,11 @@
 id: 990060212
-type: way
+type: node
 latitude: 28.39093
 longitude: -82.551
 postcode: "34610"
 city: Spring Hill
-street: "Shady Hills Road"
-housenumber: 16030
+street: Shady Hills Road
+housenumber: "16030"
 phone: ""
 opening_hours: ""
 website: ""

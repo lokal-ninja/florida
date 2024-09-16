@@ -1,11 +1,11 @@
 id: 704094741
-type: way
+type: node
 latitude: 30.40311
 longitude: -86.9157
 postcode: "32566"
 city: Navarre
-street: "Navarre Parkway"
-housenumber: 7360
-phone: "+1 850-684-6042"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/4582-navarre-fl"
+street: Navarre Parkway
+housenumber: "7360"
+phone: +1 850-684-6042
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/4582-navarre-fl

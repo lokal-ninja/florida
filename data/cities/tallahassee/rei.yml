@@ -1,11 +1,11 @@
 id: 203274675
-type: way
+type: node
 latitude: 30.50337
 longitude: -84.25368
 postcode: "32312"
 city: Tallahassee
-street: "Timberlane Road"
-housenumber: 1415
+street: Timberlane Road
+housenumber: "1415"
 phone: ""
 opening_hours: ""
-website: "https://www.rei.com/stores/tallahassee"
+website: https://www.rei.com/stores/tallahassee

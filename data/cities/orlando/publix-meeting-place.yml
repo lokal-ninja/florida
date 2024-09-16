@@ -2,10 +2,10 @@ id: 943127957
 type: node
 latitude: 28.56671
 longitude: -81.32706
-postcode: "32814-6602"
+postcode: 32814-6602
 city: Orlando
-street: "Meeting Place"
-housenumber: 1501
-phone: "+1 407-897-7363"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1048"
+street: Meeting Place
+housenumber: "1501"
+phone: +1 407-897-7363
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1048

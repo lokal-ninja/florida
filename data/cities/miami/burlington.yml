@@ -2,10 +2,10 @@ id: 1282621766
 type: node
 latitude: 25.78784
 longitude: -80.37813
-postcode: "33172-6902"
+postcode: 33172-6902
 city: Miami
-street: "Northwest 12th Street"
-housenumber: 11301
-phone: "+1 305-594-7776"
-opening_hours: "Mo-Sa 08:00-24:00; Su 08:00-23:00"
-website: "https://stores.burlington.com/fl/miami/348"
+street: Northwest 12th Street
+housenumber: "11301"
+phone: +1 305-594-7776
+opening_hours: Mo-Sa 08:00-24:00; Su 08:00-23:00
+website: https://stores.burlington.com/fl/miami/348

@@ -4,8 +4,8 @@ latitude: 30.28812
 longitude: -81.4555
 postcode: "32224"
 city: Jacksonville
-street: "Beach Boulevard"
-housenumber: 13997
-phone: "904-821-9935"
+street: Beach Boulevard
+housenumber: "13997"
+phone: 904-821-9935
 opening_hours: ""
-website: "http://local-lock.com/about.html"
+website: http://local-lock.com/about.html

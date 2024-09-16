@@ -4,8 +4,8 @@ latitude: 27.78735
 longitude: -82.63834
 postcode: ""
 city: Saint Petersburg
-street: "4th Street North"
-housenumber: 1545
-phone: "(727) 498-6988"
+street: 4th Street North
+housenumber: "1545"
+phone: (727) 498-6988
 opening_hours: ""
-website: "https://www.nestgalleries.com/"
+website: https://www.nestgalleries.com/

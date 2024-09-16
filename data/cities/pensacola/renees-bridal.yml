@@ -1,11 +1,11 @@
 id: 354637138
-type: way
+type: node
 latitude: 30.49647
 longitude: -87.21198
 postcode: "32504"
 city: Pensacola
-street: "Creighton Road"
-housenumber: 1320
-phone: "+1 850-494-7924"
+street: Creighton Road
+housenumber: "1320"
+phone: +1 850-494-7924
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 705244884
-type: way
+type: node
 latitude: 30.15104
 longitude: -81.37575
-postcode: "32082-4115"
+postcode: 32082-4115
 city: Ponte Vedra
-street: "Palm Valley Road"
-housenumber: 3777
-phone: "+1 904-273-6565"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1028"
+street: Palm Valley Road
+housenumber: "3777"
+phone: +1 904-273-6565
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1028

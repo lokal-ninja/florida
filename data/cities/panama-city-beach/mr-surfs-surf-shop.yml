@@ -1,11 +1,11 @@
 id: 636915786
-type: way
+type: node
 latitude: 30.15946
 longitude: -85.7758
 postcode: "32408"
 city: Panama City Beach
-street: "Thomas Drive"
-housenumber: 7220
+street: Thomas Drive
+housenumber: "7220"
 phone: ""
 opening_hours: ""
-website: "https://mrsurfs.com/"
+website: https://mrsurfs.com/

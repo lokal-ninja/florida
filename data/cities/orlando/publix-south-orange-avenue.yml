@@ -1,11 +1,11 @@
 id: 406324421
-type: way
+type: node
 latitude: 28.51054
 longitude: -81.37296
-postcode: "32806-5403"
+postcode: 32806-5403
 city: Orlando
-street: "South Orange Avenue"
-housenumber: 2873
-phone: "+1 407-872-0395"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/436"
+street: South Orange Avenue
+housenumber: "2873"
+phone: +1 407-872-0395
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/436

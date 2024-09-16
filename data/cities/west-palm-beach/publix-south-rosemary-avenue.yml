@@ -1,11 +1,11 @@
 id: 255447374
-type: way
+type: node
 latitude: 26.71059
 longitude: -80.05781
 postcode: "33401"
 city: West Palm Beach
-street: "South Rosemary Avenue"
-housenumber: 275
-phone: "+1 561-651-7787"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: South Rosemary Avenue
+housenumber: "275"
+phone: +1 561-651-7787
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

@@ -1,11 +1,11 @@
 id: 389323110
-type: way
+type: node
 latitude: 27.63878
 longitude: -80.38347
 postcode: "32960"
 city: Vero Beach
-street: "21st Street"
-housenumber: 415
-phone: "+1 772-562-0391"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com"
+street: 21st Street
+housenumber: "415"
+phone: +1 772-562-0391
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com

@@ -1,11 +1,11 @@
 id: 647082684
-type: way
+type: node
 latitude: 30.75605
 longitude: -86.56742
 postcode: ""
 city: Crestview
-street: "South Main Street"
-housenumber: 301
+street: South Main Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

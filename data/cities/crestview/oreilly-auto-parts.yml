@@ -1,11 +1,11 @@
 id: 705285646
-type: way
+type: node
 latitude: 30.74747
 longitude: -86.5645
 postcode: ""
 city: Crestview
-street: "South Ferdon Boulevard"
-housenumber: 1200
+street: South Ferdon Boulevard
+housenumber: "1200"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/fl/crestview/autoparts-1283.html"
+website: https://locations.oreillyauto.com/fl/crestview/autoparts-1283.html

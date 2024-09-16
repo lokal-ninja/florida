@@ -1,11 +1,11 @@
 id: 435744986
-type: way
+type: node
 latitude: 25.7498
 longitude: -80.30376
 postcode: "33155"
 city: Miami
-street: "Southwest 67th Avenue"
-housenumber: 2228
+street: Southwest 67th Avenue
+housenumber: "2228"
 phone: ""
 opening_hours: ""
 website: ""

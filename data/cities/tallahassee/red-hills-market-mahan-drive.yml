@@ -1,11 +1,11 @@
 id: 262965565
-type: way
+type: node
 latitude: 30.48144
 longitude: -84.16688
 postcode: ""
 city: Tallahassee
-street: "Mahan Drive"
-housenumber: 6625
+street: Mahan Drive
+housenumber: "6625"
 phone: ""
 opening_hours: ""
 website: ""

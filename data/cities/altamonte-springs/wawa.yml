@@ -1,11 +1,11 @@
 id: 826019187
-type: way
+type: node
 latitude: 28.6627
 longitude: -81.3463
 postcode: "32701"
 city: Altamonte Springs
-street: "East Altamonte Drive"
-housenumber: 1390
-phone: "+1-407-262-0338"
-opening_hours: "24/7"
-website: "https://www.wawa.com/stores/5186/fl-altamonte-springs-1390-e-altamonte-drive"
+street: East Altamonte Drive
+housenumber: "1390"
+phone: +1-407-262-0338
+opening_hours: 24/7
+website: https://www.wawa.com/stores/5186/fl-altamonte-springs-1390-e-altamonte-drive

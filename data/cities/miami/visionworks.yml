@@ -4,8 +4,8 @@ latitude: 25.75025
 longitude: -80.24903
 postcode: "33145"
 city: Miami
-street: "Southwest 22nd Street"
-housenumber: 3301
-phone: "+1-305-443-7276"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://locations.visionworks.com/ll/US/FL/Miami/3301-Coral-Way"
+street: Southwest 22nd Street
+housenumber: "3301"
+phone: +1-305-443-7276
+opening_hours: Mo-Sa 11:00-18:00
+website: https://locations.visionworks.com/ll/US/FL/Miami/3301-Coral-Way

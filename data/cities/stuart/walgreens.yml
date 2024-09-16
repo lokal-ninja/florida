@@ -1,11 +1,11 @@
 id: 141805806
-type: way
+type: node
 latitude: 27.16623
 longitude: -80.22829
 postcode: "34994"
 city: Stuart
-street: "Southeast Federal Highway"
-housenumber: 3180
+street: Southeast Federal Highway
+housenumber: "3180"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3180+se+federal+hwy-stuart-fl-34994/id=5255"
+website: https://www.walgreens.com/locator/walgreens-3180+se+federal+hwy-stuart-fl-34994/id=5255

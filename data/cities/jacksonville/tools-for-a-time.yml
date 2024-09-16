@@ -1,11 +1,11 @@
 id: 990158544
-type: way
+type: node
 latitude: 30.17117
 longitude: -81.60239
 postcode: "32257"
 city: Jacksonville
-street: "Old Saint Augustine Road"
-housenumber: 11291
+street: Old Saint Augustine Road
+housenumber: "11291"
 phone: ""
 opening_hours: ""
 website: ""

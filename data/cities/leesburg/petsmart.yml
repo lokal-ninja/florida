@@ -1,11 +1,11 @@
 id: 943313016
-type: way
+type: node
 latitude: 28.82169
 longitude: -81.7832
 postcode: "34788"
 city: Leesburg
-street: "US Highway 441"
-housenumber: 10401
-phone: "+1 352-314-2537"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/fl/leesburg-store2205.html"
+street: US Highway 441
+housenumber: "10401"
+phone: +1 352-314-2537
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/fl/leesburg-store2205.html

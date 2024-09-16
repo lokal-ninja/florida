@@ -1,11 +1,11 @@
 id: 291815153
-type: way
+type: node
 latitude: 29.86202
 longitude: -81.28109
 postcode: "32080"
 city: Saint Augustine
-street: "A1A South"
-housenumber: 1830
+street: A1A South
+housenumber: "1830"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 523995656
-type: way
+type: node
 latitude: 28.02177
 longitude: -82.50524
 postcode: "33618"
 city: Tampa
-street: "North Dale Mabry Highway"
-housenumber: 8030
+street: North Dale Mabry Highway
+housenumber: "8030"
 phone: ""
 opening_hours: ""
 website: ""

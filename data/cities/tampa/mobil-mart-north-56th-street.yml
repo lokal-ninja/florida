@@ -1,11 +1,11 @@
 id: 523031131
-type: way
+type: node
 latitude: 28.01123
 longitude: -82.39299
 postcode: "33617"
 city: Tampa
-street: "North 56th Street"
-housenumber: 6901
-phone: "+1-813-989-8200"
-opening_hours: "24/7"
-website: "https://www.exxon.com/en/find-station/mobil-tampa-fl-irshaidoilinc-200320801"
+street: North 56th Street
+housenumber: "6901"
+phone: +1-813-989-8200
+opening_hours: 24/7
+website: https://www.exxon.com/en/find-station/mobil-tampa-fl-irshaidoilinc-200320801

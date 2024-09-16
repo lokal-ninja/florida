@@ -4,8 +4,8 @@ latitude: 30.41159
 longitude: -87.22075
 postcode: "32502"
 city: Pensacola
-street: "West Garden Street"
-housenumber: 315
-phone: "+1 850-438-0402"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-20:00"
-website: "https://www.everman.org"
+street: West Garden Street
+housenumber: "315"
+phone: +1 850-438-0402
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-20:00
+website: https://www.everman.org

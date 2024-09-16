@@ -1,11 +1,11 @@
 id: 501885634
-type: way
+type: node
 latitude: 30.17709
 longitude: -82.66662
 postcode: "32025"
 city: Lake City
-street: "Southwest Home Depot Drive"
-housenumber: 215
-phone: "+1 386-755-0761"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/lake-city/fl/lake-city/32025/6864"
+street: Southwest Home Depot Drive
+housenumber: "215"
+phone: +1 386-755-0761
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/lake-city/fl/lake-city/32025/6864

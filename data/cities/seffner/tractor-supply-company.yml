@@ -1,11 +1,11 @@
 id: 882975482
-type: way
+type: node
 latitude: 27.98059
 longitude: -82.28954
 postcode: "33584"
 city: Seffner
-street: "East Doctor Martin Luther King Junior Boulevard"
-housenumber: 916
-phone: "+1 813-324-9764"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Seffner-FL-33584_2492"
+street: East Doctor Martin Luther King Junior Boulevard
+housenumber: "916"
+phone: +1 813-324-9764
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Seffner-FL-33584_2492

@@ -1,11 +1,11 @@
 id: 135471268
-type: way
+type: node
 latitude: 28.44635
 longitude: -81.39485
 postcode: "32809"
 city: Orlando
-street: "South Orange Blossom Trail"
-housenumber: 8001
-phone: "+1 407-851-6255"
+street: South Orange Blossom Trail
+housenumber: "8001"
+phone: +1 407-851-6255
 opening_hours: ""
-website: "https://www.simon.com/mall/the-florida-mall"
+website: https://www.simon.com/mall/the-florida-mall

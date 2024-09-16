@@ -1,11 +1,11 @@
 id: 389118852
-type: way
+type: node
 latitude: 30.45663
 longitude: -84.27805
 postcode: "32303"
 city: Tallahassee
-street: "Thomasville Road"
-housenumber: 1306
+street: Thomasville Road
+housenumber: "1306"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 26.13225
 longitude: -81.80177
 postcode: "34102"
 city: Naples
-street: "3rd Street South"
-housenumber: 1197
-phone: "+1-239-261-7952"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.cleopatrasbarge.com"
+street: 3rd Street South
+housenumber: "1197"
+phone: +1-239-261-7952
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.cleopatrasbarge.com

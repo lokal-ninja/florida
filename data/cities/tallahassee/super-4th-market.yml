@@ -1,11 +1,11 @@
 id: 806489038
-type: way
+type: node
 latitude: 30.45356
 longitude: -84.29053
 postcode: "32303"
 city: Tallahassee
-street: "West 4th Avenue"
-housenumber: 
+street: West 4th Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

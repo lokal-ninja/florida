@@ -1,11 +1,11 @@
 id: 1231569367
-type: way
+type: node
 latitude: 28.87172
 longitude: -81.16511
 postcode: "32738"
 city: Deltona
-street: "Howland Boulevard"
-housenumber: 105
+street: Howland Boulevard
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 435810077
-type: way
+type: node
 latitude: 25.78559
 longitude: -80.21297
 postcode: "33136"
 city: Miami
-street: "Northwest 11th Street"
-housenumber: 1155
-phone: "+1 305-545-0127"
+street: Northwest 11th Street
+housenumber: "1155"
+phone: +1 305-545-0127
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/miami/fl?search=247"
+website: https://www.winndixie.com/storedetails/miami/fl?search=247

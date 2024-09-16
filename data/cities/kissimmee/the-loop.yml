@@ -1,11 +1,11 @@
 id: 261374545
-type: way
+type: node
 latitude: 28.34241
 longitude: -81.42428
 postcode: "34741"
 city: Kissimmee
-street: "N John Young Pkwy, Kissimmee, FL, United States"
-housenumber: 3208
+street: N John Young Pkwy, Kissimmee, FL, United States
+housenumber: "3208"
 phone: ""
-opening_hours: "10:00-21:30"
-website: "https://www.experiencetheloop.com/"
+opening_hours: 10:00-21:30
+website: https://www.experiencetheloop.com/

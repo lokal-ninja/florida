@@ -1,11 +1,11 @@
 id: 835528170
-type: way
+type: node
 latitude: 27.5308
 longitude: -82.73347
 postcode: "34216"
 city: Anna Maria
-street: "Pine Avenue"
-housenumber: 427
-phone: "+1 (941) 778-3316"
+street: Pine Avenue
+housenumber: "427"
+phone: +1 (941) 778-3316
 opening_hours: ""
-website: "https://beachbumsami.com/"
+website: https://beachbumsami.com/

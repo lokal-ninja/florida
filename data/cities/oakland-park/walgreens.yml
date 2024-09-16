@@ -1,11 +1,11 @@
 id: 317343429
-type: way
+type: node
 latitude: 26.16522
 longitude: -80.17204
 postcode: "33311"
 city: Oakland Park
-street: "West Oakland Park Boulevard"
-housenumber: 2104
+street: West Oakland Park Boulevard
+housenumber: "2104"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-2104+w+oakland+park+blvd-oakland+park-fl-33311/id=4387"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-2104+w+oakland+park+blvd-oakland+park-fl-33311/id=4387

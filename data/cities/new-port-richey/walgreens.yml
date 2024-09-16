@@ -1,11 +1,11 @@
 id: 793654057
-type: way
+type: node
 latitude: 28.29132
 longitude: -82.6751
 postcode: "34654"
 city: New Port Richey
-street: "Little Road"
-housenumber: 9220
+street: Little Road
+housenumber: "9220"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9220+little+rd-new+port+richey-fl-34654/id=5414"
+website: https://www.walgreens.com/locator/walgreens-9220+little+rd-new+port+richey-fl-34654/id=5414

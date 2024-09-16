@@ -1,11 +1,11 @@
 id: 190544615
-type: way
+type: node
 latitude: 28.02138
 longitude: -82.73261
 postcode: "33761"
 city: Clearwater
-street: "Main Street"
-housenumber: 2514
-phone: "+1 727-725-9100"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/fl/clearwater-1015.shtml"
+street: Main Street
+housenumber: "2514"
+phone: +1 727-725-9100
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/fl/clearwater-1015.shtml

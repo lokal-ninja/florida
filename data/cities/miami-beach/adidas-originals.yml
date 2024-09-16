@@ -1,11 +1,11 @@
 id: 1180541351
-type: way
+type: node
 latitude: 25.77819
 longitude: -80.13288
 postcode: "33139"
 city: Miami Beach
-street: "8th Street"
-housenumber: 226
+street: 8th Street
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

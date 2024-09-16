@@ -4,8 +4,8 @@ latitude: 25.7909
 longitude: -80.13015
 postcode: "33139"
 city: Miami Beach
-street: "Lincoln Road"
-housenumber: 201
-phone: "+1 786-358-6946"
-opening_hours: "08:00-22:00"
-website: "https://breezabeachwear.com/"
+street: Lincoln Road
+housenumber: "201"
+phone: +1 786-358-6946
+opening_hours: 08:00-22:00
+website: https://breezabeachwear.com/

@@ -1,11 +1,11 @@
 id: 326297650
-type: way
+type: node
 latitude: 29.9205
 longitude: -81.41749
 postcode: "32092"
 city: Saint Augustine
-street: "State Highway 16"
-housenumber: 2711
+street: State Highway 16
+housenumber: "2711"
 phone: ""
 opening_hours: ""
 website: ""

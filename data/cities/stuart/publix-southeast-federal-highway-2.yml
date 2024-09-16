@@ -1,11 +1,11 @@
 id: 965370283
-type: way
+type: node
 latitude: 27.16325
 longitude: -80.22826
 postcode: "34997"
 city: Stuart
-street: "Southeast Federal Highway"
-housenumber: 3304
-phone: "+1 772-283-1189"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/"
+street: Southeast Federal Highway
+housenumber: "3304"
+phone: +1 772-283-1189
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/

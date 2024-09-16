@@ -1,11 +1,11 @@
 id: 920553851
-type: way
+type: node
 latitude: 28.20446
 longitude: -82.66878
 postcode: "34655"
 city: New Port Richey
-street: "Strength Avenue"
-housenumber: 8870
-phone: "+1 727-807-3874"
-opening_hours: "09:00-22:00"
+street: Strength Avenue
+housenumber: "8870"
+phone: +1 727-807-3874
+opening_hours: 09:00-22:00
 website: ""

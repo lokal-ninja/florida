@@ -1,11 +1,11 @@
 id: 482332830
-type: way
+type: node
 latitude: 29.19208
 longitude: -81.07671
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 1924
-phone: "+1 386 944 0240"
-opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-19:00"
-website: "https://www.americansignaturefurniture.com/store-locator/fl/daytona-beach/1924-w-intl-speedway-blvd"
+street: International Speedway Boulevard
+housenumber: "1924"
+phone: +1 386 944 0240
+opening_hours: Mo-Sa 10:00-21:00, Su 11:00-19:00
+website: https://www.americansignaturefurniture.com/store-locator/fl/daytona-beach/1924-w-intl-speedway-blvd

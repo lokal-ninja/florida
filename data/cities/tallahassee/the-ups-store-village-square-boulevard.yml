@@ -4,8 +4,8 @@ latitude: 30.51217
 longitude: -84.24977
 postcode: "32312"
 city: Tallahassee
-street: "Village Square Boulevard"
-housenumber: 1400
+street: Village Square Boulevard
+housenumber: "1400"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30;Sa 10:00-16:00"
-website: "https://www.theupsstore.com/"
+opening_hours: Mo-Fr 08:00-18:30;Sa 10:00-16:00
+website: https://www.theupsstore.com/

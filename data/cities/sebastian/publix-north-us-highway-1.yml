@@ -1,11 +1,11 @@
 id: 469578116
-type: way
+type: node
 latitude: 27.76964
 longitude: -80.44781
-postcode: "32958-6363"
+postcode: 32958-6363
 city: Sebastian
-street: "North US Highway 1"
-housenumber: 9621
-phone: "+1 772-581-5755"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/772"
+street: North US Highway 1
+housenumber: "9621"
+phone: +1 772-581-5755
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/772

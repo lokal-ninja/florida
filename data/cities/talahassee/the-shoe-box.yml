@@ -1,11 +1,11 @@
 id: 490996257
-type: way
+type: node
 latitude: 30.40848
 longitude: -84.2818
 postcode: "32301"
 city: Talahassee
-street: "South Monroe Street"
-housenumber: 2820
+street: South Monroe Street
+housenumber: "2820"
 phone: ""
 opening_hours: ""
-website: "https://www.capitalcityshoes.com/"
+website: https://www.capitalcityshoes.com/

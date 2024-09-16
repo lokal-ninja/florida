@@ -1,11 +1,11 @@
 id: 255181203
-type: way
+type: node
 latitude: 25.93954
 longitude: -80.14988
 postcode: "33160"
 city: Aventura
-street: "Biscayne Boulevard"
-housenumber: 17700
-phone: "+1 305-932-4212"
+street: Biscayne Boulevard
+housenumber: "17700"
+phone: +1 305-932-4212
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/fl/aventura/052098/"
+website: https://www.mattressfirm.com/en-us/stores/fl/aventura/052098/

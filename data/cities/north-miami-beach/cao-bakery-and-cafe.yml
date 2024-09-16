@@ -1,11 +1,11 @@
 id: 435845191
-type: way
+type: node
 latitude: 25.92624
 longitude: -80.16073
 postcode: "33162"
 city: North Miami Beach
-street: "Northeast 163rd Street"
-housenumber: 1973
+street: Northeast 163rd Street
+housenumber: "1973"
 phone: ""
 opening_hours: ""
-website: "https://caobakerycafe.com"
+website: https://caobakerycafe.com

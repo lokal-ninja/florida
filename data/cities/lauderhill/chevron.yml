@@ -1,11 +1,11 @@
 id: 316341584
-type: way
+type: node
 latitude: 26.19339
 longitude: -80.25282
 postcode: ""
 city: Lauderhill
-street: "North University Drive"
-housenumber: 5585
+street: North University Drive
+housenumber: "5585"
 phone: ""
 opening_hours: ""
 website: ""

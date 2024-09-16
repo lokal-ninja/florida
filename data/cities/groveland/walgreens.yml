@@ -1,11 +1,11 @@
 id: 311223844
-type: way
+type: node
 latitude: 28.55889
 longitude: -81.82424
 postcode: ""
 city: Groveland
-street: "Sr 50"
-housenumber: 7777
+street: Sr 50
+housenumber: "7777"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7777+state+road+50-groveland-fl-34736/id=12317"
+website: https://www.walgreens.com/locator/walgreens-7777+state+road+50-groveland-fl-34736/id=12317

@@ -1,11 +1,11 @@
 id: 197447568
-type: way
+type: node
 latitude: 30.38963
 longitude: -86.44157
 postcode: "32541"
 city: Destin
-street: "Commons Drive West"
-housenumber: 4385
-phone: "+1 850-650-4175"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/destin/fl/destin/32541/6377"
+street: Commons Drive West
+housenumber: "4385"
+phone: +1 850-650-4175
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/destin/fl/destin/32541/6377

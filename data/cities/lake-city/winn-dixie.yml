@@ -1,11 +1,11 @@
 id: 417124544
-type: way
+type: node
 latitude: 30.18283
 longitude: -82.63792
 postcode: "32025"
 city: Lake City
-street: "South Marion Avenue"
-housenumber: 580
-phone: "+1 386-755-4404"
+street: South Marion Avenue
+housenumber: "580"
+phone: +1 386-755-4404
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/lake%20city/fl?search=81"
+website: https://www.winndixie.com/storedetails/lake%20city/fl?search=81

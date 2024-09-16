@@ -4,8 +4,8 @@ latitude: 27.64069
 longitude: -80.44887
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 5880
-phone: "+1-772-770-1531"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://www.haircuttery.com"
+street: 20th Street
+housenumber: "5880"
+phone: +1-772-770-1531
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-19:00; Su 09:00-18:00
+website: https://www.haircuttery.com

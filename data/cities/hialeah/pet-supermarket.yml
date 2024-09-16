@@ -1,11 +1,11 @@
 id: 435518813
-type: way
+type: node
 latitude: 25.86685
 longitude: -80.31034
 postcode: "33012"
 city: Hialeah
-street: "West 49th Street"
-housenumber: 1375
+street: West 49th Street
+housenumber: "1375"
 phone: ""
 opening_hours: ""
 website: ""

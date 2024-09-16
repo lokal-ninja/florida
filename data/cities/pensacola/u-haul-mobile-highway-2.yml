@@ -1,11 +1,11 @@
 id: 824930643
-type: way
+type: node
 latitude: 30.44238
 longitude: -87.28491
 postcode: "32506"
 city: Pensacola
-street: "Mobile Highway"
-housenumber: 4921
+street: Mobile Highway
+housenumber: "4921"
 phone: ""
-opening_hours: "Th-Mo 09:00-15:00"
+opening_hours: Th-Mo 09:00-15:00
 website: ""

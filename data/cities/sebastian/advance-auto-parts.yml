@@ -1,11 +1,11 @@
 id: 518300811
-type: way
+type: node
 latitude: 27.76781
 longitude: -80.51542
 postcode: "32958"
 city: Sebastian
-street: "Sebastian Boulevard"
-housenumber: 9240
+street: Sebastian Boulevard
+housenumber: "9240"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/sebastian/9240-sebastian-boulevard"
+website: https://stores.advanceautoparts.com/fl/sebastian/9240-sebastian-boulevard

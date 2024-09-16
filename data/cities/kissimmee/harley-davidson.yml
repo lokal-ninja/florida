@@ -1,11 +1,11 @@
 id: 321980040
-type: way
+type: node
 latitude: 28.34028
 longitude: -81.59824
 postcode: "34747"
 city: Kissimmee
-street: "Bronson Highway"
-housenumber: 7786
+street: Bronson Highway
+housenumber: "7786"
 phone: ""
 opening_hours: ""
 website: ""

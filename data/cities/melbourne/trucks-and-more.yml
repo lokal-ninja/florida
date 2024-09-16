@@ -1,11 +1,11 @@
 id: 996662147
-type: way
+type: node
 latitude: 28.13561
 longitude: -80.65848
 postcode: "32935"
 city: Melbourne
-street: "Aurora Road"
-housenumber: 2241
+street: Aurora Road
+housenumber: "2241"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1106793219
-type: way
+type: node
 latitude: 28.81258
 longitude: -81.93158
 postcode: "34748"
 city: Leesburg
-street: "West SR 44"
-housenumber: 1310
-phone: "352-787-4570"
-opening_hours: "Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00"
-website: "https://www.gunrange.net/"
+street: West SR 44
+housenumber: "1310"
+phone: 352-787-4570
+opening_hours: Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00
+website: https://www.gunrange.net/

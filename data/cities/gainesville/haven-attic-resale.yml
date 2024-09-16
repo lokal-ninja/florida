@@ -1,11 +1,11 @@
 id: 859054352
-type: way
+type: node
 latitude: 29.66016
 longitude: -82.32809
 postcode: "32601"
 city: Gainesville
-street: "Northwest 8th Avenue"
-housenumber: 300
+street: Northwest 8th Avenue
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

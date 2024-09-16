@@ -1,11 +1,11 @@
 id: 957900659
-type: way
+type: node
 latitude: 26.01298
 longitude: -80.24763
 postcode: "33024"
 city: Pembroke Pines
-street: "North University Drive"
-housenumber: 303
+street: North University Drive
+housenumber: "303"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/pembroke-pines/303-n-university-dr"
+website: https://stores.advanceautoparts.com/fl/pembroke-pines/303-n-university-dr

@@ -1,11 +1,11 @@
 id: 525433317
-type: way
+type: node
 latitude: 27.9559
 longitude: -82.78809
 postcode: "33756"
 city: Clearwater
-street: "South Missouri Avenue"
-housenumber: 912
+street: South Missouri Avenue
+housenumber: "912"
 phone: ""
 opening_hours: ""
 website: ""

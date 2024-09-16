@@ -1,11 +1,11 @@
 id: 645144367
-type: way
+type: node
 latitude: 30.18082
 longitude: -82.66829
 postcode: "32055"
 city: Lake City
-street: "Northwest Hutton Drive"
-housenumber: 275
+street: Northwest Hutton Drive
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

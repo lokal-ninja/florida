@@ -1,11 +1,11 @@
 id: 253366061
-type: way
+type: node
 latitude: 27.9676
 longitude: -82.74709
 postcode: "33765"
 city: Clearwater
-street: "Drew Street"
-housenumber: 2185
+street: Drew Street
+housenumber: "2185"
 phone: ""
 opening_hours: ""
 website: ""

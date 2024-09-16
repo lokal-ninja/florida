@@ -1,11 +1,11 @@
 id: 268802325
-type: way
+type: node
 latitude: 30.4402
 longitude: -84.28085
 postcode: "32301"
 city: Tallahassee
-street: "South Monroe Street"
-housenumber: 212
+street: South Monroe Street
+housenumber: "212"
 phone: ""
 opening_hours: ""
-website: "https://www.nicstoggery.com/"
+website: https://www.nicstoggery.com/

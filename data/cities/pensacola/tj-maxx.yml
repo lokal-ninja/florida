@@ -1,11 +1,11 @@
 id: 354655709
-type: way
+type: node
 latitude: 30.49247
 longitude: -87.22701
 postcode: "32504"
 city: Pensacola
-street: "North Davis Highway"
-housenumber: 6625
-phone: "+1 850-476-0333"
+street: North Davis Highway
+housenumber: "6625"
+phone: +1 850-476-0333
 opening_hours: ""
-website: "https://tjmaxx.tjx.com/store/index.jsp"
+website: https://tjmaxx.tjx.com/store/index.jsp

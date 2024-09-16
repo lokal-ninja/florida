@@ -1,11 +1,11 @@
 id: 931782022
-type: way
+type: node
 latitude: 30.37733
 longitude: -86.3355
 postcode: "32550"
 city: Miramar Beach
-street: "US Highway 98 West"
-housenumber: 9595
+street: US Highway 98 West
+housenumber: "9595"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 243672304
-type: way
+type: node
 latitude: 27.4346
 longitude: -82.57769
-postcode: "34207-4104"
+postcode: 34207-4104
 city: Bradenton
-street: "14th Street West"
-housenumber: 6030
-phone: "+1 941-756-3455"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/417;https://www.publix.com/locations/1897"
+street: 14th Street West
+housenumber: "6030"
+phone: +1 941-756-3455
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/417;https://www.publix.com/locations/1897

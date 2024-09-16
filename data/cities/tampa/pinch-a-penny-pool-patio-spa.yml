@@ -1,11 +1,11 @@
 id: 523082361
-type: way
+type: node
 latitude: 28.00398
 longitude: -82.50551
 postcode: "33614"
 city: Tampa
-street: "North Dale Mabry Highway"
-housenumber: 6202
+street: North Dale Mabry Highway
+housenumber: "6202"
 phone: ""
 opening_hours: ""
-website: "https://pinchapenny.com/stores/tampa-fl-6"
+website: https://pinchapenny.com/stores/tampa-fl-6

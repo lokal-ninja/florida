@@ -1,11 +1,11 @@
 id: 722239077
-type: way
+type: node
 latitude: 27.93569
 longitude: -82.26346
 postcode: "33511"
 city: Brandon
-street: "East Brandon Boulevard"
-housenumber: 1515
-phone: "+1 813-793-9152"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/FL-Brandon/2282"
+street: East Brandon Boulevard
+housenumber: "1515"
+phone: +1 813-793-9152
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/FL-Brandon/2282

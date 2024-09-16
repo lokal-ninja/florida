@@ -1,11 +1,11 @@
 id: 164207581
-type: way
+type: node
 latitude: 27.77015
 longitude: -82.64279
 postcode: "33701"
 city: Saint Petersburg
-street: "1st Avenue South"
-housenumber: 646
+street: 1st Avenue South
+housenumber: "646"
 phone: ""
 opening_hours: ""
-website: "https://www.idealimage.com/locations/florida/st-petersburg"
+website: https://www.idealimage.com/locations/florida/st-petersburg

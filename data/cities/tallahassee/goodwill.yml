@@ -1,11 +1,11 @@
 id: 418850294
-type: way
+type: node
 latitude: 30.42952
 longitude: -84.24308
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 2309
+street: Apalachee Parkway
+housenumber: "2309"
 phone: ""
 opening_hours: ""
-website: "http://www.goodwillbigbend.com/"
+website: http://www.goodwillbigbend.com/

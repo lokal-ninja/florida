@@ -4,8 +4,8 @@ latitude: 30.51161
 longitude: -84.25016
 postcode: "32312"
 city: Tallahassee
-street: "Village Square Boulevard"
-housenumber: 1390
+street: Village Square Boulevard
+housenumber: "1390"
 phone: ""
-opening_hours: "Mo-Fr 09:30-21:30;Sa 09:00-21:30;Su 11:00-19:00"
-website: "https://www.shoestation.com"
+opening_hours: Mo-Fr 09:30-21:30;Sa 09:00-21:30;Su 11:00-19:00
+website: https://www.shoestation.com

@@ -1,11 +1,11 @@
 id: 435578868
-type: way
+type: node
 latitude: 25.73568
 longitude: -80.23869
 postcode: "33133"
 city: Miami
-street: "Bird Avenue"
-housenumber: 2833
+street: Bird Avenue
+housenumber: "2833"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 384433391
-type: way
+type: node
 latitude: 26.75676
 longitude: -80.9481
 postcode: "33440"
 city: Clewiston
-street: "West Sugarland Highway"
-housenumber: 1005
-phone: "+1 863-983-4844"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2484/clewiston-fl/whats-new"
+street: West Sugarland Highway
+housenumber: "1005"
+phone: +1 863-983-4844
+opening_hours: 24/7
+website: https://www.walmart.com/store/2484/clewiston-fl/whats-new

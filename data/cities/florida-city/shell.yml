@@ -1,11 +1,11 @@
 id: 435574913
-type: way
+type: node
 latitude: 25.44836
 longitude: -80.49294
 postcode: "33034"
 city: Florida City
-street: "West Palm Drive"
-housenumber: 970
+street: West Palm Drive
+housenumber: "970"
 phone: ""
 opening_hours: ""
 website: ""

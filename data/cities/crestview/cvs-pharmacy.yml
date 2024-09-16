@@ -1,11 +1,11 @@
 id: 611062523
-type: way
+type: node
 latitude: 30.76283
 longitude: -86.56956
 postcode: ""
 city: Crestview
-street: "East James Lee Boulevard"
-housenumber: 302
+street: East James Lee Boulevard
+housenumber: "302"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/crestview-fl-pharmacies/302-e-james-lee-blvd-crestview-fl-32539/storeid=4015"
+website: https://www.cvs.com/store-locator/crestview-fl-pharmacies/302-e-james-lee-blvd-crestview-fl-32539/storeid=4015

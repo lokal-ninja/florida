@@ -1,11 +1,11 @@
 id: 171536578
-type: way
+type: node
 latitude: 27.81044
 longitude: -82.79323
 postcode: "33708"
 city: Madeira Beach
-street: "150th Avenue"
-housenumber: 674
-phone: "+1 727-393-5831"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1457"
+street: 150th Avenue
+housenumber: "674"
+phone: +1 727-393-5831
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1457

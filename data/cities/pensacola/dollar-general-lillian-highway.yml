@@ -1,11 +1,11 @@
 id: 821213617
-type: way
+type: node
 latitude: 30.42165
 longitude: -87.32061
 postcode: "32506"
 city: Pensacola
-street: "Lillian Highway"
-housenumber: 8214
+street: Lillian Highway
+housenumber: "8214"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/fl/pensacola/20561"
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.dollargeneral.com/store-directory/fl/pensacola/20561

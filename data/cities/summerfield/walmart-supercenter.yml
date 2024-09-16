@@ -1,11 +1,11 @@
 id: 198551287
-type: way
+type: node
 latitude: 28.9635
 longitude: -81.96505
 postcode: "34491"
 city: Summerfield
-street: "South Us Highway 441"
-housenumber: 17961
-phone: "+1 352-307-4400"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2843/summerfield-fl/whats-new"
+street: South Us Highway 441
+housenumber: "17961"
+phone: +1 352-307-4400
+opening_hours: 24/7
+website: https://www.walmart.com/store/2843/summerfield-fl/whats-new

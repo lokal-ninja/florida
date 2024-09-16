@@ -1,11 +1,11 @@
 id: 385305306
-type: way
+type: node
 latitude: 28.09554
 longitude: -82.74018
 postcode: "34684"
 city: Palm Harbor
-street: "US 19"
-housenumber: 35404
-phone: "+1 727-784-8797"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1513/palm-harbor-fl/whats-new"
+street: US 19
+housenumber: "35404"
+phone: +1 727-784-8797
+opening_hours: 24/7
+website: https://www.walmart.com/store/1513/palm-harbor-fl/whats-new

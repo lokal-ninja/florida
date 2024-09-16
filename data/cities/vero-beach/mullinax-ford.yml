@@ -1,11 +1,11 @@
 id: 701195895
-type: way
+type: node
 latitude: 27.61122
 longitude: -80.38308
 postcode: "32962"
 city: Vero Beach
-street: "US Highway 1"
-housenumber: 488
+street: US Highway 1
+housenumber: "488"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.mullinaxfordverobeach.com"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.mullinaxfordverobeach.com

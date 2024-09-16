@@ -1,11 +1,11 @@
 id: 523131471
-type: way
+type: node
 latitude: 26.21343
 longitude: -81.77187
 postcode: "34109"
 city: Naples
-street: "Pine Ridge Road"
-housenumber: 2255
-phone: "+1 239-598-9889"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/fl/naples-store0324.html"
+street: Pine Ridge Road
+housenumber: "2255"
+phone: +1 239-598-9889
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/fl/naples-store0324.html

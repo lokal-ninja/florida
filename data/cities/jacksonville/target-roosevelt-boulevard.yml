@@ -1,11 +1,11 @@
 id: 554318933
-type: way
+type: node
 latitude: 30.23574
 longitude: -81.69392
-postcode: "32244-3303"
+postcode: 32244-3303
 city: Jacksonville
-street: "Roosevelt Boulevard"
-housenumber: 6331
-phone: "+1 904-596-1065"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/ortega/1853"
+street: Roosevelt Boulevard
+housenumber: "6331"
+phone: +1 904-596-1065
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/ortega/1853

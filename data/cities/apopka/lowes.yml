@@ -1,11 +1,11 @@
 id: 230784240
-type: way
+type: node
 latitude: 28.69006
 longitude: -81.5404
 postcode: "32712"
 city: Apopka
-street: "West Orange Blossom Trail"
-housenumber: 1651
-phone: "+1 407-814-2760"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-apopka/2673"
+street: West Orange Blossom Trail
+housenumber: "1651"
+phone: +1 407-814-2760
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-apopka/2673

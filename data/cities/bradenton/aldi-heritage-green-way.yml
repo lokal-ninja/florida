@@ -1,11 +1,11 @@
 id: 1281269288
-type: way
+type: node
 latitude: 27.48702
 longitude: -82.45779
 postcode: "34212"
 city: Bradenton
-street: "Heritage Green Way"
-housenumber: 8580
-phone: "(855) 474-3145"
+street: Heritage Green Way
+housenumber: "8580"
+phone: (855) 474-3145
 opening_hours: ""
-website: "https://stores.aldi.us/fl/bradenton/8580-heritage-green-way"
+website: https://stores.aldi.us/fl/bradenton/8580-heritage-green-way

@@ -1,11 +1,11 @@
 id: 1119435427
-type: way
+type: node
 latitude: 30.50833
 longitude: -84.33666
 postcode: "32303"
 city: Tallahassee
-street: "North Monroe Street"
-housenumber: 4037
-phone: "+1-850-562-1518"
-opening_hours: "09:00-17:00"
-website: "https://www.abbeyfh.com/"
+street: North Monroe Street
+housenumber: "4037"
+phone: +1-850-562-1518
+opening_hours: 09:00-17:00
+website: https://www.abbeyfh.com/

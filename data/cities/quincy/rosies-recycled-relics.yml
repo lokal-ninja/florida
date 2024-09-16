@@ -1,11 +1,11 @@
 id: 943812295
-type: way
+type: node
 latitude: 30.58882
 longitude: -84.5771
 postcode: ""
 city: Quincy
-street: "North Adams Street"
-housenumber: 16
+street: North Adams Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

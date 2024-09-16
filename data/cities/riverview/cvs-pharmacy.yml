@@ -1,11 +1,11 @@
 id: 292012260
-type: way
+type: node
 latitude: 27.85664
 longitude: -82.32748
 postcode: "33569"
 city: Riverview
-street: "Gibsonton Drive"
-housenumber: 10623
+street: Gibsonton Drive
+housenumber: "10623"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/riverview-fl-pharmacies/10623-gibsonton-dr-riverview-fl-33578/storeid=3638"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/riverview-fl-pharmacies/10623-gibsonton-dr-riverview-fl-33578/storeid=3638

@@ -1,11 +1,11 @@
 id: 320471645
-type: way
+type: node
 latitude: 29.92716
 longitude: -81.42016
 postcode: "32092"
 city: Saint Augustine
-street: "FL-16"
-housenumber: 2700
+street: FL-16
+housenumber: "2700"
 phone: ""
 opening_hours: ""
 website: ""

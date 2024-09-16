@@ -1,11 +1,11 @@
 id: 310307822
-type: way
+type: node
 latitude: 27.78896
 longitude: -82.65511
 postcode: "33704"
 city: Saint Petersburg
-street: "16th Street North"
-housenumber: 1720
-phone: "+1-727-655-6502"
-opening_hours: "Mo-Su 08:00-22:00"
+street: 16th Street North
+housenumber: "1720"
+phone: +1-727-655-6502
+opening_hours: Mo-Su 08:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 665917300
-type: way
+type: node
 latitude: 30.24569
 longitude: -85.64906
 postcode: "32444"
 city: Lynn Haven
-street: "Ohio Avenue"
-housenumber: 830
+street: Ohio Avenue
+housenumber: "830"
 phone: "+18506241681"
 opening_hours: ""
 website: ""

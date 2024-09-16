@@ -1,11 +1,11 @@
 id: 760453981
-type: way
+type: node
 latitude: 30.41113
 longitude: -86.65566
 postcode: "32569"
 city: Mary Esther
-street: "Mary Esther Boulevard"
-housenumber: 124
+street: Mary Esther Boulevard
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 532409487
-type: way
+type: node
 latitude: 27.99603
 longitude: -82.73033
 postcode: "33763"
 city: Clearwater
-street: "US 19 Northbound"
-housenumber: 24600
-phone: "+1-727-789-6272"
+street: US 19 Northbound
+housenumber: "24600"
+phone: +1-727-789-6272
 opening_hours: ""
-website: "https://suesbayareasewing.com/"
+website: https://suesbayareasewing.com/

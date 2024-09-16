@@ -1,11 +1,11 @@
 id: 888265495
-type: way
+type: node
 latitude: 29.02217
 longitude: -80.92296
 postcode: "32168"
 city: New Smyrna Beach
-street: "Lytle Avenue"
-housenumber: 307
+street: Lytle Avenue
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

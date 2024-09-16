@@ -4,8 +4,8 @@ latitude: 30.24684
 longitude: -81.77516
 postcode: "32210"
 city: Jacksonville
-street: "103rd Street"
-housenumber: 7268
-phone: "+1 904-777-3122"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/263"
+street: 103rd Street
+housenumber: "7268"
+phone: +1 904-777-3122
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/263

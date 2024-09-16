@@ -1,11 +1,11 @@
 id: 778465632
-type: way
+type: node
 latitude: 27.93692
 longitude: -82.25143
 postcode: "33594"
 city: Valrico
-street: "State Road 60 East"
-housenumber: 2109
+street: State Road 60 East
+housenumber: "2109"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/valrico-fl-pharmacies/2109-state-rd-60-e-valrico-fl-33594/storeid=3660"
+website: https://www.cvs.com/store-locator/valrico-fl-pharmacies/2109-state-rd-60-e-valrico-fl-33594/storeid=3660

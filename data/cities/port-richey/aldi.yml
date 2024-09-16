@@ -1,11 +1,11 @@
 id: 242745147
-type: way
+type: node
 latitude: 28.30745
 longitude: -82.70258
-postcode: "34668-3645"
+postcode: 34668-3645
 city: Port Richey
-street: "Cinema Drive"
-housenumber: 6815
-phone: "+1 833-747-4067"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/port-richey/6815-cinema-dr"
+street: Cinema Drive
+housenumber: "6815"
+phone: +1 833-747-4067
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/port-richey/6815-cinema-dr

@@ -1,11 +1,11 @@
 id: 206038453
-type: way
+type: node
 latitude: 27.91852
 longitude: -82.76196
 postcode: "33771"
 city: Largo
-street: "East Bay Drive"
-housenumber: 2460
-phone: "+1 727-507-7980"
+street: East Bay Drive
+housenumber: "2460"
+phone: +1 727-507-7980
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/largo/fl?search=2552"
+website: https://www.winndixie.com/storedetails/largo/fl?search=2552

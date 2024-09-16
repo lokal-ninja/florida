@@ -1,11 +1,11 @@
 id: 379267605
-type: way
+type: node
 latitude: 28.23874
 longitude: -80.72806
 postcode: "32940"
 city: Melbourne
-street: "Harnett Drive"
-housenumber: 2302
-phone: "+1 321-637-9844"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 10:00-19:00"
-website: "https://www.totalwine.com/store-info/florida-melbourne-viera/921"
+street: Harnett Drive
+housenumber: "2302"
+phone: +1 321-637-9844
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 10:00-19:00
+website: https://www.totalwine.com/store-info/florida-melbourne-viera/921

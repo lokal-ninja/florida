@@ -1,11 +1,11 @@
 id: 231467284
-type: way
+type: node
 latitude: 30.42991
 longitude: -84.24448
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 2207
+street: Apalachee Parkway
+housenumber: "2207"
 phone: ""
 opening_hours: ""
-website: "http://www.ambiancesalons.com"
+website: http://www.ambiancesalons.com

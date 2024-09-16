@@ -1,11 +1,11 @@
 id: 1061099618
-type: way
+type: node
 latitude: 28.23951
 longitude: -82.34045
-postcode: "33543-3214"
+postcode: 33543-3214
 city: Wesley Chapel
-street: "State Road 54"
-housenumber: 28739
-phone: "+1-888-201-2577"
+street: State Road 54
+housenumber: "28739"
+phone: +1-888-201-2577
 opening_hours: ""
-website: "https://www.fordofwesleychapel.com"
+website: https://www.fordofwesleychapel.com

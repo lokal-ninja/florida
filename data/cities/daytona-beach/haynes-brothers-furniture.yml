@@ -1,11 +1,11 @@
 id: 810131868
-type: way
+type: node
 latitude: 29.19809
 longitude: -81.07903
 postcode: "32114"
 city: Daytona Beach
-street: "Fentress Boulevard"
-housenumber: 405
-phone: "+1 386 255 8532"
+street: Fentress Boulevard
+housenumber: "405"
+phone: +1 386 255 8532
 opening_hours: ""
-website: "https://www.haynesbrosfurniture.com/"
+website: https://www.haynesbrosfurniture.com/

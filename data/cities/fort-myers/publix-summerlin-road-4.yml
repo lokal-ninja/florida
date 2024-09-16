@@ -1,11 +1,11 @@
 id: 288435704
-type: way
+type: node
 latitude: 26.59554
 longitude: -81.88554
-postcode: "33919-3005"
+postcode: 33919-3005
 city: Fort Myers
-street: "Summerlin Road"
-housenumber: 4600
-phone: "+1 239-939-1771"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/426"
+street: Summerlin Road
+housenumber: "4600"
+phone: +1 239-939-1771
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/426

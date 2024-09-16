@@ -4,8 +4,8 @@ latitude: 28.03487
 longitude: -81.73445
 postcode: "33881"
 city: Winter Haven
-street: "6th Street Northwest"
-housenumber: 1395
-phone: "+1 863-299-8000"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/836"
+street: 6th Street Northwest
+housenumber: "1395"
+phone: +1 863-299-8000
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/836

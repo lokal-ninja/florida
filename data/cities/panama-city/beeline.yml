@@ -1,11 +1,11 @@
 id: 638030614
-type: way
+type: node
 latitude: 30.19078
 longitude: -85.6755
 postcode: "32405"
 city: Panama City
-street: "Stanford Road"
-housenumber: 2338
+street: Stanford Road
+housenumber: "2338"
 phone: ""
 opening_hours: ""
 website: ""

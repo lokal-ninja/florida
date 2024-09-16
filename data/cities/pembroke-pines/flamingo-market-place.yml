@@ -1,11 +1,11 @@
 id: 287213443
-type: way
+type: node
 latitude: 25.99563
 longitude: -80.31105
 postcode: "33027"
 city: Pembroke Pines
-street: "Pembroke Road"
-housenumber: 12249
+street: Pembroke Road
+housenumber: "12249"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 501779004
-type: way
+type: node
 latitude: 27.33828
 longitude: -82.46982
 postcode: "34232"
 city: Sarasota
-street: "Fruitville Road"
-housenumber: 4905
+street: Fruitville Road
+housenumber: "4905"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 189310232
-type: way
+type: node
 latitude: 27.7723
 longitude: -82.64853
 postcode: "33705"
 city: Saint Petersburg
-street: "1st Avenue North"
-housenumber: 1005
+street: 1st Avenue North
+housenumber: "1005"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 255978097
-type: way
+type: node
 latitude: 27.92423
 longitude: -81.60748
 postcode: "33859"
 city: Lake Wales
-street: "US 27"
-housenumber: 21280
+street: US 27
+housenumber: "21280"
 phone: "8448874639"
-opening_hours: "sunrise-sunset"
-website: "https://www.dyerkialakewales.com/"
+opening_hours: sunrise-sunset
+website: https://www.dyerkialakewales.com/

@@ -1,11 +1,11 @@
 id: 1009559389
-type: way
+type: node
 latitude: 27.9984
 longitude: -82.58042
-postcode: "33615-3809"
+postcode: 33615-3809
 city: Tampa
-street: "Hillsborough Avenue"
-housenumber: 8521
-phone: "+1 888-474-7052"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/fl/tampa/8521-w-hillsborough-ave"
+street: Hillsborough Avenue
+housenumber: "8521"
+phone: +1 888-474-7052
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/fl/tampa/8521-w-hillsborough-ave

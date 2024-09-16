@@ -1,11 +1,11 @@
 id: 249819933
-type: way
+type: node
 latitude: 30.40245
 longitude: -86.87088
 postcode: "32566"
 city: Navarre
-street: "Navarre Parkway"
-housenumber: 8422
+street: Navarre Parkway
+housenumber: "8422"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/navarre-fl-pharmacies/8422-navarre-pkwy-navarre-fl-32566/storeid=5248"
+website: https://www.cvs.com/store-locator/navarre-fl-pharmacies/8422-navarre-pkwy-navarre-fl-32566/storeid=5248

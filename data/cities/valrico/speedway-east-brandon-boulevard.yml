@@ -1,11 +1,11 @@
 id: 778465631
-type: way
+type: node
 latitude: 27.93721
 longitude: -82.25212
 postcode: "33594"
 city: Valrico
-street: "East Brandon Boulevard"
-housenumber: 2101
+street: East Brandon Boulevard
+housenumber: "2101"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Valrico/2101-ST-60-E"
+website: https://www.speedway.com/locations/FL/Valrico/2101-ST-60-E

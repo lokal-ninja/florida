@@ -1,11 +1,11 @@
 id: 873166662
-type: way
+type: node
 latitude: 29.06801
 longitude: -81.25581
 postcode: "32724"
 city: DeLand
-street: "East International Speedway Boulevard"
-housenumber: 2450
-phone: "1-386-734-5664"
+street: East International Speedway Boulevard
+housenumber: "2450"
+phone: 1-386-734-5664
 opening_hours: ""
-website: "https://www.fastenal.com/"
+website: https://www.fastenal.com/

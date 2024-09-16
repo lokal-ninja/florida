@@ -1,11 +1,11 @@
 id: 996451165
-type: way
+type: node
 latitude: 28.09344
 longitude: -80.66425
 postcode: "32904"
 city: Melbourne
-street: "Atlantis Road"
-housenumber: 640
-phone: "(321)591-6377"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "absolutely-natural.com"
+street: Atlantis Road
+housenumber: "640"
+phone: (321)591-6377
+opening_hours: Mo-Fr 08:30-17:00
+website: absolutely-natural.com

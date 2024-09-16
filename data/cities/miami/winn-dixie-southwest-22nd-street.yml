@@ -1,11 +1,11 @@
 id: 301827431
-type: way
+type: node
 latitude: 25.75067
 longitude: -80.2482
 postcode: "33145"
 city: Miami
-street: "Southwest 22nd Street"
-housenumber: 3275
-phone: "+1 305-460-9596"
+street: Southwest 22nd Street
+housenumber: "3275"
+phone: +1 305-460-9596
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/miami/fl?search=251"
+website: https://www.winndixie.com/storedetails/miami/fl?search=251

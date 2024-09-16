@@ -1,11 +1,11 @@
 id: 435513518
-type: way
+type: node
 latitude: 25.79149
 longitude: -80.13645
 postcode: "33139"
 city: Miami Beach
-street: "Meridian Avenue"
-housenumber: 1675
+street: Meridian Avenue
+housenumber: "1675"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.macys.com/stores/fl/miamibeach/south-beach_773.html"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.macys.com/stores/fl/miamibeach/south-beach_773.html

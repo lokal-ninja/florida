@@ -1,11 +1,11 @@
 id: 186582596
-type: way
+type: node
 latitude: 29.50354
 longitude: -82.87098
 postcode: "32626"
 city: Chiefland
-street: "North Young Boulevard"
-housenumber: 2227
-phone: "+1-352-493-1851"
+street: North Young Boulevard
+housenumber: "2227"
+phone: +1-352-493-1851
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2227+n+young+blvd-chiefland-fl-32626/id=9787"
+website: https://www.walgreens.com/locator/walgreens-2227+n+young+blvd-chiefland-fl-32626/id=9787

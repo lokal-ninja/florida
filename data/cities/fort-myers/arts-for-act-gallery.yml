@@ -4,8 +4,8 @@ latitude: 26.64477
 longitude: -81.86937
 postcode: "33901"
 city: Fort Myers
-street: "First Street"
-housenumber: 2265
-phone: "+1 239 337 5050"
+street: First Street
+housenumber: "2265"
+phone: +1 239 337 5050
 opening_hours: ""
-website: "http://www.artsforactgallery.com/"
+website: http://www.artsforactgallery.com/

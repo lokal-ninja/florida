@@ -4,8 +4,8 @@ latitude: 26.59525
 longitude: -81.88518
 postcode: "33919"
 city: Fort Myers
-street: "Summerlin Road, Suite C-2-463"
-housenumber: 4600
-phone: "239-451-3278"
-opening_hours: "Monday - Friday : 8:00 AM - 5:00 PM,Saturday - Sunday : Closed"
-website: "https://oracleappliance.com/"
+street: Summerlin Road, Suite C-2-463
+housenumber: "4600"
+phone: 239-451-3278
+opening_hours: 'Monday - Friday : 8:00 AM - 5:00 PM,Saturday - Sunday : Closed'
+website: https://oracleappliance.com/

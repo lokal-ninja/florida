@@ -4,8 +4,8 @@ latitude: 24.561
 longitude: -81.80187
 postcode: "33040"
 city: Key West
-street: "William St"
-housenumber: 202
-phone: "+1 305-407-7052"
-opening_hours: "06:00-21:00"
-website: "https://afterhourskeywest.com/"
+street: William St
+housenumber: "202"
+phone: +1 305-407-7052
+opening_hours: 06:00-21:00
+website: https://afterhourskeywest.com/

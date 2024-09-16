@@ -1,11 +1,11 @@
 id: 1028169138
-type: way
+type: node
 latitude: 29.28199
 longitude: -81.06258
 postcode: "32174"
 city: Ormond Beach
-street: "West Granada Boulevard"
-housenumber: 274
+street: West Granada Boulevard
+housenumber: "274"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/fl/ormond-beach/6110/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/fl/ormond-beach/6110/

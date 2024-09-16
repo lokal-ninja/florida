@@ -1,11 +1,11 @@
 id: 322784070
-type: way
+type: node
 latitude: 30.41017
 longitude: -86.66382
 postcode: "32569"
 city: Mary Esther
-street: "West Miracle Strip Parkway"
-housenumber: 100
+street: West Miracle Strip Parkway
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

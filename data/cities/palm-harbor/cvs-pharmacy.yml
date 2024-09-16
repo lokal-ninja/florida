@@ -1,11 +1,11 @@
 id: 523178979
-type: way
+type: node
 latitude: 28.06261
 longitude: -82.70822
 postcode: "34685"
 city: Palm Harbor
-street: "East Lake Road"
-housenumber: 700
+street: East Lake Road
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/palm-harbor-fl-pharmacies/700-e-lake-rd-palm-harbor-fl-34685/storeid=3927"
+website: https://www.cvs.com/store-locator/palm-harbor-fl-pharmacies/700-e-lake-rd-palm-harbor-fl-34685/storeid=3927

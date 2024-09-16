@@ -1,11 +1,11 @@
 id: 326533652
-type: way
+type: node
 latitude: 30.44824
 longitude: -84.28456
 postcode: "32301"
 city: Tallahassee
-street: "North Bronough Street"
-housenumber: 606
+street: North Bronough Street
+housenumber: "606"
 phone: ""
 opening_hours: ""
-website: "https://www.dougsvacuum.com/"
+website: https://www.dougsvacuum.com/

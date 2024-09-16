@@ -1,11 +1,11 @@
 id: 943361229
-type: way
+type: node
 latitude: 28.81953
 longitude: -81.77265
 postcode: "32778"
 city: Leesburg
-street: "US Highway 441"
-housenumber: 11101
+street: US Highway 441
+housenumber: "11101"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-11101+us+highway+441-tavares-fl-32778/id=4648"
+website: https://www.walgreens.com/locator/walgreens-11101+us+highway+441-tavares-fl-32778/id=4648

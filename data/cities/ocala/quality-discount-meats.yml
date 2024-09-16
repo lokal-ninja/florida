@@ -1,11 +1,11 @@
 id: 999962952
-type: way
+type: node
 latitude: 29.18597
 longitude: -82.16847
 postcode: "34475"
 city: Ocala
-street: "West Silver Springs Boulevard"
-housenumber: 2686
-phone: "+1 (352) 629-4366"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://qualitydiscountmeats.com/"
+street: West Silver Springs Boulevard
+housenumber: "2686"
+phone: +1 (352) 629-4366
+opening_hours: Mo-Sa 08:00-18:00
+website: https://qualitydiscountmeats.com/

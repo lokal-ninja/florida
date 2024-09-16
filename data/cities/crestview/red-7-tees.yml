@@ -1,11 +1,12 @@
 id: 611336988
-type: way
+type: node
 latitude: 30.75886
 longitude: -86.57135
 postcode: "32536"
 city: Crestview
-street: "Oakdale Avenue West"
-housenumber: 189
-phone: "1 (850) 612-7007"
-opening_hours: "Fr 09:00-16:00; Sa 10:00-13:30; Su closed; Mo 09:00-16:00; Tu 09:00-16:00; We 09:00-17:00; Th 09:00-17:00"
-website: "https://red7tees.com/"
+street: Oakdale Avenue West
+housenumber: "189"
+phone: 1 (850) 612-7007
+opening_hours: Fr 09:00-16:00; Sa 10:00-13:30; Su closed; Mo 09:00-16:00; Tu 09:00-16:00;
+    We 09:00-17:00; Th 09:00-17:00
+website: https://red7tees.com/

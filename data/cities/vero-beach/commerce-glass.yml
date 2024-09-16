@@ -1,11 +1,11 @@
 id: 887608267
-type: way
+type: node
 latitude: 27.63744
 longitude: -80.39622
 postcode: "32960"
 city: Vero Beach
-street: "Commerce Avenue"
-housenumber: 1956
-phone: "+1-772-770-2929"
+street: Commerce Avenue
+housenumber: "1956"
+phone: +1-772-770-2929
 opening_hours: ""
-website: "https://www.commerceglass.com/"
+website: https://www.commerceglass.com/

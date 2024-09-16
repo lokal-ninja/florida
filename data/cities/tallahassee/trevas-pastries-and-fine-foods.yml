@@ -4,8 +4,8 @@ latitude: 30.48879
 longitude: -84.24139
 postcode: "32308"
 city: Tallahassee
-street: "Capital Circle Northeast"
-housenumber: 2766
-phone: "+1-850-765-0811"
-opening_hours: "Tu-Fr 12:00-18:00; Sa 12:00-16:00"
-website: "http://www.trevas.net"
+street: Capital Circle Northeast
+housenumber: "2766"
+phone: +1-850-765-0811
+opening_hours: Tu-Fr 12:00-18:00; Sa 12:00-16:00
+website: http://www.trevas.net

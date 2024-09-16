@@ -1,11 +1,11 @@
 id: 529103790
-type: way
+type: node
 latitude: 26.4109
 longitude: -80.10125
 postcode: "33487"
 city: Boca Raton
-street: "Congress Avenue"
-housenumber: 17800
+street: Congress Avenue
+housenumber: "17800"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.com/warehouse-locations/boca-raton-fl-345.html"
+website: https://www.costco.com/warehouse-locations/boca-raton-fl-345.html

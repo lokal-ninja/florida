@@ -1,11 +1,11 @@
 id: 1011678214
-type: way
+type: node
 latitude: 26.61012
 longitude: -81.81929
 postcode: "33966"
 city: Fort Myers
-street: "Colonial Boulevard"
-housenumber: 4560
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/fort-myers/4560-colonial-blvd"
+street: Colonial Boulevard
+housenumber: "4560"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/fort-myers/4560-colonial-blvd

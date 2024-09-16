@@ -1,11 +1,11 @@
 id: 382573573
-type: way
+type: node
 latitude: 26.2093
 longitude: -80.27004
 postcode: "33321"
 city: Tamarac
-street: "Northwest 88th Avenue"
-housenumber: 6931
-phone: "+1 954-247-6304"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2930/tamarac-fl/whats-new"
+street: Northwest 88th Avenue
+housenumber: "6931"
+phone: +1 954-247-6304
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2930/tamarac-fl/whats-new

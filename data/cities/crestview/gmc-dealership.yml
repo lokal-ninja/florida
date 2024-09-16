@@ -1,11 +1,11 @@
 id: 170209574
-type: way
+type: node
 latitude: 30.71567
 longitude: -86.57097
 postcode: "32536"
 city: Crestview
-street: "S Ferdon Blvd"
-housenumber: 4300
-phone: "(850)682-2708"
+street: S Ferdon Blvd
+housenumber: "4300"
+phone: (850)682-2708
 opening_hours: ""
 website: ""

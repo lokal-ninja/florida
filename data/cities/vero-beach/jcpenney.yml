@@ -1,11 +1,11 @@
 id: 696706622
-type: way
+type: node
 latitude: 27.64161
 longitude: -80.46049
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 6200
-phone: "+1-772-569-1600"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-17:30"
+street: 20th Street
+housenumber: "6200"
+phone: +1-772-569-1600
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 896844321
-type: way
+type: node
 latitude: 28.92711
 longitude: -82.0347
 postcode: "34484"
 city: Oxford
-street: "East C 466"
-housenumber: 4147
+street: East C 466
+housenumber: "4147"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/fl/oxford/4147-e-county-rd-466.html"
+website: https://www.autozone.com/locations/fl/oxford/4147-e-county-rd-466.html

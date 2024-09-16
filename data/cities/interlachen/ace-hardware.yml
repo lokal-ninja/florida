@@ -1,11 +1,11 @@
 id: 1138145305
-type: way
+type: node
 latitude: 29.63099
 longitude: -81.88217
-postcode: "32148-5405"
+postcode: 32148-5405
 city: Interlachen
-street: "State Road 20"
-housenumber: 1122
-phone: "+1 386-684-2811"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-17:00"
+street: State Road 20
+housenumber: "1122"
+phone: +1 386-684-2811
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-17:00
 website: ""

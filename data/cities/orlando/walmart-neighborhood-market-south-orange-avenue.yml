@@ -1,11 +1,11 @@
 id: 406324427
-type: way
+type: node
 latitude: 28.51213
 longitude: -81.37466
 postcode: "32806"
 city: Orlando
-street: "South Orange Avenue"
-housenumber: 2715
-phone: "+1 407-241-4080"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3162/orlando-fl/whats-new"
+street: South Orange Avenue
+housenumber: "2715"
+phone: +1 407-241-4080
+opening_hours: 24/7
+website: https://www.walmart.com/store/3162/orlando-fl/whats-new

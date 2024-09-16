@@ -1,11 +1,11 @@
 id: 1308861212
-type: way
+type: node
 latitude: 27.38601
 longitude: -82.45808
 postcode: "34243"
 city: Sarasota
-street: "North Cattleman Road"
-housenumber: 101
-phone: "+1-941-360-7520"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.target.com/sl/university-parkway/2034"
+street: North Cattleman Road
+housenumber: "101"
+phone: +1-941-360-7520
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.target.com/sl/university-parkway/2034

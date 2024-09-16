@@ -1,11 +1,11 @@
 id: 290535758
-type: way
+type: node
 latitude: 25.93135
 longitude: -80.13185
 postcode: "33160"
 city: North Miami Beach
-street: "Northeast 163rd Street"
-housenumber: 3805
-phone: "+1 305-947-5470"
+street: Northeast 163rd Street
+housenumber: "3805"
+phone: +1 305-947-5470
 opening_hours: ""
 website: ""

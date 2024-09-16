@@ -1,11 +1,11 @@
 id: 1192493446
-type: way
+type: node
 latitude: 27.95237
 longitude: -82.49079
 postcode: "33609"
 city: Tampa
-street: "West Cypress Street"
-housenumber: 2923
-phone: "+1-813-637-0195"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://ethiopian-mart-in-tampa.business.site/?utm_source=gmb&utm_medium=referral"
+street: West Cypress Street
+housenumber: "2923"
+phone: +1-813-637-0195
+opening_hours: Mo-Sa 11:00-19:00
+website: https://ethiopian-mart-in-tampa.business.site/?utm_source=gmb&utm_medium=referral

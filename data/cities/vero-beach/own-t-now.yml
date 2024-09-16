@@ -1,11 +1,11 @@
 id: 693972636
-type: way
+type: node
 latitude: 27.62545
 longitude: -80.38907
 postcode: "32960"
 city: Vero Beach
-street: "US 1"
-housenumber: 1276
-phone: "+1-772-257-0090"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.ownitnowonline.com/vero-beach"
+street: US 1
+housenumber: "1276"
+phone: +1-772-257-0090
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.ownitnowonline.com/vero-beach

@@ -1,11 +1,11 @@
 id: 435390865
-type: way
+type: node
 latitude: 25.65514
 longitude: -80.38374
 postcode: "33186"
 city: Miami
-street: "Southwest 117th Avenue"
-housenumber: 12200
+street: Southwest 117th Avenue
+housenumber: "12200"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 435731328
-type: way
+type: node
 latitude: 25.86694
 longitude: -80.31346
 postcode: "33012"
 city: Hialeah
-street: "West 49th Street"
-housenumber: 1525
+street: West 49th Street
+housenumber: "1525"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/hialeah-fl-pharmacies/1525-w-49th-st-hialeah-fl-33012/storeid=4072"
+website: https://www.cvs.com/store-locator/hialeah-fl-pharmacies/1525-w-49th-st-hialeah-fl-33012/storeid=4072

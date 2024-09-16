@@ -1,11 +1,11 @@
 id: 472653024
-type: way
+type: node
 latitude: 27.75352
 longitude: -82.63678
 postcode: "33701"
 city: Saint Petersburg
-street: "3rd Street South"
-housenumber: 1700
+street: 3rd Street South
+housenumber: "1700"
 phone: ""
 opening_hours: ""
 website: ""

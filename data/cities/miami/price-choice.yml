@@ -1,11 +1,11 @@
 id: 454144108
-type: way
+type: node
 latitude: 25.79416
 longitude: -80.19
 postcode: "33132"
 city: Miami
-street: "Northeast 2nd Avenue"
-housenumber: 1851
+street: Northeast 2nd Avenue
+housenumber: "1851"
 phone: ""
 opening_hours: ""
 website: ""

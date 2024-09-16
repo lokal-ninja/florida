@@ -1,11 +1,11 @@
 id: 523825852
-type: way
+type: node
 latitude: 27.95627
 longitude: -82.52451
 postcode: "33607"
 city: Tampa
-street: "North West Shore Boulevard"
-housenumber: 1502
-phone: "1 813-442-5079"
+street: North West Shore Boulevard
+housenumber: "1502"
+phone: 1 813-442-5079
 opening_hours: ""
-website: "https://www.dickblick.com"
+website: https://www.dickblick.com

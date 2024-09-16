@@ -1,11 +1,11 @@
 id: 1103264881
-type: way
+type: node
 latitude: 30.46102
 longitude: -84.2606
 postcode: ""
 city: Tallahassee
-street: "Centerville Road"
-housenumber: 1535
+street: Centerville Road
+housenumber: "1535"
 phone: ""
 opening_hours: ""
 website: ""

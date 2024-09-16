@@ -1,11 +1,11 @@
 id: 706965845
-type: way
+type: node
 latitude: 27.63863
 longitude: -80.50244
 postcode: "32966"
 city: Vero Beach
-street: "20th Street"
-housenumber: 8525
-phone: "+1-954-798-1123"
-opening_hours: "08:00-20:00"
-website: "https://www.pristinetrailers.com/"
+street: 20th Street
+housenumber: "8525"
+phone: +1-954-798-1123
+opening_hours: 08:00-20:00
+website: https://www.pristinetrailers.com/

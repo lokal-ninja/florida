@@ -1,11 +1,11 @@
 id: 699150012
-type: way
+type: node
 latitude: 30.06563
 longitude: -81.87225
-postcode: "32068-9107"
+postcode: 32068-9107
 city: Middleburg
-street: "Blanding Boulevard"
-housenumber: 2640
-phone: "+1 904-291-5123"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/736"
+street: Blanding Boulevard
+housenumber: "2640"
+phone: +1 904-291-5123
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/736

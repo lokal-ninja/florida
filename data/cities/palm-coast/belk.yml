@@ -1,11 +1,11 @@
 id: 68630613
-type: way
+type: node
 latitude: 29.5502
 longitude: -81.22191
 postcode: "32164"
 city: Palm Coast
-street: "Cypress Edge Drive"
-housenumber: 270
-phone: "+1 386 446 1880"
-opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-19:00"
-website: "https://www.belk.com/store/belk-palm-coast-fl/?StoreID=363"
+street: Cypress Edge Drive
+housenumber: "270"
+phone: +1 386 446 1880
+opening_hours: Mo-Sa 10:00-21:00, Su 11:00-19:00
+website: https://www.belk.com/store/belk-palm-coast-fl/?StoreID=363

@@ -1,11 +1,11 @@
 id: 113651262
-type: way
+type: node
 latitude: 27.17521
 longitude: -80.25365
 postcode: "34994"
 city: Stuart
-street: "Southwest Monterey Road"
-housenumber: 100
+street: Southwest Monterey Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/FL/Stuart/100-SW-MONTEREY-RD"
+website: https://www.speedway.com/locations/FL/Stuart/100-SW-MONTEREY-RD

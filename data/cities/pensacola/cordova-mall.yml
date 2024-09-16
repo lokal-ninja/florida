@@ -1,11 +1,11 @@
 id: 409618579
-type: way
+type: node
 latitude: 30.47654
 longitude: -87.2083
 postcode: "32504"
 city: Pensacola
-street: "North 9th Avenue"
-housenumber: 5100
+street: North 9th Avenue
+housenumber: "5100"
 phone: ""
 opening_hours: ""
 website: ""

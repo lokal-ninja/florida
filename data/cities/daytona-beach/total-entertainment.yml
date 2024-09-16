@@ -1,11 +1,11 @@
 id: 361219948
-type: way
+type: node
 latitude: 29.20953
 longitude: -81.02545
 postcode: "32114"
 city: Daytona Beach
-street: "International Speedway Boulevard"
-housenumber: 501
-phone: "+1 386 254 8727"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://total-entertainment-music-store.business.site/"
+street: International Speedway Boulevard
+housenumber: "501"
+phone: +1 386 254 8727
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://total-entertainment-music-store.business.site/

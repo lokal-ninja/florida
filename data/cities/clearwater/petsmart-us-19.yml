@@ -1,11 +1,11 @@
 id: 243934061
-type: way
+type: node
 latitude: 27.9582
 longitude: -82.72898
 postcode: "33759"
 city: Clearwater
-street: "US 19"
-housenumber: 2625
-phone: "+1 727-725-3755"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/fl/clearwater-store1141.html"
+street: US 19
+housenumber: "2625"
+phone: +1 727-725-3755
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/fl/clearwater-store1141.html

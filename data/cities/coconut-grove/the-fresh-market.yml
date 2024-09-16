@@ -1,11 +1,11 @@
 id: 94907568
-type: way
+type: node
 latitude: 25.73051
 longitude: -80.23393
 postcode: "33133"
 city: Coconut Grove
-street: "South Bayshore Drive"
-housenumber: 2640
+street: South Bayshore Drive
+housenumber: "2640"
 phone: ""
 opening_hours: ""
-website: "https://www.thefreshmarket.com/my-market/store/2640south-bayshore-coconut-grove"
+website: https://www.thefreshmarket.com/my-market/store/2640south-bayshore-coconut-grove

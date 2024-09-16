@@ -1,11 +1,11 @@
 id: 828194699
-type: way
+type: node
 latitude: 30.44012
 longitude: -87.25879
 postcode: "32505"
 city: Pensacola
-street: "Hollywood Avenue"
-housenumber: 2632
+street: Hollywood Avenue
+housenumber: "2632"
 phone: ""
-opening_hours: "Mo-Fr 09:00-16:00"
+opening_hours: Mo-Fr 09:00-16:00
 website: ""

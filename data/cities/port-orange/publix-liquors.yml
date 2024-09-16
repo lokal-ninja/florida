@@ -1,11 +1,11 @@
 id: 483077751
-type: way
+type: node
 latitude: 29.12715
 longitude: -81.00284
 postcode: "32129"
 city: Port Orange
-street: "South Nova Road"
-housenumber: 3821
-phone: "+1 386 767 0234"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-19:00"
-website: "https://www.publix.com/locations/1259-dunlawton-square"
+street: South Nova Road
+housenumber: "3821"
+phone: +1 386 767 0234
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-19:00
+website: https://www.publix.com/locations/1259-dunlawton-square

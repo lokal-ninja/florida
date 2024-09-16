@@ -1,11 +1,11 @@
 id: 144868472
-type: way
+type: node
 latitude: 29.20455
 longitude: -82.07358
 postcode: "34470"
 city: Ocala
-street: "East Silver Springs Boulevard"
-housenumber: 4600
-phone: "+1 352-732-1944"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/fl-ocala/1855"
+street: East Silver Springs Boulevard
+housenumber: "4600"
+phone: +1 352-732-1944
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/fl-ocala/1855

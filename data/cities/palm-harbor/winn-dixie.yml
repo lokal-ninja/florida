@@ -1,11 +1,11 @@
 id: 523181394
-type: way
+type: node
 latitude: 28.06679
 longitude: -82.76305
 postcode: "34683"
 city: Palm Harbor
-street: "Tampa Street"
-housenumber: 1360
-phone: "+1 727-787-3599"
+street: Tampa Street
+housenumber: "1360"
+phone: +1 727-787-3599
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/palm%20harbor/fl?search=2425"
+website: https://www.winndixie.com/storedetails/palm%20harbor/fl?search=2425

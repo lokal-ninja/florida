@@ -1,11 +1,11 @@
 id: 44526056
-type: way
+type: node
 latitude: 26.57923
 longitude: -81.99217
 postcode: "33914"
 city: Cape Coral
-street: "Skyline Boulevard"
-housenumber: 3920
-phone: "+1 239-540-2245"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5451/cape-coral-fl/whats-new"
+street: Skyline Boulevard
+housenumber: "3920"
+phone: +1 239-540-2245
+opening_hours: 24/7
+website: https://www.walmart.com/store/5451/cape-coral-fl/whats-new

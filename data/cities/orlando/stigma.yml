@@ -1,11 +1,11 @@
 id: 80643527
-type: way
+type: node
 latitude: 28.54164
 longitude: -81.37894
 postcode: ""
 city: Orlando
-street: "South Orange Avenue"
-housenumber: 17
+street: South Orange Avenue
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

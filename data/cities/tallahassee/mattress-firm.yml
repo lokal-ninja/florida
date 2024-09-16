@@ -1,11 +1,11 @@
 id: 234798311
-type: way
+type: node
 latitude: 30.51133
 longitude: -84.24494
 postcode: "32308"
 city: Tallahassee
-street: "Thomasville Road"
-housenumber: 3539
-phone: "+1 850-894-3020"
+street: Thomasville Road
+housenumber: "3539"
+phone: +1 850-894-3020
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/fl/tallahassee/065002/"
+website: https://www.mattressfirm.com/en-us/stores/fl/tallahassee/065002/

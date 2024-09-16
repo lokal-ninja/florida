@@ -1,11 +1,11 @@
 id: 480677892
-type: way
+type: node
 latitude: 26.32042
 longitude: -80.15218
 postcode: "33442"
 city: Deerfield Beach
-street: "West Hillsboro Boulevard"
-housenumber: 3599
-phone: "+1 954-333-5214"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/deerfield-beach-hillsboro-blvd/2092"
+street: West Hillsboro Boulevard
+housenumber: "3599"
+phone: +1 954-333-5214
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/deerfield-beach-hillsboro-blvd/2092

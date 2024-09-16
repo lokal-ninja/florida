@@ -1,11 +1,11 @@
 id: 426502133
-type: way
+type: node
 latitude: 30.45706
 longitude: -84.34649
 postcode: "32304"
 city: Tallahassee
-street: "West Tennessee Street"
-housenumber: 3106
+street: West Tennessee Street
+housenumber: "3106"
 phone: ""
 opening_hours: ""
-website: "https://www.wernerhyundai.com/"
+website: https://www.wernerhyundai.com/

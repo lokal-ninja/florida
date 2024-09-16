@@ -1,11 +1,11 @@
 id: 435540378
-type: way
+type: node
 latitude: 25.86794
 longitude: -80.12295
 postcode: "33141"
 city: Miami Beach
-street: "83rd Street"
-housenumber: 320
+street: 83rd Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

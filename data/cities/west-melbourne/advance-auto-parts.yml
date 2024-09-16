@@ -1,11 +1,11 @@
 id: 695884126
-type: way
+type: node
 latitude: 28.07841
 longitude: -80.64376
 postcode: "32904"
 city: West Melbourne
-street: "New Haven Avenue"
-housenumber: 1355
+street: New Haven Avenue
+housenumber: "1355"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/fl/melbourne/1355-w-new-haven-ave"
+website: https://stores.advanceautoparts.com/fl/melbourne/1355-w-new-haven-ave

@@ -1,11 +1,11 @@
 id: 629161918
-type: way
+type: node
 latitude: 29.05674
 longitude: -81.30139
 postcode: "32724"
 city: Deland
-street: "International Speedway Boulevard"
-housenumber: 299
-phone: "+1 386-734-7112"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1444-northgate-shopping-center"
+street: International Speedway Boulevard
+housenumber: "299"
+phone: +1 386-734-7112
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1444-northgate-shopping-center

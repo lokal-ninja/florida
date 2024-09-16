@@ -1,11 +1,11 @@
 id: 567606448
-type: way
+type: node
 latitude: 30.47881
 longitude: -81.63803
 postcode: "32218"
 city: Jacksonville
-street: "City Square Drive"
-housenumber: 13265
-phone: "+1 904-268-2347"
+street: City Square Drive
+housenumber: "13265"
+phone: +1 904-268-2347
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/florida/jacksonville/7710000084/"
+website: https://stores.ashleyfurniture.com/store/us/florida/jacksonville/7710000084/

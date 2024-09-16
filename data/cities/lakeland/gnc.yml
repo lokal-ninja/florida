@@ -4,8 +4,8 @@ latitude: 28.00272
 longitude: -81.97592
 postcode: "33803"
 city: Lakeland
-street: "Town Center Drive"
-housenumber: 1322
-phone: "863-686-6762"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.gnc.com/"
+street: Town Center Drive
+housenumber: "1322"
+phone: 863-686-6762
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.gnc.com/

@@ -1,11 +1,11 @@
 id: 554304079
-type: way
+type: node
 latitude: 29.03849
 longitude: -80.90148
 postcode: "32169"
 city: New Smyrna Beach
-street: "Flagler Avenue"
-housenumber: 221
+street: Flagler Avenue
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 546945849
-type: way
+type: node
 latitude: 28.82498
 longitude: -81.64774
-postcode: "32757-6741"
+postcode: 32757-6741
 city: Mount Dora
-street: "US Highway 441"
-housenumber: 18691
-phone: "+1 352-383-2101"
-opening_hours: "Mo-Sa 07:30-19:00"
+street: US Highway 441
+housenumber: "18691"
+phone: +1 352-383-2101
+opening_hours: Mo-Sa 07:30-19:00
 website: ""

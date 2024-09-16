@@ -1,11 +1,11 @@
 id: 142313334
-type: way
+type: node
 latitude: 30.43731
 longitude: -84.26036
 postcode: "32301"
 city: Tallahassee
-street: "Apalachee Parkway"
-housenumber: 1302
-phone: "+1 850-270-0041"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://stores.dsw.com/usa/fl/tallahassee/dsw-designer-shoe-warehouse-apalachee-parkway.html"
+street: Apalachee Parkway
+housenumber: "1302"
+phone: +1 850-270-0041
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://stores.dsw.com/usa/fl/tallahassee/dsw-designer-shoe-warehouse-apalachee-parkway.html

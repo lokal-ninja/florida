@@ -1,11 +1,11 @@
 id: 749611861
-type: way
+type: node
 latitude: 29.78369
 longitude: -82.02859
 postcode: "32656"
 city: Keystone Heights
-street: "East Walker Drive"
-housenumber: 340
+street: East Walker Drive
+housenumber: "340"
 phone: ""
 opening_hours: ""
 website: ""

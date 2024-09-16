@@ -1,11 +1,11 @@
 id: 523454519
-type: way
+type: node
 latitude: 28.04127
 longitude: -82.56597
 postcode: "33625"
 city: Tampa
-street: "West Linebaugh Avenue"
-housenumber: 7621
-phone: "+1-813-265-2093"
-opening_hours: "24/7"
-website: "https://www.racetrac.com/Locations/Detail/87"
+street: West Linebaugh Avenue
+housenumber: "7621"
+phone: +1-813-265-2093
+opening_hours: 24/7
+website: https://www.racetrac.com/Locations/Detail/87

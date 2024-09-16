@@ -1,11 +1,11 @@
 id: 636692596
-type: way
+type: node
 latitude: 30.06842
 longitude: -85.59693
 postcode: "32403"
 city: Tyndall AFB
-street: "Mall Lane"
-housenumber: 220
+street: Mall Lane
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

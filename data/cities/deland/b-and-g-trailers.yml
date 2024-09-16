@@ -1,11 +1,11 @@
 id: 870803798
-type: way
+type: node
 latitude: 29.06401
 longitude: -81.26115
 postcode: "32724"
 city: DeLand
-street: "East International Speedway Blvd"
-housenumber: 2340
-phone: "1-386-734-5244"
+street: East International Speedway Blvd
+housenumber: "2340"
+phone: 1-386-734-5244
 opening_hours: ""
-website: "https://www.bgtrailers.com/"
+website: https://www.bgtrailers.com/

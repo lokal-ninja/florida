@@ -1,11 +1,11 @@
 id: 278812492
-type: way
+type: node
 latitude: 25.70466
 longitude: -80.29101
 postcode: "33143"
 city: South Miami
-street: "Southwest 72nd Street"
-housenumber: 5995
-phone: "+1-305-661-8363"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 12:00-17:00"
-website: "https://www.mackcycleandfitness.com/"
+street: Southwest 72nd Street
+housenumber: "5995"
+phone: +1-305-661-8363
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 12:00-17:00
+website: https://www.mackcycleandfitness.com/

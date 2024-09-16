@@ -1,11 +1,11 @@
 id: 234111023
-type: way
+type: node
 latitude: 28.6121
 longitude: -80.80826
 postcode: "32796"
 city: Titusville
-street: "South Hopkins Avenue"
-housenumber: 315
+street: South Hopkins Avenue
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

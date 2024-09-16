@@ -1,11 +1,11 @@
 id: 703147792
-type: way
+type: node
 latitude: 27.76746
 longitude: -80.60053
 postcode: "32948"
 city: Fellsmere
-street: "Pine Street"
-housenumber: 2
-phone: "+1-772-571-8880"
-opening_hours: "Mo-Sa 05:00-21:00; Su 05:00-20:00"
-website: "https://www.garciasthebomb.com/"
+street: Pine Street
+housenumber: "2"
+phone: +1-772-571-8880
+opening_hours: Mo-Sa 05:00-21:00; Su 05:00-20:00
+website: https://www.garciasthebomb.com/

@@ -1,11 +1,11 @@
 id: 637932971
-type: way
+type: node
 latitude: 30.15861
 longitude: -85.65129
 postcode: "32401"
 city: Panama City
-street: "E Hwy 98"
-housenumber: 635
+street: E Hwy 98
+housenumber: "635"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/fl/panama-city/7349/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.dollartree.com/locations/fl/panama-city/7349/

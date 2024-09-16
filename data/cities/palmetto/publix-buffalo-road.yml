@@ -1,11 +1,11 @@
 id: 740635948
-type: way
+type: node
 latitude: 27.59932
 longitude: -82.50028
 postcode: "34221"
 city: Palmetto
-street: "Buffalo Road"
-housenumber: 9520
-phone: "+1 941-722-0693"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1666"
+street: Buffalo Road
+housenumber: "9520"
+phone: +1 941-722-0693
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1666

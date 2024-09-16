@@ -1,11 +1,11 @@
 id: 617137890
-type: way
+type: node
 latitude: 30.60109
 longitude: -87.11774
 postcode: "32571"
 city: Milton
-street: "Highway 90"
-housenumber: 4965
-phone: "+1 850-995-0542"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/990/milton-fl/whats-new"
+street: Highway 90
+housenumber: "4965"
+phone: +1 850-995-0542
+opening_hours: 24/7
+website: https://www.walmart.com/store/990/milton-fl/whats-new

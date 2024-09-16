@@ -1,11 +1,11 @@
 id: 753094002
-type: way
+type: node
 latitude: 28.07986
 longitude: -80.64173
 postcode: "32904"
 city: West Melbourne
-street: "Northwest Irwin Avenue"
-housenumber: 39
+street: Northwest Irwin Avenue
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

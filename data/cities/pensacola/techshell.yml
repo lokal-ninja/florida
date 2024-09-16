@@ -1,11 +1,11 @@
 id: 356110151
-type: way
+type: node
 latitude: 30.49763
 longitude: -87.22479
 postcode: "32504"
 city: Pensacola
-street: "North Davis Highway"
-housenumber: 7171
-phone: "+1 850-549-3589"
+street: North Davis Highway
+housenumber: "7171"
+phone: +1 850-549-3589
 opening_hours: ""
-website: "http://www.techshellphonerepair.com/"
+website: http://www.techshellphonerepair.com/

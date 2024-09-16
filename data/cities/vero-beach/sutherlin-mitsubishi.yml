@@ -1,11 +1,11 @@
 id: 693972628
-type: way
+type: node
 latitude: 27.6277
 longitude: -80.38847
 postcode: "32960"
 city: Vero Beach
-street: "US 1"
-housenumber: 1440
-phone: "+1-772-569-1200"
-opening_hours: "Mo-Sa 09:00-20:00; Su 12:00-19:00"
-website: "https://www.sutherlinmitsubishi.com"
+street: US 1
+housenumber: "1440"
+phone: +1-772-569-1200
+opening_hours: Mo-Sa 09:00-20:00; Su 12:00-19:00
+website: https://www.sutherlinmitsubishi.com

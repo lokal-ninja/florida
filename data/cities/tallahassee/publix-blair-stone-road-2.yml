@@ -1,11 +1,11 @@
 id: 329781848
-type: way
+type: node
 latitude: 30.44276
 longitude: -84.24749
 postcode: "32301"
 city: Tallahassee
-street: "Blair Stone Road"
-housenumber: 101
-phone: "+1 850-219-6211"
-opening_hours: "07:00-22:00"
-website: "https://www.publix.com/"
+street: Blair Stone Road
+housenumber: "101"
+phone: +1 850-219-6211
+opening_hours: 07:00-22:00
+website: https://www.publix.com/

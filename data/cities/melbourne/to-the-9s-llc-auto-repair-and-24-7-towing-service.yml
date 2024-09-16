@@ -1,11 +1,11 @@
 id: 1032632337
-type: way
+type: node
 latitude: 28.09555
 longitude: -80.66651
 postcode: "32904"
 city: Melbourne
-street: "Atlantis Road"
-housenumber: 700
-phone: "(321)327-2748 Garage (321)272-6896 Tow"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://tothe9sllc.com/"
+street: Atlantis Road
+housenumber: "700"
+phone: (321)327-2748 Garage (321)272-6896 Tow
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://tothe9sllc.com/

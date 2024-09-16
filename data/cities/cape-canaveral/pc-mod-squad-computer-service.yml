@@ -4,8 +4,8 @@ latitude: 28.39651
 longitude: -80.60457
 postcode: "32920"
 city: Cape Canaveral
-street: "East Central Boulevard"
-housenumber: 100
-phone: "+1 321 5435731"
-opening_hours: "10:00-17:00"
+street: East Central Boulevard
+housenumber: "100"
+phone: +1 321 5435731
+opening_hours: 10:00-17:00
 website: ""

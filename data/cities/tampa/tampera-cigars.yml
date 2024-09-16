@@ -1,11 +1,11 @@
 id: 524517796
-type: way
+type: node
 latitude: 27.96053
 longitude: -82.43451
 postcode: "33605"
 city: Tampa
-street: "North 22nd Street"
-housenumber: 1805
+street: North 22nd Street
+housenumber: "1805"
 phone: ""
 opening_hours: ""
-website: "https://www.tampero.com"
+website: https://www.tampero.com

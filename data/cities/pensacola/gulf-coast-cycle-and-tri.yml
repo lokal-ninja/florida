@@ -1,11 +1,11 @@
 id: 264060300
-type: way
+type: node
 latitude: 30.49522
 longitude: -87.20408
 postcode: "32504"
 city: Pensacola
-street: "Creighton Road"
-housenumber: 1811
-phone: "850-466-5786"
+street: Creighton Road
+housenumber: "1811"
+phone: 850-466-5786
 opening_hours: ""
-website: "http://www.gulfcoastcycleandtri.org/"
+website: http://www.gulfcoastcycleandtri.org/

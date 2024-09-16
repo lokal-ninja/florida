@@ -1,11 +1,11 @@
 id: 778995100
-type: way
+type: node
 latitude: 27.44689
 longitude: -80.33173
 postcode: "34950"
 city: Fort Pierce
-street: "FL-68"
-housenumber: 823
+street: FL-68
+housenumber: "823"
 phone: ""
 opening_hours: ""
 website: ""

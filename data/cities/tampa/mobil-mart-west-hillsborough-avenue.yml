@@ -1,11 +1,11 @@
 id: 308030568
-type: way
+type: node
 latitude: 27.99554
 longitude: -82.49244
 postcode: "33614"
 city: Tampa
-street: "West Hillsborough Avenue"
-housenumber: 3024
-phone: "+1-813-871-5533"
-opening_hours: "06:00-23:00"
-website: "https://www.exxon.com/en/find-station/mobil-tampa-fl-giant130-200318693"
+street: West Hillsborough Avenue
+housenumber: "3024"
+phone: +1-813-871-5533
+opening_hours: 06:00-23:00
+website: https://www.exxon.com/en/find-station/mobil-tampa-fl-giant130-200318693

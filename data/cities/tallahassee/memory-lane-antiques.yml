@@ -1,11 +1,11 @@
 id: 374938630
-type: way
+type: node
 latitude: 30.45915
 longitude: -84.28079
 postcode: "32303"
 city: Tallahassee
-street: "North Monroe Street"
-housenumber: 1425
+street: North Monroe Street
+housenumber: "1425"
 phone: ""
 opening_hours: ""
-website: "http://www.memorylanetallahasseeantiques.com/"
+website: http://www.memorylanetallahasseeantiques.com/

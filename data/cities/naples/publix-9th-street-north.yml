@@ -1,11 +1,11 @@
 id: 523308828
-type: way
+type: node
 latitude: 26.20375
 longitude: -81.80329
-postcode: "34103-3004"
+postcode: 34103-3004
 city: Naples
-street: "9th Street North"
-housenumber: 4601
-phone: "+1 239-649-6400"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/172"
+street: 9th Street North
+housenumber: "4601"
+phone: +1 239-649-6400
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/172

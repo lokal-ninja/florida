@@ -1,11 +1,11 @@
 id: 556562395
-type: way
+type: node
 latitude: 28.79933
 longitude: -81.6446
 postcode: "32757"
 city: Mount Dora
-street: "North Donnelly Street"
-housenumber: 334
-phone: "+1-352-735-2722"
+street: North Donnelly Street
+housenumber: "334"
+phone: +1-352-735-2722
 opening_hours: ""
-website: "http://everynookandcranny.com"
+website: http://everynookandcranny.com

@@ -4,8 +4,8 @@ latitude: 30.40999
 longitude: -87.21154
 postcode: "32502"
 city: Pensacola
-street: "East Government Street"
-housenumber: 210
-phone: "+1-850-912-4636"
-opening_hours: "Tu-Fr 10:00-18:00; Sat 10:00-16:00"
-website: "http://epicdowntown.com"
+street: East Government Street
+housenumber: "210"
+phone: +1-850-912-4636
+opening_hours: Tu-Fr 10:00-18:00; Sat 10:00-16:00
+website: http://epicdowntown.com

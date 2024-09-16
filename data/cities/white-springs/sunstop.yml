@@ -1,11 +1,11 @@
 id: 359645017
-type: way
+type: node
 latitude: 30.31902
 longitude: -82.80391
 postcode: "32096"
 city: White Springs
-street: "FL 136"
-housenumber: 2926
-phone: "+1 (386) 963-5674"
+street: FL 136
+housenumber: "2926"
+phone: +1 (386) 963-5674
 opening_hours: ""
-website: "https://scaffs.com/"
+website: https://scaffs.com/

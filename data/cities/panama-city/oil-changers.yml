@@ -1,11 +1,11 @@
 id: 636393623
-type: way
+type: node
 latitude: 30.17522
 longitude: -85.6935
 postcode: "32401"
 city: Panama City
-street: "Clay Avenue"
-housenumber: 1417
+street: Clay Avenue
+housenumber: "1417"
 phone: ""
 opening_hours: ""
 website: ""

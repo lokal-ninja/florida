@@ -4,8 +4,8 @@ latitude: 30.16649
 longitude: -81.70252
 postcode: "32073"
 city: Orange Park
-street: "Park Avenue"
-housenumber: 1940
-phone: "+1 904-264-5120"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 09:00-14:00"
-website: "http://www.orangeparkflorist.com"
+street: Park Avenue
+housenumber: "1940"
+phone: +1 904-264-5120
+opening_hours: Mo-Fr 08:30-17:30; Sa 09:00-14:00
+website: http://www.orangeparkflorist.com

@@ -1,11 +1,11 @@
 id: 314808056
-type: way
+type: node
 latitude: 25.80133
 longitude: -80.20166
 postcode: "33127"
 city: Miami
-street: "Northwest 26th Street"
-housenumber: 320
+street: Northwest 26th Street
+housenumber: "320"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

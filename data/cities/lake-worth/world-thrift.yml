@@ -1,11 +1,11 @@
 id: 560804572
-type: way
+type: node
 latitude: 26.64298
 longitude: -80.05808
 postcode: "33460"
 city: Lake Worth
-street: "Dixie Highway"
-housenumber: 2425
-phone: "(561) 588-4050"
-opening_hours: "Mo-Sa 09:00-18:00, Su closed"
-website: "http://redwhiteandbluethriftstore.com/lake-worth-fl/"
+street: Dixie Highway
+housenumber: "2425"
+phone: (561) 588-4050
+opening_hours: Mo-Sa 09:00-18:00, Su closed
+website: http://redwhiteandbluethriftstore.com/lake-worth-fl/

@@ -1,11 +1,11 @@
 id: 547344486
-type: way
+type: node
 latitude: 30.39009
 longitude: -86.4205
 postcode: "32541"
 city: Destin
-street: "Legendary Drive"
-housenumber: 4402
-phone: "+1 850-269-7400"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/destin"
+street: Legendary Drive
+housenumber: "4402"
+phone: +1 850-269-7400
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/destin

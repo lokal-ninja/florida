@@ -1,11 +1,11 @@
 id: 953887765
-type: way
+type: node
 latitude: 26.5845
 longitude: -81.86967
 postcode: "33907"
 city: Fort Myers
-street: "South Cleveland Avenue"
-housenumber: 5025
-phone: "+1 239-322-3110"
+street: South Cleveland Avenue
+housenumber: "5025"
+phone: +1 239-322-3110
 opening_hours: ""
-website: "https://stores.partycity.com/us/fl/ft-myers/party-store-pc266.html"
+website: https://stores.partycity.com/us/fl/ft-myers/party-store-pc266.html

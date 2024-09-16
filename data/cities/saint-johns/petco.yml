@@ -1,11 +1,11 @@
 id: 876275855
-type: way
+type: node
 latitude: 30.09553
 longitude: -81.52022
 postcode: "32259"
 city: Saint Johns
-street: "Durbin Pavillion Drive Suite"
-housenumber: 675
-phone: "+1 904-417-9033"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/fl/stjohns/pet-supplies-stjohns-fl-2550.html"
+street: Durbin Pavillion Drive Suite
+housenumber: "675"
+phone: +1 904-417-9033
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/fl/stjohns/pet-supplies-stjohns-fl-2550.html

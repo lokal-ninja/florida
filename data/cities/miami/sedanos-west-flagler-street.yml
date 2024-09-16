@@ -1,11 +1,11 @@
 id: 435567064
-type: way
+type: node
 latitude: 25.77088
 longitude: -80.30462
 postcode: "33126"
 city: Miami
-street: "West Flagler Street"
-housenumber: 6709
-phone: "+1 305 255 6722"
-opening_hours: "Mo-Sa 07:00-23:00; Su 07:00-22:00"
-website: "https://shop.sedanos.com/stores/west-miami-6709-w-flagler-st-4"
+street: West Flagler Street
+housenumber: "6709"
+phone: +1 305 255 6722
+opening_hours: Mo-Sa 07:00-23:00; Su 07:00-22:00
+website: https://shop.sedanos.com/stores/west-miami-6709-w-flagler-st-4

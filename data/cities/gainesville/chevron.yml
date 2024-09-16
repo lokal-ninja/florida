@@ -1,11 +1,11 @@
 id: 388814474
-type: way
+type: node
 latitude: 29.65244
 longitude: -82.33587
 postcode: ""
 city: Gainesville
-street: "West University Avenue"
-housenumber: 1024
+street: West University Avenue
+housenumber: "1024"
 phone: ""
 opening_hours: ""
 website: ""

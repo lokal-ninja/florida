@@ -4,8 +4,8 @@ latitude: 26.15206
 longitude: -81.795
 postcode: "34102"
 city: Naples
-street: "4th Avenue North"
-housenumber: 977
-phone: "239-674-3343"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
+street: 4th Avenue North
+housenumber: "977"
+phone: 239-674-3343
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00
 website: ""

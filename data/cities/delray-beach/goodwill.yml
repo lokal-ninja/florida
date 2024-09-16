@@ -1,11 +1,11 @@
 id: 801452150
-type: way
+type: node
 latitude: 26.48182
 longitude: -80.06671
 postcode: "33444"
 city: Delray Beach
-street: "North Federal Highway"
-housenumber: 1640
+street: North Federal Highway
+housenumber: "1640"
 phone: ""
 opening_hours: ""
 website: ""

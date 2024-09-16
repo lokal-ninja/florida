@@ -1,11 +1,11 @@
 id: 667910606
-type: way
+type: node
 latitude: 30.205
 longitude: -81.6179
 postcode: "32257"
 city: Jacksonville
-street: "San Jose Boulevard"
-housenumber: 9540
+street: San Jose Boulevard
+housenumber: "9540"
 phone: ""
 opening_hours: ""
 website: ""

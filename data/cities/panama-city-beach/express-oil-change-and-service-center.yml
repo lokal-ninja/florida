@@ -1,11 +1,11 @@
 id: 401780610
-type: way
+type: node
 latitude: 30.1996
 longitude: -85.81694
 postcode: "32407"
 city: Panama City Beach
-street: "Panama City Beach Parkway"
-housenumber: 11620
-phone: "+1-850-233-0808"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/panama-city-beach/fl/1865/"
+street: Panama City Beach Parkway
+housenumber: "11620"
+phone: +1-850-233-0808
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/panama-city-beach/fl/1865/

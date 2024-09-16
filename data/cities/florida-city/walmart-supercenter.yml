@@ -1,11 +1,11 @@
 id: 123958274
-type: way
+type: node
 latitude: 25.45702
 longitude: -80.47304
 postcode: "33034"
 city: Florida City
-street: "South Dixie Highway"
-housenumber: 33501
-phone: "+1 305-242-4447"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2727/florida-city-fl/whats-new"
+street: South Dixie Highway
+housenumber: "33501"
+phone: +1 305-242-4447
+opening_hours: 24/7
+website: https://www.walmart.com/store/2727/florida-city-fl/whats-new

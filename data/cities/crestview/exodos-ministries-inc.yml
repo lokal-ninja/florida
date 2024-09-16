@@ -1,11 +1,11 @@
 id: 711881679
-type: way
+type: node
 latitude: 30.76899
 longitude: -86.56714
 postcode: ""
 city: Crestview
-street: "North Ferdon Boulevard"
-housenumber: 696
-phone: "(850)-682-1511"
+street: North Ferdon Boulevard
+housenumber: "696"
+phone: (850)-682-1511
 opening_hours: ""
-website: "https://www.exodosministries.com/exodos-thrift-store/"
+website: https://www.exodosministries.com/exodos-thrift-store/

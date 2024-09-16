@@ -1,11 +1,11 @@
 id: 526637975
-type: way
+type: node
 latitude: 27.87966
 longitude: -82.73001
 postcode: "33773"
 city: Largo
-street: "66th Street"
-housenumber: 11800
+street: 66th Street
+housenumber: "11800"
 phone: ""
 opening_hours: ""
 website: ""

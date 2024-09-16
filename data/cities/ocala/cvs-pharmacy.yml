@@ -1,11 +1,11 @@
 id: 144847311
-type: way
+type: node
 latitude: 29.16555
 longitude: -82.16849
 postcode: "34474"
 city: Ocala
-street: "Southwest College Road"
-housenumber: 2000
-phone: "+1 352 629 1515"
-opening_hours: "Mo-Fr 10:00-19:00, Sa-Su 11:00-17:00"
-website: "https://www.cvs.com/store-locator/ocala-fl-pharmacies/2401-sw-27th-ave-ocala-fl-34471/storeid=3661"
+street: Southwest College Road
+housenumber: "2000"
+phone: +1 352 629 1515
+opening_hours: Mo-Fr 10:00-19:00, Sa-Su 11:00-17:00
+website: https://www.cvs.com/store-locator/ocala-fl-pharmacies/2401-sw-27th-ave-ocala-fl-34471/storeid=3661

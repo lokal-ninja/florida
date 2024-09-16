@@ -1,11 +1,11 @@
 id: 212953356
-type: way
+type: node
 latitude: 28.36015
 longitude: -80.66961
 postcode: "32952"
 city: Merritt Island
-street: "East Merritt Island Causeway"
-housenumber: 1500
-phone: "+1 321-452-6058"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/771/merritt-island-fl/whats-new"
+street: East Merritt Island Causeway
+housenumber: "1500"
+phone: +1 321-452-6058
+opening_hours: 24/7
+website: https://www.walmart.com/store/771/merritt-island-fl/whats-new

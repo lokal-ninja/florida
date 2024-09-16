@@ -1,11 +1,11 @@
 id: 625973836
-type: way
+type: node
 latitude: 28.92956
 longitude: -81.18733
-postcode: "32738-3106"
+postcode: 32738-3106
 city: Deltona
-street: "Elkcam Boulevard"
-housenumber: 2840
-phone: "+1 386-532-1953"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:00-19:00; Su 07:00-17:00"
+street: Elkcam Boulevard
+housenumber: "2840"
+phone: +1 386-532-1953
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:00-19:00; Su 07:00-17:00
 website: ""

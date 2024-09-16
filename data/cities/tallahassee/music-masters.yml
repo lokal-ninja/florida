@@ -1,11 +1,11 @@
 id: 295319271
-type: way
+type: node
 latitude: 30.4544
 longitude: -84.28091
 postcode: "32303"
 city: Tallahassee
-street: "North Monroe Street"
-housenumber: 1114
-phone: "+1-800-848-6158"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.musicm.com/"
+street: North Monroe Street
+housenumber: "1114"
+phone: +1-800-848-6158
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.musicm.com/

@@ -1,11 +1,11 @@
 id: 287679699
-type: way
+type: node
 latitude: 26.63828
 longitude: -81.87651
 postcode: "33901"
 city: Fort Myers
-street: "McGregor Boulevard"
-housenumber: 2160
-phone: "+1 239-332-2403"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1156"
+street: McGregor Boulevard
+housenumber: "2160"
+phone: +1 239-332-2403
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1156

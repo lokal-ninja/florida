@@ -1,11 +1,11 @@
 id: 313780343
-type: way
+type: node
 latitude: 28.47309
 longitude: -81.39607
 postcode: "32839"
 city: Orlando
-street: "South Orange Blossom Trail"
-housenumber: 5899
+street: South Orange Blossom Trail
+housenumber: "5899"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.cvs.com/store-locator/orlando-fl-pharmacies/5899-orange-blossom-trl-orlando-fl-32839/storeid=204"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.cvs.com/store-locator/orlando-fl-pharmacies/5899-orange-blossom-trl-orlando-fl-32839/storeid=204

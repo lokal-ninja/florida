@@ -1,11 +1,11 @@
 id: 1051140049
-type: way
+type: node
 latitude: 28.8083
 longitude: -81.26505
 postcode: "32771"
 city: Sanford
-street: "Sanford Avenue"
-housenumber: 440
+street: Sanford Avenue
+housenumber: "440"
 phone: "4072572970"
 opening_hours: ""
-website: "https://www.ellenswineroom.com/"
+website: https://www.ellenswineroom.com/

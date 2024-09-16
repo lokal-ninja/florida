@@ -1,11 +1,11 @@
 id: 406825275
-type: way
+type: node
 latitude: 30.44632
 longitude: -84.28372
 postcode: ""
 city: Tallahassee
-street: "North Duval Street"
-housenumber: 412
+street: North Duval Street
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

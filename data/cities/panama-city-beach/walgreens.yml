@@ -1,11 +1,11 @@
 id: 637577903
-type: way
+type: node
 latitude: 30.17933
 longitude: -85.80049
 postcode: "32407"
 city: Panama City Beach
-street: "Front Beach Road"
-housenumber: 9998
+street: Front Beach Road
+housenumber: "9998"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9998+front+beach+rd-panama+city+beach-fl-32407/id=5340"
+website: https://www.walgreens.com/locator/walgreens-9998+front+beach+rd-panama+city+beach-fl-32407/id=5340

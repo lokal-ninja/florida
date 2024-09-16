@@ -1,11 +1,11 @@
 id: 541883258
-type: way
+type: node
 latitude: 28.07657
 longitude: -80.69696
 postcode: "32904"
 city: Melbourne
-street: "West New Haven Avenue"
-housenumber: 4255
-phone: "+1 321-768-8190"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/melbourne-fl-sams-club/8141"
+street: West New Haven Avenue
+housenumber: "4255"
+phone: +1 321-768-8190
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/melbourne-fl-sams-club/8141

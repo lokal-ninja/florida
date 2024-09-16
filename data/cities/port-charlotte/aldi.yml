@@ -1,11 +1,11 @@
 id: 667688535
-type: way
+type: node
 latitude: 27.01124
 longitude: -82.1449
 postcode: "33948"
 city: Port Charlotte
-street: "Tamiami Trail"
-housenumber: 1391
-phone: "+1 877-474-1077"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/fl/port-charlotte/1391-tamiami-trail"
+street: Tamiami Trail
+housenumber: "1391"
+phone: +1 877-474-1077
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/fl/port-charlotte/1391-tamiami-trail
