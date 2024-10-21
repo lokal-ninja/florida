@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /dade-city/walmart/
-shop: supermarket
+shop: department store
 ---
