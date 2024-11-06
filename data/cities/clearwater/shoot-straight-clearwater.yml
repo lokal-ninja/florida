@@ -7,11 +7,6 @@ city: Clearwater
 street: Ulmerton Road
 housenumber: "4594"
 phone: "+17275464447"
-opening_hours: |-
-    Store Hours:
-    Mon – Sat:	10:00AM – 7:00PM
-    Sun:	11:00AM – 7:00PM
-    Range Hours:
-    Mon – Sat: 10:00AM – 6:30PM
-    Sun:	11:00AM – 6:30PM
+opening_hours: 'Store Hours: Mon - Sat: 10:00AM - 7:00PM Sun: 11:00AM - 7:00PM Range
+    Hours: Mon - Sat: 10:00AM - 6:30PM Sun: 11:00AM - 6:30PM'
 website: http://shoot-straight.com/
