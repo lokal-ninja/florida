@@ -1,5 +1,5 @@
 ---
-title: "CELINE"
+title: "Celine"
 url: /miami/celine/
-shop: shop
+shop: clothes
 ---
