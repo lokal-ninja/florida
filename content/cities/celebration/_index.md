@@ -1,6 +1,6 @@
 ---
 title: Celebration
 url: /celebration/
-latitude: 28.303
-longitude: -81.571
+latitude: 28.318
+longitude: -81.54
 ---
