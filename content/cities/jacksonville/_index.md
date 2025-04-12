@@ -1,6 +1,6 @@
 ---
 title: Jacksonville
 url: /jacksonville/
-latitude: 30.316
-longitude: -81.734
+latitude: 30.219
+longitude: -81.553
 ---
