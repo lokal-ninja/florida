@@ -1,6 +1,6 @@
 ---
 title: Loxahatchee
 url: /loxahatchee/
-latitude: 26.683
-longitude: -80.248
+latitude: 26.779
+longitude: -80.294
 ---

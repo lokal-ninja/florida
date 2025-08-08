@@ -1,6 +1,6 @@
 ---
 title: Deltona
 url: /deltona/
-latitude: 28.87
-longitude: -81.164
+latitude: 28.911
+longitude: -81.26
 ---

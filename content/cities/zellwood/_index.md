@@ -1,6 +1,6 @@
 ---
 title: Zellwood
 url: /zellwood/
-latitude: 28.73
-longitude: -81.604
+latitude: 28.731
+longitude: -81.606
 ---
