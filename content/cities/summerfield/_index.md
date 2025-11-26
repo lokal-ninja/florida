@@ -1,6 +1,6 @@
 ---
 title: Summerfield
 url: /summerfield/
-latitude: 28.964
-longitude: -81.965
+latitude: 29.022
+longitude: -82.121
 ---
