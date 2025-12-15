@@ -1,6 +1,6 @@
 ---
 title: Astor
 url: /astor/
-latitude: 29.162
-longitude: -81.541
+latitude: 29.163
+longitude: -81.545
 ---
