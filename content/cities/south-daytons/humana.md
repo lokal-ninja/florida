@@ -1,5 +1,5 @@
 ---
 title: "Humana"
 url: /south-daytons/humana/
-shop: charity
+shop: clothes
 ---
