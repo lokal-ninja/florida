@@ -1,5 +1,5 @@
 ---
 title: "Cycle Gear"
 url: /daytona-beach/cycle-gear/
-shop: bicycle
+shop: clothes
 ---
