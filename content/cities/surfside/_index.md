@@ -1,6 +1,6 @@
 ---
 title: Surfside
 url: /surfside/
-latitude: 25.886
+latitude: 25.885
 longitude: -80.124
 ---
