@@ -1,6 +1,6 @@
 ---
 title: Inglis
 url: /inglis/
-latitude: 29.03
-longitude: -82.665
+latitude: 29.029
+longitude: -82.669
 ---
