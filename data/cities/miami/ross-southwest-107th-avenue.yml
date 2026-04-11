@@ -7,5 +7,5 @@ city: Miami
 street: Southwest 107th Avenue
 housenumber: "8809"
 phone: +1 305-596-4933
-opening_hours: Mo-Su 09:00-23:00
+opening_hours: Mo-Sa 09:00-23:00; Su off
 website: ""
