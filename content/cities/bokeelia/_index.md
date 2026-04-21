@@ -1,6 +1,6 @@
 ---
 title: Bokeelia
 url: /bokeelia/
-latitude: 26.616
-longitude: -82.112
+latitude: 26.62
+longitude: -82.12
 ---
