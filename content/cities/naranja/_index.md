@@ -1,6 +1,6 @@
 ---
 title: Naranja
 url: /naranja/
-latitude: 25.537
-longitude: -80.401
+latitude: 25.515
+longitude: -80.431
 ---
