@@ -1,6 +1,6 @@
 ---
 title: Ocoee
 url: /ocoee/
-latitude: 28.604
-longitude: -81.549
+latitude: 28.553
+longitude: -81.506
 ---

@@ -1,6 +1,6 @@
 ---
 title: Niceville
 url: /niceville/
-latitude: 30.516
-longitude: -86.473
+latitude: 30.486
+longitude: -86.417
 ---
