@@ -1,6 +1,6 @@
 ---
 title: Palm Beach Gardens
 url: /palm-beach-gardens/
-latitude: 26.841
-longitude: -80.072
+latitude: 26.848
+longitude: -80.094
 ---
