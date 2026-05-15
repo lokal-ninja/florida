@@ -1,6 +1,6 @@
 ---
 title: Doral
 url: /doral/
-latitude: 25.817
-longitude: -80.325
+latitude: 25.827
+longitude: -80.371
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ave Maria
 url: /ave-maria/
-latitude: 26.336
-longitude: -81.435
+latitude: 26.337
+longitude: -81.437
 ---

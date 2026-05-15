@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /daytona-beach/toyota-north-nova-road/
-shop: car
+shop: car repair
 ---
