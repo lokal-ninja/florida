@@ -1,6 +1,6 @@
 ---
 title: Oviedo
 url: /oviedo/
-latitude: 28.661
-longitude: -81.178
+latitude: 28.654
+longitude: -81.24
 ---
