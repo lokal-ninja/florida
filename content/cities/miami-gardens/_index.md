@@ -1,6 +1,6 @@
 ---
 title: Miami Gardens
 url: /miami-gardens/
-latitude: 25.949
-longitude: -80.246
+latitude: 25.935
+longitude: -80.204
 ---
