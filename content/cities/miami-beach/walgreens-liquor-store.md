@@ -1,5 +1,5 @@
 ---
-title: "Walgreens Liquor Store"
+title: "Walgreen's Liquor Store"
 url: /miami-beach/walgreens-liquor-store/
 shop: alcohol
 ---
