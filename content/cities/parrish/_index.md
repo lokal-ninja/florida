@@ -1,6 +1,6 @@
 ---
 title: Parrish
 url: /parrish/
-latitude: 27.544
-longitude: -82.473
+latitude: 27.557
+longitude: -82.447
 ---
