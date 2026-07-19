@@ -1,6 +1,6 @@
 ---
 title: Tavernier
 url: /tavernier/
-latitude: 25.005
-longitude: -80.524
+latitude: 25.003
+longitude: -80.531
 ---
