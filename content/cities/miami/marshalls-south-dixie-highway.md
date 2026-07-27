@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /miami/marshalls-south-dixie-highway/
-shop: clothes
+shop: department store
 ---
