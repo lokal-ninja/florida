@@ -7,7 +7,6 @@ city: Fort Myers
 street: Lacy Ln
 housenumber: "11800"
 phone: +1-239-834-2700
-opening_hours: 'Monday: 9:00 AM - 4:30 PM,Tuesday : 9:00 AM - 4:30 PM,Wednesday: 9:00
-    AM - 4:30 PM,Thursday: 9:00 AM - 4:00 PM,Friday: 9:00 AM - 4:30 PM,Saturday-Sunday:
-    Closed'
+opening_hours: Mo 09:00-16:30, Tu 09:00-16:30, We 09:00-16:30, Th 09:00-16:00, Fr
+    09:00-16:30, Sa-Su closed
 website: https://powerhousedogsupply.com

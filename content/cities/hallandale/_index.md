@@ -1,6 +1,6 @@
 ---
 title: Hallandale
 url: /hallandale/
-latitude: 25.987
-longitude: -80.13
+latitude: 26.011
+longitude: -80.145
 ---
