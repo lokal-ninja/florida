@@ -1,5 +1,5 @@
 ---
-title: "Pinch-a-Penny"
+title: "Pinch A Penny"
 url: /palm-city/pinch-a-penny/
-shop: doityourself
+shop: swimming pool
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Pinch a Penny"
+title: "Pinch A Penny"
 url: /saint-petersburg/pinch-a-penny/
-shop: general
+shop: swimming pool
 ---

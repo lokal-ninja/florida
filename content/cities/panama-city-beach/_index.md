@@ -1,6 +1,6 @@
 ---
 title: Panama City Beach
 url: /panama-city-beach/
-latitude: 30.18
-longitude: -85.801
+latitude: 30.249
+longitude: -85.931
 ---

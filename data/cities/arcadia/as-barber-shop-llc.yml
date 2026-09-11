@@ -7,6 +7,5 @@ city: Arcadia
 street: NE Highway 70
 housenumber: "2242"
 phone: +1-863-303-1406
-opening_hours: Tu 08:00-16:00,We 08:00-12:00, Th 08:00-16:00,Fr 08:00-16:00, Sa 08:00
-    12:00
+opening_hours: Tu,Th-Fr 08:00-16:00; We,Sa 08:00-12:00; Su-Mo closed
 website: https://asbarbershopllc.com
