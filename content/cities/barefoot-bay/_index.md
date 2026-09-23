@@ -1,6 +1,6 @@
 ---
 title: Barefoot Bay
 url: /barefoot-bay/
-latitude: 27.89
-longitude: -80.528
+latitude: 27.886
+longitude: -80.524
 ---
