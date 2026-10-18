@@ -1,6 +1,6 @@
 ---
 title: Clermont
 url: /clermont/
-latitude: 28.548
-longitude: -81.681
+latitude: 28.538
+longitude: -81.734
 ---
