@@ -1,6 +1,6 @@
 ---
 title: Tallahassee
 url: /tallahassee/
-latitude: 30.433
-longitude: -84.292
+latitude: 30.462
+longitude: -84.226
 ---
