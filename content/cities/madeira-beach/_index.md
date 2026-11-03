@@ -1,6 +1,6 @@
 ---
 title: Madeira Beach
 url: /madeira-beach/
-latitude: 27.8
-longitude: -82.8
+latitude: 27.801
+longitude: -82.801
 ---

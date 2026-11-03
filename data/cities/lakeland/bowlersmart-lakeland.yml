@@ -7,5 +7,6 @@ city: Lakeland
 street: South Florida Avenue
 housenumber: "4111"
 phone: +1-863-450-9463
-opening_hours: Mo,Fr 12:00-20:00; Tu-Th 17:00-21:00; Sa 13:00-16:00; Su 15:00-20:00
-website: https://www.bowlersmart.com/locations/florida/bowlersmart-lakeland-pro-shop-inside-amf-lakeland-lanes
+opening_hours: Mo 12:00-20:00; Tu,We 15:00-20:00; Th 13:00-20:00; Fr 12:00-20:00;
+    Sa 12:00-16:00; Su 15:00-20:00
+website: https://www.bowlersmart.com/locations/florida/bowlersmart-lakeland-pro-shop-inside-amf-lakeland-lanes/

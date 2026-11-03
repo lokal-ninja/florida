@@ -1,6 +1,6 @@
 ---
 title: Wewahitchka
 url: /wewahitchka/
-latitude: 30.116
-longitude: -85.199
+latitude: 30.1
+longitude: -85.201
 ---

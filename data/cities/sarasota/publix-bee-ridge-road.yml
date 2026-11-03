@@ -1,11 +1,12 @@
 id: 1076410160
 type: node
-latitude: 27.29711
-longitude: -82.40138
+latitude: 27.29706
+longitude: -82.40127
 postcode: 34241-6312
 city: Sarasota
 street: Bee Ridge Road
 housenumber: "8300"
 phone: +1 941-371-4276
-opening_hours: Mo-Su 07:00-22:00
+opening_hours: Mo-Su 07:00-21:00, Sa 09:00-19:00 open "Pharmacy"; Su 11:00-18:00 open
+    "Pharmacy"
 website: https://www.publix.com/locations/1267

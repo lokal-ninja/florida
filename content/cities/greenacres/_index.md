@@ -1,6 +1,6 @@
 ---
 title: Greenacres
 url: /greenacres/
-latitude: 26.621
-longitude: -80.148
+latitude: 26.649
+longitude: -80.143
 ---

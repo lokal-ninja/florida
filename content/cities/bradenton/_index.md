@@ -1,6 +1,6 @@
 ---
 title: Bradenton
 url: /bradenton/
-latitude: 27.495
-longitude: -82.601
+latitude: 27.498
+longitude: -82.499
 ---

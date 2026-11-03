@@ -1,6 +1,6 @@
 ---
 title: Hallandale Beach
 url: /hallandale-beach/
-latitude: 25.988
-longitude: -80.124
+latitude: 25.986
+longitude: -80.139
 ---

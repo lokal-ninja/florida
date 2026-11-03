@@ -7,6 +7,6 @@ city: Dunedin
 street: Patricia Avenue
 housenumber: "405"
 phone: +1-727-647-1550
-opening_hours: Mo 10:00-19:00; Tu 11:00-19:00; We 11:00-21:00; Th 10:00-19:00; Fr
-    11:00-19:00; Sa 09:00-13:00; Su 13:00-20:00
-website: https://www.bowlersmart.com/locations/florida/bowlersmart-dunedin-pro-shop-inside-dunedin-lanes
+opening_hours: Mo,Tu 11:00-19:00; We 11:00-21:30; Th,Fr 11:00-19:00; Sa 09:00-13:00;
+    Su 13:00-19:30
+website: https://www.bowlersmart.com/locations/florida/bowlersmart-dunedin-pro-shop-inside-dunedin-lanes/
